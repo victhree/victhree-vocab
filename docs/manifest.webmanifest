@@ -1,0 +1,14 @@
+{
+  "name": "VicThree Vocab — CDS & AFCAT English",
+  "short_name": "VicThree Vocab",
+  "description": "Trend-based English vocabulary practice for CDS & AFCAT.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0B1F3A",
+  "theme_color": "#0B1F3A",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

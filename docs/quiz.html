@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Quiz — VicThree Vocab</title>
+<meta name="theme-color" content="#0B1F3A">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="assets/icon-180.png">
+<link rel="icon" href="assets/icon-192.png">
+<link rel="stylesheet" href="css/styles.css?v=1">
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="index.html"><span class="v3">V3</span><span>VicThree Vocab<small>CDS &amp; AFCAT English</small></span></a>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="quiz.html" class="active">Quiz</a>
+    <a href="browse.html">Word Bank</a>
+  </nav>
+</div></header>
+
+<main class="container">
+  <a class="backlink" href="index.html">← Home</a>
+  <h2 id="qtitle" style="margin:4px 0 14px">Quiz</h2>
+
+  <div class="toolbar">
+    <div class="field">
+      <label for="count">Questions</label>
+      <select id="count">
+        <option value="20">20</option>
+        <option value="50" selected>50</option>
+        <option value="100">100</option>
+        <option value="0">All</option>
+      </select>
+    </div>
+    <div class="field" style="justify-content:flex-end">
+      <label>&nbsp;</label>
+      <button class="btn outline" id="reshuffle">🔀 New set</button>
+    </div>
+  </div>
+
+  <div class="scorebar">
+    <span>Answered <b id="sb-done">0</b>/<b id="sb-total">0</b></span>
+    <div class="track"><div class="fill" id="sb-fill"></div></div>
+    <span>Score <b id="sb-score">0</b> · <b id="sb-pct">0%</b></span>
+  </div>
+
+  <div class="cards" id="list"><div class="spin">Loading quiz…</div></div>
+  <p class="foot">Tap an option to answer — the word's full card opens instantly, right or wrong.</p>
+</main>
+
+<script src="js/data.js?v=1"></script>
+<script src="js/quiz.js?v=1"></script>
+</body>
+</html>

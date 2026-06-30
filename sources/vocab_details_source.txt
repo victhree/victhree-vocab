@@ -1,0 +1,5617 @@
+﻿
+CDS & AFCAT English Vocabulary
+A trend-based, exam-focused word bank for the English paper
+Priority: CDS first, AFCAT second  |  Sections 1–6  |  Curated, not random
+How this list was built (read first): The exam-pattern analysis below is drawn from the official UPSC CDS previous-year-paper archive and corroborated against published topic-and-frequency analyses of CDS papers (CDS I & II, c. 2015–2025) and the current AFCAT English pattern. Specific past questions are NOT reproduced or invented. The word list itself is a trend-based curation: words are chosen for their fit with the synonym/antonym pool, recurring one-word-substitution and idiom themes, common root families, and the Barron's high-frequency band that matches CDS difficulty. Treat the whole list as 'high-probability' rather than 'guaranteed to repeat'.
+Section 1 — Exam Trend Analysis
+1.1  Where vocabulary actually scores marks
+In both exams, vocabulary pays twice. Directly, through synonyms, antonyms, idioms and one-word substitution. Indirectly, through cloze tests, fill-in-the-blanks, sentence improvement and reading comprehension, where the right answer turns on knowing a word's exact shade of meaning. So a strong vocabulary lifts 30–40% of the English paper, not just the obvious 'word' questions.
+1.2  CDS English — typical question mix (100 marks, 120 questions, 2 hours)
+Question type
+Approx. no. of Qs
+Vocabulary load
+Notes
+
+Synonyms
+9–18
+Direct
+Single underlined word; pick the closest meaning.
+
+Antonyms
+7–20
+Direct
+Pick the opposite; traps use near-synonyms.
+
+Idioms & phrases
+5–12
+Direct
+Figurative meaning; rising weightage.
+
+Sentence improvement
+20–25
+Indirect
+Often a wrong word/usage to replace.
+
+Spotting errors
+15–26
+Indirect
+Word-choice and preposition errors.
+
+Ordering of words/sentences
+7–(high)
+Low
+Logic + linking words.
+
+Fill in the blanks / Cloze
+1–10
+Direct
+Context-driven word choice.
+
+Reading comprehension
+14–28
+Indirect
+Vocabulary-in-context questions.
+
+Trend note: the share of pure synonym/antonym questions has softened a little since c. 2022 in favour of context-based items (cloze, improvement, comprehension). The skill being tested is the same — precise word meaning — just wrapped in a sentence.
+1.3  AFCAT English — typical question mix (part of 100 Qs / 300 marks, +3 / −1)
+Question type
+Approx. no. of Qs
+Vocabulary load
+
+Reading comprehension
+~6
+Indirect
+
+Cloze test
+5–6
+Direct
+
+Idioms & phrases
+~5
+Direct
+
+Fill in the blanks
+4–5
+Direct
+
+Synonyms
+3–4
+Direct
+
+Antonyms
+3–4
+Direct
+
+Error spotting
+3–5
+Indirect
+
+Correct spelling
+~3
+Direct
+
+AFCAT is shorter and slightly easier than CDS on average, with negative marking, so accuracy on the high-frequency words below matters more than breadth.
+1.4  Difficulty profile
+CDS: mostly Moderate, with a steady tail of Difficult words drawn from the same band as Barron's high-frequency GRE list (e.g. abstruse, perfidious, obdurate).
+AFCAT: Easy to Moderate; difficult words appear but rarely decide the cut-off.
+1.5  Repeated patterns and common traps
+Near-synonym trap: in antonym questions, one option is a synonym (not the opposite). Always confirm you are asked for the opposite before choosing.
+Shade-of-meaning trap: two options are both 'kind of right'; the test wants the closest, not the merely related word (e.g. 'diminish' vs 'destroy').
+Connotation trap: positive vs negative tone (e.g. 'famous' vs 'notorious', 'childlike' vs 'childish').
+Root-family trap: options share a root to confuse (e.g. 'credible / credulous / creditable').
+Literal-vs-idiom trap: idiom options include the tempting literal meaning.
+Spelling/confusable trap (esp. AFCAT): principal/principle, stationary/stationery, etc. — see Section 5.
+1.6  Repeated themes (what the words are usually about)
+Across years the tested words cluster around: character and conduct (integrity, candour, hypocrite), leadership and discipline (prudent, resolute, complacent), conflict and courage (valour, belligerent, intrepid), praise and criticism (extol, censure), and emotion/temperament (jovial, sullen, irascible). These themes shaped the selection in Section 2.
+
+Section 2 — High-Value Vocabulary List
+Ordered by exam priority: Tier 1 (must-know, high-frequency) first, then Tier 2 (high-value), then Tier 3 (advanced / Barron's-overlap for the difficult CDS items). After the single words come One-word Substitutions and Idioms — both heavily tested.
+Tier 1 — Must-know, high-frequency words
+Word
+Meaning
+Example
+Memory trick
+Similar / opposite words
+Level
+
+Abate
+To reduce in amount or intensity
+The storm finally began to abate by dawn.
+'a-BATE' sounds like 'rebate' = amount goes down.
+Syn: lessen, subside, diminish, wane. Ant: intensify, increase
+Moderate
+
+Aberration
+A deviation from what is normal or expected
+His rude reply was an aberration from his usual politeness.
+'ab-' = away; erring away from the norm.
+Syn: deviation, anomaly, irregularity. Ant: norm, regularity
+Difficult
+
+Abhor
+To hate or detest strongly
+A true officer abhors cowardice and dishonesty.
+'ab-' (away) + horror = shrink away in horror.
+Syn: detest, loathe, despise. Ant: admire, love
+Moderate
+
+Abstain
+To choose not to do something
+He decided to abstain from alcohol during training.
+'abs-' = away from; hold yourself away.
+Syn: refrain, forgo, withhold. Ant: indulge, partake
+Moderate
+
+Accord
+Agreement or harmony
+The two nations signed an accord to end the conflict.
+'a-CHORD' = notes in harmony = agreement.
+Syn: agreement, pact, harmony. Ant: discord, conflict
+Easy
+
+Acumen
+Sharpness of judgment or insight
+A leader needs business acumen to make quick decisions.
+'a-CUE-men' = a man who takes the right cue = sharp.
+Syn: shrewdness, insight, sharpness. Ant: stupidity
+Difficult
+
+Adamant
+Refusing to change one's mind
+He was adamant about following the rules.
+'adamant' = a hard stone (diamond); unbreakable will.
+Syn: firm, unyielding, resolute. Ant: flexible, yielding
+Moderate
+
+Adept
+Highly skilled
+She is adept at solving problems under pressure.
+'adept' rhymes with 'accept' the expert.
+Syn: skilled, proficient, expert. Ant: clumsy, inept
+Moderate
+
+Admonish
+To warn or scold gently
+The coach admonished the team for being late.
+'ad-MON-ish' = to 'mention' a fault firmly.
+Syn: reprimand, rebuke, caution. Ant: praise, commend
+Moderate
+
+Adversity
+Difficulty or misfortune
+True character is revealed in times of adversity.
+'adverse' = against; conditions are against you.
+Syn: hardship, misfortune, trouble. Ant: prosperity, ease
+Moderate
+
+Affable
+Friendly and easy to talk to
+The new captain was affable and approachable.
+'aff-able' = able to be a friend.
+Syn: friendly, genial, cordial. Ant: aloof, hostile
+Moderate
+
+Aggravate
+To make worse
+Skipping rest will only aggravate the injury.
+'ag-GRAVE' = makes the situation more grave.
+Syn: worsen, intensify, exacerbate. Ant: ease, relieve
+Easy
+
+Alleviate
+To ease or relieve
+Rest can alleviate the pain after a long march.
+'a-LEVI-ate' = to make light (levitate the burden).
+Syn: ease, relieve, lessen. Ant: aggravate, worsen
+Moderate
+
+Aloof
+Distant, not friendly
+He stayed aloof from the group during the camp.
+'a-loof' = at a roof-top, kept apart.
+Syn: distant, detached, reserved. Ant: friendly, warm
+Moderate
+
+Ambiguous
+Having more than one meaning; unclear
+His ambiguous answer confused the panel.
+'ambi-' = both; two meanings at once.
+Syn: unclear, vague, equivocal. Ant: clear, definite
+Moderate
+
+Amicable
+Friendly, without conflict
+They reached an amicable settlement.
+'amic-' = friend (Latin amicus).
+Syn: friendly, cordial, peaceable. Ant: hostile
+Moderate
+
+Apathy
+Lack of interest or concern
+Voter apathy weakens a democracy.
+'a-' = without + 'pathy' (feeling) = no feeling.
+Syn: indifference, unconcern. Ant: enthusiasm, interest
+Moderate
+
+Arduous
+Very difficult and tiring
+The climb was arduous but rewarding.
+'ar-DUE-ous' = a task that takes its dues from you.
+Syn: difficult, strenuous, gruelling. Ant: easy, effortless
+Moderate
+
+Articulate
+To express clearly in words
+A good leader can articulate a clear vision.
+'art-' of speaking with clear joints (articles).
+Syn: express, enunciate, fluent. Ant: mumble, unclear
+Moderate
+
+Astute
+Clever and quick to judge
+An astute commander spots danger early.
+'a-STUTE' = a 'student' who is sharp.
+Syn: shrewd, sharp, perceptive. Ant: dull, naive
+Moderate
+
+Audacious
+Boldly daring
+The audacious plan surprised the enemy.
+'audi-' to dare; bold enough to be heard.
+Syn: bold, daring, fearless. Ant: timid, cautious
+Moderate
+
+Augment
+To increase or add to
+They augmented the force with fresh troops.
+'aug-' = to grow (think 'augment reality').
+Syn: increase, enlarge, boost. Ant: reduce, diminish
+Moderate
+
+Austere
+Strict, plain, without comfort
+The cadets lived an austere life in the barracks.
+'au-STERE' = a stern, bare lifestyle.
+Syn: strict, plain, severe. Ant: lavish, indulgent
+Difficult
+
+Authentic
+Genuine, real
+The document proved to be authentic.
+'author' wrote it himself = genuine.
+Syn: genuine, real, bonafide. Ant: fake, counterfeit
+Easy
+
+Aversion
+Strong dislike
+She has an aversion to dishonesty.
+'a-VERSE' = turning away from something.
+Syn: dislike, distaste, repulsion. Ant: liking, fondness
+Moderate
+
+Benevolent
+Kind and generous
+The benevolent officer helped poor villagers.
+'bene-' = good + 'volent' (wishing) = wishing good.
+Syn: kind, generous, charitable. Ant: cruel, malevolent
+Moderate
+
+Benign
+Gentle, harmless
+His benign smile reassured the recruits.
+'be-NICE' = benign means kindly.
+Syn: gentle, mild, harmless. Ant: harmful, malignant
+Moderate
+
+Bewilder
+To confuse completely
+The new rules bewildered the candidates.
+'be-WILD' = lost in the wild = confused.
+Syn: confuse, baffle, perplex. Ant: enlighten, clarify
+Easy
+
+Brevity
+Briefness in speech or writing
+Answer with brevity and clarity.
+'brev-' = short (think 'brief').
+Syn: conciseness, shortness. Ant: verbosity, length
+Moderate
+
+Callous
+Insensitive, unfeeling
+His callous remark hurt the team.
+'callus' = hard skin; a hard heart.
+Syn: hard-hearted, unfeeling, cold. Ant: kind, caring
+Moderate
+
+Candid
+Honest and frank
+She gave a candid opinion of the plan.
+'candid camera' captures honest moments.
+Syn: frank, honest, straightforward. Ant: evasive, secretive
+Easy
+
+Capricious
+Changing suddenly, unpredictable
+Capricious weather delayed the operation.
+'capric-' like a goat (capra) jumping around.
+Syn: fickle, unpredictable, erratic. Ant: steady, constant
+Difficult
+
+Censure
+Strong disapproval or blame
+The officer faced censure for his mistake.
+'censure' = a 'censor' blocks/blames.
+Syn: condemn, blame, rebuke. Ant: praise, commend
+Difficult
+
+Chaos
+Complete disorder
+The blast created chaos in the city.
+'chaos' = no order at all.
+Syn: disorder, confusion, turmoil. Ant: order, calm
+Easy
+
+Coerce
+To force someone by threats
+No one can coerce a brave soldier into surrender.
+'co-FORCE' = to apply force.
+Syn: force, compel, pressurize. Ant: persuade, coax
+Moderate
+
+Cognizant
+Aware of something
+Be cognizant of the risks before acting.
+'cogn-' = to know (recognize).
+Syn: aware, conscious, mindful. Ant: ignorant, unaware
+Difficult
+
+Compassion
+Sympathy and concern for others
+A true leader shows compassion to the weak.
+'com-' (with) + 'passion' = feeling with others.
+Syn: sympathy, kindness, mercy. Ant: cruelty, indifference
+Easy
+
+Complacent
+Self-satisfied; unaware of danger
+Don't be complacent after one success.
+'com-PLEASE-ant' = too pleased with yourself.
+Syn: smug, self-satisfied. Ant: alert, dissatisfied
+Difficult
+
+Concur
+To agree
+The board concurred with the decision.
+'con-' (together) + 'cur' (run) = run together.
+Syn: agree, assent, accord. Ant: disagree, dissent
+Moderate
+
+Condone
+To accept or forgive wrong behaviour
+We must not condone indiscipline.
+'con-DONE' = treat the wrong as done/forgiven.
+Syn: overlook, excuse, pardon. Ant: condemn, punish
+Difficult
+
+Conspicuous
+Easily seen, noticeable
+His bravery was conspicuous in battle.
+'con-SPEC' = clearly within sight (spectacle).
+Syn: noticeable, prominent, obvious. Ant: hidden, obscure
+Moderate
+
+Contempt
+A feeling that someone is worthless
+He looked at the traitor with contempt.
+'con-TEMPT' = you 'tempt' to look down on it.
+Syn: scorn, disdain, disrespect. Ant: respect, admiration
+Moderate
+
+Conviction
+A firm belief
+He spoke with deep conviction.
+'convince' = a belief you are convinced of.
+Syn: belief, certainty, faith. Ant: doubt, uncertainty
+Easy
+
+Copious
+Large in quantity
+She took copious notes during training.
+'copy-ous' = enough to make many copies.
+Syn: abundant, plentiful, ample. Ant: scarce, meagre
+Moderate
+
+Cordial
+Warm and friendly
+They exchanged cordial greetings.
+'cord-' = heart (Latin cor); warm-hearted.
+Syn: warm, friendly, genial. Ant: cold, hostile
+Easy
+
+Courage
+The ability to face danger or fear
+Courage is grace under pressure.
+'cour-' = heart (French coeur); acting from the heart.
+Syn: bravery, valour, nerve. Ant: cowardice, fear
+Easy
+
+Credible
+Believable, trustworthy
+The witness gave a credible account.
+'cred-' = to believe (credit).
+Syn: believable, reliable, plausible. Ant: doubtful, false
+Easy
+
+Curtail
+To cut short or reduce
+They curtailed the leave due to the alert.
+'cur-TAIL' = cut the tail (end) short.
+Syn: reduce, shorten, trim. Ant: extend, lengthen
+Moderate
+
+Deceit
+Dishonest behaviour to mislead
+He won by deceit, not merit.
+'de-CHEAT' = to cheat = deceit.
+Syn: deception, fraud, trickery. Ant: honesty, candour
+Moderate
+
+Decorum
+Proper, polite behaviour
+Maintain decorum during the parade.
+'decor' = decorating yourself with manners.
+Syn: propriety, etiquette, dignity. Ant: rudeness, impropriety
+Difficult
+
+Defer
+To postpone; or to yield respectfully
+The meeting was deferred to Monday.
+'de-FAR' = push it farther away in time.
+Syn: postpone, delay; yield, submit. Ant: advance, hasten
+Moderate
+
+Deft
+Skilful and quick
+Her deft handling saved the mission.
+'deft' = 'left' nothing wrong; neat and skilled.
+Syn: skilful, nimble, adroit. Ant: clumsy, awkward
+Moderate
+
+Defiant
+Boldly resisting authority
+The defiant recruit refused the order.
+'defy' + 'ant' = one who defies.
+Syn: rebellious, disobedient, bold. Ant: obedient, submissive
+Moderate
+
+Deliberate
+Done on purpose; or to think carefully
+It was a deliberate act of sabotage.
+'de-LIBERATE' slowly = thought-out and intentional.
+Syn: intentional, planned; ponder. Ant: accidental, hasty
+Moderate
+
+Demolish
+To destroy completely
+The team demolished the old bunker.
+'de-' (down) + 'mol' (build) = pull down.
+Syn: destroy, raze, wreck. Ant: build, construct
+Easy
+
+Deplete
+To use up or reduce greatly
+The long march depleted their water supply.
+'de-' (down) + 'plete' (fill) = empty out.
+Syn: exhaust, drain, use up. Ant: replenish, fill
+Moderate
+
+Deplore
+To strongly disapprove of
+We deplore all acts of terror.
+'de-' + 'plore' (cry) = cry against it.
+Syn: condemn, lament, censure. Ant: praise, approve
+Moderate
+
+Despise
+To look down on with contempt
+Soldiers despise cowardice.
+'de-SPISE' = de-prize; treat as worthless.
+Syn: scorn, disdain, loathe. Ant: respect, admire
+Moderate
+
+Deter
+To discourage or prevent
+Strong defence deters the enemy.
+'de-' (away) + 'ter' (terror) = scare away.
+Syn: discourage, prevent, hinder. Ant: encourage, promote
+Moderate
+
+Detrimental
+Causing harm
+Lack of sleep is detrimental to focus.
+'detri-' = damage; harmful.
+Syn: harmful, damaging, adverse. Ant: beneficial, helpful
+Moderate
+
+Devout
+Deeply religious or dedicated
+He was devout in his duty to the nation.
+'de-VOW' = bound by a vow.
+Syn: devoted, pious, dedicated. Ant: indifferent, faithless
+Moderate
+
+Diligent
+Hardworking and careful
+A diligent cadet never skips practice.
+'dili-GENT' = a gentleman who works hard.
+Syn: hardworking, industrious, careful. Ant: lazy, careless
+Easy
+
+Diminish
+To make or become smaller
+Their morale never diminished.
+'di-MINI-sh' = make mini.
+Syn: decrease, reduce, lessen. Ant: increase, augment
+Easy
+
+Discord
+Disagreement or conflict
+Discord weakened the alliance.
+'dis-' (apart) + 'chord' = notes out of tune.
+Syn: conflict, strife, dissent. Ant: harmony, accord
+Moderate
+
+Disdain
+Contempt; to look down on
+She treated flattery with disdain.
+'dis-' + 'deign' = refuse to think it worthy.
+Syn: scorn, contempt, sneer. Ant: respect, admiration
+Moderate
+
+Dismay
+A feeling of shock and discouragement
+To his dismay, the plan failed.
+'dis-' + 'may' = lost the strength/courage.
+Syn: shock, alarm, consternation. Ant: relief, encouragement
+Moderate
+
+Dissent
+To disagree, especially officially
+He voiced his dissent in the meeting.
+'dis-' (apart) + 'sent' (feel) = feeling apart.
+Syn: disagreement, objection. Ant: agreement, consent
+Moderate
+
+Diverse
+Varied, of many kinds
+The team had diverse skills.
+'di-' (apart) + 'verse' (turn) = turned different ways.
+Syn: varied, assorted, different. Ant: uniform, similar
+Easy
+
+Docile
+Easy to control or teach
+The recruits were docile and obedient.
+'doc-' = to teach (docile = teachable).
+Syn: obedient, tame, compliant. Ant: unruly, defiant
+Moderate
+
+Dubious
+Doubtful or questionable
+The report came from a dubious source.
+'dub-' = double-minded = doubtful.
+Syn: doubtful, suspect, unreliable. Ant: certain, reliable
+Moderate
+
+Eloquent
+Fluent and persuasive in speech
+Her eloquent speech inspired the cadets.
+'e-' (out) + 'loqu' (speak) = speaks out well.
+Syn: fluent, articulate, expressive. Ant: inarticulate, dull
+Moderate
+
+Elude
+To escape or avoid cleverly
+The fugitive eluded the patrol.
+'e-' (out) + 'lude' (play) = play your way out.
+Syn: evade, escape, dodge. Ant: confront, face
+Moderate
+
+Eminent
+Famous and respected
+An eminent general addressed the parade.
+'e-' (out) + 'min' (stand out) = stands out.
+Syn: distinguished, renowned, notable. Ant: unknown, obscure
+Moderate
+
+Endorse
+To support or approve publicly
+The chief endorsed the new policy.
+'en-' + 'dorse' (back) = put your name on the back.
+Syn: support, approve, back. Ant: oppose, reject
+Easy
+
+Enhance
+To improve or increase
+Training enhances your fitness.
+'en-' + 'high' = raise higher.
+Syn: improve, boost, heighten. Ant: diminish, reduce
+Easy
+
+Enigma
+A puzzle or mystery
+His silence was an enigma to all.
+'enigma' = a riddle.
+Syn: mystery, puzzle, riddle. Ant: clarity, solution
+Difficult
+
+Erratic
+Irregular, unpredictable
+His erratic behaviour worried the team.
+'err-' = to wander/make errors = inconsistent.
+Syn: irregular, unpredictable, inconsistent. Ant: steady, regular
+Moderate
+
+Esteem
+Respect and admiration
+He is held in high esteem.
+'esteem' = to estimate someone's worth highly.
+Syn: respect, regard, admiration. Ant: disdain, contempt
+Easy
+
+Exemplary
+Serving as a model; excellent
+His conduct was exemplary.
+'example' + 'ary' = a perfect example.
+Syn: model, ideal, commendable. Ant: poor, deplorable
+Moderate
+
+Exonerate
+To clear from blame
+The inquiry exonerated the officer.
+'ex-' (out) + 'oner' (burden) = lift the burden off.
+Syn: acquit, absolve, clear. Ant: convict, blame
+Difficult
+
+Fervent
+Showing strong feeling
+She made a fervent appeal for peace.
+'ferv-' = boiling (fervour) = burning emotion.
+Syn: passionate, ardent, intense. Ant: indifferent, cool
+Moderate
+
+Flagrant
+Openly shocking or wrong
+It was a flagrant violation of rules.
+'flag-rant' = waves like a flag; obvious.
+Syn: blatant, glaring, gross. Ant: subtle, minor
+Difficult
+
+Fortitude
+Courage in pain or difficulty
+He bore the hardship with fortitude.
+'fort-' = strong (fortress) = inner strength.
+Syn: courage, endurance, grit. Ant: weakness, cowardice
+Moderate
+
+Frugal
+Careful with money; not wasteful
+A frugal soldier saves for hard times.
+'fru-GAL' = uses fruit fully, wastes nothing.
+Syn: thrifty, economical, sparing. Ant: extravagant, wasteful
+Moderate
+
+Futile
+Useless, pointless
+Resistance proved futile.
+'few-tile' = builds nothing useful.
+Syn: useless, vain, fruitless. Ant: useful, fruitful
+Moderate
+
+Gallant
+Brave and noble
+The gallant soldier saved his comrades.
+'gala' + 'ant' = dressed grandly and brave.
+Syn: brave, heroic, chivalrous. Ant: cowardly, timid
+Moderate
+
+Garrulous
+Excessively talkative
+The garrulous cadet annoyed the instructor.
+'gar-gle' a lot = talks too much.
+Syn: talkative, chatty, loquacious. Ant: reticent, silent
+Difficult
+
+Grievance
+A complaint about unfair treatment
+He raised a grievance with the officer.
+'grieve' + 'ance' = cause for grief.
+Syn: complaint, grudge, objection. Ant: satisfaction
+Moderate
+
+Gullible
+Easily fooled
+A gullible recruit believed the rumour.
+'gull-ible' = easy to 'gull' (trick).
+Syn: naive, credulous, trusting. Ant: shrewd, sceptical
+Moderate
+
+Hamper
+To hinder or obstruct
+Bad weather hampered the rescue.
+'hamper' = a basket that weighs you down.
+Syn: hinder, impede, obstruct. Ant: help, facilitate
+Easy
+
+Harmony
+Peaceful agreement
+The unit worked in perfect harmony.
+Musical notes in harmony = agreement.
+Syn: accord, unity, concord. Ant: discord, conflict
+Easy
+
+Haughty
+Arrogantly proud
+His haughty attitude annoyed everyone.
+'haught' = high; nose held high.
+Syn: arrogant, proud, snobbish. Ant: humble, modest
+Moderate
+
+Hostile
+Unfriendly, aggressive
+They entered hostile territory.
+'host' of enemies = hostile.
+Syn: unfriendly, aggressive, antagonistic. Ant: friendly, amicable
+Easy
+
+Humble
+Modest, not proud
+Despite fame, he stayed humble.
+'humble' from 'humus' (ground); down to earth.
+Syn: modest, unassuming, meek. Ant: arrogant, proud
+Easy
+
+Hypocrite
+One who pretends to have virtues
+A hypocrite preaches what he doesn't practice.
+'hypo-' (under) + acting; wears a mask.
+Syn: pretender, fraud, phoney. Ant: sincere person
+Moderate
+
+Impartial
+Fair, not favouring any side
+A judge must be impartial.
+'im-' (not) + 'partial' = not taking a part/side.
+Syn: fair, unbiased, neutral. Ant: biased, prejudiced
+Easy
+
+Impede
+To slow down or block
+Fog impeded the convoy.
+'im-PEDE' = trip the feet (pedal).
+Syn: hinder, obstruct, hamper. Ant: aid, assist
+Moderate
+
+Impetuous
+Acting quickly without thought
+His impetuous decision cost him dearly.
+'impetus' = rushing force; rash.
+Syn: rash, impulsive, hasty. Ant: cautious, prudent
+Difficult
+
+Inadvertent
+Not intentional; accidental
+An inadvertent error slipped in.
+'in-' (not) + 'advert' (attention) = without attention.
+Syn: accidental, unintentional. Ant: deliberate, intentional
+Moderate
+
+Indifferent
+Having no interest or concern
+He was indifferent to praise.
+'in-different' = makes no difference to him.
+Syn: unconcerned, apathetic, aloof. Ant: keen, interested
+Easy
+
+Indignant
+Angry at something unfair
+She was indignant at the insult.
+'in-DIGNITY' = anger when dignity is hurt.
+Syn: resentful, outraged, angry. Ant: pleased, content
+Moderate
+
+Inevitable
+Certain to happen
+Defeat was inevitable without supplies.
+'in-' (not) + 'evitable' (avoidable) = unavoidable.
+Syn: unavoidable, certain, sure. Ant: avoidable, uncertain
+Moderate
+
+Ingenious
+Cleverly inventive
+An ingenious plan won the day.
+'genius' inside = clever.
+Syn: clever, inventive, resourceful. Ant: dull, unimaginative
+Moderate
+
+Innate
+Inborn, natural
+Leadership seemed innate in her.
+'in-NATE' = present from birth (natal).
+Syn: inborn, inherent, natural. Ant: acquired, learned
+Moderate
+
+Insolent
+Rude and disrespectful
+His insolent reply earned a punishment.
+'in-' + 'sol' = won't 'salute'; disrespectful.
+Syn: rude, impudent, disrespectful. Ant: polite, respectful
+Difficult
+
+Integrity
+Honesty and strong moral principles
+An officer must have integrity.
+'integer' = whole; a whole, undivided character.
+Syn: honesty, uprightness, probity. Ant: dishonesty, corruption
+Easy
+
+Intrepid
+Fearless and brave
+The intrepid pilot flew into the storm.
+'in-' (not) + 'trepid' (trembling) = no fear.
+Syn: fearless, brave, bold. Ant: timid, cowardly
+Difficult
+
+Jeopardy
+Danger or risk
+His life was in jeopardy.
+'jeopardy' = a risky game (from a chess term).
+Syn: danger, peril, risk. Ant: safety, security
+Moderate
+
+Jubilant
+Extremely happy
+The team was jubilant after the win.
+'jubilee' = a joyful celebration.
+Syn: joyful, elated, overjoyed. Ant: sad, dejected
+Easy
+
+Lament
+To express deep sorrow
+They lamented the loss of brave men.
+'la-MENT' = a mournful comment.
+Syn: mourn, grieve, bewail. Ant: rejoice, celebrate
+Moderate
+
+Lethargic
+Lacking energy; sluggish
+He felt lethargic after the heavy meal.
+'lethal-gic' = energy is 'killed'.
+Syn: sluggish, lazy, listless. Ant: energetic, active
+Moderate
+
+Lucid
+Clear and easy to understand
+She gave a lucid explanation.
+'luc-' = light (think 'lucid = lit up').
+Syn: clear, coherent, plain. Ant: confusing, vague
+Moderate
+
+Malice
+Desire to harm others
+He bore no malice toward his rival.
+'mal-' = bad/evil intent.
+Syn: spite, ill will, hatred. Ant: goodwill, kindness
+Moderate
+
+Meticulous
+Very careful about detail
+He kept meticulous records.
+'me-TICK-ulous' = ticks every box.
+Syn: careful, thorough, precise. Ant: careless, sloppy
+Moderate
+
+Mitigate
+To make less severe
+Quick aid mitigated the damage.
+'mit-' soften (mild) the situation.
+Syn: lessen, ease, alleviate. Ant: aggravate, intensify
+Difficult
+
+Modest
+Humble; moderate
+Despite success, she remained modest.
+'modest' = keeps to moderate limits.
+Syn: humble, unassuming, moderate. Ant: boastful, arrogant
+Easy
+
+Naive
+Lacking experience; too trusting
+A naive plan ignored the risks.
+'na-IVE' = new and innocent.
+Syn: innocent, gullible, unworldly. Ant: shrewd, worldly
+Moderate
+
+Negligent
+Careless, failing in duty
+He was negligent in guarding the post.
+'neglect' + 'gent' = one who neglects.
+Syn: careless, neglectful, lax. Ant: careful, attentive
+Moderate
+
+Notorious
+Famous for something bad
+The area was notorious for ambushes.
+'notorious' = noted for the wrong reasons.
+Syn: infamous, disreputable. Ant: reputable, esteemed
+Moderate
+
+Obstinate
+Stubborn, refusing to change
+His obstinate refusal delayed the work.
+'obstacle' + 'innate' = a built-in obstacle.
+Syn: stubborn, headstrong, adamant. Ant: flexible, compliant
+Moderate
+
+Ominous
+Suggesting trouble ahead
+The ominous clouds warned of a storm.
+'omen' + 'ous' = full of bad omens.
+Syn: threatening, menacing, foreboding. Ant: promising, hopeful
+Moderate
+
+Opaque
+Not transparent; unclear
+The rules were opaque to new recruits.
+'opaque' = you can't see through it.
+Syn: unclear, obscure, murky. Ant: clear, transparent
+Moderate
+
+Optimistic
+Hopeful about the future
+Stay optimistic even in hard times.
+'optimum' = expecting the best.
+Syn: hopeful, positive, sanguine. Ant: pessimistic, gloomy
+Easy
+
+Ostentatious
+Showy, meant to impress
+His ostentatious display annoyed the seniors.
+'osten-' = to show off.
+Syn: showy, flashy, pretentious. Ant: modest, plain
+Difficult
+
+Pacify
+To calm down
+The officer pacified the angry crowd.
+'pac-' = peace (pact); to bring peace.
+Syn: calm, soothe, appease. Ant: provoke, agitate
+Moderate
+
+Partisan
+Strongly supporting one side
+He gave a partisan judgment.
+'part' = takes a part/side.
+Syn: biased, one-sided, factional. Ant: impartial, neutral
+Difficult
+
+Perilous
+Full of danger
+They crossed the perilous ridge.
+'peril' + 'ous' = full of peril.
+Syn: dangerous, risky, hazardous. Ant: safe, secure
+Moderate
+
+Persistent
+Continuing firmly despite difficulty
+Her persistent effort paid off.
+'persist' = keeps standing firm.
+Syn: tenacious, determined, dogged. Ant: irresolute, wavering
+Easy
+
+Pertinent
+Relevant to the matter
+Ask only pertinent questions.
+'per-' + 'tain' (hold) = holds to the point.
+Syn: relevant, apt, applicable. Ant: irrelevant, unrelated
+Moderate
+
+Placate
+To make someone less angry
+He tried to placate the upset officer.
+'plac-' = please/calm (placid).
+Syn: appease, pacify, soothe. Ant: provoke, anger
+Difficult
+
+Plausible
+Seeming reasonable or believable
+He gave a plausible excuse.
+'ap-PLAUSE-able' = worthy of belief/applause.
+Syn: believable, credible, reasonable. Ant: implausible, unlikely
+Moderate
+
+Pragmatic
+Practical, not idealistic
+A pragmatic leader focuses on results.
+'practical' shares the root; deals with facts.
+Syn: practical, realistic, sensible. Ant: idealistic, impractical
+Moderate
+
+Predicament
+A difficult situation
+He was caught in a tough predicament.
+'pre-' + 'dic' = a fix you must speak your way out of.
+Syn: dilemma, plight, fix. Ant: solution, ease
+Moderate
+
+Prejudice
+An unfair opinion formed in advance
+Judge facts without prejudice.
+'pre-' (before) + 'judge' = judging before knowing.
+Syn: bias, partiality, bigotry. Ant: fairness, impartiality
+Easy
+
+Prudent
+Wise and careful
+A prudent commander avoids needless risk.
+'prude-nt' = sensibly cautious.
+Syn: wise, careful, sensible. Ant: reckless, rash
+Moderate
+
+Rebuke
+To scold sharply
+The sergeant rebuked the latecomers.
+'re-' + 'buke' (block) = push back sharply.
+Syn: reprimand, scold, chide. Ant: praise, commend
+Moderate
+
+Reluctant
+Unwilling, hesitant
+He was reluctant to leave his post.
+'re-' (back) + 'luct' (struggle) = struggling against.
+Syn: unwilling, hesitant, averse. Ant: eager, willing
+Easy
+
+Remorse
+Deep regret for wrongdoing
+He felt remorse for his harsh words.
+'re-MORSE' = the bite (mordere) of conscience.
+Syn: regret, guilt, penitence. Ant: indifference
+Moderate
+
+Resilient
+Able to recover quickly
+Resilient soldiers bounce back fast.
+'re-' + 'sil' (jump) = springs back.
+Syn: tough, hardy, adaptable. Ant: fragile, weak
+Moderate
+
+Reticent
+Reserved; not revealing thoughts
+He stayed reticent about the mission.
+'reti-cent' = keeps words back.
+Syn: reserved, quiet, taciturn. Ant: talkative, open
+Difficult
+
+Sabotage
+Deliberate damage to obstruct
+Enemy agents tried to sabotage the bridge.
+'sabot' (wooden shoe thrown into machines).
+Syn: undermine, wreck, disrupt. Ant: support, aid
+Moderate
+
+Scarce
+In short supply
+Water was scarce during the march.
+'scarce' = scarcely enough.
+Syn: insufficient, sparse, rare. Ant: plentiful, abundant
+Easy
+
+Scrutinize
+To examine closely
+Officers scrutinized every detail.
+'scrut-' = to search carefully.
+Syn: examine, inspect, study. Ant: ignore, overlook
+Moderate
+
+Servile
+Excessively obedient; submissive
+Avoid servile flattery of seniors.
+'serv-' = like a servant.
+Syn: submissive, subservient, fawning. Ant: assertive, dominant
+Difficult
+
+Skeptical
+Doubting, not easily convinced
+He was skeptical of the rumour.
+'skept-' = to look/doubt.
+Syn: doubtful, dubious, unconvinced. Ant: convinced, trusting
+Moderate
+
+Solitude
+The state of being alone
+He valued solitude for reflection.
+'sol-' = alone (solo).
+Syn: seclusion, isolation, privacy. Ant: company, crowd
+Moderate
+
+Spontaneous
+Done naturally, without planning
+Their spontaneous cheer filled the hall.
+'spon-' = of one's own will.
+Syn: impromptu, unplanned, natural. Ant: planned, deliberate
+Moderate
+
+Stagnant
+Not moving or developing
+The talks remained stagnant for months.
+'stag-' = standing water; no flow.
+Syn: still, motionless, sluggish. Ant: flowing, active
+Moderate
+
+Stern
+Strict and serious
+The instructor gave a stern warning.
+'stern' sounds firm and hard.
+Syn: strict, severe, harsh. Ant: lenient, gentle
+Easy
+
+Submissive
+Ready to obey without resistance
+A good soldier is disciplined, not blindly submissive.
+'sub-' (under) + 'miss' = placing yourself under.
+Syn: obedient, compliant, yielding. Ant: defiant, assertive
+Moderate
+
+Subtle
+Delicate; not obvious
+There was a subtle change in his tone.
+'subtle' has a silent 'b' = quietly hidden.
+Syn: faint, delicate, understated. Ant: obvious, blatant
+Moderate
+
+Superficial
+Shallow; only on the surface
+His knowledge was superficial.
+'super-' (above) + 'fic' (face) = surface only.
+Syn: shallow, surface, cursory. Ant: deep, thorough
+Moderate
+
+Tenacious
+Holding firmly; persistent
+Her tenacious spirit won admiration.
+'ten-' = to hold (tenant holds property).
+Syn: persistent, determined, dogged. Ant: weak, yielding
+Moderate
+
+Timid
+Lacking courage; shy
+A timid recruit avoided the drill.
+'timid' = filled with timor (fear).
+Syn: shy, fearful, nervous. Ant: bold, brave
+Easy
+
+Tranquil
+Calm and peaceful
+The camp was tranquil at dawn.
+'tranq-' like a tranquilizer = calm.
+Syn: calm, peaceful, serene. Ant: agitated, turbulent
+Moderate
+
+Treacherous
+Disloyal; or dangerous
+The treacherous path led to a cliff.
+'treachery' = betrayal; also hidden danger.
+Syn: disloyal, deceitful; dangerous. Ant: loyal, safe
+Moderate
+
+Trivial
+Of little importance
+Don't waste time on trivial matters.
+'trivia' = small, unimportant facts.
+Syn: minor, petty, insignificant. Ant: important, vital
+Easy
+
+Turbulent
+Full of disorder; violent
+They lived through turbulent times.
+'turb-' = to disturb/stir up.
+Syn: chaotic, stormy, unstable. Ant: calm, peaceful
+Moderate
+
+Tyrant
+A cruel and oppressive ruler
+The people overthrew the tyrant.
+'tyrant' rules by terror.
+Syn: dictator, despot, oppressor. Ant: liberator
+Moderate
+
+Vacillate
+To waver between choices
+He vacillated before deciding.
+'vacil-' = to sway (like a wobbling vase).
+Syn: waver, hesitate, dither. Ant: decide, resolve
+Difficult
+
+Valiant
+Brave and determined
+The valiant troops held the line.
+'val-' = strength/value (valour).
+Syn: brave, courageous, heroic. Ant: cowardly, timid
+Moderate
+
+Vehement
+Showing strong, forceful feeling
+He made a vehement denial.
+'vehe-MENT' = momentum of emotion.
+Syn: forceful, intense, passionate. Ant: mild, calm
+Difficult
+
+Versatile
+Able to do many things well
+A versatile officer adapts to any role.
+'vers-' = to turn; turns to any task.
+Syn: adaptable, all-round, flexible. Ant: limited, rigid
+Moderate
+
+Vigilant
+Watchful for danger
+Stay vigilant on guard duty.
+'vigil' = staying awake and watchful.
+Syn: watchful, alert, attentive. Ant: careless, negligent
+Moderate
+
+Vindicate
+To clear of blame; to justify
+The evidence vindicated him.
+'vin-' = win; you 'win' your name back.
+Syn: justify, absolve, exonerate. Ant: blame, accuse
+Difficult
+
+Volatile
+Quick to change; unstable
+The situation remained volatile.
+'vol-' = to fly; flies off quickly.
+Syn: unstable, changeable, explosive. Ant: stable, steady
+Moderate
+
+Wary
+Cautious about danger
+Be wary of unknown contacts.
+'wary' = aware of risk.
+Syn: cautious, careful, alert. Ant: careless, reckless
+Easy
+
+Zeal
+Great energy or enthusiasm
+She worked with great zeal.
+'zeal' rhymes with 'feel' strongly.
+Syn: enthusiasm, passion, fervour. Ant: apathy, indifference
+Easy
+
+Tier 2 — High-value words (frequently tested level)
+Word
+Meaning
+Example
+Memory trick
+Similar / opposite words
+Level
+
+Abase
+To humiliate or lower in rank
+He refused to abase himself before the bully.
+'a-BASE' = bring down to the base.
+Syn: degrade, demean, humble. Ant: exalt, elevate
+Difficult
+
+Abdicate
+To formally give up power
+The king chose to abdicate the throne.
+'ab-' (away) + 'dic' = to declare away.
+Syn: resign, renounce, relinquish. Ant: retain, claim
+Difficult
+
+Acrimony
+Bitterness in speech or manner
+The debate ended in acrimony.
+'acri-' = sharp/sour (acrid).
+Syn: bitterness, hostility, rancour. Ant: goodwill, warmth
+Difficult
+
+Adept
+Very skilled at something
+He is adept in handling crises.
+'adept' = an expert who has 'adapted'.
+Syn: skilled, expert, proficient. Ant: inept, unskilled
+Moderate
+
+Adversary
+An opponent or enemy
+He respected his adversary.
+'adverse' = against you = opponent.
+Syn: opponent, rival, foe. Ant: ally, friend
+Moderate
+
+Affluent
+Wealthy
+They came from an affluent family.
+'a-FLU-ent' = wealth flows in.
+Syn: rich, prosperous, wealthy. Ant: poor, needy
+Moderate
+
+Alacrity
+Cheerful, brisk readiness
+He accepted the task with alacrity.
+'a-LACRO-sy' = quick like an acrobat.
+Syn: eagerness, willingness, briskness. Ant: reluctance
+Difficult
+
+Aloofness
+The quality of being distant
+His aloofness made him hard to know.
+Stays on the 'roof', apart from others.
+Syn: detachment, reserve. Ant: warmth, friendliness
+Moderate
+
+Amass
+To gather a large amount
+He amassed great knowledge.
+'a-MASS' = build a mass.
+Syn: accumulate, collect, gather. Ant: disperse, scatter
+Moderate
+
+Ambivalent
+Having mixed feelings
+She was ambivalent about the transfer.
+'ambi-' = both; pulled both ways.
+Syn: undecided, conflicted, unsure. Ant: certain, decisive
+Difficult
+
+Ameliorate
+To make a bad situation better
+Reforms ameliorated the workers' lives.
+'a-MEL-iorate' = make 'melior' (better).
+Syn: improve, better, enhance. Ant: worsen, aggravate
+Difficult
+
+Amenable
+Willing to cooperate
+He was amenable to the new plan.
+'amen-' = says 'amen' = agrees.
+Syn: agreeable, cooperative, open. Ant: stubborn, resistant
+Difficult
+
+Anguish
+Severe mental pain
+The news caused her deep anguish.
+'an-GUISH' = a gushing of pain.
+Syn: agony, torment, distress. Ant: comfort, relief
+Moderate
+
+Animosity
+Strong hostility
+There was animosity between the rivals.
+'anim-' (spirit) turned hostile.
+Syn: hostility, enmity, hatred. Ant: friendship, goodwill
+Difficult
+
+Antagonist
+An opponent or enemy
+He faced a fierce antagonist.
+'anti-' = against.
+Syn: opponent, adversary, foe. Ant: ally, supporter
+Moderate
+
+Apprehensive
+Anxious about the future
+She felt apprehensive before the exam.
+'apprehend' a problem = fear it.
+Syn: anxious, worried, uneasy. Ant: confident, calm
+Moderate
+
+Arbitrary
+Based on whim, not reason
+The decision seemed arbitrary and unfair.
+'arbiter' decides as he pleases.
+Syn: random, capricious, unreasoned. Ant: reasoned, fair
+Difficult
+
+Ardent
+Passionate, enthusiastic
+He is an ardent supporter of reform.
+'ard-' = burning (ardour).
+Syn: passionate, fervent, keen. Ant: indifferent, cool
+Moderate
+
+Articulate
+Expressing ideas clearly
+An articulate speaker holds attention.
+Speaks with clear 'articles'/joints.
+Syn: fluent, eloquent, coherent. Ant: inarticulate
+Moderate
+
+Ascend
+To go up
+They ascended the steep hill.
+'a-SCEND' = climb up (escalate).
+Syn: rise, climb, mount. Ant: descend, fall
+Easy
+
+Assiduous
+Hardworking and careful
+His assiduous study earned top marks.
+'a-SIT-uous' = sits down and works hard.
+Syn: diligent, industrious, careful. Ant: lazy, idle
+Difficult
+
+Audacity
+Bold daring; or rude boldness
+He had the audacity to question the chief.
+'audi-' to dare; daring boldness.
+Syn: boldness, nerve, cheek. Ant: timidity, caution
+Moderate
+
+Austerity
+Severe simplicity; strictness
+Wartime called for austerity.
+Bare, stern lifestyle.
+Syn: severity, plainness, thrift. Ant: luxury, indulgence
+Difficult
+
+Avarice
+Extreme greed for wealth
+His avarice ruined his reputation.
+'a-VARICE' = a vice of wanting more.
+Syn: greed, cupidity, covetousness. Ant: generosity
+Difficult
+
+Banish
+To send away as punishment
+The rebel was banished from the land.
+'ban' someone = send away.
+Syn: exile, expel, deport. Ant: welcome, admit
+Easy
+
+Belligerent
+Aggressive, ready to fight
+His belligerent tone started a quarrel.
+'belli-' = war (rebel).
+Syn: aggressive, hostile, combative. Ant: peaceful, friendly
+Difficult
+
+Berate
+To scold harshly
+The officer berated the careless guard.
+'be-RATE' = rate someone down harshly.
+Syn: scold, rebuke, reprimand. Ant: praise, compliment
+Moderate
+
+Bias
+An unfair preference
+The report showed clear bias.
+'bias' = leaning to one side.
+Syn: prejudice, partiality, slant. Ant: fairness, neutrality
+Easy
+
+Blatant
+Very obvious in a shameless way
+It was a blatant lie.
+'bla-tant' = shouts it out openly.
+Syn: obvious, flagrant, glaring. Ant: subtle, discreet
+Moderate
+
+Bolster
+To support or strengthen
+Fresh supplies bolstered their morale.
+'bolster' = a pillow that supports.
+Syn: support, strengthen, reinforce. Ant: weaken, undermine
+Moderate
+
+Brusque
+Abrupt and curt in manner
+His brusque reply seemed rude.
+'brusque' sounds brisk and sharp.
+Syn: curt, blunt, abrupt. Ant: polite, gentle
+Difficult
+
+Cajole
+To persuade by flattery
+He cajoled them into helping.
+'ca-JOLE' = jolly someone into it.
+Syn: coax, wheedle, persuade. Ant: force, compel
+Difficult
+
+Calamity
+A great disaster
+The flood was a national calamity.
+'calam-' = disaster.
+Syn: disaster, catastrophe, misfortune. Ant: blessing, boon
+Moderate
+
+Candour
+Honesty and frankness
+He spoke with refreshing candour.
+'candid' + 'our' = openness.
+Syn: frankness, honesty, openness. Ant: deceit, evasion
+Moderate
+
+Capitulate
+To surrender
+The garrison capitulated after a siege.
+'capit-' (head) bowed = give up.
+Syn: surrender, yield, submit. Ant: resist, fight
+Difficult
+
+Castigate
+To criticize severely
+The press castigated the officials.
+'casti-GATE' = punish at the gate.
+Syn: criticize, rebuke, chastise. Ant: praise, commend
+Difficult
+
+Caustic
+Bitterly sarcastic; corrosive
+His caustic remarks stung.
+'caustic' soda burns; so do the words.
+Syn: sarcastic, biting, scathing. Ant: gentle, kind
+Difficult
+
+Chastise
+To punish or scold
+The teacher chastised the unruly boys.
+'chast-' = to correct/discipline.
+Syn: punish, scold, rebuke. Ant: reward, praise
+Moderate
+
+Circumspect
+Cautious; considering all sides
+Be circumspect before signing.
+'circum-' (around) + 'spect' (look) = look around.
+Syn: cautious, careful, prudent. Ant: rash, careless
+Difficult
+
+Clandestine
+Secret, hidden
+They held a clandestine meeting.
+'clan-destine' = a secret clan gathering.
+Syn: secret, covert, furtive. Ant: open, public
+Difficult
+
+Coalesce
+To come together as one
+The groups coalesced into one force.
+'co-' (together) + 'alesce' = grow together.
+Syn: merge, unite, combine. Ant: separate, split
+Difficult
+
+Cogent
+Clear and convincing
+He made a cogent argument.
+'cog' fits perfectly = convincing.
+Syn: convincing, compelling, persuasive. Ant: weak, vague
+Difficult
+
+Commend
+To praise
+The chief commended his bravery.
+'com-MEND' = to recommend/praise.
+Syn: praise, applaud, laud. Ant: criticize, censure
+Easy
+
+Compel
+To force
+Duty compelled him to act.
+'com-' + 'pel' (push) = push strongly.
+Syn: force, oblige, coerce. Ant: dissuade, free
+Easy
+
+Complement
+To complete or go well with
+Skill and discipline complement each other.
+'comple-' = to complete (note the 'e').
+Syn: complete, supplement, enhance. Ant: clash, detract
+Moderate
+
+Comprehensive
+Covering everything; thorough
+A comprehensive plan covers all risks.
+'comprehend' all of it.
+Syn: thorough, complete, full. Ant: partial, limited
+Easy
+
+Concede
+To admit or surrender
+He conceded that he was wrong.
+'con-' + 'cede' (give) = give in.
+Syn: admit, acknowledge, yield. Ant: deny, dispute
+Moderate
+
+Conciliate
+To make peace; win over
+He tried to conciliate the angry mob.
+'con-' + 'cili' = bring together in peace.
+Syn: pacify, appease, reconcile. Ant: provoke, antagonize
+Difficult
+
+Condemn
+To express strong disapproval
+Leaders condemned the attack.
+'con-DAMN' = to damn/blame.
+Syn: denounce, censure, blame. Ant: praise, approve
+Easy
+
+Conform
+To follow rules or norms
+Recruits must conform to discipline.
+'con-' + 'form' = take the same form.
+Syn: comply, obey, adapt. Ant: rebel, deviate
+Easy
+
+Congenial
+Pleasant and agreeable
+They worked in a congenial atmosphere.
+'con-GENIAL' = nice like a genial friend.
+Syn: pleasant, friendly, agreeable. Ant: unpleasant, hostile
+Moderate
+
+Conscientious
+Careful and dutiful
+A conscientious worker checks every detail.
+'conscience' + 'tious' = guided by conscience.
+Syn: diligent, dutiful, scrupulous. Ant: careless, negligent
+Moderate
+
+Consensus
+General agreement
+They reached a consensus.
+'con-' + 'sens' = shared sense.
+Syn: agreement, accord, unanimity. Ant: disagreement
+Moderate
+
+Console
+To comfort in sorrow
+She consoled the grieving family.
+'con-SOLE' = soothe the soul.
+Syn: comfort, soothe, reassure. Ant: distress, upset
+Easy
+
+Conspire
+To plot secretly
+They conspired to seize power.
+'con-' (together) + 'spire' (breathe) = whisper a plot.
+Syn: plot, scheme, collude. Ant: cooperate openly
+Moderate
+
+Contemptuous
+Showing scorn
+He gave a contemptuous laugh.
+Full of contempt.
+Syn: scornful, disdainful, sneering. Ant: respectful
+Moderate
+
+Contentious
+Causing argument; quarrelsome
+It was a contentious issue.
+'contend' = to argue/fight.
+Syn: controversial, disputable, quarrelsome. Ant: agreeable
+Difficult
+
+Conviction
+A firm belief; or guilty verdict
+He acted with conviction.
+To be 'convinced' fully.
+Syn: belief, faith, certainty. Ant: doubt, uncertainty
+Moderate
+
+Corroborate
+To confirm with evidence
+Witnesses corroborated his story.
+'co-' + 'robor' (strength) = add strength to.
+Syn: confirm, support, verify. Ant: contradict, refute
+Difficult
+
+Covert
+Secret, hidden
+They ran a covert operation.
+'cover' it up = hidden.
+Syn: secret, hidden, concealed. Ant: overt, open
+Moderate
+
+Cowardice
+Lack of courage
+Cowardice has no place in battle.
+'coward' + 'ice' = frozen with fear.
+Syn: timidity, fearfulness. Ant: bravery, courage
+Easy
+
+Credulous
+Too ready to believe
+A credulous mind is easily fooled.
+'cred-' (believe) + 'ulous' = over-believing.
+Syn: gullible, naive, trusting. Ant: skeptical, wary
+Difficult
+
+Culpable
+Deserving blame
+He was culpable for the lapse.
+'culp-' = fault (mea culpa).
+Syn: guilty, blameworthy, liable. Ant: innocent, blameless
+Difficult
+
+Cunning
+Clever in a deceptive way
+The cunning spy escaped.
+'cunning' fox = sly cleverness.
+Syn: sly, crafty, wily. Ant: honest, naive
+Easy
+
+Curb
+To control or restrain
+Curb your impulses under pressure.
+'curb' on a road keeps you in line.
+Syn: restrain, check, control. Ant: release, encourage
+Easy
+
+Daunt
+To discourage or frighten
+Hardship did not daunt them.
+'daunt' = make you 'don't' dare.
+Syn: intimidate, discourage, dishearten. Ant: encourage, embolden
+Moderate
+
+Dearth
+Scarcity, lack
+There was a dearth of supplies.
+'dearth' = things are 'dear' (rare).
+Syn: scarcity, shortage, lack. Ant: abundance, plenty
+Difficult
+
+Debacle
+A sudden, complete failure
+The retreat turned into a debacle.
+'de-BACKLE' = everything breaks back/down.
+Syn: fiasco, disaster, collapse. Ant: success, triumph
+Difficult
+
+Defame
+To damage someone's reputation
+He sued the paper for defaming him.
+'de-FAME' = remove someone's fame.
+Syn: slander, libel, malign. Ant: praise, honour
+Moderate
+
+Deference
+Respectful submission
+He showed deference to his elders.
+'defer' to others = yield with respect.
+Syn: respect, regard, courtesy. Ant: disrespect, defiance
+Difficult
+
+Defunct
+No longer existing or working
+The defunct rule was scrapped.
+'de-' + 'funct' (function) = stopped functioning.
+Syn: extinct, obsolete, dead. Ant: active, functioning
+Difficult
+
+Degrade
+To lower in quality or dignity
+War degrades human values.
+'de-' (down) + 'grade' = lower the grade.
+Syn: debase, demean, lower. Ant: elevate, dignify
+Moderate
+
+Dejected
+Sad and low-spirited
+He looked dejected after the loss.
+'de-' (down) + 'ject' (throw) = thrown down.
+Syn: downcast, depressed, gloomy. Ant: cheerful, elated
+Moderate
+
+Delineate
+To describe or outline clearly
+The map delineates the border.
+'de-LINE-ate' = mark with lines.
+Syn: describe, outline, depict. Ant: confuse, blur
+Difficult
+
+Demure
+Shy and modest
+She gave a demure smile.
+'de-MURE' = quiet behind a wall.
+Syn: modest, reserved, coy. Ant: bold, brazen
+Difficult
+
+Denounce
+To condemn publicly
+They denounced the corruption.
+'de-' + 'nounce' (announce) = announce against.
+Syn: condemn, criticize, accuse. Ant: praise, endorse
+Moderate
+
+Deride
+To mock or ridicule
+The crowd derided the weak excuse.
+'de-RIDE' = ride down with mockery.
+Syn: mock, ridicule, scorn. Ant: praise, respect
+Difficult
+
+Despair
+Complete loss of hope
+Do not despair in defeat.
+'de-' (without) + 'spair' (hope).
+Syn: hopelessness, despondency. Ant: hope, optimism
+Moderate
+
+Despondent
+Very low in spirits
+He grew despondent after failures.
+'de-spond' = no response of hope.
+Syn: dejected, downhearted, gloomy. Ant: hopeful, cheerful
+Difficult
+
+Destitute
+Extremely poor
+The war left families destitute.
+'de-' (away) + 'stitute' (set up) = stripped of all.
+Syn: poor, penniless, needy. Ant: wealthy, affluent
+Difficult
+
+Deteriorate
+To become worse
+His health deteriorated quickly.
+'deter-' makes it worse over time.
+Syn: worsen, decline, degrade. Ant: improve, recover
+Moderate
+
+Devious
+Dishonest and sneaky
+He used devious tactics.
+'de-VIA' = off the straight road.
+Syn: cunning, crafty, underhand. Ant: honest, straightforward
+Moderate
+
+Diffident
+Lacking self-confidence
+A diffident speaker spoke softly.
+'di-' (not) + 'fident' (confident).
+Syn: shy, timid, unsure. Ant: confident, assertive
+Difficult
+
+Digress
+To wander off the topic
+Don't digress from the main point.
+'di-' (apart) + 'gress' (step) = step aside.
+Syn: deviate, stray, ramble. Ant: focus, stay on point
+Moderate
+
+Dilapidated
+In a state of ruin
+They sheltered in a dilapidated hut.
+'di-LAP-idated' = falling apart, stone by stone.
+Syn: ruined, decayed, crumbling. Ant: sound, intact
+Difficult
+
+Diligence
+Steady, careful effort
+Success comes through diligence.
+Working with care (see 'diligent').
+Syn: industry, effort, perseverance. Ant: laziness, neglect
+Moderate
+
+Discreet
+Careful to avoid trouble or attention
+Be discreet about the plan.
+'discreet' keeps things to itself.
+Syn: tactful, prudent, cautious. Ant: indiscreet, reckless
+Moderate
+
+Disparage
+To belittle or criticize
+Don't disparage your teammates.
+'dis-' + 'parage' (rank) = lower in rank.
+Syn: belittle, demean, denigrate. Ant: praise, compliment
+Difficult
+
+Disparity
+A big difference or inequality
+There was a disparity in resources.
+'dis-' (not) + 'parity' (equal).
+Syn: difference, inequality, gap. Ant: parity, equality
+Difficult
+
+Dispel
+To drive away (doubts, fears)
+His words dispelled their fears.
+'dis-' (away) + 'pel' (push) = push away.
+Syn: banish, scatter, remove. Ant: gather, create
+Moderate
+
+Disperse
+To scatter in different directions
+Police dispersed the crowd.
+'di-' (apart) + 'sperse' (scatter).
+Syn: scatter, spread, dissipate. Ant: gather, assemble
+Moderate
+
+Disposition
+A person's natural temperament
+She has a calm disposition.
+How you are 'disposed' by nature.
+Syn: temperament, nature, character. Ant: --
+Moderate
+
+Disrupt
+To interrupt or disturb
+The storm disrupted the schedule.
+'dis-' + 'rupt' (break) = break apart.
+Syn: disturb, interrupt, upset. Ant: organize, order
+Easy
+
+Dissipate
+To waste or scatter away
+He dissipated his energy on trifles.
+'di-' (apart) + 'sip' = scattered away sip by sip.
+Syn: squander, scatter, waste. Ant: conserve, gather
+Difficult
+
+Dissuade
+To persuade against
+Friends dissuaded him from quitting.
+'dis-' (against) + 'suade' (advise).
+Syn: discourage, deter, advise against. Ant: persuade, urge
+Moderate
+
+Diverge
+To separate and go different ways
+Their opinions diverged sharply.
+'di-' (apart) + 'verge' (turn).
+Syn: differ, separate, branch. Ant: converge, agree
+Moderate
+
+Divulge
+To reveal a secret
+Never divulge classified details.
+'di-VULGE' = make it vulgar/public.
+Syn: reveal, disclose, leak. Ant: conceal, hide
+Difficult
+
+Dogmatic
+Asserting opinions as undeniable
+His dogmatic views allowed no debate.
+'dogma' = fixed belief.
+Syn: opinionated, rigid, assertive. Ant: open-minded, flexible
+Difficult
+
+Dormant
+Inactive but capable of activity
+The volcano lay dormant for years.
+'dorm-' = to sleep (dormitory).
+Syn: inactive, latent, sleeping. Ant: active, awake
+Moderate
+
+Dwindle
+To shrink gradually
+Their numbers dwindled day by day.
+'dwindle' sounds like slowly winding down.
+Syn: shrink, decrease, decline. Ant: grow, increase
+Moderate
+
+Eccentric
+Unusual or odd in behaviour
+The eccentric officer had odd habits.
+'ec-' (out) + 'centric' = off-centre.
+Syn: odd, quirky, unconventional. Ant: normal, conventional
+Moderate
+
+Egregious
+Outstandingly bad
+It was an egregious blunder.
+'e-GREG-ious' = stands out from the flock (greg) for being bad.
+Syn: flagrant, gross, shocking. Ant: minor, slight
+Difficult
+
+Elated
+Very happy and excited
+He was elated by the promotion.
+'e-LATE' = lifted up high.
+Syn: thrilled, overjoyed, jubilant. Ant: dejected, sad
+Moderate
+
+Elicit
+To draw out a response
+The officer elicited the truth.
+'e-' (out) + 'licit' = draw out.
+Syn: extract, evoke, draw out. Ant: suppress, withhold
+Difficult
+
+Eloquence
+Powerful, fluent speech
+His eloquence moved the audience.
+Speaking 'out' beautifully (see 'eloquent').
+Syn: fluency, articulacy, expressiveness. Ant: dullness
+Moderate
+
+Embezzle
+To steal money in one's trust
+He embezzled the unit funds.
+'em-BEZZLE' = sneakily pocket money.
+Syn: misappropriate, pilfer, steal. Ant: return, safeguard
+Difficult
+
+Emulate
+To imitate in order to match
+Juniors emulate good leaders.
+'emu' copies; emulate = copy to equal.
+Syn: imitate, copy, match. Ant: ignore, differ
+Moderate
+
+Endure
+To suffer patiently; to last
+They endured great hardship.
+'en-DURE' = stay 'durable'.
+Syn: bear, withstand, last. Ant: surrender, give up
+Easy
+
+Enmity
+Hostility, hatred
+Old enmity divided the clans.
+'en-' + 'emy' (enemy) = enemy feeling.
+Syn: hostility, animosity, ill will. Ant: friendship, amity
+Moderate
+
+Enthrall
+To captivate completely
+The tale enthralled the cadets.
+'en-' + 'thrall' (slave) = hold spellbound.
+Syn: captivate, fascinate, charm. Ant: bore, repel
+Difficult
+
+Ephemeral
+Lasting a very short time
+Fame can be ephemeral.
+'ephemeral' = lasts a day (like a mayfly).
+Syn: short-lived, fleeting, transient. Ant: lasting, permanent
+Difficult
+
+Erudite
+Having great knowledge
+The erudite scholar amazed all.
+'e-RUDE-ite' = NOT rude; well-read.
+Syn: learned, scholarly, knowledgeable. Ant: ignorant
+Difficult
+
+Evade
+To escape or avoid
+He evaded the question.
+'e-' (out) + 'vade' (go) = go out of it.
+Syn: avoid, dodge, elude. Ant: face, confront
+Easy
+
+Exacerbate
+To make worse
+Delay exacerbated the crisis.
+'ex-ACER-bate' = make more 'acerbic'/sharp.
+Syn: worsen, aggravate, intensify. Ant: ease, relieve
+Difficult
+
+Exalt
+To praise highly; to raise
+They exalted the war heroes.
+'ex-' + 'alt' (high) = lift high.
+Syn: glorify, praise, elevate. Ant: demean, belittle
+Difficult
+
+Exemplify
+To be a typical example of
+He exemplifies discipline.
+'example' + 'ify' = serve as example.
+Syn: illustrate, embody, represent. Ant: --
+Moderate
+
+Exhaustive
+Very thorough and complete
+An exhaustive inquiry was held.
+Covers everything until 'exhausted'.
+Syn: thorough, complete, comprehensive. Ant: partial, sketchy
+Moderate
+
+Exorbitant
+Far too high (price)
+The dealer charged an exorbitant rate.
+'ex-orbit' = out of orbit/limits.
+Syn: excessive, extravagant, steep. Ant: reasonable, cheap
+Difficult
+
+Expedite
+To speed up a process
+They expedited the relief work.
+'ex-PED-ite' = free the feet to move fast.
+Syn: hasten, accelerate, rush. Ant: delay, slow
+Difficult
+
+Explicit
+Clear and detailed
+He gave explicit instructions.
+'ex-' (out) + 'plic' = fully laid out.
+Syn: clear, definite, precise. Ant: vague, implicit
+Moderate
+
+Exquisite
+Extremely beautiful or fine
+The medal had exquisite detail.
+'ex-' + 'quis' (seek) = sought-after beauty.
+Syn: delicate, fine, elegant. Ant: crude, coarse
+Moderate
+
+Extol
+To praise highly
+They extolled his bravery.
+'ex-' + 'tol' (raise) = raise with praise.
+Syn: praise, laud, glorify. Ant: criticize, condemn
+Difficult
+
+Extravagant
+Spending too much; excessive
+His extravagant habits drained his pay.
+'extra-' = beyond limits.
+Syn: lavish, wasteful, excessive. Ant: frugal, thrifty
+Moderate
+
+Fabricate
+To make up falsely; to construct
+He fabricated an alibi.
+'fabric' = weave a false story.
+Syn: invent, falsify, concoct. Ant: verify, reveal
+Moderate
+
+Facilitate
+To make easier
+Good roads facilitate movement.
+'facil-' = easy (facile).
+Syn: ease, assist, enable. Ant: hinder, obstruct
+Moderate
+
+Fallacy
+A mistaken belief
+It is a fallacy that war solves all.
+'fall-acy' = a belief that falls/fails.
+Syn: misconception, error, myth. Ant: truth, fact
+Difficult
+
+Feasible
+Possible to do
+The plan is feasible with more men.
+'fea-sible' = can be 'done' (Latin facere).
+Syn: practicable, viable, workable. Ant: impossible, unworkable
+Moderate
+
+Feeble
+Weak, lacking strength
+His feeble excuse convinced no one.
+'feeble' = barely able to 'feel' strength.
+Syn: weak, frail, faint. Ant: strong, robust
+Easy
+
+Ferocious
+Savagely fierce
+A ferocious storm hit the coast.
+'fero-' = wild beast (feral).
+Syn: fierce, savage, brutal. Ant: gentle, tame
+Moderate
+
+Fickle
+Changing one's mind often
+Fickle allies cannot be trusted.
+'fickle' = flickers like a flame.
+Syn: changeable, inconstant, capricious. Ant: steadfast, loyal
+Moderate
+
+Flourish
+To grow or thrive
+Discipline helps a unit flourish.
+'flour-ish' = blooms like a flower.
+Syn: thrive, prosper, bloom. Ant: wither, decline
+Easy
+
+Forsake
+To abandon
+He would never forsake his comrades.
+'for-' (away) + 'sake' = give away.
+Syn: abandon, desert, leave. Ant: support, stand by
+Moderate
+
+Fractious
+Irritable; quarrelsome
+The fractious troops needed firm control.
+'fract-' (break) = breaks into quarrels.
+Syn: irritable, unruly, peevish. Ant: calm, agreeable
+Difficult
+
+Frivolous
+Not serious; trivial
+Avoid frivolous complaints.
+'frivol-' = light and silly.
+Syn: trivial, silly, petty. Ant: serious, important
+Moderate
+
+Furtive
+Done secretly and slyly
+He cast a furtive glance.
+'fur-tive' like a thief (Latin fur).
+Syn: stealthy, secretive, sneaky. Ant: open, overt
+Difficult
+
+Genial
+Friendly and cheerful
+The genial host welcomed all.
+'genial' = like a friendly genie.
+Syn: friendly, cordial, warm. Ant: cold, unfriendly
+Moderate
+
+Gist
+The main point
+Give me the gist of the report.
+'gist' = the central idea.
+Syn: essence, substance, crux. Ant: details
+Easy
+
+Grandiose
+Impressively large; pompous
+His grandiose plans never worked.
+'grand' + 'iose' = overly grand.
+Syn: pompous, pretentious, lofty. Ant: modest, simple
+Difficult
+
+Gregarious
+Sociable, fond of company
+A gregarious cadet made friends fast.
+'greg-' = flock/herd; loves the group.
+Syn: sociable, outgoing, friendly. Ant: solitary, reserved
+Difficult
+
+Grudge
+A lasting feeling of resentment
+He held a grudge against his rival.
+'grudge' = a grumble that lasts.
+Syn: resentment, bitterness, spite. Ant: goodwill, forgiveness
+Easy
+
+Hapless
+Unlucky
+The hapless soldier lost his way.
+'hap' (luck) + 'less' = no luck.
+Syn: unlucky, unfortunate, ill-fated. Ant: lucky, fortunate
+Moderate
+
+Harangue
+A long, aggressive speech
+The leader's harangue lasted an hour.
+'ha-RANG' = loud ringing speech.
+Syn: tirade, rant, lecture. Ant: praise, whisper
+Difficult
+
+Hinder
+To delay or obstruct
+Mud hindered their march.
+'hind' = the back; holds you back.
+Syn: obstruct, impede, hamper. Ant: help, aid
+Easy
+
+Hostility
+Aggression or enmity
+Hostility broke out at the border.
+'host' of enemies.
+Syn: aggression, enmity, antagonism. Ant: friendliness, amity
+Moderate
+
+Idle
+Not working; lazy
+An idle mind invites trouble.
+'idle' = doing nothing.
+Syn: inactive, lazy, unoccupied. Ant: busy, active
+Easy
+
+Illicit
+Forbidden by law or rules
+He was caught in illicit trade.
+'il-' (not) + 'licit' (legal).
+Syn: illegal, unlawful, banned. Ant: legal, lawful
+Moderate
+
+Immaculate
+Perfectly clean; flawless
+His uniform was immaculate.
+'im-' (not) + 'macula' (spot) = spotless.
+Syn: spotless, flawless, pristine. Ant: dirty, flawed
+Difficult
+
+Imminent
+About to happen
+Danger was imminent.
+'im-MINUTE' = could happen any minute.
+Syn: impending, looming, near. Ant: distant, remote
+Moderate
+
+Impeccable
+Faultless
+Her conduct was impeccable.
+'im-' (not) + 'pecc' (sin) = without fault.
+Syn: flawless, perfect, faultless. Ant: flawed, faulty
+Difficult
+
+Impede
+To hinder progress
+Heavy rain impeded the rescue.
+'im-PEDE' = trip the feet.
+Syn: hinder, obstruct, block. Ant: assist, aid
+Moderate
+
+Imperative
+Absolutely necessary
+Speed is imperative in rescue.
+'imperative' = an order you must obey.
+Syn: essential, vital, crucial. Ant: optional, unimportant
+Moderate
+
+Impervious
+Not affected by; unable to be penetrated
+He was impervious to criticism.
+'im-' (not) + 'pervious' = nothing gets through.
+Syn: resistant, immune, impenetrable. Ant: sensitive, open
+Difficult
+
+Implacable
+Unable to be calmed; relentless
+An implacable enemy never relents.
+'im-' (not) + 'placable' (calmable).
+Syn: relentless, unyielding, merciless. Ant: forgiving, lenient
+Difficult
+
+Implicit
+Understood though not stated
+There was an implicit trust between them.
+'im-' (in) + 'plic' = folded in, not spoken.
+Syn: implied, unspoken, tacit. Ant: explicit, stated
+Moderate
+
+Impromptu
+Done without preparation
+He gave an impromptu speech.
+'in promptu' = on the spot.
+Syn: spontaneous, unplanned, offhand. Ant: rehearsed, planned
+Moderate
+
+Inane
+Silly, lacking sense
+He made inane comments.
+'in-' (not) + sane sense.
+Syn: silly, foolish, pointless. Ant: sensible, meaningful
+Difficult
+
+Incessant
+Never stopping
+The incessant rain delayed them.
+'in-' (not) + 'cess' (stop).
+Syn: constant, ceaseless, relentless. Ant: intermittent, occasional
+Difficult
+
+Incite
+To stir up or provoke
+He incited the crowd to riot.
+'in-' + 'cite' = set in motion.
+Syn: provoke, instigate, stir up. Ant: calm, restrain
+Moderate
+
+Indolent
+Lazy
+An indolent worker slows the team.
+'in-' (not) + 'dol' (pain) = avoids effort/pain.
+Syn: lazy, idle, sluggish. Ant: industrious, active
+Difficult
+
+Inept
+Clumsy, lacking skill
+His inept handling caused delay.
+'in-' (not) + 'ept' (apt).
+Syn: incompetent, clumsy, unskilled. Ant: adept, skilled
+Moderate
+
+Inert
+Unable to move or act
+He stood inert with shock.
+'inert' = no energy (inertia).
+Syn: motionless, inactive, sluggish. Ant: active, lively
+Moderate
+
+Infallible
+Never wrong
+No leader is infallible.
+'in-' (not) + 'fallible' (can fail).
+Syn: unerring, faultless, certain. Ant: fallible, errant
+Difficult
+
+Ingenuous
+Innocent and honest
+His ingenuous reply was charming.
+NOT 'ingenious'; this means naive/honest.
+Syn: innocent, frank, sincere. Ant: cunning, sly
+Difficult
+
+Inherent
+Existing as a natural part
+Courage was inherent in her.
+'in-' (in) + 'her' = held within.
+Syn: innate, intrinsic, built-in. Ant: acquired, external
+Moderate
+
+Innocuous
+Harmless
+It was an innocuous remark.
+'in-' (not) + 'noc' (harm, as in noxious).
+Syn: harmless, inoffensive, benign. Ant: harmful, noxious
+Difficult
+
+Insatiable
+Impossible to satisfy
+He had an insatiable hunger for victory.
+'in-' (not) + 'satiable' (satisfiable).
+Syn: unquenchable, greedy, voracious. Ant: satisfied, content
+Difficult
+
+Insipid
+Dull; lacking flavour or interest
+The lecture was insipid.
+'in-' (not) + 'sip' = no taste.
+Syn: dull, bland, tasteless. Ant: lively, flavourful
+Difficult
+
+Insolence
+Rude, disrespectful behaviour
+His insolence shocked the panel.
+See 'insolent'; won't salute.
+Syn: rudeness, impudence, cheek. Ant: politeness, respect
+Difficult
+
+Insurgent
+A rebel against authority
+Insurgents attacked the post.
+'in-' + 'surge' = rise up against.
+Syn: rebel, mutineer, revolutionary. Ant: loyalist
+Moderate
+
+Intricate
+Very complicated
+The plan had an intricate design.
+'in-' + 'tric' (tangle) = many tangles.
+Syn: complex, complicated, elaborate. Ant: simple, plain
+Moderate
+
+Intrinsic
+Belonging naturally; essential
+Discipline has intrinsic value.
+'intrinsic' = built into the thing itself.
+Syn: inherent, essential, innate. Ant: extrinsic, external
+Difficult
+
+Inundate
+To flood or overwhelm
+Requests inundated the office.
+'in-und' = waves (undulate) flooding in.
+Syn: flood, swamp, overwhelm. Ant: drain, empty
+Difficult
+
+Irate
+Very angry
+The irate officer demanded answers.
+'ir-' = anger (ire).
+Syn: furious, enraged, incensed. Ant: calm, pleased
+Moderate
+
+Jovial
+Cheerful and friendly
+The jovial sergeant lifted spirits.
+'jovial' = merry like Jove/Jupiter.
+Syn: cheerful, jolly, merry. Ant: gloomy, morose
+Moderate
+
+Judicious
+Showing good judgment
+A judicious use of force was needed.
+'judi-' = like a wise judge.
+Syn: wise, sensible, prudent. Ant: foolish, rash
+Difficult
+
+Lavish
+Very generous or extravagant
+He gave lavish praise.
+'lav-' = pour out abundantly.
+Syn: generous, abundant, extravagant. Ant: frugal, meagre
+Moderate
+
+Lax
+Not strict; careless
+Lax security led to the breach.
+'lax' = loose/relaxed.
+Syn: slack, careless, loose. Ant: strict, rigorous
+Moderate
+
+Lethal
+Deadly
+The mission carried lethal risk.
+'lethal' = causes death.
+Syn: deadly, fatal, mortal. Ant: harmless, safe
+Easy
+
+Loathe
+To hate intensely
+He loathed all forms of deceit.
+'loathe' = full of loathing.
+Syn: detest, abhor, despise. Ant: love, adore
+Moderate
+
+Lucrative
+Producing much profit
+It was a lucrative contract.
+'lucre' = money/profit.
+Syn: profitable, rewarding, gainful. Ant: unprofitable
+Moderate
+
+Magnanimous
+Generous and forgiving
+He was magnanimous in victory.
+'magna-' (great) + 'anim' (soul) = great-souled.
+Syn: generous, noble, big-hearted. Ant: petty, mean
+Difficult
+
+Malign
+To speak evil of; harmful
+Rivals tried to malign him.
+'mal-' = bad.
+Syn: slander, defame, vilify. Ant: praise, compliment
+Difficult
+
+Meager
+Lacking in quantity
+They survived on meager rations.
+'meager' = thin and scanty.
+Syn: scanty, sparse, inadequate. Ant: abundant, ample
+Moderate
+
+Mediocre
+Of only average quality
+His performance was mediocre.
+'medi-' = middle/average.
+Syn: average, ordinary, middling. Ant: excellent, superior
+Moderate
+
+Menace
+A threat or danger
+Landmines are a menace.
+'men-ace' = an 'ace' of threats.
+Syn: threat, danger, peril. Ant: protection, safety
+Moderate
+
+Mundane
+Ordinary and dull
+He handled mundane chores.
+'mundane' = of the everyday world.
+Syn: ordinary, routine, dull. Ant: exciting, extraordinary
+Moderate
+
+Negate
+To cancel or deny
+Errors negated the gains.
+'neg-' = no/not.
+Syn: nullify, cancel, deny. Ant: affirm, confirm
+Moderate
+
+Nonchalant
+Coolly unconcerned
+He stayed nonchalant under fire.
+'non-' (not) + 'chal' (heat) = unbothered.
+Syn: unconcerned, casual, cool. Ant: anxious, worried
+Difficult
+
+Novice
+A beginner
+He was a novice at drill.
+'nov-' = new.
+Syn: beginner, learner, rookie. Ant: expert, veteran
+Easy
+
+Obscure
+Unclear; little known
+The meaning was obscure.
+'ob-' + 'scur' = covered in darkness.
+Syn: unclear, vague, hidden. Ant: clear, famous
+Moderate
+
+Obsolete
+No longer in use
+The weapon was obsolete.
+'obsol-' = worn out, outdated.
+Syn: outdated, antiquated, defunct. Ant: modern, current
+Moderate
+
+Obstruct
+To block
+Debris obstructed the road.
+'ob-' + 'struct' = build a barrier across.
+Syn: block, hinder, impede. Ant: clear, aid
+Easy
+
+Officious
+Annoyingly eager to give orders
+The officious clerk delayed everyone.
+Too much 'office' authority.
+Syn: meddlesome, bossy, intrusive. Ant: reserved, easygoing
+Difficult
+
+Opulent
+Rich and luxurious
+The hall had an opulent look.
+'opul-' = wealth.
+Syn: lavish, luxurious, rich. Ant: plain, modest
+Difficult
+
+Ostensible
+Apparent but not real
+His ostensible reason hid the truth.
+'osten-' = to show (on the surface).
+Syn: apparent, supposed, professed. Ant: real, genuine
+Difficult
+
+Pacifist
+One who opposes war
+The pacifist urged dialogue.
+'pac-' = peace.
+Syn: peace-lover, dove. Ant: warmonger, militarist
+Moderate
+
+Painstaking
+Very careful and thorough
+His painstaking work paid off.
+Takes pains over details.
+Syn: careful, meticulous, thorough. Ant: careless, hasty
+Moderate
+
+Paramount
+More important than anything
+Safety is paramount.
+'para-mount' = above the mountain top.
+Syn: supreme, chief, foremost. Ant: minor, secondary
+Moderate
+
+Partial
+Biased; or incomplete
+He gave a partial account.
+'part' = only a part/one side.
+Syn: biased, prejudiced; incomplete. Ant: impartial, complete
+Easy
+
+Penury
+Extreme poverty
+Years of penury hardened him.
+'pen-' = nearly penniless.
+Syn: poverty, destitution, want. Ant: wealth, affluence
+Difficult
+
+Perpetual
+Never-ending
+The fort kept a perpetual watch.
+'per-' (through) + 'pet' (seek) = goes on forever.
+Syn: endless, constant, eternal. Ant: temporary, brief
+Moderate
+
+Perplex
+To confuse
+The riddle perplexed them.
+'per-' + 'plex' = fully tangled.
+Syn: confuse, baffle, puzzle. Ant: clarify, enlighten
+Moderate
+
+Pervasive
+Spreading throughout
+Fear was pervasive in the camp.
+'per-' (through) + 'vas' = spreads everywhere.
+Syn: widespread, prevalent, rampant. Ant: rare, localized
+Difficult
+
+Placid
+Calm and peaceful
+The placid lake mirrored the sky.
+'plac-' = please/calm.
+Syn: calm, serene, tranquil. Ant: turbulent, agitated
+Moderate
+
+Plethora
+An excess; too much
+A plethora of rules confused them.
+'pleth-' = full to overflowing.
+Syn: excess, surplus, abundance. Ant: shortage, lack
+Difficult
+
+Poignant
+Deeply moving; touching
+It was a poignant farewell.
+'poign-' = to prick (point) the heart.
+Syn: moving, touching, heartfelt. Ant: unemotional
+Difficult
+
+Ponder
+To think carefully
+He pondered the consequences.
+'ponder' = weigh in the mind.
+Syn: reflect, consider, contemplate. Ant: ignore
+Easy
+
+Pompous
+Self-important; arrogant
+His pompous speech bored all.
+'pomp' = grand show of self.
+Syn: arrogant, pretentious, grandiose. Ant: humble, modest
+Moderate
+
+Precarious
+Unsafe; uncertain
+They held a precarious position.
+'pre-CARE-ious' = needs care; risky.
+Syn: unstable, risky, insecure. Ant: secure, stable
+Difficult
+
+Predominant
+Most common or powerful
+Discipline was the predominant trait.
+'pre-dominant' = dominates over the rest.
+Syn: chief, prevailing, dominant. Ant: minor, subordinate
+Moderate
+
+Presumptuous
+Too bold or overconfident
+It was presumptuous to assume command.
+'presume' too much.
+Syn: arrogant, overconfident, brazen. Ant: modest, humble
+Difficult
+
+Pretext
+A false reason given
+He left on the pretext of illness.
+'pre-text' = a cover story.
+Syn: excuse, cover, guise. Ant: real reason
+Moderate
+
+Proficient
+Skilled and competent
+She is proficient in three languages.
+'pro-fic' = does things well.
+Syn: skilled, adept, capable. Ant: incompetent, inept
+Moderate
+
+Profound
+Very deep or intense
+He made a profound impact.
+'pro-found' = found deep within.
+Syn: deep, intense, thoughtful. Ant: shallow, superficial
+Moderate
+
+Prolific
+Producing much
+A prolific writer of manuals.
+'pro-' + 'lif' (life) = brings forth much.
+Syn: productive, fruitful, abundant. Ant: unproductive, barren
+Difficult
+
+Prosperity
+Success and wealth
+Peace brings prosperity.
+'prosper' = to thrive.
+Syn: success, affluence, wellbeing. Ant: poverty, adversity
+Easy
+
+Provoke
+To stir to anger or action
+Don't provoke the enemy needlessly.
+'pro-' + 'voke' (call) = call forth a reaction.
+Syn: incite, irritate, trigger. Ant: pacify, soothe
+Easy
+
+Prudence
+Caution and good sense
+Prudence guided his decisions.
+See 'prudent'.
+Syn: caution, foresight, wisdom. Ant: recklessness, folly
+Moderate
+
+Quell
+To suppress or calm
+Troops quelled the riot.
+'quell' = squash it down.
+Syn: suppress, crush, subdue. Ant: incite, provoke
+Moderate
+
+Rampant
+Spreading unchecked
+Corruption was rampant.
+'ramp' up everywhere, out of control.
+Syn: unchecked, widespread, rife. Ant: controlled, rare
+Difficult
+
+Rancour
+Bitter, long-lasting resentment
+He spoke without rancour.
+'ranc-' = rancid/sour feeling.
+Syn: bitterness, spite, malice. Ant: goodwill, amity
+Difficult
+
+Rash
+Acting without thought
+A rash decision cost the mission.
+'rash' = hasty and reckless.
+Syn: hasty, reckless, impulsive. Ant: cautious, prudent
+Easy
+
+Reckless
+Careless of danger
+Reckless driving caused the crash.
+'reck-less' = without care.
+Syn: careless, rash, irresponsible. Ant: careful, cautious
+Easy
+
+Redundant
+More than needed; repetitive
+Cut the redundant words.
+'red-' + 'und' = overflowing/extra.
+Syn: superfluous, excess, repetitive. Ant: essential, necessary
+Moderate
+
+Refute
+To prove wrong
+He refuted the charges with facts.
+'re-' + 'fute' (beat back) = beat the argument back.
+Syn: disprove, rebut, counter. Ant: confirm, support
+Difficult
+
+Relinquish
+To give up
+He relinquished his claim.
+'re-' + 'linqu' (leave) = leave behind.
+Syn: surrender, abandon, renounce. Ant: keep, retain
+Difficult
+
+Repent
+To feel regret
+He repented his harsh words.
+'re-pent' = pent-up regret returns.
+Syn: regret, atone, rue. Ant: justify, persist
+Easy
+
+Reprimand
+A formal scolding
+He received a reprimand for the lapse.
+'re-' + 'primand' = press a fault firmly.
+Syn: rebuke, scolding, censure. Ant: praise, commendation
+Moderate
+
+Reproach
+To express disapproval
+She reproached him for being late.
+'re-' + 'proach' = bring a fault near.
+Syn: blame, criticize, rebuke. Ant: praise, approve
+Moderate
+
+Repudiate
+To reject or deny
+He repudiated the false claim.
+'re-PUD' = push away in disgust.
+Syn: reject, deny, disown. Ant: accept, embrace
+Difficult
+
+Resolute
+Firm and determined
+She remained resolute under pressure.
+'re-SOLUTE' = solidly decided.
+Syn: determined, firm, steadfast. Ant: irresolute, wavering
+Moderate
+
+Restrain
+To hold back
+He restrained his anger.
+'re-' + 'strain' = pull back.
+Syn: control, curb, check. Ant: release, free
+Easy
+
+Reverence
+Deep respect
+They showed reverence to the martyrs.
+'re-VERE' = to revere deeply.
+Syn: respect, awe, veneration. Ant: contempt, scorn
+Moderate
+
+Robust
+Strong and healthy
+A robust defence held firm.
+'robust' = like a strong oak (robur).
+Syn: strong, sturdy, vigorous. Ant: weak, frail
+Easy
+
+Rouse
+To wake or stir up
+The speech roused the troops.
+'rouse' = arouse to action.
+Syn: awaken, stir, provoke. Ant: calm, lull
+Moderate
+
+Ruthless
+Without mercy
+A ruthless enemy spares no one.
+'ruth-less' = without pity (ruth).
+Syn: merciless, cruel, harsh. Ant: merciful, kind
+Moderate
+
+Sagacious
+Wise and shrewd
+A sagacious leader plans ahead.
+'sage' + 'acious' = full of wisdom.
+Syn: wise, shrewd, astute. Ant: foolish, naive
+Difficult
+
+Sanction
+Approval; or a penalty
+The plan needs official sanction.
+Two faces: 'allow' or 'punish'.
+Syn: approve, permit; penalty. Ant: ban, prohibit
+Moderate
+
+Scanty
+Insufficient; small in amount
+They had scanty supplies.
+'scant' = barely enough.
+Syn: meagre, sparse, inadequate. Ant: ample, plentiful
+Moderate
+
+Scrupulous
+Very careful and honest
+He was scrupulous about rules.
+Guided by 'scruples' (conscience).
+Syn: conscientious, careful, ethical. Ant: careless, unethical
+Difficult
+
+Serene
+Calm and peaceful
+She stayed serene amid chaos.
+'serene' sounds soothing.
+Syn: calm, tranquil, peaceful. Ant: agitated, turbulent
+Moderate
+
+Servitude
+Slavery; forced service
+They were freed from servitude.
+'serv-' = to serve as a slave.
+Syn: slavery, bondage, subjection. Ant: freedom, liberty
+Difficult
+
+Shrewd
+Clever in judgment
+A shrewd officer reads people well.
+'shrewd' = sharp and smart.
+Syn: astute, sharp, canny. Ant: naive, dull
+Moderate
+
+Slander
+A false spoken statement
+He sued for slander.
+'slander' = spoken smear (libel is written).
+Syn: defamation, smear, calumny. Ant: praise, compliment
+Moderate
+
+Sluggish
+Slow and inactive
+The engine was sluggish in the cold.
+'slug' = a slow creature.
+Syn: slow, lethargic, inactive. Ant: brisk, lively
+Moderate
+
+Solace
+Comfort in sorrow
+He found solace in his duty.
+'sol-ace' = soothe the soul.
+Syn: comfort, consolation, relief. Ant: distress, discomfort
+Moderate
+
+Sombre
+Dark and gloomy; serious
+A sombre mood filled the room.
+'somber' = shadowy and grave.
+Syn: gloomy, grave, dismal. Ant: cheerful, bright
+Moderate
+
+Sporadic
+Occurring irregularly
+There was sporadic firing.
+'spor-' = scattered like spores.
+Syn: occasional, scattered, intermittent. Ant: constant, regular
+Difficult
+
+Squander
+To waste
+Don't squander your chances.
+'squander' = scatter wastefully.
+Syn: waste, fritter, misuse. Ant: save, conserve
+Moderate
+
+Stoic
+Unmoved by pain or emotion
+He bore the loss like a stoic.
+Stoic philosophers stayed calm.
+Syn: unemotional, calm, impassive. Ant: emotional, excitable
+Difficult
+
+Strenuous
+Requiring great effort
+Training was strenuous.
+'strenu-' = needs strength.
+Syn: arduous, demanding, tough. Ant: easy, effortless
+Moderate
+
+Subdue
+To bring under control
+Troops subdued the rebels.
+'sub-' (under) + 'due' = bring under.
+Syn: conquer, suppress, quell. Ant: incite, free
+Moderate
+
+Sullen
+Gloomy and bad-tempered
+He gave a sullen reply.
+'sullen' = silently sulking.
+Syn: moody, morose, surly. Ant: cheerful, pleasant
+Moderate
+
+Surpass
+To go beyond; exceed
+Her score surpassed all others.
+'sur-' (over) + 'pass' = pass over.
+Syn: exceed, outdo, eclipse. Ant: trail, lag
+Easy
+
+Suppress
+To put down or restrain
+They suppressed the revolt.
+'sub-' + 'press' = press down.
+Syn: crush, quell, stifle. Ant: encourage, release
+Moderate
+
+Surmise
+To guess from little evidence
+I surmise he left early.
+'sur-' + 'mise' = put a guess on top.
+Syn: guess, infer, suppose. Ant: know, verify
+Difficult
+
+Tactful
+Skilled at avoiding offence
+A tactful reply calmed everyone.
+Full of 'tact'.
+Syn: diplomatic, discreet, considerate. Ant: tactless, blunt
+Moderate
+
+Tedious
+Boring and tiresome
+The wait was tedious.
+'tedi-' = wearisome.
+Syn: boring, dull, monotonous. Ant: interesting, exciting
+Easy
+
+Temperate
+Moderate and self-controlled
+He was temperate in habits.
+Keeps an even 'temperature'.
+Syn: moderate, restrained, mild. Ant: extreme, excessive
+Moderate
+
+Tenable
+Defensible; able to be held
+His argument was tenable.
+'ten-' = to hold; can be held/defended.
+Syn: defensible, sound, valid. Ant: untenable, indefensible
+Difficult
+
+Tentative
+Not certain; provisional
+They made a tentative plan.
+'tent-' = to try; a trial plan.
+Syn: provisional, hesitant, unconfirmed. Ant: definite, final
+Moderate
+
+Terse
+Brief and to the point
+He gave a terse order.
+'terse' = trimmed of extra words.
+Syn: concise, curt, brief. Ant: wordy, rambling
+Difficult
+
+Thwart
+To prevent or frustrate
+They thwarted the attack.
+'thwart' = cut across the plan.
+Syn: foil, block, frustrate. Ant: assist, enable
+Moderate
+
+Timorous
+Nervous and fearful
+A timorous recruit hesitated.
+'tim-' = fear (timid).
+Syn: fearful, timid, nervous. Ant: bold, fearless
+Difficult
+
+Tolerate
+To put up with
+He could not tolerate indiscipline.
+'toler-' = to bear.
+Syn: endure, bear, permit. Ant: forbid, reject
+Easy
+
+Transient
+Lasting a short time
+Fame is often transient.
+'trans-' = passing through quickly.
+Syn: fleeting, temporary, brief. Ant: permanent, lasting
+Difficult
+
+Trepidation
+Fear or anxiety
+He entered with trepidation.
+'trepid' = trembling.
+Syn: fear, dread, apprehension. Ant: confidence, calm
+Difficult
+
+Ubiquitous
+Present everywhere
+Mobile phones are ubiquitous.
+'ubi-' = everywhere.
+Syn: omnipresent, universal, widespread. Ant: rare, scarce
+Difficult
+
+Unanimous
+In complete agreement
+The decision was unanimous.
+'uni-' (one) + 'anim' (mind) = one mind.
+Syn: united, agreed, undivided. Ant: divided, split
+Moderate
+
+Undermine
+To weaken secretly
+Rumours undermined his authority.
+Dig under the mine = weaken the base.
+Syn: weaken, sabotage, erode. Ant: strengthen, support
+Moderate
+
+Unscrupulous
+Without moral principles
+An unscrupulous dealer cheated them.
+'un-' + 'scruple' = no conscience.
+Syn: dishonest, immoral, corrupt. Ant: honest, ethical
+Difficult
+
+Usurp
+To seize power wrongfully
+He usurped the throne.
+'us-URP' = grab what isn't yours.
+Syn: seize, take over, appropriate. Ant: relinquish, cede
+Difficult
+
+Valour
+Great courage in danger
+He won a medal for valour.
+'val-' = strength/worth.
+Syn: bravery, heroism, gallantry. Ant: cowardice
+Moderate
+
+Venerate
+To regard with deep respect
+Soldiers venerate their flag.
+'vener-' = to worship/respect.
+Syn: revere, honour, worship. Ant: despise, scorn
+Difficult
+
+Verbose
+Using too many words
+His verbose report was hard to read.
+'verb-' = words; too many of them.
+Syn: wordy, long-winded, rambling. Ant: concise, terse
+Difficult
+
+Viable
+Capable of working/surviving
+Is the plan viable?
+'via' = a way; it has a way to work.
+Syn: feasible, workable, practical. Ant: unworkable, hopeless
+Moderate
+
+Vibrant
+Full of energy and life
+A vibrant young officer led the drive.
+'vibr-' = vibrating with energy.
+Syn: lively, energetic, dynamic. Ant: dull, lifeless
+Easy
+
+Vicarious
+Felt through another's experience
+He took vicarious pride in his son's win.
+Experienced second-hand.
+Syn: indirect, secondhand, surrogate. Ant: direct, firsthand
+Difficult
+
+Vicious
+Cruel and violent
+It was a vicious attack.
+'vice' = evil; full of vice.
+Syn: cruel, savage, brutal. Ant: gentle, kind
+Easy
+
+Vigour
+Physical or mental energy
+He worked with great vigour.
+'vig-' = lively strength (vigil/vital).
+Syn: energy, force, vitality. Ant: weakness, lethargy
+Moderate
+
+Vilify
+To speak ill of
+Critics vilified the decision.
+'vil-' = vile; make someone seem vile.
+Syn: defame, malign, slander. Ant: praise, glorify
+Difficult
+
+Vivacious
+Lively and spirited
+Her vivacious manner cheered everyone.
+'viv-' = life; full of life.
+Syn: lively, spirited, animated. Ant: dull, lethargic
+Difficult
+
+Vociferous
+Loud and forceful in speech
+Vociferous protests filled the street.
+'voc-' (voice) + 'fer' = carrying loud voice.
+Syn: loud, clamorous, outspoken. Ant: quiet, silent
+Difficult
+
+Voracious
+Having a huge appetite
+A voracious reader of war history.
+'vor-' = to devour.
+Syn: insatiable, ravenous, greedy. Ant: satisfied
+Difficult
+
+Wane
+To decrease gradually
+His influence began to wane.
+'wane' = the moon shrinking.
+Syn: decline, fade, diminish. Ant: wax, grow
+Moderate
+
+Wary
+Cautious of danger
+Be wary of false promises.
+'wary' = aware of risk.
+Syn: cautious, alert, careful. Ant: careless, trusting
+Easy
+
+Wither
+To dry up or weaken
+Their hopes withered.
+'wither' = like a drying plant.
+Syn: shrivel, fade, decline. Ant: flourish, bloom
+Moderate
+
+Yield
+To produce; or to give in
+The field yields good crops; he refused to yield.
+Two senses: produce / surrender.
+Syn: produce; surrender, submit. Ant: resist, withhold
+Easy
+
+Zealous
+Full of enthusiasm
+A zealous worker inspires others.
+See 'zeal'.
+Syn: enthusiastic, ardent, eager. Ant: apathetic, indifferent
+Moderate
+
+Tier 3 — Advanced words (Barron's high-frequency overlap; for difficult CDS items)
+Word
+Meaning
+Example
+Memory trick
+Similar / opposite words
+Level
+
+Abstruse
+Hard to understand
+The theory was too abstruse for beginners.
+'ab-' (away) + 'struse' = pushed away from understanding.
+Syn: obscure, complex, recondite. Ant: clear, simple
+Difficult
+
+Acquiesce
+To accept reluctantly without protest
+He acquiesced to the new rules.
+'a-QUIET-sce' = go quiet and agree.
+Syn: comply, consent, submit. Ant: resist, object
+Difficult
+
+Admonition
+A gentle warning
+He ignored the admonition and failed.
+See 'admonish'; a warning.
+Syn: warning, caution, rebuke. Ant: praise
+Difficult
+
+Adroit
+Skilful and clever
+An adroit negotiator settled it.
+'a-DROIT' = uses the 'right' (droit) hand well.
+Syn: skilful, deft, dexterous. Ant: clumsy, inept
+Difficult
+
+Aesthetic
+Relating to beauty
+The hall had aesthetic appeal.
+'aesthet-' = sense of beauty.
+Syn: artistic, tasteful, beautiful. Ant: unattractive
+Difficult
+
+Affront
+An open insult
+The remark was an affront to his honour.
+'a-FRONT' = insult to your face/front.
+Syn: insult, offence, slight. Ant: compliment, honour
+Difficult
+
+Aggrandize
+To increase power or wealth
+He sought to aggrandize his position.
+'a-GRAND-ize' = make grander.
+Syn: enhance, boost, exalt. Ant: diminish, belittle
+Difficult
+
+Alleviate
+To relieve or lessen
+Aid alleviated their suffering.
+'a-LEVI' = lighten the load.
+Syn: ease, relieve, soothe. Ant: aggravate
+Moderate
+
+Aloof
+Distant and uninvolved
+He kept aloof from gossip.
+On the 'roof', apart.
+Syn: detached, distant, remote. Ant: friendly, warm
+Moderate
+
+Anathema
+Something greatly detested
+Cowardice is anathema to a soldier.
+'an-ATH' = a hated thing.
+Syn: abomination, curse, bane. Ant: blessing, delight
+Difficult
+
+Antithesis
+The exact opposite
+His action was the antithesis of duty.
+'anti-' = opposite + thesis.
+Syn: opposite, reverse, contrast. Ant: sameness
+Difficult
+
+Apathetic
+Showing no interest
+An apathetic attitude harms teamwork.
+'a-' (without) + 'pathos' (feeling).
+Syn: indifferent, unconcerned, uninterested. Ant: keen, eager
+Moderate
+
+Aplomb
+Self-confidence and poise
+She handled the crisis with aplomb.
+'a-PLUMB' = perfectly upright/steady.
+Syn: poise, composure, confidence. Ant: nervousness
+Difficult
+
+Apprise
+To inform
+Apprise the team of the change.
+'a-PRISE' = give a 'price'/info update.
+Syn: inform, notify, tell. Ant: conceal, withhold
+Difficult
+
+Arcane
+Mysterious; known to few
+The manual used arcane terms.
+'arc-' = hidden in an 'ark'.
+Syn: obscure, mysterious, esoteric. Ant: known, obvious
+Difficult
+
+Ascetic
+Practising severe self-discipline
+The ascetic monk owned nothing.
+'a-SET-ic' = sets aside comforts.
+Syn: austere, self-denying, abstinent. Ant: indulgent
+Difficult
+
+Assuage
+To soothe or relieve
+Kind words assuaged her grief.
+'a-SWAGE' = ease the rage/pain.
+Syn: soothe, ease, relieve. Ant: aggravate, intensify
+Difficult
+
+Audacious
+Recklessly bold
+An audacious raid stunned the enemy.
+'audi-' = dare.
+Syn: bold, daring, brazen. Ant: timid, cautious
+Moderate
+
+Belie
+To contradict or misrepresent
+His calm face belied his fear.
+'be-LIE' = tells a lie about the truth.
+Syn: contradict, disguise, misrepresent. Ant: confirm, reveal
+Difficult
+
+Bequeath
+To leave by will; to pass on
+He bequeathed his medals to the museum.
+'be-QUEATH' = hand down a legacy.
+Syn: leave, hand down, pass on. Ant: take, seize
+Difficult
+
+Bolster
+To strengthen or support
+Reinforcements bolstered the line.
+A bolster (pillow) supports you.
+Syn: support, reinforce, prop. Ant: weaken, undermine
+Moderate
+
+Cacophony
+Harsh, unpleasant noise
+A cacophony of horns filled the road.
+'caco-' (bad) + 'phony' (sound).
+Syn: din, racket, discord. Ant: harmony, melody
+Difficult
+
+Capricious
+Unpredictable; changing on a whim
+A capricious commander confuses troops.
+Jumps about like a goat (capra).
+Syn: fickle, erratic, whimsical. Ant: steady, constant
+Difficult
+
+Censorious
+Severely critical
+His censorious tone discouraged them.
+'censor' = one who blames.
+Syn: critical, faultfinding, disapproving. Ant: approving
+Difficult
+
+Circumvent
+To find a way around (rules)
+He circumvented the procedure.
+'circum-' (around) + 'vent' (come).
+Syn: bypass, evade, sidestep. Ant: confront, comply
+Difficult
+
+Clemency
+Mercy shown to an offender
+The court showed clemency.
+'clem-' = mild (inclement weather is NOT mild).
+Syn: mercy, leniency, compassion. Ant: severity, harshness
+Difficult
+
+Coerce
+To force by threats
+He was coerced into signing.
+'co-FORCE'.
+Syn: force, compel, pressurize. Ant: coax, persuade
+Moderate
+
+Conundrum
+A confusing problem
+The strategy posed a conundrum.
+'con-UNDRUM' = a puzzling riddle.
+Syn: puzzle, riddle, dilemma. Ant: solution
+Difficult
+
+Copious
+Plentiful
+He drank copious amounts of water.
+Enough to 'copy' many times.
+Syn: abundant, ample, profuse. Ant: scant, meagre
+Moderate
+
+Cordon
+A line of guards/barriers
+Police set up a cordon.
+'cord' around an area.
+Syn: barrier, ring, blockade. Ant: opening
+Moderate
+
+Cryptic
+Mysterious, hard to understand
+He left a cryptic note.
+'crypt' = a hidden vault.
+Syn: obscure, enigmatic, puzzling. Ant: clear, obvious
+Difficult
+
+Debilitate
+To weaken
+Illness debilitated the troops.
+'de-' + 'debil' (weak).
+Syn: weaken, enfeeble, sap. Ant: strengthen, fortify
+Difficult
+
+Decadent
+Marked by moral decline
+A decadent regime collapsed.
+'de-CADE-nt' = falling/decaying.
+Syn: degenerate, corrupt, declining. Ant: virtuous, thriving
+Difficult
+
+Deference
+Polite respect
+Treat seniors with deference.
+'defer' to them.
+Syn: respect, regard, courtesy. Ant: disrespect
+Difficult
+
+Demur
+To object or hesitate
+He demurred at the unfair order.
+'de-MUR' = murmur an objection.
+Syn: object, protest, hesitate. Ant: agree, accept
+Difficult
+
+Denigrate
+To criticize unfairly
+Don't denigrate honest effort.
+'de-NIGR' = blacken someone's name.
+Syn: belittle, disparage, defame. Ant: praise, extol
+Difficult
+
+Deprecate
+To express disapproval of
+He deprecated the use of force.
+'de-PRECATE' = pray against it.
+Syn: disapprove, deplore, condemn. Ant: approve, endorse
+Difficult
+
+Desultory
+Random, without plan
+He made a desultory effort.
+'de-SULT' = jumps around aimlessly.
+Syn: aimless, random, unsystematic. Ant: methodical, focused
+Difficult
+
+Diatribe
+A bitter verbal attack
+His diatribe shocked the audience.
+'dia-tribe' = a tirade against a 'tribe'.
+Syn: tirade, rant, harangue. Ant: praise, eulogy
+Difficult
+
+Dilatory
+Slow; causing delay
+His dilatory tactics wasted time.
+'di-LATE-ory' = makes things late.
+Syn: slow, tardy, delaying. Ant: prompt, swift
+Difficult
+
+Disparate
+Very different in kind
+They merged disparate units.
+'dis-PARATE' = not on par/equal.
+Syn: different, distinct, dissimilar. Ant: similar, alike
+Difficult
+
+Dissonance
+Lack of harmony; conflict
+There was dissonance in the ranks.
+'dis-' + 'son' (sound) = clashing sounds.
+Syn: discord, conflict, clash. Ant: harmony, accord
+Difficult
+
+Ebullient
+Cheerful and full of energy
+The ebullient crowd cheered loudly.
+'e-BULL-ient' = bubbling over.
+Syn: exuberant, lively, enthusiastic. Ant: gloomy, subdued
+Difficult
+
+Effervescent
+Bubbly and lively
+Her effervescent spirit lifted all.
+Like bubbling soda.
+Syn: lively, bubbly, vivacious. Ant: dull, flat
+Difficult
+
+Efficacy
+The power to produce results
+They tested the drug's efficacy.
+'effic-' = effective power.
+Syn: effectiveness, potency, efficiency. Ant: ineffectiveness
+Difficult
+
+Effrontery
+Shameless boldness
+He had the effrontery to lie openly.
+'ef-FRONT-ery' = bold to your face.
+Syn: audacity, nerve, gall. Ant: timidity, humility
+Difficult
+
+Elucidate
+To make clear
+He elucidated the strategy.
+'e-LUCID-ate' = make lucid/clear.
+Syn: explain, clarify, illuminate. Ant: confuse, obscure
+Difficult
+
+Emaciated
+Very thin from hunger
+The prisoners looked emaciated.
+'e-MEAT-iated' = no meat left.
+Syn: gaunt, skeletal, wasted. Ant: plump, robust
+Difficult
+
+Enervate
+To weaken or drain energy
+The heat enervated the marchers.
+'en-NERVE-ate' = drains the nerve/energy.
+Syn: weaken, exhaust, sap. Ant: energize, invigorate
+Difficult
+
+Ephemeral
+Short-lived
+Glory can be ephemeral.
+Lasts a day (mayfly).
+Syn: fleeting, transient, brief. Ant: enduring, permanent
+Difficult
+
+Equanimity
+Calmness under stress
+He faced danger with equanimity.
+'equa-' (even) + 'animity' (mind).
+Syn: composure, calmness, poise. Ant: agitation, anxiety
+Difficult
+
+Esoteric
+Understood by only a few
+The text was esoteric.
+Inner-circle knowledge.
+Syn: obscure, arcane, cryptic. Ant: common, accessible
+Difficult
+
+Eulogy
+High praise, often for the dead
+He delivered a moving eulogy.
+'eu-' (good) + 'logy' (speech).
+Syn: tribute, praise, panegyric. Ant: criticism, diatribe
+Difficult
+
+Exacerbate
+To worsen
+Panic exacerbated the chaos.
+Make more 'acerbic'.
+Syn: aggravate, worsen, intensify. Ant: ease, soothe
+Difficult
+
+Fastidious
+Very fussy about detail
+He is fastidious about his kit.
+'fast-IDIOUS' = fussy and hard to please.
+Syn: meticulous, picky, particular. Ant: careless, easygoing
+Difficult
+
+Fortuitous
+Happening by chance (often lucky)
+A fortuitous delay saved them.
+'fortu-' = fortune/chance.
+Syn: accidental, chance, lucky. Ant: planned, intended
+Difficult
+
+Garrulous
+Talking too much
+The garrulous guest tired everyone.
+'gar-gle' words endlessly.
+Syn: talkative, chatty, verbose. Ant: taciturn, silent
+Difficult
+
+Gregarious
+Sociable
+A gregarious leader knows everyone.
+'greg-' = flock.
+Syn: sociable, outgoing, social. Ant: reclusive, solitary
+Difficult
+
+Hackneyed
+Overused; unoriginal
+Avoid hackneyed phrases in essays.
+Like an overworked 'hack' horse.
+Syn: clichéd, trite, stale. Ant: fresh, original
+Difficult
+
+Harbinger
+A sign of things to come
+Dark clouds are a harbinger of rain.
+'harbinger' = the herald/announcer.
+Syn: omen, herald, forerunner. Ant: --
+Difficult
+
+Hapless
+Unfortunate
+The hapless recruit took the blame.
+'hap' (luck) + 'less'.
+Syn: unlucky, luckless, ill-fated. Ant: fortunate
+Moderate
+
+Idiosyncrasy
+A peculiar habit
+Saluting twice was his idiosyncrasy.
+'idio-' = personal/peculiar.
+Syn: quirk, peculiarity, eccentricity. Ant: normality
+Difficult
+
+Impecunious
+Having little money
+An impecunious student saved hard.
+'im-' (not) + 'pecun' (money).
+Syn: poor, penniless, broke. Ant: wealthy, affluent
+Difficult
+
+Inadvertent
+Unintentional
+An inadvertent slip caused the leak.
+'in-' (not) + 'advert' (attention).
+Syn: accidental, unintended. Ant: deliberate
+Moderate
+
+Incessant
+Constant, unending
+Incessant drills built their stamina.
+'in-' (not) + 'cess' (stop).
+Syn: ceaseless, constant, relentless. Ant: occasional
+Difficult
+
+Incorrigible
+Beyond correction
+He is an incorrigible latecomer.
+'in-' (not) + 'corrig' (correct).
+Syn: hopeless, unreformable, hardened. Ant: reformable
+Difficult
+
+Indefatigable
+Tireless
+An indefatigable worker never quits.
+'in-' (not) + 'fatigue'.
+Syn: tireless, untiring, persistent. Ant: weary, lazy
+Difficult
+
+Indigenous
+Native to a place
+Indigenous plants suit the climate.
+'indi-' = born within.
+Syn: native, local, original. Ant: foreign, alien
+Moderate
+
+Ineffable
+Too great to express in words
+An ineffable joy filled them.
+'in-' (not) + 'effable' (sayable).
+Syn: indescribable, inexpressible. Ant: describable
+Difficult
+
+Inexorable
+Impossible to stop
+The inexorable advance continued.
+'in-' (not) + 'exor' (move by begging).
+Syn: relentless, unstoppable, inflexible. Ant: yielding
+Difficult
+
+Insidious
+Harmful in a gradual, hidden way
+Corruption is an insidious threat.
+'in-SID' = sits inside and spreads.
+Syn: stealthy, sneaky, treacherous. Ant: harmless, open
+Difficult
+
+Intransigent
+Refusing to compromise
+An intransigent stance blocked the talks.
+'in-' (not) + 'transigent' (compromising).
+Syn: uncompromising, stubborn, rigid. Ant: flexible, yielding
+Difficult
+
+Inveterate
+Long-established; habitual
+An inveterate smoker, he never quit.
+'in-' + 'veter' (old/veteran).
+Syn: habitual, chronic, confirmed. Ant: occasional
+Difficult
+
+Irascible
+Easily angered
+The irascible officer snapped often.
+'ir-' = anger (ire).
+Syn: irritable, short-tempered, testy. Ant: calm, placid
+Difficult
+
+Laconic
+Using very few words
+He gave a laconic 'No.'
+'lac-' = sparse (like lacking words).
+Syn: terse, concise, brief. Ant: verbose, wordy
+Difficult
+
+Languid
+Lacking energy; slow
+The languid afternoon dragged on.
+'lang-' = weak/limp.
+Syn: sluggish, listless, lethargic. Ant: energetic, brisk
+Difficult
+
+Largesse
+Generous giving
+The chief's largesse helped many.
+'large' giving.
+Syn: generosity, bounty, charity. Ant: stinginess
+Difficult
+
+Levity
+Lack of seriousness
+Levity is unfit for a solemn parade.
+'lev-' = light (levitate).
+Syn: frivolity, flippancy, humour. Ant: seriousness, gravity
+Difficult
+
+Loquacious
+Very talkative
+A loquacious cadet dominated the talk.
+'loqu-' = to speak.
+Syn: talkative, garrulous, chatty. Ant: reticent, quiet
+Difficult
+
+Magnanimity
+Generosity, nobility of spirit
+He showed magnanimity to his foe.
+'magna-' (great) + 'anim' (soul).
+Syn: generosity, nobility, bigheartedness. Ant: pettiness
+Difficult
+
+Malevolent
+Wishing harm to others
+A malevolent glare met him.
+'mal-' (bad) + 'volent' (wishing).
+Syn: spiteful, malicious, hostile. Ant: benevolent, kind
+Difficult
+
+Mellifluous
+Sweet-sounding
+Her mellifluous voice soothed all.
+'melli-' (honey) + 'fluous' (flowing).
+Syn: sweet, melodious, smooth. Ant: harsh, grating
+Difficult
+
+Mercurial
+Quick to change moods
+His mercurial temper kept all on edge.
+Like mercury, fast-moving.
+Syn: volatile, changeable, fickle. Ant: stable, steady
+Difficult
+
+Meticulous
+Extremely careful
+Meticulous planning won the day.
+'me-TICK' every box.
+Syn: careful, precise, thorough. Ant: careless, sloppy
+Moderate
+
+Mitigate
+To make less harsh
+Steps were taken to mitigate the risk.
+'mit-' = soften.
+Syn: lessen, ease, alleviate. Ant: aggravate
+Difficult
+
+Munificent
+Extremely generous
+A munificent donor funded the school.
+'muni-' (gift) + 'fic' (make).
+Syn: generous, lavish, bountiful. Ant: miserly, stingy
+Difficult
+
+Nefarious
+Wicked, criminal
+They foiled the nefarious plot.
+'ne-FAIR-ious' = utterly unfair/evil.
+Syn: villainous, evil, heinous. Ant: virtuous, noble
+Difficult
+
+Obdurate
+Stubbornly refusing to change
+He remained obdurate despite pleas.
+'ob-DURE' = hard/durable will.
+Syn: stubborn, unyielding, inflexible. Ant: yielding, soft
+Difficult
+
+Obsequious
+Excessively obedient or flattering
+His obsequious manner annoyed all.
+'ob-SEEK-ious' = always seeking to please.
+Syn: fawning, servile, sycophantic. Ant: assertive, blunt
+Difficult
+
+Officious
+Bossily interfering
+An officious aide blocked access.
+Too much 'office' authority.
+Syn: meddlesome, intrusive, bossy. Ant: reserved
+Difficult
+
+Ostracize
+To exclude from a group
+The cheat was ostracized.
+Voted out (ancient Greek custom).
+Syn: exclude, banish, shun. Ant: include, welcome
+Difficult
+
+Paragon
+A perfect example
+She is a paragon of discipline.
+'para-gon' = a model standard.
+Syn: model, ideal, exemplar. Ant: failure, flaw
+Difficult
+
+Paucity
+Smallness of quantity; lack
+A paucity of data hindered the plan.
+'pau-' = few (paucity = poverty of).
+Syn: scarcity, dearth, shortage. Ant: abundance
+Difficult
+
+Pejorative
+Expressing disapproval
+Avoid pejorative labels.
+'pejor-' = worse; makes it sound worse.
+Syn: derogatory, disparaging, negative. Ant: complimentary
+Difficult
+
+Penchant
+A strong liking
+He has a penchant for risk.
+'pen-CHANT' = leans/inclines toward.
+Syn: liking, fondness, inclination. Ant: dislike, aversion
+Difficult
+
+Perfidious
+Deceitful, treacherous
+A perfidious ally betrayed them.
+'per-FID' = breaks faith (fidelity).
+Syn: treacherous, disloyal, false. Ant: faithful, loyal
+Difficult
+
+Perfunctory
+Done with little care
+He gave the task perfunctory attention.
+Just going through the motions.
+Syn: cursory, careless, half-hearted. Ant: thorough, careful
+Difficult
+
+Pernicious
+Highly harmful
+Rumours had a pernicious effect.
+'per-' (thoroughly) + 'nec' (kill).
+Syn: harmful, destructive, deadly. Ant: harmless, beneficial
+Difficult
+
+Pertinacious
+Stubbornly persistent
+His pertinacious effort won at last.
+'per-' + 'ten' (hold) = holds on hard.
+Syn: persistent, dogged, tenacious. Ant: irresolute
+Difficult
+
+Petulant
+Childishly irritable
+A petulant reply showed his temper.
+'pet-' = a sulky pet.
+Syn: peevish, sulky, irritable. Ant: good-natured, calm
+Difficult
+
+Placate
+To calm someone's anger
+He placated the upset crowd.
+'plac-' = please/calm.
+Syn: appease, pacify, soothe. Ant: anger, provoke
+Difficult
+
+Plaudits
+Praise or applause
+The team earned plaudits.
+Sounds like 'applause'.
+Syn: praise, acclaim, applause. Ant: criticism, jeers
+Difficult
+
+Precocious
+Showing mature skills early
+A precocious cadet led the drill.
+'pre-' (early) + 'coc' (cook/ripen).
+Syn: advanced, gifted, mature. Ant: backward, slow
+Difficult
+
+Predilection
+A strong preference
+He has a predilection for action.
+'pre-' + 'dilect' (love) = love beforehand.
+Syn: preference, liking, penchant. Ant: aversion, dislike
+Difficult
+
+Prevaricate
+To speak evasively; lie
+He prevaricated when questioned.
+'pre-VARY-cate' = varies the truth.
+Syn: lie, evade, equivocate. Ant: confess, be honest
+Difficult
+
+Pristine
+Clean and unspoiled
+The kit was in pristine condition.
+'pristine' = pure and new.
+Syn: spotless, immaculate, fresh. Ant: dirty, spoiled
+Moderate
+
+Proclivity
+A natural tendency
+A proclivity for leadership showed early.
+'pro-' + 'cliv' (slope) = leans toward.
+Syn: tendency, inclination, penchant. Ant: aversion
+Difficult
+
+Prodigal
+Wastefully extravagant
+His prodigal spending ruined him.
+The 'prodigal son' wasted his wealth.
+Syn: wasteful, extravagant, lavish. Ant: thrifty, frugal
+Difficult
+
+Profuse
+Plentiful; abundant
+He offered profuse apologies.
+'pro-fuse' = pours out freely.
+Syn: abundant, lavish, copious. Ant: scant, sparse
+Difficult
+
+Propensity
+A natural inclination
+A propensity for honesty served him.
+'pro-PENS' = leans/hangs toward.
+Syn: tendency, inclination, bent. Ant: disinclination
+Difficult
+
+Prosaic
+Dull and ordinary
+His prosaic style lacked spark.
+Like plain 'prose', not poetry.
+Syn: dull, ordinary, unimaginative. Ant: exciting, poetic
+Difficult
+
+Quandary
+A state of uncertainty
+He was in a quandary over the order.
+'quand-' = wondering what to do.
+Syn: dilemma, predicament, fix. Ant: certainty
+Difficult
+
+Querulous
+Complaining; whining
+A querulous tone irritated the squad.
+'quer-' = to question/complain.
+Syn: peevish, grumbling, fretful. Ant: contented, cheerful
+Difficult
+
+Quintessential
+The most perfect example
+He was the quintessential officer.
+'quint-essence' = the purest form.
+Syn: ideal, typical, classic. Ant: atypical
+Difficult
+
+Rancorous
+Full of bitterness
+A rancorous dispute split the unit.
+'ranc-' = rancid/sour.
+Syn: bitter, spiteful, hostile. Ant: amicable, friendly
+Difficult
+
+Recalcitrant
+Stubbornly disobedient
+A recalcitrant recruit defied orders.
+'re-' + 'calc' (kick) = kicks back.
+Syn: defiant, unruly, obstinate. Ant: obedient, compliant
+Difficult
+
+Reconcile
+To restore friendship; to settle
+They reconciled after the dispute.
+'re-' + 'concil' = bring together again.
+Syn: settle, harmonize, reunite. Ant: estrange, divide
+Moderate
+
+Redoubtable
+Formidable; commanding respect
+A redoubtable warrior led them.
+Makes enemies 'doubt' fighting you.
+Syn: formidable, mighty, fearsome. Ant: weak, feeble
+Difficult
+
+Relegate
+To assign to a lower position
+He was relegated to a desk job.
+'re-' + 'leg' = send down/away.
+Syn: demote, downgrade, banish. Ant: promote, elevate
+Difficult
+
+Reprehensible
+Deserving blame
+His conduct was reprehensible.
+'re-' + 'prehend' (seize) = grab to blame.
+Syn: blameworthy, shameful, disgraceful. Ant: praiseworthy
+Difficult
+
+Reticent
+Reserved in speech
+He was reticent about his past.
+Keeps words back.
+Syn: reserved, quiet, taciturn. Ant: forthcoming, open
+Difficult
+
+Sanctimonious
+Falsely showing virtue
+His sanctimonious tone fooled no one.
+Fake 'saintly' attitude.
+Syn: self-righteous, preachy, hypocritical. Ant: sincere
+Difficult
+
+Spurious
+Fake; not genuine
+He used a spurious certificate.
+'spur-' = false/illegitimate.
+Syn: fake, false, counterfeit. Ant: genuine, authentic
+Difficult
+
+Strident
+Loud and harsh
+A strident voice broke the silence.
+'strid-' = creaking/screeching.
+Syn: harsh, shrill, grating. Ant: soft, soothing
+Difficult
+
+Sycophant
+A flatterer for personal gain
+Surround yourself with advisers, not sycophants.
+'syco-phant' = a yes-man.
+Syn: flatterer, toady, bootlicker. Ant: critic
+Difficult
+
+Taciturn
+Saying little
+The taciturn sentry rarely spoke.
+'tac-' = silent (tacit).
+Syn: reserved, quiet, reticent. Ant: talkative, garrulous
+Difficult
+
+Tenacity
+Persistence; firmness
+Her tenacity won the contest.
+'ten-' = to hold on.
+Syn: persistence, determination, grit. Ant: weakness
+Moderate
+
+Tractable
+Easy to control or manage
+The new recruits were tractable.
+'tract-' = can be led/pulled.
+Syn: manageable, docile, compliant. Ant: unruly, stubborn
+Difficult
+
+Truculent
+Aggressively defiant
+A truculent reply sparked a fight.
+'truc-' = fierce/savage.
+Syn: aggressive, hostile, combative. Ant: peaceable, mild
+Difficult
+
+Turpitude
+Wicked or immoral behaviour
+He was dismissed for moral turpitude.
+'turp-' = base/vile.
+Syn: depravity, wickedness, vice. Ant: virtue, integrity
+Difficult
+
+Umbrage
+Offence or annoyance
+He took umbrage at the remark.
+'umbra' = shadow; cast in a bad light.
+Syn: offence, resentment, pique. Ant: pleasure, delight
+Difficult
+
+Vacillate
+To waver indecisively
+He vacillated before acting.
+'vacil-' = to sway.
+Syn: waver, dither, hesitate. Ant: decide, resolve
+Difficult
+
+Venal
+Open to bribery
+A venal official took the bribe.
+'ven-' = for sale.
+Syn: corrupt, bribable, mercenary. Ant: honest, incorruptible
+Difficult
+
+Verbose
+Wordy
+A verbose answer wastes time.
+'verb-' = words; too many.
+Syn: wordy, long-winded, prolix. Ant: concise, terse
+Difficult
+
+Vindictive
+Seeking revenge
+A vindictive rival sought payback.
+'vindi-' = revenge (vendetta).
+Syn: vengeful, spiteful, unforgiving. Ant: forgiving
+Difficult
+
+Virulent
+Extremely harmful or bitter
+A virulent attack on his honour.
+'viru-' = poison (virus).
+Syn: poisonous, bitter, hostile. Ant: harmless, benign
+Difficult
+
+Volition
+One's own free choice
+He left of his own volition.
+'vol-' = will (voluntary).
+Syn: free will, choice, intent. Ant: compulsion, coercion
+Difficult
+
+Wanton
+Reckless and without reason
+Wanton destruction shocked all.
+'wanton' = unrestrained, careless.
+Syn: reckless, needless, malicious. Ant: justified, careful
+Difficult
+
+Zenith
+The highest point
+His career reached its zenith.
+'zenith' = top of the sky.
+Syn: peak, summit, climax. Ant: nadir, bottom
+Difficult
+
+
+2.4  One-word substitutions (high-yield in both exams)
+Description
+One word
+Memory hook
+Level
+
+One who loves mankind
+Philanthropist
+'phil-' love + 'anthropo' man
+Moderate
+
+One who hates mankind
+Misanthrope
+'mis-' hate + 'anthropo'
+Difficult
+
+One who does not believe in God
+Atheist
+'a-' not + 'theos' god
+Easy
+
+One who believes in God
+Theist
+'theos' = god
+Easy
+
+One who doubts the existence of God
+Agnostic
+'a-' not + 'gnosis' knowledge
+Difficult
+
+A person who knows many languages
+Polyglot
+'poly-' many + 'glot' tongue
+Moderate
+
+A speech made without preparation
+Extempore
+'ex-tempore' = out of time
+Moderate
+
+A government by the people
+Democracy
+'demos' people + 'cracy' rule
+Easy
+
+Government by a king or queen
+Monarchy
+'mono' one + 'archy' rule
+Easy
+
+Government by the few
+Oligarchy
+'oligo' few
+Difficult
+
+Rule by officials
+Bureaucracy
+'bureau' office
+Moderate
+
+A person who travels on foot
+Pedestrian
+'ped-' foot
+Easy
+
+One who walks in sleep
+Somnambulist
+'somn-' sleep + 'ambul' walk
+Difficult
+
+One who talks in sleep
+Somniloquist
+'somn-' sleep + 'loqu' speak
+Difficult
+
+A place where birds are kept
+Aviary
+'avi-' bird
+Moderate
+
+A place where bees are kept
+Apiary
+'api-' bee
+Difficult
+
+A place for keeping fish
+Aquarium
+'aqua' water
+Easy
+
+Animals that eat flesh
+Carnivorous
+'carni' flesh + 'vor' eat
+Moderate
+
+Animals that eat plants
+Herbivorous
+'herb' plant
+Moderate
+
+Animals that eat both
+Omnivorous
+'omni' all
+Moderate
+
+One who eats human flesh
+Cannibal
+think 'cannibalism'
+Moderate
+
+Words of a departed person
+Last words / Testament
+--
+Moderate
+
+A handwriting that cannot be read
+Illegible
+'il-' not + 'leg' read
+Moderate
+
+That which cannot be corrected
+Incorrigible
+'in-' not + 'corrig' correct
+Difficult
+
+That which cannot be conquered
+Invincible
+'in-' not + 'vinc' conquer
+Moderate
+
+That which cannot be avoided
+Inevitable
+'in-' not + 'evit' avoid
+Moderate
+
+That which cannot be believed
+Incredible
+'in-' not + 'cred' believe
+Easy
+
+That which cannot be explained
+Inexplicable
+'in-' + 'explic' explain
+Difficult
+
+That which cannot be satisfied
+Insatiable
+'in-' + 'satiate'
+Difficult
+
+That which cannot be heard
+Inaudible
+'in-' + 'audi' hear
+Easy
+
+That which cannot be seen
+Invisible
+'in-' + 'vis' see
+Easy
+
+That which cannot be undone
+Irreversible / Irrevocable
+'ir-' not + reverse/revoke
+Difficult
+
+Capable of being touched
+Tangible
+'tang-' touch
+Moderate
+
+One who is greedy for money
+Avaricious
+'avarice' = greed
+Difficult
+
+One who is all-powerful
+Omnipotent
+'omni' all + 'potent' power
+Moderate
+
+One who is present everywhere
+Omnipresent
+'omni' + 'present'
+Moderate
+
+One who knows everything
+Omniscient
+'omni' + 'sci' know
+Difficult
+
+A medicine to counteract poison
+Antidote
+'anti-' against
+Moderate
+
+A person who fights for a cause
+Crusader
+think 'crusade'
+Moderate
+
+A list of items of business at a meeting
+Agenda
+'agenda' = to be done
+Easy
+
+A short trip for pleasure
+Excursion
+'ex-curs' run out
+Easy
+
+A person recovering from illness
+Convalescent
+'con-vale' grow strong
+Difficult
+
+One who studies the past through remains
+Archaeologist
+'archaeo' ancient
+Moderate
+
+The study of birds
+Ornithology
+'ornith' bird
+Difficult
+
+The study of the universe
+Cosmology
+'cosmo' universe
+Difficult
+
+The study of mankind
+Anthropology
+'anthropo' man
+Moderate
+
+The art of beautiful handwriting
+Calligraphy
+'calli' beauty + 'graph' write
+Moderate
+
+A person who loves books
+Bibliophile
+'biblio' book + 'phile' love
+Difficult
+
+One who collects coins
+Numismatist
+think 'numismatic'
+Difficult
+
+One who collects stamps
+Philatelist
+'phil-' love of stamps
+Difficult
+
+A person hard to please
+Fastidious
+fussy and picky
+Difficult
+
+A remedy for all diseases
+Panacea
+'pan-' all + 'acea' cure
+Difficult
+
+Words spoken to oneself
+Soliloquy
+'soli' alone + 'loqu' speak
+Difficult
+
+Capable of burning
+Combustible
+'combust' burn
+Moderate
+
+One who lives alone
+Recluse / Hermit
+cut off from society
+Moderate
+
+Murder of a king
+Regicide
+'reg-' king + 'cide' kill
+Difficult
+
+Murder of a brother
+Fratricide
+'fratri' brother
+Difficult
+
+Killing of oneself
+Suicide
+'sui' self
+Easy
+
+Killing of an infant
+Infanticide
+'infant' + 'cide'
+Moderate
+
+One who cannot read or write
+Illiterate
+'il-' not + literate
+Easy
+
+A person who renounces the world
+Ascetic
+self-denying
+Difficult
+
+One who pretends to be what he is not
+Hypocrite
+wears a mask
+Moderate
+
+A person who is new to a job
+Novice
+'nov-' new
+Easy
+
+One who is skilled in many things
+Versatile
+'vers-' turns to all
+Moderate
+
+A speech in praise of someone
+Eulogy
+'eu-' good + 'logy' speech
+Difficult
+
+A decision made on the spur of the moment
+Impromptu
+'in promptu'
+Moderate
+
+A person who breaks the law
+Offender / Culprit
+at fault
+Easy
+
+One who can use both hands equally
+Ambidextrous
+'ambi-' both
+Difficult
+
+A cure-all
+Panacea
+'pan-' all
+Difficult
+
+The first speech of a person
+Maiden speech
+first/maiden
+Moderate
+
+A person who works for free
+Volunteer
+'vol-' free will
+Easy
+
+One incapable of feeling pain
+Insensible / Impassive
+'in-' not + sense
+Moderate
+
+That which lasts for a short time
+Ephemeral / Transient
+short-lived
+Difficult
+
+A place of complete safety
+Sanctuary
+'sanct' holy/safe
+Moderate
+
+A word opposite in meaning
+Antonym
+'anti-' opposite
+Easy
+
+A word same in meaning
+Synonym
+'syn-' same
+Easy
+
+A figure with many sides
+Polygon
+'poly-' many
+Easy
+
+One who eats too much
+Glutton
+greedy eater
+Moderate
+
+A loud and confused noise
+Bedlam / Pandemonium
+total chaos
+Difficult
+
+A person of bad character
+Reprobate / Scoundrel
+beyond reform
+Difficult
+
+A journey by sea
+Voyage
+sea travel
+Easy
+
+A group of stars
+Constellation
+'con-stella' stars together
+Moderate
+
+One who is indifferent to pleasure and pain
+Stoic
+stays calm
+Difficult
+
+A person difficult to satisfy with food
+Epicure / Gourmet
+fine taste
+Difficult
+
+Loss of memory
+Amnesia
+'a-' not + 'mnesia' memory
+Moderate
+
+Fear of water
+Hydrophobia
+'hydro' water + 'phobia' fear
+Moderate
+
+Fear of foreigners
+Xenophobia
+'xeno' foreign
+Difficult
+
+Fear of confined spaces
+Claustrophobia
+'claustro' closed
+Moderate
+
+Fear of heights
+Acrophobia
+'acro' height
+Difficult
+
+One who lives by preying on others
+Parasite
+feeds on a host
+Moderate
+
+A person who deserts his religion
+Apostate
+abandons faith
+Difficult
+
+A statement open to more than one meaning
+Ambiguous
+'ambi-' both
+Moderate
+
+2.5  Idioms & phrases (figurative meaning is tested, not the literal)
+Idiom / phrase
+Meaning
+Example
+Level
+
+At the eleventh hour
+At the last possible moment
+He finished the report at the eleventh hour.
+Moderate
+
+A white elephant
+A costly but useless possession
+The unused stadium became a white elephant.
+Moderate
+
+To turn over a new leaf
+To start behaving better
+After the warning, he turned over a new leaf.
+Easy
+
+To keep a stiff upper lip
+To stay calm and brave
+She kept a stiff upper lip during the crisis.
+Moderate
+
+A piece of cake
+Something very easy
+The test was a piece of cake.
+Easy
+
+In the long run
+Over a long period; eventually
+Discipline pays in the long run.
+Easy
+
+To bury the hatchet
+To make peace
+The rivals buried the hatchet.
+Moderate
+
+To beat about the bush
+To avoid the main point
+Don't beat about the bush; tell me.
+Easy
+
+To break the ice
+To start a conversation
+He told a joke to break the ice.
+Easy
+
+To smell a rat
+To suspect something wrong
+She smelt a rat when he lied.
+Moderate
+
+To add fuel to the fire
+To make a bad situation worse
+His remark added fuel to the fire.
+Easy
+
+To call a spade a spade
+To speak frankly
+He always calls a spade a spade.
+Moderate
+
+A blessing in disguise
+A good thing that seemed bad at first
+The delay was a blessing in disguise.
+Moderate
+
+To make a clean breast of
+To confess everything
+He made a clean breast of his mistake.
+Difficult
+
+To cross the Rubicon
+To take an irreversible step
+Signing it, he crossed the Rubicon.
+Difficult
+
+To pull one's leg
+To tease or fool someone
+They pulled his leg about the result.
+Easy
+
+To let the cat out of the bag
+To reveal a secret
+He let the cat out of the bag too soon.
+Easy
+
+To be in hot water
+To be in trouble
+He landed in hot water for being late.
+Easy
+
+To burn the midnight oil
+To study/work late
+She burnt the midnight oil before exams.
+Moderate
+
+To hit the nail on the head
+To be exactly right
+Your answer hit the nail on the head.
+Moderate
+
+A bolt from the blue
+A sudden shock
+The news was a bolt from the blue.
+Moderate
+
+To bite the dust
+To be defeated or die
+The enemy bit the dust.
+Moderate
+
+To play second fiddle
+To take a subordinate role
+He refused to play second fiddle.
+Difficult
+
+To show the white feather
+To show cowardice
+A true soldier never shows the white feather.
+Difficult
+
+To win laurels
+To gain honour/fame
+She won laurels for the nation.
+Moderate
+
+To be at one's wit's end
+To be totally confused
+He was at his wit's end over the plan.
+Moderate
+
+To have an axe to grind
+To have a selfish motive
+He has an axe to grind in this matter.
+Difficult
+
+To rest on one's laurels
+To rely on past success
+Don't rest on your laurels; keep training.
+Difficult
+
+To make both ends meet
+To manage on limited money
+They struggled to make both ends meet.
+Moderate
+
+To take to one's heels
+To run away
+The thieves took to their heels.
+Easy
+
+A storm in a teacup
+A big fuss over a small matter
+The quarrel was a storm in a teacup.
+Moderate
+
+To put one's foot down
+To be firm
+The officer put his foot down on indiscipline.
+Easy
+
+To throw in the towel
+To give up
+He refused to throw in the towel.
+Moderate
+
+To leave no stone unturned
+To try every possible way
+They left no stone unturned to win.
+Easy
+
+A dark horse
+An unexpected winner
+The dark horse won the contest.
+Moderate
+
+To get cold feet
+To lose courage at the last moment
+He got cold feet before the jump.
+Moderate
+
+To face the music
+To accept consequences
+He had to face the music for his error.
+Moderate
+
+To spill the beans
+To reveal a secret
+Don't spill the beans about the surprise.
+Easy
+
+Once in a blue moon
+Very rarely
+He visits once in a blue moon.
+Easy
+
+To read between the lines
+To find a hidden meaning
+Read between the lines of his reply.
+Moderate
+
+To be hand in glove
+To be in close partnership
+They were hand in glove with the enemy.
+Difficult
+
+To cut a sorry figure
+To make a poor impression
+He cut a sorry figure on stage.
+Difficult
+
+A wild goose chase
+A useless pursuit
+The search was a wild goose chase.
+Moderate
+
+To keep one's word
+To honour a promise
+A leader must keep his word.
+Easy
+
+To bell the cat
+To take a dangerous lead
+No one dared to bell the cat.
+Difficult
+
+To go to the dogs
+To be ruined
+The firm went to the dogs.
+Moderate
+
+To make a mountain out of a molehill
+To exaggerate a small issue
+Stop making a mountain out of a molehill.
+Moderate
+
+To nip in the bud
+To stop at an early stage
+Nip the problem in the bud.
+Moderate
+
+To be on the horns of a dilemma
+To face two hard choices
+He was on the horns of a dilemma.
+Difficult
+
+
+Section 3 — Roots, Prefixes & Suffixes
+Learning these lets you decode unknown words in the exam hall. If you know the root and the prefix, you can usually eliminate two options even for a word you have never seen.
+3.1  Common roots
+Root
+Meaning
+Examples
+Rule of thumb
+
+bene-
+good/well
+benevolent, benefit, benign
+Sees 'bene-' → think positive/good.
+
+mal-
+bad/evil
+malice, malign, malevolent, malady
+'mal-' almost always = harmful.
+
+bel-/belli-
+war
+belligerent, rebel, bellicose
+War-related; aggression.
+
+bio-
+life
+biology, biография, biopsy
+Life sciences.
+
+chron-
+time
+chronic, chronology, synchronize
+Time-related words.
+
+cred-
+believe
+credible, credulous, incredible
+Belief/trust.
+
+dict-
+say/speak
+predict, dictate, contradict
+Speaking/declaring.
+
+duc-/duct-
+lead
+conduct, induce, educate
+To lead or draw.
+
+fid-
+faith/trust
+fidelity, confident, perfidious
+Faith/loyalty.
+
+greg-
+flock/group
+gregarious, congregate, segregate
+Group behaviour.
+
+loqu-/loc-
+speak
+eloquent, loquacious, soliloquy
+Talking words.
+
+luc-/lum-
+light
+lucid, illuminate, translucent
+Light/clarity.
+
+magn-
+great/large
+magnificent, magnanimous, magnitude
+Bigness/greatness.
+
+mort-
+death
+mortal, immortal, mortuary
+Death-related.
+
+path-
+feeling/disease
+sympathy, apathy, pathology
+Emotion or illness.
+
+phil-
+love
+philanthropist, bibliophile
+Love/fondness for.
+
+phon-
+sound
+phonetics, cacophony, symphony
+Sound-related.
+
+port-
+carry
+portable, transport, export
+To carry.
+
+scrib-/script-
+write
+describe, manuscript, inscription
+Writing.
+
+sol-
+alone/sun
+solitude, soliloquy; or solar
+Alone (or sun).
+
+spec-/spect-
+look/see
+inspect, conspicuous, spectator
+Seeing/observing.
+
+ten-/tain-
+hold
+tenacious, retain, sustain
+To hold/keep.
+
+vid-/vis-
+see
+visible, evident, vision
+Sight.
+
+voc-/vok-
+call/voice
+vocal, provoke, advocate
+Voice/calling.
+
+ver-
+truth
+verify, veracity, verdict
+Truth.
+
+temp-
+time
+temporary, contemporary, tempo
+Time.
+
+3.2  Common prefixes
+Prefix
+Meaning
+Examples
+Rule of thumb
+
+a-/an-
+without/not
+apathy, atheist, anonymous
+Negates the root.
+
+ab-
+away from
+abduct, abnormal, abstain
+Movement away.
+
+ante-
+before
+antecedent, anterior
+Comes before (vs anti).
+
+anti-
+against
+antidote, antipathy, antagonist
+Opposition.
+
+circum-
+around
+circumvent, circumference
+Going around.
+
+con-/com-
+with/together
+consensus, compress, collaborate
+Togetherness.
+
+de-
+down/away
+descend, demote, devalue
+Downward/removal.
+
+dis-
+not/apart
+disagree, disperse, dissent
+Negative/separation.
+
+e-/ex-
+out
+exclude, emit, extract
+Outward.
+
+in-/im-/il-/ir-
+not (or into)
+invisible, impossible, illegal, irregular
+Usually negation.
+
+inter-
+between
+intervene, international
+Among/between.
+
+mis-
+wrongly
+misjudge, misanthrope, mislead
+Wrong or bad.
+
+mono-
+one
+monarchy, monologue, monotone
+Single.
+
+poly-
+many
+polyglot, polygon
+Many.
+
+pre-
+before
+predict, precede, premature
+Earlier in time.
+
+pro-
+forward/for
+proceed, promote, prologue
+Forward/support.
+
+re-
+again/back
+return, refute, reconcile
+Repeat or back.
+
+sub-
+under
+submarine, subdue, subordinate
+Below.
+
+super-/sur-
+above/over
+superior, surpass, supervise
+Above.
+
+trans-
+across
+transport, transient, translate
+Across/through.
+
+un-
+not
+unfair, unwilling, unscrupulous
+Simple negation.
+
+bene-
+good
+benefit, benevolent
+Positive sense.
+
+3.3  Common suffixes
+Suffix
+Meaning
+Examples
+Rule of thumb
+
+-able/-ible
+capable of
+tenable, credible, viable
+Can be done.
+
+-cide
+killing
+suicide, regicide, fratricide
+Act of killing.
+
+-cracy
+rule/government
+democracy, bureaucracy
+Type of rule.
+
+-ful
+full of
+fearful, doubtful, zealous(=full of zeal)
+Has plenty of.
+
+-fy/-ify
+to make
+clarify, magnify, pacify
+To cause to be.
+
+-ist
+one who
+atheist, philanthropist
+A person who.
+
+-logy
+study of
+biology, anthropology
+A field of study.
+
+-ous
+full of
+courageous, virulent, copious
+Characterised by.
+
+-phobia
+fear of
+claustrophobia, xenophobia
+An irrational fear.
+
+-phile
+lover of
+bibliophile, anglophile
+One who loves.
+
+-cracy/-arch
+rule
+oligarchy, monarchy
+Forms of power.
+
+-ity/-ty
+state/quality
+integrity, brevity, tenacity
+Abstract noun marker.
+
+-ize/-ise
+to make/become
+jeopardize, ostracize
+To turn into.
+
+- less
+without
+reckless, ruthless, hapless
+Lacking something.
+
+-ment
+result/action
+predicament, admonishment
+Noun of action.
+
+
+Section 4 — Common Synonym Groups
+Exam options are usually drawn from inside one of these clusters. Knowing the cluster makes both synonym and antonym questions faster — the opposite group is your antonym pool.
+Group
+Words (study together; opposite group = antonyms)
+
+Praise / Approval
+commend, laud, extol, exalt, applaud, eulogize, venerate, acclaim, endorse, plaudits
+
+Criticism / Blame
+censure, condemn, rebuke, reprimand, castigate, chastise, berate, denounce, deride, disparage, denigrate, reproach
+
+Fear / Anxiety
+trepidation, apprehension, dread, dismay, timorous, timid, foreboding, consternation
+
+Anger / Hostility
+irate, indignant, vehement, belligerent, irascible, truculent, animosity, rancour, wrath
+
+Confusion / Puzzlement
+bewilder, perplex, baffle, befuddle, conundrum, quandary, enigma, ambiguous, obscure
+
+Honesty / Truthfulness
+candid, frank, sincere, forthright, integrity, probity, veracity, ingenuous
+
+Dishonesty / Deceit
+deceitful, devious, furtive, perfidious, spurious, duplicity, guile, mendacious
+
+Speaking (a lot)
+garrulous, loquacious, voluble, verbose, vociferous, eloquent, articulate
+
+Speaking (little)
+taciturn, reticent, laconic, terse, reserved, succinct
+
+Intelligence / Wisdom
+astute, shrewd, sagacious, judicious, erudite, acumen, prudent, perspicacious
+
+Foolishness / Naivety
+inane, gullible, credulous, naive, fatuous, obtuse
+
+Strength / Courage
+fortitude, valour, intrepid, gallant, valiant, robust, tenacity, resilient, stoic
+
+Weakness / Cowardice
+feeble, frail, timid, timorous, infirm, cowardice, faint-hearted
+
+Movement (fast)
+expedite, hasten, accelerate, brisk, alacrity, swift
+
+Movement (slow)
+sluggish, languid, dilatory, lethargic, dawdle, tardy
+
+Kindness / Generosity
+benevolent, magnanimous, munificent, compassionate, cordial, affable, largesse
+
+Stubbornness
+obstinate, adamant, obdurate, intransigent, recalcitrant, headstrong, dogmatic
+
+Abundance / Excess
+copious, profuse, plethora, ample, prolific, lavish, voracious(appetite)
+
+Scarcity / Lack
+scarce, dearth, paucity, meagre, scanty, sparse, destitute
+
+Calm / Peace
+serene, tranquil, placid, equanimity, composed, sedate, pacify, assuage
+
+
+Section 5 — Commonly Confused Words
+These pairs are favourites in spelling, error-spotting and sentence-improvement questions, especially in AFCAT.
+Confused pair
+Difference
+Tip to remember
+
+Affect / Effect
+'Affect' (verb) = to influence; 'Effect' (noun) = result
+Affect = Action; Effect = End result.
+
+Accept / Except
+'Accept' = to receive; 'Except' = excluding
+'Ex-' in Except = exclude.
+
+Adapt / Adopt
+'Adapt' = adjust to; 'Adopt' = take on as your own
+Ada-PT = adjust; ad-OPT = opt to take.
+
+Principal / Principle
+'Principal' = head/main; 'Principle' = a rule
+The principal is your 'pal'; principle = rule.
+
+Stationary / Stationery
+'Stationary' = not moving; 'Stationery' = writing materials
+'e' in stationEry = Envelope/pEn.
+
+Complement / Compliment
+'Complement' = completes; 'Compliment' = praise
+Compl-E-ment = complete; compl-I-ment = praise (I like it).
+
+Counsel / Council
+'Counsel' = advice; 'Council' = a group/assembly
+CounSEL = adviSE; counCIL = a body.
+
+Eligible / Illegible
+'Eligible' = qualified; 'Illegible' = unreadable
+'Il-' = not, can't read.
+
+Eminent / Imminent
+'Eminent' = famous; 'Imminent' = about to happen
+Imm-IN-ent = coming IN soon.
+
+Ingenious / Ingenuous
+'Ingenious' = clever; 'Ingenuous' = innocent/naive
+-OUS innocent; -IOUS clever idea.
+
+Loose / Lose
+'Loose' = not tight; 'Lose' = to misplace/fail
+Loose has an extra 'o' = loose.
+
+Desert / Dessert
+'Desert' = dry land/abandon; 'Dessert' = sweet dish
+Dessert has 2 's' = So Sweet.
+
+Cite / Site / Sight
+'Cite' = quote; 'Site' = place; 'Sight' = vision
+Site = locaSion; Sight = eyeSight.
+
+Council / Counsel
+See above pair
+--
+
+Censure / Censor
+'Censure' = blame; 'Censor' = to ban content
+CensUre = blame; censOr = cut out.
+
+Confident / Confidant
+'Confident' = sure; 'Confidant' = a trusted friend
+-ant person you confide in.
+
+Moral / Morale
+'Moral' = ethical; 'Morale' = team spirit
+MoralE = Energy/spirit of a team.
+
+Personal / Personnel
+'Personal' = private; 'Personnel' = staff
+PersonnEL = EmpLoyees.
+
+Precede / Proceed
+'Precede' = come before; 'Proceed' = to go on
+Pre- = before; Pro- = forward.
+
+Devise / Device
+'Devise' (verb) = to plan; 'Device' (noun) = a gadget
+-SE verb; -CE noun.
+
+Advice / Advise
+'Advice' (noun); 'Advise' (verb)
+-CE noun; -SE verb.
+
+Beside / Besides
+'Beside' = next to; 'Besides' = in addition
+BesideS = something extra (S).
+
+Farther / Further
+'Farther' = physical distance; 'Further' = extra/abstract
+FARther = FAR distance.
+
+Imply / Infer
+'Imply' = speaker suggests; 'Infer' = listener concludes
+Speaker imPlies; listener inFers.
+
+Lay / Lie
+'Lay' = to place something; 'Lie' = to recline
+Lay needs an object; lie does not.
+
+Allusion / Illusion
+'Allusion' = an indirect reference; 'Illusion' = a false impression
+Allusion = to mention; Illusion = unreal.
+
+Coarse / Course
+'Coarse' = rough; 'Course' = a path/class
+CoArse = rough As sand.
+
+Elicit / Illicit
+'Elicit' = draw out; 'Illicit' = illegal
+'Il-' = not allowed.
+
+Discreet / Discrete
+'Discreet' = careful; 'Discrete' = separate
+DiscreEt = sEcrEt; discretE = sEparatE.
+
+Continual / Continuous
+'Continual' = repeated with breaks; 'Continuous' = unbroken
+-ous = one unbroken stretch.
+
+
+Section 6 — 30-Day Revision Strategy
+A practical plan that covers the whole document with built-in revision. Aim for ~25–30 new words a day plus revision of earlier days. Test yourself by covering the meaning column and recalling it from the word, then doing the reverse.
+Day(s)
+Focus
+How to revise
+
+1–3
+Tier 1 words (A–D)
+Read word + meaning + trick aloud; write 1 sentence each.
+
+4–6
+Tier 1 words (E–Z)
+Same method; revise Days 1–3 for 15 min.
+
+7
+Revision + self-test
+Cover meanings; recall all Tier 1. Mark weak words.
+
+8–11
+Tier 2 words (A–F)
+Group by synonym clusters (Section 4) as you go.
+
+12–15
+Tier 2 words (G–Z)
+Revise weak Tier 1 words daily (10 min).
+
+16
+Revision + self-test
+Test Tier 2; redo missed Tier 1 words.
+
+17–19
+Roots, prefixes, suffixes (Section 3)
+Decode 5 unknown words a day using roots.
+
+20–22
+One-word substitutions (Section 2.4)
+Make flashcards: description → word.
+
+23–24
+Idioms & phrases (Section 2.5)
+Use 5 idioms in your own sentences daily.
+
+25–27
+Tier 3 advanced words
+Link each to a root/synonym group to retain.
+
+28
+Commonly confused words (Section 5)
+Write the tip in your own words; quiz a friend.
+
+29
+Full mixed self-test
+20 synonyms + 20 antonyms + 10 idioms + 10 OWS, timed.
+
+30
+Final sweep of all 'weak' marks
+Re-read only the words you starred. Light, confident pass.
+
+Daily micro-routine (keep it simple)
+Learn in clusters, not alphabetically in your head — the brain stores synonyms together.
+Always learn a word with its antonym; CDS/AFCAT test both.
+Say the memory trick out loud once; tricks work better heard than read.
+Revisit weak words on Day +1, +3 and +7 (spaced repetition).
+In the last week, switch from learning to timed self-testing with negative marking in mind (AFCAT).
+Accuracy note: Meanings, examples and tricks are written originally for this document. Past questions are not reproduced. The list is a trend-based, high-probability selection for CDS (priority) and AFCAT — not a guarantee of exact repetition.

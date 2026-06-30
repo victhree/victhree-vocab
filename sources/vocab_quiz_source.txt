@@ -1,0 +1,4431 @@
+﻿
+CDS & AFCAT English Vocabulary — Practice Quiz
+737 CDS-style multiple-choice questions • four options each • answer marked below every question
+How to use this file: Part A tests single words (synonym / antonym, in real CDS proportions), Part B tests idioms, Part C tests one-word substitutions. The correct option is given on the “Answer:” line after each question (green, bold) so it can be parsed when building a quiz app. Distractors are auto-generated from the same vocabulary set; do a light human review before publishing, as an occasional distractor may be a loose synonym.
+Part A — Synonyms & Antonyms (single words)
+Q1. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ABATE
+(a) lessen
+(b) reject
+(c) substance
+(d) intensify
+Answer: (d) intensify
+Q2. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ABERRATION
+(a) deviation
+(b) shortage
+(c) norm
+(d) fallacy
+Answer: (c) norm
+Q3. Choose the word nearest in meaning to the word in capitals: ABHOR
+(a) detest
+(b) disdain
+(c) admire
+(d) charitable
+Answer: (a) detest
+Q4. Choose the word nearest in meaning to the word in capitals: ABSTAIN
+(a) justified
+(b) universal
+(c) refrain
+(d) indulge
+Answer: (c) refrain
+Q5. Choose the word nearest in meaning to the word in capitals: ACCORD
+(a) discord
+(b) amity
+(c) agreement
+(d) protection
+Answer: (c) agreement
+Q6. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ACUMEN
+(a) stupidity
+(b) cool
+(c) shrewdness
+(d) overt
+Answer: (a) stupidity
+Q7. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ADAMANT
+(a) flexible
+(b) industry
+(c) firm
+(d) clarify
+Answer: (a) flexible
+Q8. Choose the word nearest in meaning to the word in capitals: ADEPT
+(a) usurp
+(b) awaken
+(c) skilled
+(d) inept
+Answer: (c) skilled
+Q9. Choose the word nearest in meaning to the word in capitals: ADMONISH
+(a) reprimand
+(b) credulous
+(c) praise
+(d) insight
+Answer: (a) reprimand
+Q10. Choose the word nearest in meaning to the word in capitals: ADVERSITY
+(a) prosperity
+(b) tardy
+(c) hardship
+(d) security
+Answer: (c) hardship
+Q11. Choose the word most nearly OPPOSITE in meaning to the word in capitals: AFFABLE
+(a) aloof
+(b) friendly
+(c) ebullient
+(d) sturdy
+Answer: (a) aloof
+Q12. Choose the word most nearly OPPOSITE in meaning to the word in capitals: AGGRAVATE
+(a) admonish
+(b) ease
+(c) worsen
+(d) reassure
+Answer: (b) ease
+Q13. Choose the word nearest in meaning to the word in capitals: ALLEVIATE
+(a) curse
+(b) ease
+(c) chide
+(d) aggravate
+Answer: (b) ease
+Q14. Choose the word nearest in meaning to the word in capitals: ALOOF
+(a) deadly
+(b) detached
+(c) friendly
+(d) unquenchable
+Answer: (b) detached
+Q15. Choose the word nearest in meaning to the word in capitals: AMBIGUOUS
+(a) clear
+(b) uncompromising
+(c) unclear
+(d) commendation
+Answer: (c) unclear
+Q16. Choose the word most nearly OPPOSITE in meaning to the word in capitals: AMICABLE
+(a) typical
+(b) confirm
+(c) friendly
+(d) hostile
+Answer: (d) hostile
+Q17. Choose the word most nearly OPPOSITE in meaning to the word in capitals: APATHY
+(a) enthusiasm
+(b) indifference
+(c) inadvertent
+(d) gallant
+Answer: (a) enthusiasm
+Q18. Choose the word nearest in meaning to the word in capitals: ARDUOUS
+(a) trickery
+(b) opponent
+(c) easy
+(d) difficult
+Answer: (d) difficult
+Q19. Choose the word nearest in meaning to the word in capitals: ARTICULATE
+(a) sarcastic
+(b) fluent
+(c) lasting
+(d) inarticulate
+Answer: (b) fluent
+Q20. Choose the word nearest in meaning to the word in capitals: ASTUTE
+(a) dull
+(b) puzzling
+(c) shrewd
+(d) reticent
+Answer: (c) shrewd
+Q21. Choose the word most nearly OPPOSITE in meaning to the word in capitals: AUDACIOUS
+(a) recover
+(b) revolutionary
+(c) timid
+(d) bold
+Answer: (c) timid
+Q22. Choose the word most nearly OPPOSITE in meaning to the word in capitals: AUGMENT
+(a) increase
+(b) mellifluous
+(c) reduce
+(d) discourage
+Answer: (c) reduce
+Q23. Choose the word nearest in meaning to the word in capitals: AUSTERE
+(a) lavish
+(b) strict
+(c) sombre
+(d) frivolity
+Answer: (b) strict
+Q24. Choose the word nearest in meaning to the word in capitals: AUTHENTIC
+(a) all-round
+(b) inarticulate
+(c) fake
+(d) genuine
+Answer: (d) genuine
+Q25. Choose the word nearest in meaning to the word in capitals: AVERSION
+(a) caution
+(b) dislike
+(c) liking
+(d) ostensible
+Answer: (b) dislike
+Q26. Choose the word most nearly OPPOSITE in meaning to the word in capitals: BENEVOLENT
+(a) caution
+(b) sincere
+(c) cruel
+(d) kind
+Answer: (c) cruel
+Q27. Choose the word most nearly OPPOSITE in meaning to the word in capitals: BENIGN
+(a) harmful
+(b) novice
+(c) gentle
+(d) indulge
+Answer: (a) harmful
+Q28. Choose the word nearest in meaning to the word in capitals: BEWILDER
+(a) confuse
+(b) produce
+(c) hackneyed
+(d) enlighten
+Answer: (a) confuse
+Q29. Choose the word nearest in meaning to the word in capitals: BREVITY
+(a) willing
+(b) relief
+(c) verbosity
+(d) conciseness
+Answer: (d) conciseness
+Q30. Choose the word nearest in meaning to the word in capitals: CALLOUS
+(a) aimless
+(b) unconcern
+(c) kind
+(d) hard-hearted
+Answer: (d) hard-hearted
+Q31. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CANDID
+(a) genial
+(b) worldly
+(c) evasive
+(d) frank
+Answer: (c) evasive
+Q32. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CAPRICIOUS
+(a) persistent
+(b) fickle
+(c) concord
+(d) steady
+Answer: (d) steady
+Q33. Choose the word nearest in meaning to the word in capitals: CENSURE
+(a) condemn
+(b) incomplete
+(c) praise
+(d) block
+Answer: (a) condemn
+Q34. Choose the word nearest in meaning to the word in capitals: CHAOS
+(a) order
+(b) disorder
+(c) peril
+(d) lessen
+Answer: (b) disorder
+Q35. Choose the word nearest in meaning to the word in capitals: COERCE
+(a) force
+(b) coax
+(c) cowardly
+(d) reflect
+Answer: (a) force
+Q36. Choose the word most nearly OPPOSITE in meaning to the word in capitals: COGNIZANT
+(a) accessible
+(b) ignorant
+(c) pessimistic
+(d) aware
+Answer: (b) ignorant
+Q37. Choose the word most nearly OPPOSITE in meaning to the word in capitals: COMPASSION
+(a) cruelty
+(b) bountiful
+(c) bootlicker
+(d) sympathy
+Answer: (a) cruelty
+Q38. Choose the word nearest in meaning to the word in capitals: COMPLACENT
+(a) smug
+(b) satisfaction
+(c) alert
+(d) unite
+Answer: (a) smug
+Q39. Choose the word nearest in meaning to the word in capitals: CONCUR
+(a) agree
+(b) coax
+(c) condone
+(d) disagree
+Answer: (a) agree
+Q40. Choose the word nearest in meaning to the word in capitals: CONDONE
+(a) condemn
+(b) anxiety
+(c) overlook
+(d) flaw
+Answer: (c) overlook
+Q41. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CONSPICUOUS
+(a) impropriety
+(b) hidden
+(c) blameworthy
+(d) noticeable
+Answer: (b) hidden
+Q42. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CONTEMPT
+(a) tenacious
+(b) impecunious
+(c) respect
+(d) scorn
+Answer: (c) respect
+Q43. Choose the word nearest in meaning to the word in capitals: CONVICTION
+(a) doubt
+(b) belief
+(c) vindicate
+(d) sneer
+Answer: (b) belief
+Q44. Choose the word nearest in meaning to the word in capitals: COPIOUS
+(a) prompt
+(b) abundant
+(c) admit
+(d) scant
+Answer: (b) abundant
+Q45. Choose the word nearest in meaning to the word in capitals: CORDIAL
+(a) warm
+(b) stormy
+(c) cold
+(d) innate
+Answer: (a) warm
+Q46. Choose the word most nearly OPPOSITE in meaning to the word in capitals: COURAGE
+(a) obsequious
+(b) bravery
+(c) irritable
+(d) cowardice
+Answer: (d) cowardice
+Q47. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CREDIBLE
+(a) merge
+(b) doubtful
+(c) unerring
+(d) believable
+Answer: (b) doubtful
+Q48. Choose the word nearest in meaning to the word in capitals: CURTAIL
+(a) extend
+(b) reduce
+(c) focus
+(d) tardy
+Answer: (b) reduce
+Q49. Choose the word nearest in meaning to the word in capitals: DECEIT
+(a) watchful
+(b) honesty
+(c) dirty
+(d) deception
+Answer: (d) deception
+Q50. Choose the word nearest in meaning to the word in capitals: DECORUM
+(a) coherent
+(b) rudeness
+(c) propriety
+(d) claim
+Answer: (c) propriety
+Q51. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DEFER
+(a) advance
+(b) postpone
+(c) sarcastic
+(d) severe
+Answer: (a) advance
+Q52. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DEFT
+(a) dislike
+(b) clumsy
+(c) skilful
+(d) decayed
+Answer: (b) clumsy
+Q53. Choose the word nearest in meaning to the word in capitals: DEFIANT
+(a) rebellious
+(b) fix
+(c) obedient
+(d) condemn
+Answer: (a) rebellious
+Q54. Choose the word nearest in meaning to the word in capitals: DELIBERATE
+(a) accidental
+(b) hesitant
+(c) intentional
+(d) choice
+Answer: (c) intentional
+Q55. Choose the word nearest in meaning to the word in capitals: DEMOLISH
+(a) destroy
+(b) indifferent
+(c) mysterious
+(d) build
+Answer: (a) destroy
+Q56. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DEPLETE
+(a) replenish
+(b) exhaust
+(c) endure
+(d) extend
+Answer: (a) replenish
+Q57. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DEPLORE
+(a) condemn
+(b) covert
+(c) dignity
+(d) praise
+Answer: (d) praise
+Q58. Choose the word nearest in meaning to the word in capitals: DESPISE
+(a) respect
+(b) extract
+(c) venerate
+(d) scorn
+Answer: (d) scorn
+Q59. Choose the word nearest in meaning to the word in capitals: DETER
+(a) bear
+(b) discourage
+(c) encourage
+(d) insipid
+Answer: (b) discourage
+Q60. Choose the word nearest in meaning to the word in capitals: DETRIMENTAL
+(a) slow
+(b) beneficial
+(c) harmful
+(d) classic
+Answer: (c) harmful
+Q61. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DEVOUT
+(a) devoted
+(b) indifferent
+(c) weary
+(d) sturdy
+Answer: (b) indifferent
+Q62. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DILIGENT
+(a) risky
+(b) keen
+(c) hardworking
+(d) lazy
+Answer: (d) lazy
+Q63. Choose the word nearest in meaning to the word in capitals: DIMINISH
+(a) boring
+(b) viable
+(c) decrease
+(d) increase
+Answer: (c) decrease
+Q64. Choose the word nearest in meaning to the word in capitals: DISCORD
+(a) conundrum
+(b) conflict
+(c) harmony
+(d) integrity
+Answer: (b) conflict
+Q65. Choose the word nearest in meaning to the word in capitals: DISDAIN
+(a) scorn
+(b) cheek
+(c) respect
+(d) jeopardy
+Answer: (a) scorn
+Q66. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DISMAY
+(a) wanton
+(b) shock
+(c) relief
+(d) pertinacious
+Answer: (c) relief
+Q67. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DISSENT
+(a) agreement
+(b) fractious
+(c) disagreement
+(d) rebellious
+Answer: (a) agreement
+Q68. Choose the word nearest in meaning to the word in capitals: DIVERSE
+(a) obsolete
+(b) uniform
+(c) accord
+(d) varied
+Answer: (d) varied
+Q69. Choose the word nearest in meaning to the word in capitals: DOCILE
+(a) superficial
+(b) obedient
+(c) unruly
+(d) wealth
+Answer: (b) obedient
+Q70. Choose the word nearest in meaning to the word in capitals: DUBIOUS
+(a) eager
+(b) doubtful
+(c) certain
+(d) intransigent
+Answer: (b) doubtful
+Q71. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ELOQUENT
+(a) venal
+(b) inarticulate
+(c) redundant
+(d) fluent
+Answer: (b) inarticulate
+Q72. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ELUDE
+(a) misconception
+(b) confront
+(c) evade
+(d) ingenious
+Answer: (b) confront
+Q73. Choose the word nearest in meaning to the word in capitals: EMINENT
+(a) genial
+(b) confuse
+(c) distinguished
+(d) unknown
+Answer: (c) distinguished
+Q74. Choose the word nearest in meaning to the word in capitals: ENDORSE
+(a) check
+(b) oppose
+(c) support
+(d) reverse
+Answer: (c) support
+Q75. Choose the word nearest in meaning to the word in capitals: ENHANCE
+(a) diminish
+(b) adaptable
+(c) improve
+(d) enthrall
+Answer: (c) improve
+Q76. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ENIGMA
+(a) clarity
+(b) intrepid
+(c) mystery
+(d) exciting
+Answer: (a) clarity
+Q77. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ERRATIC
+(a) steady
+(b) rudeness
+(c) irregular
+(d) lucid
+Answer: (a) steady
+Q78. Choose the word nearest in meaning to the word in capitals: ESTEEM
+(a) disputable
+(b) disdain
+(c) respect
+(d) turpitude
+Answer: (c) respect
+Q79. Choose the word nearest in meaning to the word in capitals: EXEMPLARY
+(a) poor
+(b) model
+(c) brazen
+(d) banned
+Answer: (b) model
+Q80. Choose the word nearest in meaning to the word in capitals: EXONERATE
+(a) acquit
+(b) dissuade
+(c) mercy
+(d) convict
+Answer: (a) acquit
+Q81. Choose the word most nearly OPPOSITE in meaning to the word in capitals: FERVENT
+(a) indifferent
+(b) exemplify
+(c) passionate
+(d) tasteless
+Answer: (a) indifferent
+Q82. Choose the word most nearly OPPOSITE in meaning to the word in capitals: FLAGRANT
+(a) resign
+(b) subtle
+(c) perseverance
+(d) blatant
+Answer: (b) subtle
+Q83. Choose the word nearest in meaning to the word in capitals: FORTITUDE
+(a) courage
+(b) encouragement
+(c) perceptive
+(d) weakness
+Answer: (a) courage
+Q84. Choose the word nearest in meaning to the word in capitals: FRUGAL
+(a) thrifty
+(b) tireless
+(c) extravagant
+(d) leave
+Answer: (a) thrifty
+Q85. Choose the word nearest in meaning to the word in capitals: FUTILE
+(a) useless
+(b) rigid
+(c) useful
+(d) vitality
+Answer: (a) useless
+Q86. Choose the word most nearly OPPOSITE in meaning to the word in capitals: GALLANT
+(a) brave
+(b) downcast
+(c) cowardly
+(d) clash
+Answer: (c) cowardly
+Q87. Choose the word most nearly OPPOSITE in meaning to the word in capitals: GARRULOUS
+(a) talkative
+(b) verbosity
+(c) outgoing
+(d) taciturn
+Answer: (d) taciturn
+Q88. Choose the word nearest in meaning to the word in capitals: GRIEVANCE
+(a) guilt
+(b) ameliorate
+(c) satisfaction
+(d) complaint
+Answer: (d) complaint
+Q89. Choose the word nearest in meaning to the word in capitals: GULLIBLE
+(a) bane
+(b) naive
+(c) welcome
+(d) shrewd
+Answer: (b) naive
+Q90. Choose the word nearest in meaning to the word in capitals: HAMPER
+(a) hinder
+(b) help
+(c) unyielding
+(d) mitigate
+Answer: (a) hinder
+Q91. Choose the word most nearly OPPOSITE in meaning to the word in capitals: HARMONY
+(a) unforgiving
+(b) ideal
+(c) discord
+(d) accord
+Answer: (c) discord
+Q92. Choose the word most nearly OPPOSITE in meaning to the word in capitals: HAUGHTY
+(a) arrogant
+(b) decayed
+(c) bewilder
+(d) humble
+Answer: (d) humble
+Q93. Choose the word nearest in meaning to the word in capitals: HOSTILE
+(a) friendly
+(b) clarify
+(c) unfriendly
+(d) despise
+Answer: (c) unfriendly
+Q94. Choose the word nearest in meaning to the word in capitals: HUMBLE
+(a) complete
+(b) arrogant
+(c) catastrophe
+(d) modest
+Answer: (d) modest
+Q95. Choose the word nearest in meaning to the word in capitals: HYPOCRITE
+(a) pretender
+(b) uncertainty
+(c) sincere person
+(d) apprehension
+Answer: (a) pretender
+Q96. Choose the word most nearly OPPOSITE in meaning to the word in capitals: IMPARTIAL
+(a) biased
+(b) wily
+(c) fair
+(d) persuade
+Answer: (a) biased
+Q97. Choose the word most nearly OPPOSITE in meaning to the word in capitals: IMPEDE
+(a) enigma
+(b) hinder
+(c) assist
+(d) deep
+Answer: (c) assist
+Q98. Choose the word nearest in meaning to the word in capitals: IMPETUOUS
+(a) rash
+(b) cautious
+(c) vice
+(d) laconic
+Answer: (a) rash
+Q99. Choose the word nearest in meaning to the word in capitals: INADVERTENT
+(a) accidental
+(b) deliberate
+(c) delight
+(d) controlled
+Answer: (a) accidental
+Q100. Choose the word nearest in meaning to the word in capitals: INDIFFERENT
+(a) unconcerned
+(b) keen
+(c) renowned
+(d) kindness
+Answer: (a) unconcerned
+Q101. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INDIGNANT
+(a) resentful
+(b) pleased
+(c) sycophantic
+(d) abstain
+Answer: (b) pleased
+Q102. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INEVITABLE
+(a) unavoidable
+(b) faultless
+(c) elated
+(d) avoidable
+Answer: (d) avoidable
+Q103. Choose the word nearest in meaning to the word in capitals: INGENIOUS
+(a) clever
+(b) ring
+(c) dull
+(d) magnanimous
+Answer: (a) clever
+Q104. Choose the word nearest in meaning to the word in capitals: INNATE
+(a) inborn
+(b) outdo
+(c) acquired
+(d) scattered
+Answer: (a) inborn
+Q105. Choose the word nearest in meaning to the word in capitals: INSOLENT
+(a) complimentary
+(b) rude
+(c) optimistic
+(d) polite
+Answer: (b) rude
+Q106. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INTEGRITY
+(a) dishonesty
+(b) suppress
+(c) equivocate
+(d) honesty
+Answer: (a) dishonesty
+Q107. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INTREPID
+(a) cold
+(b) fearless
+(c) insecure
+(d) timid
+Answer: (d) timid
+Q108. Choose the word nearest in meaning to the word in capitals: JEOPARDY
+(a) safety
+(b) danger
+(c) effervescent
+(d) restrain
+Answer: (b) danger
+Q109. Choose the word nearest in meaning to the word in capitals: JUBILANT
+(a) impudent
+(b) covetousness
+(c) sad
+(d) joyful
+Answer: (d) joyful
+Q110. Choose the word nearest in meaning to the word in capitals: LAMENT
+(a) rejoice
+(b) rudeness
+(c) wordy
+(d) mourn
+Answer: (d) mourn
+Q111. Choose the word most nearly OPPOSITE in meaning to the word in capitals: LETHARGIC
+(a) bravery
+(b) sluggish
+(c) extravagant
+(d) energetic
+Answer: (d) energetic
+Q112. Choose the word most nearly OPPOSITE in meaning to the word in capitals: LUCID
+(a) clear
+(b) cursory
+(c) confusing
+(d) resist
+Answer: (c) confusing
+Q113. Choose the word nearest in meaning to the word in capitals: MALICE
+(a) adversity
+(b) sketchy
+(c) goodwill
+(d) spite
+Answer: (d) spite
+Q114. Choose the word nearest in meaning to the word in capitals: METICULOUS
+(a) careless
+(b) alacrity
+(c) affable
+(d) careful
+Answer: (d) careful
+Q115. Choose the word nearest in meaning to the word in capitals: MITIGATE
+(a) aggravate
+(b) disperse
+(c) lessen
+(d) racket
+Answer: (c) lessen
+Q116. Choose the word most nearly OPPOSITE in meaning to the word in capitals: MODEST
+(a) boastful
+(b) humble
+(c) ferocious
+(d) scatter
+Answer: (a) boastful
+Q117. Choose the word most nearly OPPOSITE in meaning to the word in capitals: NAIVE
+(a) shrewd
+(b) turbulent
+(c) innocent
+(d) aplomb
+Answer: (a) shrewd
+Q118. Choose the word nearest in meaning to the word in capitals: NEGLIGENT
+(a) impenetrable
+(b) careless
+(c) careful
+(d) promising
+Answer: (b) careless
+Q119. Choose the word nearest in meaning to the word in capitals: NOTORIOUS
+(a) sound
+(b) infamous
+(c) indignant
+(d) reputable
+Answer: (b) infamous
+Q120. Choose the word nearest in meaning to the word in capitals: OBSTINATE
+(a) stubborn
+(b) flexible
+(c) final
+(d) naive
+Answer: (a) stubborn
+Q121. Choose the word most nearly OPPOSITE in meaning to the word in capitals: OMINOUS
+(a) spontaneous
+(b) threatening
+(c) confusion
+(d) promising
+Answer: (d) promising
+Q122. Choose the word most nearly OPPOSITE in meaning to the word in capitals: OPAQUE
+(a) sure
+(b) bias
+(c) clear
+(d) unclear
+Answer: (c) clear
+Q123. Choose the word nearest in meaning to the word in capitals: OPTIMISTIC
+(a) pessimistic
+(b) hopeful
+(c) illustrate
+(d) invigorate
+Answer: (b) hopeful
+Q124. Choose the word nearest in meaning to the word in capitals: OSTENTATIOUS
+(a) modest
+(b) censure
+(c) showy
+(d) untiring
+Answer: (c) showy
+Q125. Choose the word nearest in meaning to the word in capitals: PACIFY
+(a) provoke
+(b) aid
+(c) calm
+(d) withstand
+Answer: (c) calm
+Q126. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PARTISAN
+(a) biased
+(b) impartial
+(c) uncompromising
+(d) upset
+Answer: (b) impartial
+Q127. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PERILOUS
+(a) crucial
+(b) belligerent
+(c) safe
+(d) dangerous
+Answer: (c) safe
+Q128. Choose the word nearest in meaning to the word in capitals: PERSISTENT
+(a) tenacious
+(b) rudeness
+(c) irresolute
+(d) hostility
+Answer: (a) tenacious
+Q129. Choose the word nearest in meaning to the word in capitals: PERTINENT
+(a) irrelevant
+(b) relevant
+(c) boring
+(d) content
+Answer: (b) relevant
+Q130. Choose the word nearest in meaning to the word in capitals: PLACATE
+(a) anger
+(b) biting
+(c) appease
+(d) extract
+Answer: (c) appease
+Q131. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PLAUSIBLE
+(a) believable
+(b) abstinent
+(c) intent
+(d) implausible
+Answer: (d) implausible
+Q132. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PRAGMATIC
+(a) idealistic
+(b) practical
+(c) recondite
+(d) admire
+Answer: (a) idealistic
+Q133. Choose the word nearest in meaning to the word in capitals: PREDICAMENT
+(a) dilemma
+(b) expel
+(c) reprimand
+(d) solution
+Answer: (a) dilemma
+Q134. Choose the word nearest in meaning to the word in capitals: PREJUDICE
+(a) fairness
+(b) bias
+(c) disobedient
+(d) laconic
+Answer: (b) bias
+Q135. Choose the word nearest in meaning to the word in capitals: PRUDENT
+(a) seize
+(b) reckless
+(c) reverence
+(d) wise
+Answer: (d) wise
+Q136. Choose the word most nearly OPPOSITE in meaning to the word in capitals: REBUKE
+(a) praise
+(b) reprimand
+(c) reprehensible
+(d) fervour
+Answer: (a) praise
+Q137. Choose the word most nearly OPPOSITE in meaning to the word in capitals: RELUCTANT
+(a) oblige
+(b) peevish
+(c) eager
+(d) unwilling
+Answer: (c) eager
+Q138. Choose the word nearest in meaning to the word in capitals: REMORSE
+(a) indifference
+(b) blessing
+(c) regret
+(d) tribute
+Answer: (c) regret
+Q139. Choose the word nearest in meaning to the word in capitals: RESILIENT
+(a) fragile
+(b) tough
+(c) harshness
+(d) essential
+Answer: (b) tough
+Q140. Choose the word nearest in meaning to the word in capitals: RETICENT
+(a) reserved
+(b) forthcoming
+(c) quarrelsome
+(d) harmonize
+Answer: (a) reserved
+Q141. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SABOTAGE
+(a) support
+(b) dynamic
+(c) undermine
+(d) irascible
+Answer: (a) support
+Q142. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SCARCE
+(a) ardent
+(b) misrepresent
+(c) plentiful
+(d) insufficient
+Answer: (c) plentiful
+Q143. Choose the word nearest in meaning to the word in capitals: SCRUTINIZE
+(a) examine
+(b) wasted
+(c) ignore
+(d) wily
+Answer: (a) examine
+Q144. Choose the word nearest in meaning to the word in capitals: SERVILE
+(a) assertive
+(b) loquacious
+(c) denigrate
+(d) submissive
+Answer: (d) submissive
+Q145. Choose the word nearest in meaning to the word in capitals: SKEPTICAL
+(a) cursory
+(b) applicable
+(c) convinced
+(d) doubtful
+Answer: (d) doubtful
+Q146. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SOLITUDE
+(a) emotional
+(b) seclusion
+(c) bewail
+(d) company
+Answer: (d) company
+Q147. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SPONTANEOUS
+(a) remote
+(b) impromptu
+(c) dissent
+(d) planned
+Answer: (d) planned
+Q148. Choose the word nearest in meaning to the word in capitals: STAGNANT
+(a) flowing
+(b) still
+(c) condemn
+(d) match
+Answer: (b) still
+Q149. Choose the word nearest in meaning to the word in capitals: STERN
+(a) resistant
+(b) strict
+(c) flawed
+(d) lenient
+Answer: (b) strict
+Q150. Choose the word nearest in meaning to the word in capitals: SUBMISSIVE
+(a) delight
+(b) defiant
+(c) obedient
+(d) contemptuous
+Answer: (c) obedient
+Q151. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SUBTLE
+(a) elated
+(b) obvious
+(c) faint
+(d) elude
+Answer: (b) obvious
+Q152. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SUPERFICIAL
+(a) skilful
+(b) shallow
+(c) agreed
+(d) deep
+Answer: (d) deep
+Q153. Choose the word nearest in meaning to the word in capitals: TENACIOUS
+(a) persistent
+(b) fritter
+(c) sure
+(d) weak
+Answer: (a) persistent
+Q154. Choose the word nearest in meaning to the word in capitals: TIMID
+(a) aggravate
+(b) largesse
+(c) bold
+(d) shy
+Answer: (d) shy
+Q155. Choose the word nearest in meaning to the word in capitals: TRANQUIL
+(a) agitated
+(b) disapproving
+(c) pretext
+(d) calm
+Answer: (d) calm
+Q156. Choose the word most nearly OPPOSITE in meaning to the word in capitals: TREACHEROUS
+(a) loyal
+(b) disloyal
+(c) peril
+(d) impossible
+Answer: (a) loyal
+Q157. Choose the word most nearly OPPOSITE in meaning to the word in capitals: TRIVIAL
+(a) important
+(b) minor
+(c) flashy
+(d) apparent
+Answer: (a) important
+Q158. Choose the word nearest in meaning to the word in capitals: TURBULENT
+(a) calm
+(b) chaotic
+(c) alarm
+(d) depressed
+Answer: (b) chaotic
+Q159. Choose the word nearest in meaning to the word in capitals: TYRANT
+(a) dictator
+(b) liberator
+(c) faith
+(d) corroborate
+Answer: (a) dictator
+Q160. Choose the word nearest in meaning to the word in capitals: VACILLATE
+(a) decide
+(b) waver
+(c) antagonize
+(d) plethora
+Answer: (b) waver
+Q161. Choose the word most nearly OPPOSITE in meaning to the word in capitals: VALIANT
+(a) cowardly
+(b) brave
+(c) devout
+(d) gruelling
+Answer: (a) cowardly
+Q162. Choose the word most nearly OPPOSITE in meaning to the word in capitals: VEHEMENT
+(a) mild
+(b) forceful
+(c) prop
+(d) self-satisfied
+Answer: (a) mild
+Q163. Choose the word nearest in meaning to the word in capitals: VERSATILE
+(a) unyielding
+(b) limited
+(c) adaptable
+(d) undermine
+Answer: (c) adaptable
+Q164. Choose the word nearest in meaning to the word in capitals: VIGILANT
+(a) skilful
+(b) watchful
+(c) careless
+(d) illustrate
+Answer: (b) watchful
+Q165. Choose the word nearest in meaning to the word in capitals: VINDICATE
+(a) foreboding
+(b) blame
+(c) defame
+(d) justify
+Answer: (d) justify
+Q166. Choose the word most nearly OPPOSITE in meaning to the word in capitals: VOLATILE
+(a) stable
+(b) unstable
+(c) capitulate
+(d) glorify
+Answer: (a) stable
+Q167. Choose the word most nearly OPPOSITE in meaning to the word in capitals: WARY
+(a) foreign
+(b) cautious
+(c) careless
+(d) coerce
+Answer: (c) careless
+Q168. Choose the word nearest in meaning to the word in capitals: ZEAL
+(a) repudiate
+(b) ignorant
+(c) apathy
+(d) enthusiasm
+Answer: (d) enthusiasm
+Q169. Choose the word nearest in meaning to the word in capitals: ABASE
+(a) degrade
+(b) wasteful
+(c) scarcity
+(d) exalt
+Answer: (a) degrade
+Q170. Choose the word nearest in meaning to the word in capitals: ABDICATE
+(a) treacherous
+(b) resign
+(c) safe
+(d) retain
+Answer: (b) resign
+Q171. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ACRIMONY
+(a) tentative
+(b) goodwill
+(c) exhaustive
+(d) bitterness
+Answer: (b) goodwill
+Q172. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ADEPT
+(a) racket
+(b) skilled
+(c) inept
+(d) unfriendly
+Answer: (c) inept
+Q173. Choose the word nearest in meaning to the word in capitals: ADVERSARY
+(a) convict
+(b) disreputable
+(c) opponent
+(d) ally
+Answer: (c) opponent
+Q174. Choose the word nearest in meaning to the word in capitals: AFFLUENT
+(a) rich
+(b) hopelessness
+(c) poor
+(d) explain
+Answer: (a) rich
+Q175. Choose the word nearest in meaning to the word in capitals: ALACRITY
+(a) eagerness
+(b) unconcerned
+(c) nefarious
+(d) reluctance
+Answer: (a) eagerness
+Q176. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ALOOFNESS
+(a) rant
+(b) warmth
+(c) detachment
+(d) common
+Answer: (b) warmth
+Q177. Choose the word most nearly OPPOSITE in meaning to the word in capitals: AMASS
+(a) accumulate
+(b) know
+(c) disperse
+(d) disagree
+Answer: (c) disperse
+Q178. Choose the word nearest in meaning to the word in capitals: AMBIVALENT
+(a) pleased
+(b) exuberant
+(c) undecided
+(d) certain
+Answer: (c) undecided
+Q179. Choose the word nearest in meaning to the word in capitals: AMELIORATE
+(a) astute
+(b) improve
+(c) worsen
+(d) ascend
+Answer: (b) improve
+Q180. Choose the word nearest in meaning to the word in capitals: AMENABLE
+(a) briskness
+(b) agreeable
+(c) pervasive
+(d) stubborn
+Answer: (b) agreeable
+Q181. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ANGUISH
+(a) comfort
+(b) effervescent
+(c) punish
+(d) agony
+Answer: (a) comfort
+Q182. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ANIMOSITY
+(a) partisan
+(b) hostility
+(c) friendship
+(d) charm
+Answer: (c) friendship
+Q183. Choose the word nearest in meaning to the word in capitals: ANTAGONIST
+(a) different
+(b) opponent
+(c) diverse
+(d) ally
+Answer: (b) opponent
+Q184. Choose the word nearest in meaning to the word in capitals: APPREHENSIVE
+(a) confident
+(b) anxious
+(c) doubtful
+(d) stingy
+Answer: (b) anxious
+Q185. Choose the word nearest in meaning to the word in capitals: ARBITRARY
+(a) reasoned
+(b) random
+(c) busy
+(d) captivate
+Answer: (b) random
+Q186. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ARDENT
+(a) indifferent
+(b) invent
+(c) passionate
+(d) sceptical
+Answer: (a) indifferent
+Q187. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ARTICULATE
+(a) inarticulate
+(b) embezzle
+(c) fluent
+(d) rebut
+Answer: (a) inarticulate
+Q188. Choose the word nearest in meaning to the word in capitals: ASCEND
+(a) descend
+(b) indolent
+(c) rise
+(d) averse
+Answer: (c) rise
+Q189. Choose the word nearest in meaning to the word in capitals: ASSIDUOUS
+(a) lazy
+(b) mercy
+(c) diligent
+(d) deplorable
+Answer: (c) diligent
+Q190. Choose the word nearest in meaning to the word in capitals: AUDACITY
+(a) timidity
+(b) fairness
+(c) intended
+(d) boldness
+Answer: (d) boldness
+Q191. Choose the word most nearly OPPOSITE in meaning to the word in capitals: AUSTERITY
+(a) curtail
+(b) severity
+(c) luxury
+(d) simple
+Answer: (c) luxury
+Q192. Choose the word most nearly OPPOSITE in meaning to the word in capitals: AVARICE
+(a) greed
+(b) generosity
+(c) ostentatious
+(d) soothe
+Answer: (b) generosity
+Q193. Choose the word nearest in meaning to the word in capitals: BANISH
+(a) reserved
+(b) ridicule
+(c) exile
+(d) welcome
+Answer: (c) exile
+Q194. Choose the word nearest in meaning to the word in capitals: BELLIGERENT
+(a) security
+(b) aggressive
+(c) grudge
+(d) peaceful
+Answer: (b) aggressive
+Q195. Choose the word nearest in meaning to the word in capitals: BERATE
+(a) fiasco
+(b) scold
+(c) misconception
+(d) praise
+Answer: (b) scold
+Q196. Choose the word most nearly OPPOSITE in meaning to the word in capitals: BIAS
+(a) fairness
+(b) sarcastic
+(c) unconcern
+(d) prejudice
+Answer: (a) fairness
+Q197. Choose the word most nearly OPPOSITE in meaning to the word in capitals: BLATANT
+(a) accept
+(b) obvious
+(c) subtle
+(d) dither
+Answer: (c) subtle
+Q198. Choose the word nearest in meaning to the word in capitals: BOLSTER
+(a) describe
+(b) adore
+(c) weaken
+(d) support
+Answer: (d) support
+Q199. Choose the word nearest in meaning to the word in capitals: BRUSQUE
+(a) polite
+(b) curt
+(c) straightforward
+(d) insight
+Answer: (b) curt
+Q200. Choose the word nearest in meaning to the word in capitals: CAJOLE
+(a) coax
+(b) awaken
+(c) force
+(d) sleeping
+Answer: (a) coax
+Q201. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CALAMITY
+(a) disaster
+(b) irritable
+(c) fearful
+(d) blessing
+Answer: (d) blessing
+Q202. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CANDOUR
+(a) deceit
+(b) abundance
+(c) notify
+(d) frankness
+Answer: (a) deceit
+Q203. Choose the word nearest in meaning to the word in capitals: CAPITULATE
+(a) resist
+(b) relegate
+(c) soothing
+(d) surrender
+Answer: (d) surrender
+Q204. Choose the word nearest in meaning to the word in capitals: CASTIGATE
+(a) praise
+(b) foil
+(c) criticize
+(d) admonish
+Answer: (c) criticize
+Q205. Choose the word nearest in meaning to the word in capitals: CAUSTIC
+(a) skilled
+(b) irregular
+(c) sarcastic
+(d) gentle
+Answer: (c) sarcastic
+Q206. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CHASTISE
+(a) cordial
+(b) submissive
+(c) punish
+(d) reward
+Answer: (d) reward
+Q207. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CIRCUMSPECT
+(a) industry
+(b) kindness
+(c) rash
+(d) cautious
+Answer: (c) rash
+Q208. Choose the word nearest in meaning to the word in capitals: CLANDESTINE
+(a) open
+(b) perilous
+(c) secret
+(d) outgoing
+Answer: (c) secret
+Q209. Choose the word nearest in meaning to the word in capitals: COALESCE
+(a) tenable
+(b) dominant
+(c) merge
+(d) separate
+Answer: (c) merge
+Q210. Choose the word nearest in meaning to the word in capitals: COGENT
+(a) scarce
+(b) weak
+(c) convincing
+(d) perplex
+Answer: (c) convincing
+Q211. Choose the word most nearly OPPOSITE in meaning to the word in capitals: COMMEND
+(a) gallantry
+(b) criticize
+(c) temperate
+(d) praise
+Answer: (b) criticize
+Q212. Choose the word most nearly OPPOSITE in meaning to the word in capitals: COMPEL
+(a) headstrong
+(b) dissuade
+(c) force
+(d) catastrophe
+Answer: (b) dissuade
+Q213. Choose the word nearest in meaning to the word in capitals: COMPLEMENT
+(a) peculiarity
+(b) clash
+(c) complete
+(d) intimidate
+Answer: (c) complete
+Q214. Choose the word nearest in meaning to the word in capitals: COMPREHENSIVE
+(a) partial
+(b) covetousness
+(c) industry
+(d) thorough
+Answer: (d) thorough
+Q215. Choose the word nearest in meaning to the word in capitals: CONCEDE
+(a) deny
+(b) aloof
+(c) tough
+(d) admit
+Answer: (d) admit
+Q216. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CONCILIATE
+(a) reverence
+(b) pacify
+(c) politeness
+(d) provoke
+Answer: (d) provoke
+Q217. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CONDEMN
+(a) denounce
+(b) praise
+(c) encourage
+(d) stifle
+Answer: (b) praise
+Q218. Choose the word nearest in meaning to the word in capitals: CONFORM
+(a) stated
+(b) comply
+(c) rebel
+(d) clarity
+Answer: (b) comply
+Q219. Choose the word nearest in meaning to the word in capitals: CONGENIAL
+(a) one-sided
+(b) pleasant
+(c) meddlesome
+(d) unpleasant
+Answer: (b) pleasant
+Q220. Choose the word nearest in meaning to the word in capitals: CONSCIENTIOUS
+(a) condemn
+(b) risk
+(c) diligent
+(d) careless
+Answer: (c) diligent
+Q221. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CONSENSUS
+(a) ephemeral
+(b) agreement
+(c) disagreement
+(d) moody
+Answer: (c) disagreement
+Q222. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CONSOLE
+(a) deteriorate
+(b) dismal
+(c) distress
+(d) comfort
+Answer: (c) distress
+Q223. Choose the word nearest in meaning to the word in capitals: CONSPIRE
+(a) cooperate openly
+(b) rejoice
+(c) plot
+(d) lucid
+Answer: (c) plot
+Q224. Choose the word nearest in meaning to the word in capitals: CONTEMPTUOUS
+(a) notable
+(b) respectful
+(c) scornful
+(d) consolation
+Answer: (c) scornful
+Q225. Choose the word nearest in meaning to the word in capitals: CONTENTIOUS
+(a) controversial
+(b) worship
+(c) agreeable
+(d) subjection
+Answer: (a) controversial
+Q226. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CONVICTION
+(a) doubt
+(b) belief
+(c) obvious
+(d) glorify
+Answer: (a) doubt
+Q227. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CORROBORATE
+(a) persistent
+(b) dangerous
+(c) confirm
+(d) contradict
+Answer: (d) contradict
+Q228. Choose the word nearest in meaning to the word in capitals: COVERT
+(a) conciseness
+(b) keen
+(c) overt
+(d) secret
+Answer: (d) secret
+Q229. Choose the word nearest in meaning to the word in capitals: COWARDICE
+(a) timorous
+(b) lessen
+(c) timidity
+(d) bravery
+Answer: (c) timidity
+Q230. Choose the word nearest in meaning to the word in capitals: CREDULOUS
+(a) self-righteous
+(b) gullible
+(c) skeptical
+(d) substance
+Answer: (b) gullible
+Q231. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CULPABLE
+(a) repetitive
+(b) innocent
+(c) guilty
+(d) practicable
+Answer: (b) innocent
+Q232. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CUNNING
+(a) sly
+(b) adversity
+(c) virulent
+(d) honest
+Answer: (d) honest
+Q233. Choose the word nearest in meaning to the word in capitals: CURB
+(a) credulous
+(b) restrain
+(c) offence
+(d) release
+Answer: (b) restrain
+Q234. Choose the word nearest in meaning to the word in capitals: DAUNT
+(a) intimidate
+(b) encourage
+(c) tedious
+(d) repent
+Answer: (a) intimidate
+Q235. Choose the word nearest in meaning to the word in capitals: DEARTH
+(a) scarcity
+(b) abundance
+(c) scrutinize
+(d) chaotic
+Answer: (a) scarcity
+Q236. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DEBACLE
+(a) converge
+(b) fade
+(c) fiasco
+(d) success
+Answer: (d) success
+Q237. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DEFAME
+(a) praise
+(b) indescribable
+(c) slander
+(d) dead
+Answer: (a) praise
+Q238. Choose the word nearest in meaning to the word in capitals: DEFERENCE
+(a) respect
+(b) plausible
+(c) guise
+(d) disrespect
+Answer: (a) respect
+Q239. Choose the word nearest in meaning to the word in capitals: DEFUNCT
+(a) flippancy
+(b) preachy
+(c) active
+(d) extinct
+Answer: (d) extinct
+Q240. Choose the word nearest in meaning to the word in capitals: DEGRADE
+(a) debase
+(b) sanguine
+(c) elevate
+(d) faith
+Answer: (a) debase
+Q241. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DEJECTED
+(a) downcast
+(b) difference
+(c) cheerful
+(d) dictator
+Answer: (c) cheerful
+Q242. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DELINEATE
+(a) describe
+(b) quintessential
+(c) confuse
+(d) distaste
+Answer: (c) confuse
+Q243. Choose the word nearest in meaning to the word in capitals: DEMURE
+(a) looming
+(b) modest
+(c) bold
+(d) indifferent
+Answer: (b) modest
+Q244. Choose the word nearest in meaning to the word in capitals: DENOUNCE
+(a) condemn
+(b) judicious
+(c) praise
+(d) grit
+Answer: (a) condemn
+Q245. Choose the word nearest in meaning to the word in capitals: DERIDE
+(a) mock
+(b) vigorous
+(c) cheap
+(d) praise
+Answer: (a) mock
+Q246. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DESPAIR
+(a) cool
+(b) hope
+(c) hopelessness
+(d) dilapidated
+Answer: (b) hope
+Q247. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DESPONDENT
+(a) hopeful
+(b) console
+(c) climb
+(d) dejected
+Answer: (a) hopeful
+Q248. Choose the word nearest in meaning to the word in capitals: DESTITUTE
+(a) daring
+(b) diffident
+(c) poor
+(d) wealthy
+Answer: (c) poor
+Q249. Choose the word nearest in meaning to the word in capitals: DETERIORATE
+(a) worsen
+(b) improve
+(c) concoct
+(d) extol
+Answer: (a) worsen
+Q250. Choose the word nearest in meaning to the word in capitals: DEVIOUS
+(a) cunning
+(b) rouse
+(c) uninterested
+(d) honest
+Answer: (a) cunning
+Q251. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DIFFIDENT
+(a) shy
+(b) sycophantic
+(c) confident
+(d) inconstant
+Answer: (c) confident
+Q252. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DIGRESS
+(a) dread
+(b) focus
+(c) deviate
+(d) unreformable
+Answer: (b) focus
+Q253. Choose the word nearest in meaning to the word in capitals: DILAPIDATED
+(a) ruined
+(b) sound
+(c) debacle
+(d) contradict
+Answer: (a) ruined
+Q254. Choose the word nearest in meaning to the word in capitals: DILIGENCE
+(a) futile
+(b) laziness
+(c) industry
+(d) boost
+Answer: (c) industry
+Q255. Choose the word nearest in meaning to the word in capitals: DISCREET
+(a) bias
+(b) order
+(c) tactful
+(d) indiscreet
+Answer: (c) tactful
+Q256. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DISPARAGE
+(a) uneasy
+(b) indulge
+(c) belittle
+(d) praise
+Answer: (d) praise
+Q257. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DISPARITY
+(a) hesitant
+(b) difference
+(c) parity
+(d) fortunate
+Answer: (c) parity
+Q258. Choose the word nearest in meaning to the word in capitals: DISPEL
+(a) banish
+(b) gather
+(c) antithesis
+(d) indolent
+Answer: (a) banish
+Q259. Choose the word nearest in meaning to the word in capitals: DISPERSE
+(a) gather
+(b) scatter
+(c) restrain
+(d) satisfaction
+Answer: (b) scatter
+Q260. Choose the word nearest in meaning to the word in capitals: DISPOSITION
+(a) sarcastic
+(b) inert
+(c) robust
+(d) temperament
+Answer: (d) temperament
+Q261. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DISRUPT
+(a) defiant
+(b) disturb
+(c) cancel
+(d) organize
+Answer: (d) organize
+Q262. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DISSIPATE
+(a) rebut
+(b) squander
+(c) conserve
+(d) confusing
+Answer: (c) conserve
+Q263. Choose the word nearest in meaning to the word in capitals: DISSUADE
+(a) blameless
+(b) discourage
+(c) virulent
+(d) persuade
+Answer: (b) discourage
+Q264. Choose the word nearest in meaning to the word in capitals: DIVERGE
+(a) despondent
+(b) converge
+(c) encourage
+(d) differ
+Answer: (d) differ
+Q265. Choose the word nearest in meaning to the word in capitals: DIVULGE
+(a) reveal
+(b) harmful
+(c) conceal
+(d) debilitate
+Answer: (a) reveal
+Q266. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DOGMATIC
+(a) enlighten
+(b) opinionated
+(c) open-minded
+(d) distress
+Answer: (c) open-minded
+Q267. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DORMANT
+(a) active
+(b) unconvinced
+(c) inactive
+(d) prodigal
+Answer: (a) active
+Q268. Choose the word nearest in meaning to the word in capitals: DWINDLE
+(a) indiscreet
+(b) grow
+(c) shrink
+(d) natural
+Answer: (c) shrink
+Q269. Choose the word nearest in meaning to the word in capitals: ECCENTRIC
+(a) odd
+(b) ideal
+(c) normal
+(d) rude
+Answer: (a) odd
+Q270. Choose the word nearest in meaning to the word in capitals: EGREGIOUS
+(a) affirm
+(b) flagrant
+(c) minor
+(d) shallow
+Answer: (b) flagrant
+Q271. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ELATED
+(a) fervour
+(b) thrilled
+(c) partial
+(d) dejected
+Answer: (d) dejected
+Q272. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ELICIT
+(a) confidence
+(b) extract
+(c) wordy
+(d) suppress
+Answer: (d) suppress
+Q273. Choose the word nearest in meaning to the word in capitals: ELOQUENCE
+(a) dullness
+(b) bitterness
+(c) unassuming
+(d) fluency
+Answer: (d) fluency
+Q274. Choose the word nearest in meaning to the word in capitals: EMBEZZLE
+(a) misappropriate
+(b) delight
+(c) return
+(d) surrogate
+Answer: (a) misappropriate
+Q275. Choose the word nearest in meaning to the word in capitals: EMULATE
+(a) imitate
+(b) soothe
+(c) ignore
+(d) bane
+Answer: (a) imitate
+Q276. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ENDURE
+(a) collapse
+(b) bear
+(c) prejudice
+(d) surrender
+Answer: (d) surrender
+Q277. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ENMITY
+(a) disinclination
+(b) oblige
+(c) hostility
+(d) friendship
+Answer: (d) friendship
+Q278. Choose the word nearest in meaning to the word in capitals: ENTHRALL
+(a) captivate
+(b) genial
+(c) levity
+(d) bore
+Answer: (a) captivate
+Q279. Choose the word nearest in meaning to the word in capitals: EPHEMERAL
+(a) fleeting
+(b) enduring
+(c) virulent
+(d) foreboding
+Answer: (a) fleeting
+Q280. Choose the word nearest in meaning to the word in capitals: ERUDITE
+(a) learned
+(b) peace-lover
+(c) ignorant
+(d) hostility
+Answer: (a) learned
+Q281. Choose the word most nearly OPPOSITE in meaning to the word in capitals: EVADE
+(a) innocuous
+(b) important
+(c) avoid
+(d) face
+Answer: (d) face
+Q282. Choose the word most nearly OPPOSITE in meaning to the word in capitals: EXACERBATE
+(a) ease
+(b) useless
+(c) fix
+(d) aggravate
+Answer: (a) ease
+Q283. Choose the word nearest in meaning to the word in capitals: EXALT
+(a) varied
+(b) surly
+(c) demean
+(d) glorify
+Answer: (d) glorify
+Q284. Choose the word nearest in meaning to the word in capitals: EXEMPLIFY
+(a) decline
+(b) illustrate
+(c) elicit
+(d) plethora
+Answer: (b) illustrate
+Q285. Choose the word nearest in meaning to the word in capitals: EXHAUSTIVE
+(a) partial
+(b) unconventional
+(c) resolve
+(d) thorough
+Answer: (d) thorough
+Q286. Choose the word most nearly OPPOSITE in meaning to the word in capitals: EXORBITANT
+(a) effervescent
+(b) excessive
+(c) reasonable
+(d) coercion
+Answer: (c) reasonable
+Q287. Choose the word most nearly OPPOSITE in meaning to the word in capitals: EXPEDITE
+(a) hasten
+(b) capable
+(c) remote
+(d) delay
+Answer: (d) delay
+Q288. Choose the word nearest in meaning to the word in capitals: EXPLICIT
+(a) repulsion
+(b) vague
+(c) clear
+(d) decisive
+Answer: (c) clear
+Q289. Choose the word nearest in meaning to the word in capitals: EXQUISITE
+(a) industry
+(b) crude
+(c) dutiful
+(d) delicate
+Answer: (d) delicate
+Q290. Choose the word nearest in meaning to the word in capitals: EXTOL
+(a) criticize
+(b) classic
+(c) brave
+(d) praise
+Answer: (d) praise
+Q291. Choose the word most nearly OPPOSITE in meaning to the word in capitals: EXTRAVAGANT
+(a) lavish
+(b) skilled
+(c) panegyric
+(d) frugal
+Answer: (d) frugal
+Q292. Choose the word most nearly OPPOSITE in meaning to the word in capitals: FABRICATE
+(a) verify
+(b) invent
+(c) redoubtable
+(d) misfortune
+Answer: (a) verify
+Q293. Choose the word nearest in meaning to the word in capitals: FACILITATE
+(a) reflect
+(b) hinder
+(c) guise
+(d) ease
+Answer: (d) ease
+Q294. Choose the word nearest in meaning to the word in capitals: FALLACY
+(a) truth
+(b) misconception
+(c) reckless
+(d) object
+Answer: (b) misconception
+Q295. Choose the word nearest in meaning to the word in capitals: FEASIBLE
+(a) verbosity
+(b) impossible
+(c) practicable
+(d) fastidious
+Answer: (c) practicable
+Q296. Choose the word most nearly OPPOSITE in meaning to the word in capitals: FEEBLE
+(a) famous
+(b) advanced
+(c) weak
+(d) strong
+Answer: (d) strong
+Q297. Choose the word most nearly OPPOSITE in meaning to the word in capitals: FEROCIOUS
+(a) fierce
+(b) lawful
+(c) gentle
+(d) reliable
+Answer: (c) gentle
+Q298. Choose the word nearest in meaning to the word in capitals: FICKLE
+(a) changeable
+(b) irregular
+(c) exalt
+(d) steadfast
+Answer: (a) changeable
+Q299. Choose the word nearest in meaning to the word in capitals: FLOURISH
+(a) help
+(b) negligent
+(c) thrive
+(d) wither
+Answer: (c) thrive
+Q300. Choose the word nearest in meaning to the word in capitals: FORSAKE
+(a) support
+(b) abandon
+(c) pervasive
+(d) proclivity
+Answer: (b) abandon
+Q301. Choose the word most nearly OPPOSITE in meaning to the word in capitals: FRACTIOUS
+(a) calm
+(b) enraged
+(c) want
+(d) irritable
+Answer: (a) calm
+Q302. Choose the word most nearly OPPOSITE in meaning to the word in capitals: FRIVOLOUS
+(a) secondary
+(b) despot
+(c) trivial
+(d) serious
+Answer: (d) serious
+Q303. Choose the word nearest in meaning to the word in capitals: FURTIVE
+(a) stealthy
+(b) timorous
+(c) converge
+(d) open
+Answer: (a) stealthy
+Q304. Choose the word nearest in meaning to the word in capitals: GENIAL
+(a) mean
+(b) friendly
+(c) dwindle
+(d) cold
+Answer: (b) friendly
+Q305. Choose the word nearest in meaning to the word in capitals: GIST
+(a) ban
+(b) deviation
+(c) details
+(d) essence
+Answer: (d) essence
+Q306. Choose the word most nearly OPPOSITE in meaning to the word in capitals: GRANDIOSE
+(a) modest
+(b) preachy
+(c) pompous
+(d) dilemma
+Answer: (a) modest
+Q307. Choose the word most nearly OPPOSITE in meaning to the word in capitals: GREGARIOUS
+(a) courtesy
+(b) reclusive
+(c) praiseworthy
+(d) sociable
+Answer: (b) reclusive
+Q308. Choose the word nearest in meaning to the word in capitals: GRUDGE
+(a) touching
+(b) goodwill
+(c) harshness
+(d) resentment
+Answer: (d) resentment
+Q309. Choose the word nearest in meaning to the word in capitals: HAPLESS
+(a) cede
+(b) unlucky
+(c) separate
+(d) fortunate
+Answer: (b) unlucky
+Q310. Choose the word nearest in meaning to the word in capitals: HARANGUE
+(a) proud
+(b) praise
+(c) tirade
+(d) weary
+Answer: (c) tirade
+Q311. Choose the word most nearly OPPOSITE in meaning to the word in capitals: HINDER
+(a) obstruct
+(b) reserve
+(c) fierce
+(d) help
+Answer: (d) help
+Q312. Choose the word most nearly OPPOSITE in meaning to the word in capitals: HOSTILITY
+(a) aggression
+(b) friendliness
+(c) tentative
+(d) evasive
+Answer: (b) friendliness
+Q313. Choose the word nearest in meaning to the word in capitals: IDLE
+(a) shrivel
+(b) busy
+(c) inactive
+(d) resourceful
+Answer: (c) inactive
+Q314. Choose the word nearest in meaning to the word in capitals: ILLICIT
+(a) illegal
+(b) ostracize
+(c) legal
+(d) sombre
+Answer: (a) illegal
+Q315. Choose the word nearest in meaning to the word in capitals: IMMACULATE
+(a) dirty
+(b) peak
+(c) spotless
+(d) sycophantic
+Answer: (c) spotless
+Q316. Choose the word most nearly OPPOSITE in meaning to the word in capitals: IMMINENT
+(a) impending
+(b) distant
+(c) habitual
+(d) advanced
+Answer: (b) distant
+Q317. Choose the word most nearly OPPOSITE in meaning to the word in capitals: IMPECCABLE
+(a) flawed
+(b) flawless
+(c) hostile
+(d) harmless
+Answer: (a) flawed
+Q318. Choose the word nearest in meaning to the word in capitals: IMPEDE
+(a) assist
+(b) melody
+(c) venerate
+(d) hinder
+Answer: (d) hinder
+Q319. Choose the word nearest in meaning to the word in capitals: IMPERATIVE
+(a) optional
+(b) essential
+(c) snobbish
+(d) paramount
+Answer: (b) essential
+Q320. Choose the word nearest in meaning to the word in capitals: IMPERVIOUS
+(a) sensitive
+(b) resistant
+(c) nervous
+(d) insolence
+Answer: (b) resistant
+Q321. Choose the word most nearly OPPOSITE in meaning to the word in capitals: IMPLACABLE
+(a) relentless
+(b) forgiving
+(c) persistence
+(d) forbid
+Answer: (b) forgiving
+Q322. Choose the word most nearly OPPOSITE in meaning to the word in capitals: IMPLICIT
+(a) admonition
+(b) despise
+(c) implied
+(d) explicit
+Answer: (d) explicit
+Q323. Choose the word nearest in meaning to the word in capitals: IMPROMPTU
+(a) rehearsed
+(b) spontaneous
+(c) solace
+(d) indolent
+Answer: (b) spontaneous
+Q324. Choose the word nearest in meaning to the word in capitals: INANE
+(a) sensible
+(b) unconfirmed
+(c) vibrant
+(d) silly
+Answer: (d) silly
+Q325. Choose the word nearest in meaning to the word in capitals: INCESSANT
+(a) occasional
+(b) ceaseless
+(c) fallible
+(d) charm
+Answer: (b) ceaseless
+Q326. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INCITE
+(a) calm
+(b) provoke
+(c) unreasoned
+(d) disturb
+Answer: (a) calm
+Q327. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INDOLENT
+(a) lazy
+(b) inane
+(c) modest
+(d) industrious
+Answer: (d) industrious
+Q328. Choose the word nearest in meaning to the word in capitals: INEPT
+(a) severity
+(b) tactless
+(c) incompetent
+(d) adept
+Answer: (c) incompetent
+Q329. Choose the word nearest in meaning to the word in capitals: INERT
+(a) active
+(b) motionless
+(c) harangue
+(d) scarce
+Answer: (b) motionless
+Q330. Choose the word nearest in meaning to the word in capitals: INFALLIBLE
+(a) foreign
+(b) prohibit
+(c) fallible
+(d) unerring
+Answer: (d) unerring
+Q331. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INGENUOUS
+(a) innocent
+(b) certain
+(c) condemn
+(d) cunning
+Answer: (d) cunning
+Q332. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INHERENT
+(a) acquired
+(b) innate
+(c) recondite
+(d) servitude
+Answer: (a) acquired
+Q333. Choose the word nearest in meaning to the word in capitals: INNOCUOUS
+(a) harmful
+(b) harmless
+(c) meek
+(d) exclude
+Answer: (b) harmless
+Q334. Choose the word nearest in meaning to the word in capitals: INSATIABLE
+(a) satisfied
+(b) unquenchable
+(c) justify
+(d) idiosyncrasy
+Answer: (b) unquenchable
+Q335. Choose the word nearest in meaning to the word in capitals: INSIPID
+(a) lively
+(b) anomaly
+(c) mercy
+(d) dull
+Answer: (d) dull
+Q336. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INSOLENCE
+(a) overwhelm
+(b) rudeness
+(c) politeness
+(d) combine
+Answer: (c) politeness
+Q337. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INSURGENT
+(a) awake
+(b) concur
+(c) rebel
+(d) loyalist
+Answer: (d) loyalist
+Q338. Choose the word nearest in meaning to the word in capitals: INTRICATE
+(a) simple
+(b) derogatory
+(c) workable
+(d) complex
+Answer: (d) complex
+Q339. Choose the word nearest in meaning to the word in capitals: INTRINSIC
+(a) inherent
+(b) dodge
+(c) extrinsic
+(d) greed
+Answer: (a) inherent
+Q340. Choose the word nearest in meaning to the word in capitals: INUNDATE
+(a) enmity
+(b) effort
+(c) drain
+(d) flood
+Answer: (d) flood
+Q341. Choose the word most nearly OPPOSITE in meaning to the word in capitals: IRATE
+(a) sceptical
+(b) justified
+(c) furious
+(d) calm
+Answer: (d) calm
+Q342. Choose the word most nearly OPPOSITE in meaning to the word in capitals: JOVIAL
+(a) tenable
+(b) gloomy
+(c) cheerful
+(d) outgoing
+Answer: (b) gloomy
+Q343. Choose the word nearest in meaning to the word in capitals: JUDICIOUS
+(a) wise
+(b) friendly
+(c) equanimity
+(d) foolish
+Answer: (a) wise
+Q344. Choose the word nearest in meaning to the word in capitals: LAVISH
+(a) renowned
+(b) nervousness
+(c) frugal
+(d) generous
+Answer: (d) generous
+Q345. Choose the word nearest in meaning to the word in capitals: LAX
+(a) virtue
+(b) slack
+(c) strict
+(d) repent
+Answer: (b) slack
+Q346. Choose the word most nearly OPPOSITE in meaning to the word in capitals: LETHAL
+(a) harmless
+(b) enthusiastic
+(c) deadly
+(d) famous
+Answer: (a) harmless
+Q347. Choose the word most nearly OPPOSITE in meaning to the word in capitals: LOATHE
+(a) indolent
+(b) love
+(c) divide
+(d) detest
+Answer: (b) love
+Q348. Choose the word nearest in meaning to the word in capitals: LUCRATIVE
+(a) profitable
+(b) unprofitable
+(c) reverse
+(d) different
+Answer: (a) profitable
+Q349. Choose the word nearest in meaning to the word in capitals: MAGNANIMOUS
+(a) petty
+(b) exemplar
+(c) generous
+(d) dullness
+Answer: (c) generous
+Q350. Choose the word nearest in meaning to the word in capitals: MALIGN
+(a) slander
+(b) pettiness
+(c) praise
+(d) fall
+Answer: (a) slander
+Q351. Choose the word most nearly OPPOSITE in meaning to the word in capitals: MEAGER
+(a) abundant
+(b) jeers
+(c) scanty
+(d) risky
+Answer: (a) abundant
+Q352. Choose the word most nearly OPPOSITE in meaning to the word in capitals: MEDIOCRE
+(a) essential
+(b) excellent
+(c) sporadic
+(d) average
+Answer: (b) excellent
+Q353. Choose the word nearest in meaning to the word in capitals: MENACE
+(a) threat
+(b) big-hearted
+(c) coax
+(d) protection
+Answer: (a) threat
+Q354. Choose the word nearest in meaning to the word in capitals: MUNDANE
+(a) ordinary
+(b) stealthy
+(c) castigate
+(d) exciting
+Answer: (a) ordinary
+Q355. Choose the word nearest in meaning to the word in capitals: NEGATE
+(a) real
+(b) prosperous
+(c) affirm
+(d) nullify
+Answer: (d) nullify
+Q356. Choose the word most nearly OPPOSITE in meaning to the word in capitals: NONCHALANT
+(a) unconcerned
+(b) frankness
+(c) anxious
+(d) slant
+Answer: (c) anxious
+Q357. Choose the word most nearly OPPOSITE in meaning to the word in capitals: NOVICE
+(a) gloomy
+(b) irate
+(c) beginner
+(d) expert
+Answer: (d) expert
+Q358. Choose the word nearest in meaning to the word in capitals: OBSCURE
+(a) unclear
+(b) clear
+(c) chronic
+(d) hostility
+Answer: (a) unclear
+Q359. Choose the word nearest in meaning to the word in capitals: OBSOLETE
+(a) outdated
+(b) impossible
+(c) pretext
+(d) modern
+Answer: (a) outdated
+Q360. Choose the word nearest in meaning to the word in capitals: OBSTRUCT
+(a) block
+(b) clear
+(c) ideal
+(d) ignore
+Answer: (a) block
+Q361. Choose the word most nearly OPPOSITE in meaning to the word in capitals: OFFICIOUS
+(a) meddlesome
+(b) abandon
+(c) insolence
+(d) reserved
+Answer: (d) reserved
+Q362. Choose the word most nearly OPPOSITE in meaning to the word in capitals: OPULENT
+(a) determined
+(b) lavish
+(c) emaciated
+(d) plain
+Answer: (d) plain
+Q363. Choose the word nearest in meaning to the word in capitals: OSTENSIBLE
+(a) frivolous
+(b) apparent
+(c) real
+(d) outdo
+Answer: (b) apparent
+Q364. Choose the word nearest in meaning to the word in capitals: PACIFIST
+(a) peace-lover
+(b) warmonger
+(c) audacious
+(d) rancour
+Answer: (a) peace-lover
+Q365. Choose the word nearest in meaning to the word in capitals: PAINSTAKING
+(a) careless
+(b) admiration
+(c) egregious
+(d) careful
+Answer: (d) careful
+Q366. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PARAMOUNT
+(a) dearth
+(b) trouble
+(c) supreme
+(d) minor
+Answer: (d) minor
+Q367. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PARTIAL
+(a) debase
+(b) impartial
+(c) empty
+(d) biased
+Answer: (b) impartial
+Q368. Choose the word nearest in meaning to the word in capitals: PENURY
+(a) poverty
+(b) wealth
+(c) superior
+(d) gallant
+Answer: (a) poverty
+Q369. Choose the word nearest in meaning to the word in capitals: PERPETUAL
+(a) inert
+(b) endless
+(c) resist
+(d) temporary
+Answer: (b) endless
+Q370. Choose the word nearest in meaning to the word in capitals: PERPLEX
+(a) revolutionary
+(b) confuse
+(c) disparaging
+(d) clarify
+Answer: (b) confuse
+Q371. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PERVASIVE
+(a) trim
+(b) widespread
+(c) rare
+(d) temperament
+Answer: (c) rare
+Q372. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PLACID
+(a) rife
+(b) critic
+(c) turbulent
+(d) calm
+Answer: (c) turbulent
+Q373. Choose the word nearest in meaning to the word in capitals: PLETHORA
+(a) shortage
+(b) excess
+(c) indolent
+(d) faithless
+Answer: (b) excess
+Q374. Choose the word nearest in meaning to the word in capitals: POIGNANT
+(a) lenient
+(b) elude
+(c) moving
+(d) unemotional
+Answer: (c) moving
+Q375. Choose the word nearest in meaning to the word in capitals: PONDER
+(a) effortless
+(b) ignore
+(c) vacillate
+(d) reflect
+Answer: (d) reflect
+Q376. Choose the word most nearly OPPOSITE in meaning to the word in capitals: POMPOUS
+(a) prejudiced
+(b) unsure
+(c) humble
+(d) arrogant
+Answer: (c) humble
+Q377. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PRECARIOUS
+(a) renowned
+(b) unstable
+(c) suppress
+(d) secure
+Answer: (d) secure
+Q378. Choose the word nearest in meaning to the word in capitals: PREDOMINANT
+(a) sullen
+(b) minor
+(c) create
+(d) chief
+Answer: (d) chief
+Q379. Choose the word nearest in meaning to the word in capitals: PRESUMPTUOUS
+(a) modest
+(b) disparaging
+(c) arrogant
+(d) authentic
+Answer: (c) arrogant
+Q380. Choose the word nearest in meaning to the word in capitals: PRETEXT
+(a) real reason
+(b) confusing
+(c) excuse
+(d) adversity
+Answer: (c) excuse
+Q381. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PROFICIENT
+(a) incompetent
+(b) stale
+(c) equanimity
+(d) skilled
+Answer: (a) incompetent
+Q382. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PROFOUND
+(a) deep
+(b) shallow
+(c) original
+(d) rife
+Answer: (b) shallow
+Q383. Choose the word nearest in meaning to the word in capitals: PROLIFIC
+(a) trite
+(b) unproductive
+(c) productive
+(d) sharpness
+Answer: (c) productive
+Q384. Choose the word nearest in meaning to the word in capitals: PROSPERITY
+(a) fine
+(b) divided
+(c) poverty
+(d) success
+Answer: (d) success
+Q385. Choose the word nearest in meaning to the word in capitals: PROVOKE
+(a) fretful
+(b) incite
+(c) depressed
+(d) pacify
+Answer: (b) incite
+Q386. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PRUDENCE
+(a) taciturn
+(b) caution
+(c) ruined
+(d) recklessness
+Answer: (d) recklessness
+Q387. Choose the word most nearly OPPOSITE in meaning to the word in capitals: QUELL
+(a) suppress
+(b) reprehensible
+(c) repent
+(d) incite
+Answer: (d) incite
+Q388. Choose the word nearest in meaning to the word in capitals: RAMPANT
+(a) controlled
+(b) frugal
+(c) unchecked
+(d) pretentious
+Answer: (c) unchecked
+Q389. Choose the word nearest in meaning to the word in capitals: RANCOUR
+(a) bitterness
+(b) cacophony
+(c) goodwill
+(d) prevent
+Answer: (a) bitterness
+Q390. Choose the word nearest in meaning to the word in capitals: RASH
+(a) supporter
+(b) cautious
+(c) meager
+(d) hasty
+Answer: (d) hasty
+Q391. Choose the word most nearly OPPOSITE in meaning to the word in capitals: RECKLESS
+(a) careful
+(b) careless
+(c) raze
+(d) steep
+Answer: (a) careful
+Q392. Choose the word most nearly OPPOSITE in meaning to the word in capitals: REDUNDANT
+(a) essential
+(b) severity
+(c) negligent
+(d) superfluous
+Answer: (a) essential
+Q393. Choose the word nearest in meaning to the word in capitals: REFUTE
+(a) confirm
+(b) dogmatic
+(c) disprove
+(d) affirm
+Answer: (c) disprove
+Q394. Choose the word nearest in meaning to the word in capitals: RELINQUISH
+(a) explain
+(b) surrender
+(c) keep
+(d) brave
+Answer: (b) surrender
+Q395. Choose the word nearest in meaning to the word in capitals: REPENT
+(a) listless
+(b) regret
+(c) justify
+(d) uneasy
+Answer: (b) regret
+Q396. Choose the word most nearly OPPOSITE in meaning to the word in capitals: REPRIMAND
+(a) timidity
+(b) praise
+(c) decrease
+(d) rebuke
+Answer: (b) praise
+Q397. Choose the word most nearly OPPOSITE in meaning to the word in capitals: REPROACH
+(a) praise
+(b) dishearten
+(c) supporter
+(d) blame
+Answer: (a) praise
+Q398. Choose the word nearest in meaning to the word in capitals: REPUDIATE
+(a) reject
+(b) accept
+(c) rehearsed
+(d) virtuous
+Answer: (a) reject
+Q399. Choose the word nearest in meaning to the word in capitals: RESOLUTE
+(a) determined
+(b) meagre
+(c) irresolute
+(d) curse
+Answer: (a) determined
+Q400. Choose the word nearest in meaning to the word in capitals: RESTRAIN
+(a) release
+(b) control
+(c) malign
+(d) enigma
+Answer: (b) control
+Q401. Choose the word most nearly OPPOSITE in meaning to the word in capitals: REVERENCE
+(a) contempt
+(b) peevish
+(c) straightforward
+(d) respect
+Answer: (a) contempt
+Q402. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ROBUST
+(a) content
+(b) weak
+(c) fine
+(d) strong
+Answer: (b) weak
+Q403. Choose the word nearest in meaning to the word in capitals: ROUSE
+(a) calm
+(b) testy
+(c) enthrall
+(d) awaken
+Answer: (d) awaken
+Q404. Choose the word nearest in meaning to the word in capitals: RUTHLESS
+(a) merciful
+(b) belittle
+(c) poisonous
+(d) merciless
+Answer: (d) merciless
+Q405. Choose the word nearest in meaning to the word in capitals: SAGACIOUS
+(a) wise
+(b) thoughtful
+(c) foolish
+(d) appropriate
+Answer: (a) wise
+Q406. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SANCTION
+(a) painstaking
+(b) ban
+(c) approve
+(d) impractical
+Answer: (b) ban
+Q407. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SCANTY
+(a) indignant
+(b) meagre
+(c) ample
+(d) sabotage
+Answer: (c) ample
+Q408. Choose the word nearest in meaning to the word in capitals: SCRUPULOUS
+(a) careless
+(b) melody
+(c) unintended
+(d) conscientious
+Answer: (d) conscientious
+Q409. Choose the word nearest in meaning to the word in capitals: SERENE
+(a) agitated
+(b) imitate
+(c) merry
+(d) calm
+Answer: (d) calm
+Q410. Choose the word nearest in meaning to the word in capitals: SERVITUDE
+(a) freedom
+(b) slavery
+(c) facilitate
+(d) cheerful
+Answer: (b) slavery
+Q411. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SHREWD
+(a) naive
+(b) uniform
+(c) astute
+(d) erratic
+Answer: (a) naive
+Q412. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SLANDER
+(a) famous
+(b) defamation
+(c) praise
+(d) melodious
+Answer: (c) praise
+Q413. Choose the word nearest in meaning to the word in capitals: SLUGGISH
+(a) brisk
+(b) disloyal
+(c) ostracize
+(d) slow
+Answer: (d) slow
+Q414. Choose the word nearest in meaning to the word in capitals: SOLACE
+(a) comfort
+(b) partake
+(c) distress
+(d) approving
+Answer: (a) comfort
+Q415. Choose the word nearest in meaning to the word in capitals: SOMBRE
+(a) cheerful
+(b) gloomy
+(c) trim
+(d) accuse
+Answer: (b) gloomy
+Q416. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SPORADIC
+(a) fortuitous
+(b) thrive
+(c) constant
+(d) occasional
+Answer: (c) constant
+Q417. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SQUANDER
+(a) boldness
+(b) suspect
+(c) waste
+(d) save
+Answer: (d) save
+Q418. Choose the word nearest in meaning to the word in capitals: STOIC
+(a) habitual
+(b) unemotional
+(c) emotional
+(d) dangerous
+Answer: (b) unemotional
+Q419. Choose the word nearest in meaning to the word in capitals: STRENUOUS
+(a) choice
+(b) easy
+(c) arduous
+(d) essence
+Answer: (c) arduous
+Q420. Choose the word nearest in meaning to the word in capitals: SUBDUE
+(a) conquer
+(b) vindictive
+(c) incite
+(d) inactive
+Answer: (a) conquer
+Q421. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SULLEN
+(a) moody
+(b) frivolous
+(c) ban
+(d) cheerful
+Answer: (d) cheerful
+Q422. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SURPASS
+(a) dishonest
+(b) grit
+(c) trail
+(d) exceed
+Answer: (c) trail
+Q423. Choose the word nearest in meaning to the word in capitals: SUPPRESS
+(a) diligence
+(b) encourage
+(c) bloom
+(d) crush
+Answer: (d) crush
+Q424. Choose the word nearest in meaning to the word in capitals: SURMISE
+(a) zeal
+(b) weaken
+(c) know
+(d) guess
+Answer: (d) guess
+Q425. Choose the word nearest in meaning to the word in capitals: TACTFUL
+(a) diplomatic
+(b) tactless
+(c) greedy
+(d) include
+Answer: (a) diplomatic
+Q426. Choose the word most nearly OPPOSITE in meaning to the word in capitals: TEDIOUS
+(a) interesting
+(b) boring
+(c) omen
+(d) ameliorate
+Answer: (a) interesting
+Q427. Choose the word most nearly OPPOSITE in meaning to the word in capitals: TEMPERATE
+(a) moderate
+(b) extreme
+(c) loyalist
+(d) artistic
+Answer: (b) extreme
+Q428. Choose the word nearest in meaning to the word in capitals: TENABLE
+(a) idle
+(b) untenable
+(c) defensible
+(d) rambling
+Answer: (c) defensible
+Q429. Choose the word nearest in meaning to the word in capitals: TENTATIVE
+(a) definite
+(b) effortless
+(c) provisional
+(d) conciliate
+Answer: (c) provisional
+Q430. Choose the word nearest in meaning to the word in capitals: TERSE
+(a) wordy
+(b) concise
+(c) hesitant
+(d) predicament
+Answer: (b) concise
+Q431. Choose the word most nearly OPPOSITE in meaning to the word in capitals: THWART
+(a) timid
+(b) foil
+(c) perfunctory
+(d) assist
+Answer: (d) assist
+Q432. Choose the word most nearly OPPOSITE in meaning to the word in capitals: TIMOROUS
+(a) chide
+(b) grow
+(c) fearful
+(d) bold
+Answer: (d) bold
+Q433. Choose the word nearest in meaning to the word in capitals: TOLERATE
+(a) endure
+(b) forbid
+(c) servile
+(d) exorbitant
+Answer: (a) endure
+Q434. Choose the word nearest in meaning to the word in capitals: TRANSIENT
+(a) fleeting
+(b) disdainful
+(c) assist
+(d) permanent
+Answer: (a) fleeting
+Q435. Choose the word nearest in meaning to the word in capitals: TREPIDATION
+(a) prolix
+(b) fear
+(c) confidence
+(d) belie
+Answer: (b) fear
+Q436. Choose the word most nearly OPPOSITE in meaning to the word in capitals: UBIQUITOUS
+(a) rare
+(b) omnipresent
+(c) deception
+(d) supreme
+Answer: (a) rare
+Q437. Choose the word most nearly OPPOSITE in meaning to the word in capitals: UNANIMOUS
+(a) divided
+(b) steep
+(c) expert
+(d) united
+Answer: (a) divided
+Q438. Choose the word nearest in meaning to the word in capitals: UNDERMINE
+(a) penchant
+(b) weaken
+(c) relinquish
+(d) strengthen
+Answer: (b) weaken
+Q439. Choose the word nearest in meaning to the word in capitals: UNSCRUPULOUS
+(a) dishonest
+(b) climb
+(c) honest
+(d) positive
+Answer: (a) dishonest
+Q440. Choose the word nearest in meaning to the word in capitals: USURP
+(a) seize
+(b) resolute
+(c) scrupulous
+(d) relinquish
+Answer: (a) seize
+Q441. Choose the word most nearly OPPOSITE in meaning to the word in capitals: VALOUR
+(a) repetitive
+(b) cowardice
+(c) penalty
+(d) bravery
+Answer: (b) cowardice
+Q442. Choose the word most nearly OPPOSITE in meaning to the word in capitals: VENERATE
+(a) risky
+(b) revere
+(c) jolly
+(d) despise
+Answer: (d) despise
+Q443. Choose the word nearest in meaning to the word in capitals: VERBOSE
+(a) poetic
+(b) wordy
+(c) unpredictable
+(d) concise
+Answer: (b) wordy
+Q444. Choose the word nearest in meaning to the word in capitals: VIABLE
+(a) unworkable
+(b) detachment
+(c) feasible
+(d) veteran
+Answer: (c) feasible
+Q445. Choose the word nearest in meaning to the word in capitals: VIBRANT
+(a) legal
+(b) dull
+(c) busy
+(d) lively
+Answer: (d) lively
+Q446. Choose the word most nearly OPPOSITE in meaning to the word in capitals: VICARIOUS
+(a) direct
+(b) indirect
+(c) detrimental
+(d) scheme
+Answer: (a) direct
+Q447. Choose the word most nearly OPPOSITE in meaning to the word in capitals: VICIOUS
+(a) gentle
+(b) cruel
+(c) rejoice
+(d) robust
+Answer: (a) gentle
+Q448. Choose the word nearest in meaning to the word in capitals: VIGOUR
+(a) weakness
+(b) luxury
+(c) coherent
+(d) energy
+Answer: (d) energy
+Q449. Choose the word nearest in meaning to the word in capitals: VILIFY
+(a) scanty
+(b) enthusiasm
+(c) praise
+(d) defame
+Answer: (d) defame
+Q450. Choose the word nearest in meaning to the word in capitals: VIVACIOUS
+(a) dull
+(b) acquit
+(c) unskilled
+(d) lively
+Answer: (d) lively
+Q451. Choose the word most nearly OPPOSITE in meaning to the word in capitals: VOCIFEROUS
+(a) quiet
+(b) affluent
+(c) loud
+(d) dedicated
+Answer: (a) quiet
+Q452. Choose the word most nearly OPPOSITE in meaning to the word in capitals: VORACIOUS
+(a) turpitude
+(b) insatiable
+(c) unbiased
+(d) satisfied
+Answer: (d) satisfied
+Q453. Choose the word nearest in meaning to the word in capitals: WANE
+(a) bitterness
+(b) wax
+(c) decline
+(d) effervescent
+Answer: (c) decline
+Q454. Choose the word nearest in meaning to the word in capitals: WARY
+(a) cautious
+(b) satisfaction
+(c) careless
+(d) fix
+Answer: (a) cautious
+Q455. Choose the word nearest in meaning to the word in capitals: WITHER
+(a) bent
+(b) shrivel
+(c) effectiveness
+(d) flourish
+Answer: (b) shrivel
+Q456. Choose the word most nearly OPPOSITE in meaning to the word in capitals: YIELD
+(a) produce
+(b) disguise
+(c) object
+(d) resist
+Answer: (d) resist
+Q457. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ZEALOUS
+(a) enthusiastic
+(b) indefatigable
+(c) demote
+(d) apathetic
+Answer: (d) apathetic
+Q458. Choose the word nearest in meaning to the word in capitals: ABSTRUSE
+(a) obscure
+(b) morose
+(c) delineate
+(d) clear
+Answer: (a) obscure
+Q459. Choose the word nearest in meaning to the word in capitals: ACQUIESCE
+(a) comply
+(b) resist
+(c) rudeness
+(d) supplement
+Answer: (a) comply
+Q460. Choose the word nearest in meaning to the word in capitals: ADMONITION
+(a) praise
+(b) warning
+(c) slight
+(d) climb
+Answer: (b) warning
+Q461. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ADROIT
+(a) skilful
+(b) clumsy
+(c) wither
+(d) persuade
+Answer: (b) clumsy
+Q462. Choose the word most nearly OPPOSITE in meaning to the word in capitals: AESTHETIC
+(a) peevish
+(b) artistic
+(c) unattractive
+(d) discourage
+Answer: (c) unattractive
+Q463. Choose the word nearest in meaning to the word in capitals: AFFRONT
+(a) clash
+(b) insult
+(c) compliment
+(d) phoney
+Answer: (b) insult
+Q464. Choose the word nearest in meaning to the word in capitals: AGGRANDIZE
+(a) defensible
+(b) diminish
+(c) munificent
+(d) enhance
+Answer: (d) enhance
+Q465. Choose the word nearest in meaning to the word in capitals: ALLEVIATE
+(a) moody
+(b) querulous
+(c) aggravate
+(d) ease
+Answer: (d) ease
+Q466. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ALOOF
+(a) detached
+(b) trepidation
+(c) friendly
+(d) strong
+Answer: (c) friendly
+Q467. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ANATHEMA
+(a) thrifty
+(b) interrupt
+(c) abomination
+(d) blessing
+Answer: (d) blessing
+Q468. Choose the word nearest in meaning to the word in capitals: ANTITHESIS
+(a) sameness
+(b) exclude
+(c) intimidate
+(d) opposite
+Answer: (d) opposite
+Q469. Choose the word nearest in meaning to the word in capitals: APATHETIC
+(a) indifferent
+(b) unity
+(c) lax
+(d) keen
+Answer: (a) indifferent
+Q470. Choose the word nearest in meaning to the word in capitals: APLOMB
+(a) nervousness
+(b) minor
+(c) nullify
+(d) poise
+Answer: (d) poise
+Q471. Choose the word most nearly OPPOSITE in meaning to the word in capitals: APPRISE
+(a) inform
+(b) sly
+(c) conceal
+(d) arcane
+Answer: (c) conceal
+Q472. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ARCANE
+(a) friend
+(b) known
+(c) prudence
+(d) obscure
+Answer: (b) known
+Q473. Choose the word nearest in meaning to the word in capitals: ASCETIC
+(a) accidental
+(b) austere
+(c) bolster
+(d) indulgent
+Answer: (b) austere
+Q474. Choose the word nearest in meaning to the word in capitals: ASSUAGE
+(a) lucid
+(b) diplomatic
+(c) aggravate
+(d) soothe
+Answer: (d) soothe
+Q475. Choose the word nearest in meaning to the word in capitals: AUDACIOUS
+(a) counterfeit
+(b) bold
+(c) apparent
+(d) timid
+Answer: (b) bold
+Q476. Choose the word most nearly OPPOSITE in meaning to the word in capitals: BELIE
+(a) contradict
+(b) bent
+(c) audacity
+(d) confirm
+Answer: (d) confirm
+Q477. Choose the word most nearly OPPOSITE in meaning to the word in capitals: BEQUEATH
+(a) take
+(b) coercion
+(c) leave
+(d) assiduous
+Answer: (a) take
+Q478. Choose the word nearest in meaning to the word in capitals: BOLSTER
+(a) relief
+(b) support
+(c) weaken
+(d) melody
+Answer: (b) support
+Q479. Choose the word nearest in meaning to the word in capitals: CACOPHONY
+(a) disagreement
+(b) ascetic
+(c) din
+(d) harmony
+Answer: (c) din
+Q480. Choose the word nearest in meaning to the word in capitals: CAPRICIOUS
+(a) threatening
+(b) steady
+(c) honest
+(d) fickle
+Answer: (d) fickle
+Q481. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CENSORIOUS
+(a) folly
+(b) plentiful
+(c) critical
+(d) approving
+Answer: (d) approving
+Q482. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CIRCUMVENT
+(a) confront
+(b) complaint
+(c) bypass
+(d) unchecked
+Answer: (a) confront
+Q483. Choose the word nearest in meaning to the word in capitals: CLEMENCY
+(a) temporary
+(b) severity
+(c) penalty
+(d) mercy
+Answer: (d) mercy
+Q484. Choose the word nearest in meaning to the word in capitals: COERCE
+(a) endorse
+(b) bounty
+(c) coax
+(d) force
+Answer: (d) force
+Q485. Choose the word nearest in meaning to the word in capitals: CONUNDRUM
+(a) optimism
+(b) puzzle
+(c) sleeping
+(d) solution
+Answer: (b) puzzle
+Q486. Choose the word most nearly OPPOSITE in meaning to the word in capitals: COPIOUS
+(a) acknowledge
+(b) sturdy
+(c) abundant
+(d) scant
+Answer: (d) scant
+Q487. Choose the word most nearly OPPOSITE in meaning to the word in capitals: CORDON
+(a) barrier
+(b) poverty
+(c) opening
+(d) unplanned
+Answer: (c) opening
+Q488. Choose the word nearest in meaning to the word in capitals: CRYPTIC
+(a) garrulous
+(b) outraged
+(c) clear
+(d) obscure
+Answer: (d) obscure
+Q489. Choose the word nearest in meaning to the word in capitals: DEBILITATE
+(a) disreputable
+(b) weaken
+(c) strengthen
+(d) tame
+Answer: (b) weaken
+Q490. Choose the word nearest in meaning to the word in capitals: DECADENT
+(a) degenerate
+(b) virtuous
+(c) forgo
+(d) dishonest
+Answer: (a) degenerate
+Q491. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DEFERENCE
+(a) efficacy
+(b) respect
+(c) passionate
+(d) disrespect
+Answer: (d) disrespect
+Q492. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DEMUR
+(a) contemptuous
+(b) object
+(c) agree
+(d) complement
+Answer: (c) agree
+Q493. Choose the word nearest in meaning to the word in capitals: DENIGRATE
+(a) praise
+(b) transient
+(c) friendly
+(d) belittle
+Answer: (d) belittle
+Q494. Choose the word nearest in meaning to the word in capitals: DEPRECATE
+(a) shrink
+(b) caustic
+(c) disapprove
+(d) approve
+Answer: (c) disapprove
+Q495. Choose the word nearest in meaning to the word in capitals: DESULTORY
+(a) methodical
+(b) aimless
+(c) regularity
+(d) submit
+Answer: (b) aimless
+Q496. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DIATRIBE
+(a) nervousness
+(b) tirade
+(c) praise
+(d) despondent
+Answer: (c) praise
+Q497. Choose the word most nearly OPPOSITE in meaning to the word in capitals: DILATORY
+(a) atone
+(b) slow
+(c) beneficial
+(d) prompt
+Answer: (d) prompt
+Q498. Choose the word nearest in meaning to the word in capitals: DISPARATE
+(a) similar
+(b) distinguished
+(c) different
+(d) admiration
+Answer: (c) different
+Q499. Choose the word nearest in meaning to the word in capitals: DISSONANCE
+(a) harmony
+(b) optional
+(c) certainty
+(d) discord
+Answer: (d) discord
+Q500. Choose the word nearest in meaning to the word in capitals: EBULLIENT
+(a) deport
+(b) exuberant
+(c) gloomy
+(d) surrogate
+Answer: (b) exuberant
+Q501. Choose the word most nearly OPPOSITE in meaning to the word in capitals: EFFERVESCENT
+(a) practicable
+(b) dull
+(c) lively
+(d) vigilant
+Answer: (b) dull
+Q502. Choose the word most nearly OPPOSITE in meaning to the word in capitals: EFFICACY
+(a) effectiveness
+(b) convinced
+(c) dither
+(d) ineffectiveness
+Answer: (d) ineffectiveness
+Q503. Choose the word nearest in meaning to the word in capitals: EFFRONTERY
+(a) unassuming
+(b) timidity
+(c) smooth
+(d) audacity
+Answer: (d) audacity
+Q504. Choose the word nearest in meaning to the word in capitals: ELUCIDATE
+(a) explain
+(b) confuse
+(c) aesthetic
+(d) latent
+Answer: (a) explain
+Q505. Choose the word nearest in meaning to the word in capitals: EMACIATED
+(a) plump
+(b) gaunt
+(c) penchant
+(d) impervious
+Answer: (b) gaunt
+Q506. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ENERVATE
+(a) calumny
+(b) bigheartedness
+(c) weaken
+(d) energize
+Answer: (d) energize
+Q507. Choose the word most nearly OPPOSITE in meaning to the word in capitals: EPHEMERAL
+(a) enduring
+(b) fleeting
+(c) emotional
+(d) acquiesce
+Answer: (a) enduring
+Q508. Choose the word nearest in meaning to the word in capitals: EQUANIMITY
+(a) commend
+(b) novice
+(c) composure
+(d) agitation
+Answer: (c) composure
+Q509. Choose the word nearest in meaning to the word in capitals: ESOTERIC
+(a) risk
+(b) obscure
+(c) tasteless
+(d) common
+Answer: (b) obscure
+Q510. Choose the word nearest in meaning to the word in capitals: EULOGY
+(a) criticism
+(b) tribute
+(c) seriousness
+(d) wisdom
+Answer: (b) tribute
+Q511. Choose the word most nearly OPPOSITE in meaning to the word in capitals: EXACERBATE
+(a) ease
+(b) delicate
+(c) aggravate
+(d) wheedle
+Answer: (a) ease
+Q512. Choose the word most nearly OPPOSITE in meaning to the word in capitals: FASTIDIOUS
+(a) careless
+(b) famous
+(c) average
+(d) meticulous
+Answer: (a) careless
+Q513. Choose the word nearest in meaning to the word in capitals: FORTUITOUS
+(a) reputable
+(b) planned
+(c) accidental
+(d) honesty
+Answer: (c) accidental
+Q514. Choose the word nearest in meaning to the word in capitals: GARRULOUS
+(a) wickedness
+(b) taciturn
+(c) lucky
+(d) talkative
+Answer: (d) talkative
+Q515. Choose the word nearest in meaning to the word in capitals: GREGARIOUS
+(a) reclusive
+(b) overwhelm
+(c) sociable
+(d) reasonable
+Answer: (c) sociable
+Q516. Choose the word most nearly OPPOSITE in meaning to the word in capitals: HACKNEYED
+(a) temperate
+(b) clichéd
+(c) fresh
+(d) liking
+Answer: (c) fresh
+Q517. Choose the word nearest in meaning to the word in capitals: HARBINGER
+(a) decorum
+(b) degrade
+(c) omen
+(d) perfidious
+Answer: (c) omen
+Q518. Choose the word nearest in meaning to the word in capitals: HAPLESS
+(a) eternal
+(b) fortunate
+(c) detest
+(d) unlucky
+Answer: (d) unlucky
+Q519. Choose the word nearest in meaning to the word in capitals: IDIOSYNCRASY
+(a) quirk
+(b) unfriendly
+(c) normality
+(d) incensed
+Answer: (a) quirk
+Q520. Choose the word nearest in meaning to the word in capitals: IMPECUNIOUS
+(a) pique
+(b) exacerbate
+(c) wealthy
+(d) poor
+Answer: (d) poor
+Q521. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INADVERTENT
+(a) conceal
+(b) tactless
+(c) accidental
+(d) deliberate
+Answer: (d) deliberate
+Q522. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INCESSANT
+(a) deception
+(b) ethical
+(c) ceaseless
+(d) occasional
+Answer: (d) occasional
+Q523. Choose the word nearest in meaning to the word in capitals: INCORRIGIBLE
+(a) demean
+(b) inevitable
+(c) reformable
+(d) hopeless
+Answer: (d) hopeless
+Q524. Choose the word nearest in meaning to the word in capitals: INDEFATIGABLE
+(a) weary
+(b) discomfort
+(c) tireless
+(d) toady
+Answer: (c) tireless
+Q525. Choose the word nearest in meaning to the word in capitals: INDIGENOUS
+(a) foreign
+(b) valiant
+(c) control
+(d) native
+Answer: (d) native
+Q526. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INEFFABLE
+(a) indescribable
+(b) describable
+(c) unemotional
+(d) promising
+Answer: (b) describable
+Q527. Choose the word most nearly OPPOSITE in meaning to the word in capitals: INEXORABLE
+(a) relentless
+(b) evade
+(c) rebel
+(d) yielding
+Answer: (d) yielding
+Q528. Choose the word nearest in meaning to the word in capitals: INSIDIOUS
+(a) eloquence
+(b) harmless
+(c) stealthy
+(d) expressive
+Answer: (c) stealthy
+Q529. Choose the word nearest in meaning to the word in capitals: INTRANSIGENT
+(a) uncompromising
+(b) supporter
+(c) pilfer
+(d) flexible
+Answer: (a) uncompromising
+Q530. Choose the word nearest in meaning to the word in capitals: INVETERATE
+(a) habitual
+(b) occasional
+(c) meddlesome
+(d) honesty
+Answer: (a) habitual
+Q531. Choose the word most nearly OPPOSITE in meaning to the word in capitals: IRASCIBLE
+(a) indirect
+(b) calm
+(c) merciless
+(d) irritable
+Answer: (b) calm
+Q532. Choose the word most nearly OPPOSITE in meaning to the word in capitals: LACONIC
+(a) verbose
+(b) terse
+(c) supreme
+(d) reproach
+Answer: (a) verbose
+Q533. Choose the word nearest in meaning to the word in capitals: LANGUID
+(a) dexterous
+(b) thriving
+(c) energetic
+(d) sluggish
+Answer: (d) sluggish
+Q534. Choose the word nearest in meaning to the word in capitals: LARGESSE
+(a) generosity
+(b) disagree
+(c) degenerate
+(d) stinginess
+Answer: (a) generosity
+Q535. Choose the word nearest in meaning to the word in capitals: LEVITY
+(a) insignificant
+(b) frivolity
+(c) seriousness
+(d) deprecate
+Answer: (b) frivolity
+Q536. Choose the word most nearly OPPOSITE in meaning to the word in capitals: LOQUACIOUS
+(a) talkative
+(b) reticent
+(c) pernicious
+(d) current
+Answer: (b) reticent
+Q537. Choose the word most nearly OPPOSITE in meaning to the word in capitals: MAGNANIMITY
+(a) effrontery
+(b) gregarious
+(c) pettiness
+(d) generosity
+Answer: (c) pettiness
+Q538. Choose the word nearest in meaning to the word in capitals: MALEVOLENT
+(a) spiteful
+(b) apprehension
+(c) hapless
+(d) benevolent
+Answer: (a) spiteful
+Q539. Choose the word nearest in meaning to the word in capitals: MELLIFLUOUS
+(a) sweet
+(b) debacle
+(c) endorse
+(d) harsh
+Answer: (a) sweet
+Q540. Choose the word nearest in meaning to the word in capitals: MERCURIAL
+(a) stable
+(b) racket
+(c) paucity
+(d) volatile
+Answer: (d) volatile
+Q541. Choose the word most nearly OPPOSITE in meaning to the word in capitals: METICULOUS
+(a) careful
+(b) careless
+(c) weak
+(d) ample
+Answer: (b) careless
+Q542. Choose the word most nearly OPPOSITE in meaning to the word in capitals: MITIGATE
+(a) lessen
+(b) sporadic
+(c) built-in
+(d) aggravate
+Answer: (d) aggravate
+Q543. Choose the word nearest in meaning to the word in capitals: MUNIFICENT
+(a) miserly
+(b) unquenchable
+(c) applause
+(d) generous
+Answer: (d) generous
+Q544. Choose the word nearest in meaning to the word in capitals: NEFARIOUS
+(a) thorough
+(b) impetuous
+(c) virtuous
+(d) villainous
+Answer: (d) villainous
+Q545. Choose the word nearest in meaning to the word in capitals: OBDURATE
+(a) yielding
+(b) inequality
+(c) downgrade
+(d) stubborn
+Answer: (d) stubborn
+Q546. Choose the word most nearly OPPOSITE in meaning to the word in capitals: OBSEQUIOUS
+(a) assertive
+(b) prevent
+(c) fawning
+(d) timidity
+Answer: (a) assertive
+Q547. Choose the word most nearly OPPOSITE in meaning to the word in capitals: OFFICIOUS
+(a) meddlesome
+(b) reserved
+(c) blame
+(d) prudence
+Answer: (b) reserved
+Q548. Choose the word nearest in meaning to the word in capitals: OSTRACIZE
+(a) agreement
+(b) include
+(c) exclude
+(d) apprehensive
+Answer: (c) exclude
+Q549. Choose the word nearest in meaning to the word in capitals: PARAGON
+(a) failure
+(b) uprightness
+(c) model
+(d) decrease
+Answer: (c) model
+Q550. Choose the word nearest in meaning to the word in capitals: PAUCITY
+(a) abundance
+(b) mutineer
+(c) virtue
+(d) scarcity
+Answer: (d) scarcity
+Q551. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PEJORATIVE
+(a) fastidious
+(b) derogatory
+(c) complimentary
+(d) overjoyed
+Answer: (c) complimentary
+Q552. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PENCHANT
+(a) dislike
+(b) wasteful
+(c) kind
+(d) liking
+Answer: (a) dislike
+Q553. Choose the word nearest in meaning to the word in capitals: PERFIDIOUS
+(a) exemplary
+(b) treacherous
+(c) faithful
+(d) broke
+Answer: (b) treacherous
+Q554. Choose the word nearest in meaning to the word in capitals: PERFUNCTORY
+(a) thorough
+(b) assuage
+(c) cursory
+(d) deception
+Answer: (c) cursory
+Q555. Choose the word nearest in meaning to the word in capitals: PERNICIOUS
+(a) harmless
+(b) harmful
+(c) evade
+(d) abdicate
+Answer: (b) harmful
+Q556. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PERTINACIOUS
+(a) conciliate
+(b) persistent
+(c) veteran
+(d) irresolute
+Answer: (d) irresolute
+Q557. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PETULANT
+(a) peevish
+(b) rigid
+(c) good-natured
+(d) vain
+Answer: (c) good-natured
+Q558. Choose the word nearest in meaning to the word in capitals: PLACATE
+(a) unpleasant
+(b) exacerbate
+(c) appease
+(d) anger
+Answer: (c) appease
+Q559. Choose the word nearest in meaning to the word in capitals: PLAUDITS
+(a) criticism
+(b) punish
+(c) praise
+(d) notable
+Answer: (c) praise
+Q560. Choose the word nearest in meaning to the word in capitals: PRECOCIOUS
+(a) whisper
+(b) backward
+(c) overlook
+(d) advanced
+Answer: (d) advanced
+Q561. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PREDILECTION
+(a) preference
+(b) equivocate
+(c) aversion
+(d) alien
+Answer: (c) aversion
+Q562. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PREVARICATE
+(a) lie
+(b) destructive
+(c) circumvent
+(d) confess
+Answer: (d) confess
+Q563. Choose the word nearest in meaning to the word in capitals: PRISTINE
+(a) spotless
+(b) affable
+(c) subjection
+(d) dirty
+Answer: (a) spotless
+Q564. Choose the word nearest in meaning to the word in capitals: PROCLIVITY
+(a) frivolity
+(b) tendency
+(c) aversion
+(d) chaotic
+Answer: (b) tendency
+Q565. Choose the word nearest in meaning to the word in capitals: PRODIGAL
+(a) replenish
+(b) wasteful
+(c) thrifty
+(d) restrained
+Answer: (b) wasteful
+Q566. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PROFUSE
+(a) abundant
+(b) extinct
+(c) insipid
+(d) scant
+Answer: (d) scant
+Q567. Choose the word most nearly OPPOSITE in meaning to the word in capitals: PROPENSITY
+(a) tendency
+(b) perfect
+(c) disinclination
+(d) officious
+Answer: (c) disinclination
+Q568. Choose the word nearest in meaning to the word in capitals: PROSAIC
+(a) dull
+(b) exciting
+(c) conciliate
+(d) resilient
+Answer: (a) dull
+Q569. Choose the word nearest in meaning to the word in capitals: QUANDARY
+(a) certainty
+(b) unlawful
+(c) downhearted
+(d) dilemma
+Answer: (d) dilemma
+Q570. Choose the word nearest in meaning to the word in capitals: QUERULOUS
+(a) lavish
+(b) boost
+(c) contented
+(d) peevish
+Answer: (d) peevish
+Q571. Choose the word most nearly OPPOSITE in meaning to the word in capitals: QUINTESSENTIAL
+(a) ideal
+(b) atypical
+(c) despair
+(d) hazardous
+Answer: (b) atypical
+Q572. Choose the word most nearly OPPOSITE in meaning to the word in capitals: RANCOROUS
+(a) bitter
+(b) subdue
+(c) renowned
+(d) amicable
+Answer: (d) amicable
+Q573. Choose the word nearest in meaning to the word in capitals: RECALCITRANT
+(a) obedient
+(b) defiant
+(c) unbiased
+(d) danger
+Answer: (b) defiant
+Q574. Choose the word nearest in meaning to the word in capitals: RECONCILE
+(a) estrange
+(b) settle
+(c) unbiased
+(d) surpass
+Answer: (b) settle
+Q575. Choose the word nearest in meaning to the word in capitals: REDOUBTABLE
+(a) formidable
+(b) weak
+(c) blunt
+(d) destitution
+Answer: (a) formidable
+Q576. Choose the word most nearly OPPOSITE in meaning to the word in capitals: RELEGATE
+(a) spirited
+(b) melodious
+(c) demote
+(d) promote
+Answer: (d) promote
+Q577. Choose the word most nearly OPPOSITE in meaning to the word in capitals: REPREHENSIBLE
+(a) soft
+(b) praiseworthy
+(c) blameworthy
+(d) partiality
+Answer: (b) praiseworthy
+Q578. Choose the word nearest in meaning to the word in capitals: RETICENT
+(a) honesty
+(b) reserved
+(c) acumen
+(d) forthcoming
+Answer: (b) reserved
+Q579. Choose the word nearest in meaning to the word in capitals: SANCTIMONIOUS
+(a) barrier
+(b) self-righteous
+(c) agreement
+(d) sincere
+Answer: (b) self-righteous
+Q580. Choose the word nearest in meaning to the word in capitals: SPURIOUS
+(a) genuine
+(b) failure
+(c) lucid
+(d) fake
+Answer: (d) fake
+Q581. Choose the word most nearly OPPOSITE in meaning to the word in capitals: STRIDENT
+(a) diligence
+(b) soft
+(c) cooperative
+(d) harsh
+Answer: (b) soft
+Q582. Choose the word most nearly OPPOSITE in meaning to the word in capitals: SYCOPHANT
+(a) flatterer
+(b) critic
+(c) common
+(d) restrain
+Answer: (b) critic
+Q583. Choose the word nearest in meaning to the word in capitals: TACITURN
+(a) concord
+(b) weaken
+(c) reserved
+(d) talkative
+Answer: (c) reserved
+Q584. Choose the word nearest in meaning to the word in capitals: TENACITY
+(a) persistence
+(b) stealthy
+(c) praiseworthy
+(d) weakness
+Answer: (a) persistence
+Q585. Choose the word nearest in meaning to the word in capitals: TRACTABLE
+(a) manageable
+(b) unruly
+(c) friendship
+(d) esteem
+Answer: (a) manageable
+Q586. Choose the word most nearly OPPOSITE in meaning to the word in capitals: TRUCULENT
+(a) peaceable
+(b) aggressive
+(c) indifference
+(d) incensed
+Answer: (a) peaceable
+Q587. Choose the word most nearly OPPOSITE in meaning to the word in capitals: TURPITUDE
+(a) idle
+(b) depravity
+(c) dodge
+(d) virtue
+Answer: (d) virtue
+Q588. Choose the word nearest in meaning to the word in capitals: UMBRAGE
+(a) offence
+(b) applause
+(c) pleasure
+(d) revere
+Answer: (a) offence
+Q589. Choose the word nearest in meaning to the word in capitals: VACILLATE
+(a) waver
+(b) subside
+(c) redundant
+(d) decide
+Answer: (a) waver
+Q590. Choose the word nearest in meaning to the word in capitals: VENAL
+(a) corrupt
+(b) conceal
+(c) brave
+(d) honest
+Answer: (a) corrupt
+Q591. Choose the word most nearly OPPOSITE in meaning to the word in capitals: VERBOSE
+(a) concise
+(b) munificent
+(c) wordy
+(d) seize
+Answer: (a) concise
+Q592. Choose the word most nearly OPPOSITE in meaning to the word in capitals: VINDICTIVE
+(a) fragile
+(b) forgiving
+(c) disobedient
+(d) vengeful
+Answer: (b) forgiving
+Q593. Choose the word nearest in meaning to the word in capitals: VIRULENT
+(a) poisonous
+(b) harmless
+(c) furtive
+(d) fortunate
+Answer: (a) poisonous
+Q594. Choose the word nearest in meaning to the word in capitals: VOLITION
+(a) sameness
+(b) free will
+(c) compulsion
+(d) renounce
+Answer: (b) free will
+Q595. Choose the word nearest in meaning to the word in capitals: WANTON
+(a) reckless
+(b) disdainful
+(c) justified
+(d) eccentric
+Answer: (a) reckless
+Q596. Choose the word most nearly OPPOSITE in meaning to the word in capitals: ZENITH
+(a) peak
+(b) nadir
+(c) abstain
+(d) mourn
+Answer: (b) nadir
+
+Part B — Idioms & Phrases
+Q597. Choose the option that best expresses the meaning of the idiom/phrase: “At the eleventh hour”
+(a) To speak frankly
+(b) To gain honour/fame
+(c) At the last possible moment
+(d) To reveal a secret
+Answer: (c) At the last possible moment
+Q598. Choose the option that best expresses the meaning of the idiom/phrase: “A white elephant”
+(a) Very rarely
+(b) A costly but useless possession
+(c) To tease or fool someone
+(d) A sudden shock
+Answer: (b) A costly but useless possession
+Q599. Choose the option that best expresses the meaning of the idiom/phrase: “To turn over a new leaf”
+(a) To be defeated or die
+(b) To start behaving better
+(c) To exaggerate a small issue
+(d) To be exactly right
+Answer: (b) To start behaving better
+Q600. Choose the option that best expresses the meaning of the idiom/phrase: “To keep a stiff upper lip”
+(a) To start behaving better
+(b) An unexpected winner
+(c) To stay calm and brave
+(d) To be firm
+Answer: (c) To stay calm and brave
+Q601. Choose the option that best expresses the meaning of the idiom/phrase: “A piece of cake”
+(a) To start behaving better
+(b) To be in trouble
+(c) Something very easy
+(d) A big fuss over a small matter
+Answer: (c) Something very easy
+Q602. Choose the option that best expresses the meaning of the idiom/phrase: “In the long run”
+(a) To make a poor impression
+(b) To start a conversation
+(c) Over a long period; eventually
+(d) To run away
+Answer: (c) Over a long period; eventually
+Q603. Choose the option that best expresses the meaning of the idiom/phrase: “To bury the hatchet”
+(a) To make peace
+(b) To take a subordinate role
+(c) To stop at an early stage
+(d) An unexpected winner
+Answer: (a) To make peace
+Q604. Choose the option that best expresses the meaning of the idiom/phrase: “To beat about the bush”
+(a) To be totally confused
+(b) To take a dangerous lead
+(c) To study/work late
+(d) To avoid the main point
+Answer: (d) To avoid the main point
+Q605. Choose the option that best expresses the meaning of the idiom/phrase: “To break the ice”
+(a) To make a poor impression
+(b) To make peace
+(c) To start a conversation
+(d) To have a selfish motive
+Answer: (c) To start a conversation
+Q606. Choose the option that best expresses the meaning of the idiom/phrase: “To smell a rat”
+(a) To lose courage at the last moment
+(b) To be firm
+(c) To suspect something wrong
+(d) To stop at an early stage
+Answer: (c) To suspect something wrong
+Q607. Choose the option that best expresses the meaning of the idiom/phrase: “To add fuel to the fire”
+(a) To exaggerate a small issue
+(b) To confess everything
+(c) To make a bad situation worse
+(d) To make a poor impression
+Answer: (c) To make a bad situation worse
+Q608. Choose the option that best expresses the meaning of the idiom/phrase: “To call a spade a spade”
+(a) To be firm
+(b) To have a selfish motive
+(c) To be in close partnership
+(d) To speak frankly
+Answer: (d) To speak frankly
+Q609. Choose the option that best expresses the meaning of the idiom/phrase: “A blessing in disguise”
+(a) To rely on past success
+(b) A good thing that seemed bad at first
+(c) To be firm
+(d) To take a subordinate role
+Answer: (b) A good thing that seemed bad at first
+Q610. Choose the option that best expresses the meaning of the idiom/phrase: “To make a clean breast of”
+(a) To be in trouble
+(b) To confess everything
+(c) To face two hard choices
+(d) To speak frankly
+Answer: (b) To confess everything
+Q611. Choose the option that best expresses the meaning of the idiom/phrase: “To cross the Rubicon”
+(a) To take a subordinate role
+(b) To take an irreversible step
+(c) A useless pursuit
+(d) To start a conversation
+Answer: (b) To take an irreversible step
+Q612. Choose the option that best expresses the meaning of the idiom/phrase: “To pull one's leg”
+(a) To run away
+(b) To take a subordinate role
+(c) To tease or fool someone
+(d) Very rarely
+Answer: (c) To tease or fool someone
+Q613. Choose the option that best expresses the meaning of the idiom/phrase: “To let the cat out of the bag”
+(a) To reveal a secret
+(b) A good thing that seemed bad at first
+(c) A big fuss over a small matter
+(d) To honour a promise
+Answer: (a) To reveal a secret
+Q614. Choose the option that best expresses the meaning of the idiom/phrase: “To be in hot water”
+(a) To study/work late
+(b) To take an irreversible step
+(c) To be in trouble
+(d) To try every possible way
+Answer: (c) To be in trouble
+Q615. Choose the option that best expresses the meaning of the idiom/phrase: “To burn the midnight oil”
+(a) To study/work late
+(b) To be defeated or die
+(c) To run away
+(d) To stop at an early stage
+Answer: (a) To study/work late
+Q616. Choose the option that best expresses the meaning of the idiom/phrase: “To hit the nail on the head”
+(a) To be exactly right
+(b) To exaggerate a small issue
+(c) To be in trouble
+(d) Something very easy
+Answer: (a) To be exactly right
+Q617. Choose the option that best expresses the meaning of the idiom/phrase: “A bolt from the blue”
+(a) To suspect something wrong
+(b) A sudden shock
+(c) To take a dangerous lead
+(d) To be firm
+Answer: (b) A sudden shock
+Q618. Choose the option that best expresses the meaning of the idiom/phrase: “To bite the dust”
+(a) A big fuss over a small matter
+(b) To be defeated or die
+(c) To speak frankly
+(d) A costly but useless possession
+Answer: (b) To be defeated or die
+Q619. Choose the option that best expresses the meaning of the idiom/phrase: “To play second fiddle”
+(a) To take a subordinate role
+(b) An unexpected winner
+(c) To be totally confused
+(d) To make peace
+Answer: (a) To take a subordinate role
+Q620. Choose the option that best expresses the meaning of the idiom/phrase: “To show the white feather”
+(a) To exaggerate a small issue
+(b) To show cowardice
+(c) To start a conversation
+(d) Very rarely
+Answer: (b) To show cowardice
+Q621. Choose the option that best expresses the meaning of the idiom/phrase: “To win laurels”
+(a) To gain honour/fame
+(b) A useless pursuit
+(c) A sudden shock
+(d) To face two hard choices
+Answer: (a) To gain honour/fame
+Q622. Choose the option that best expresses the meaning of the idiom/phrase: “To be at one's wit's end”
+(a) A useless pursuit
+(b) To avoid the main point
+(c) To be totally confused
+(d) To reveal a secret
+Answer: (c) To be totally confused
+Q623. Choose the option that best expresses the meaning of the idiom/phrase: “To have an axe to grind”
+(a) A big fuss over a small matter
+(b) To accept consequences
+(c) To have a selfish motive
+(d) A good thing that seemed bad at first
+Answer: (c) To have a selfish motive
+Q624. Choose the option that best expresses the meaning of the idiom/phrase: “To rest on one's laurels”
+(a) To make peace
+(b) To rely on past success
+(c) To try every possible way
+(d) To lose courage at the last moment
+Answer: (b) To rely on past success
+Q625. Choose the option that best expresses the meaning of the idiom/phrase: “To make both ends meet”
+(a) To exaggerate a small issue
+(b) To manage on limited money
+(c) To make a bad situation worse
+(d) To stay calm and brave
+Answer: (b) To manage on limited money
+Q626. Choose the option that best expresses the meaning of the idiom/phrase: “To take to one's heels”
+(a) To lose courage at the last moment
+(b) To face two hard choices
+(c) To run away
+(d) To be exactly right
+Answer: (c) To run away
+Q627. Choose the option that best expresses the meaning of the idiom/phrase: “A storm in a teacup”
+(a) To reveal a secret
+(b) A sudden shock
+(c) To stop at an early stage
+(d) A big fuss over a small matter
+Answer: (d) A big fuss over a small matter
+Q628. Choose the option that best expresses the meaning of the idiom/phrase: “To put one's foot down”
+(a) To try every possible way
+(b) To be firm
+(c) To be ruined
+(d) Very rarely
+Answer: (b) To be firm
+Q629. Choose the option that best expresses the meaning of the idiom/phrase: “To throw in the towel”
+(a) To give up
+(b) A good thing that seemed bad at first
+(c) Very rarely
+(d) To start a conversation
+Answer: (a) To give up
+Q630. Choose the option that best expresses the meaning of the idiom/phrase: “To leave no stone unturned”
+(a) To be defeated or die
+(b) To show cowardice
+(c) To try every possible way
+(d) To be exactly right
+Answer: (c) To try every possible way
+Q631. Choose the option that best expresses the meaning of the idiom/phrase: “A dark horse”
+(a) To lose courage at the last moment
+(b) To find a hidden meaning
+(c) To reveal a secret
+(d) An unexpected winner
+Answer: (d) An unexpected winner
+Q632. Choose the option that best expresses the meaning of the idiom/phrase: “To get cold feet”
+(a) At the last possible moment
+(b) An unexpected winner
+(c) To lose courage at the last moment
+(d) To speak frankly
+Answer: (c) To lose courage at the last moment
+Q633. Choose the option that best expresses the meaning of the idiom/phrase: “To face the music”
+(a) To start a conversation
+(b) To accept consequences
+(c) A big fuss over a small matter
+(d) To gain honour/fame
+Answer: (b) To accept consequences
+Q634. Choose the option that best expresses the meaning of the idiom/phrase: “To spill the beans”
+(a) A big fuss over a small matter
+(b) To show cowardice
+(c) To reveal a secret
+(d) To stop at an early stage
+Answer: (c) To reveal a secret
+Q635. Choose the option that best expresses the meaning of the idiom/phrase: “Once in a blue moon”
+(a) To be firm
+(b) A good thing that seemed bad at first
+(c) Very rarely
+(d) To start a conversation
+Answer: (c) Very rarely
+Q636. Choose the option that best expresses the meaning of the idiom/phrase: “To read between the lines”
+(a) To be in close partnership
+(b) To make peace
+(c) To find a hidden meaning
+(d) To gain honour/fame
+Answer: (c) To find a hidden meaning
+Q637. Choose the option that best expresses the meaning of the idiom/phrase: “To be hand in glove”
+(a) To start behaving better
+(b) To rely on past success
+(c) To take an irreversible step
+(d) To be in close partnership
+Answer: (d) To be in close partnership
+Q638. Choose the option that best expresses the meaning of the idiom/phrase: “To cut a sorry figure”
+(a) To have a selfish motive
+(b) To make a poor impression
+(c) To start a conversation
+(d) To reveal a secret
+Answer: (b) To make a poor impression
+Q639. Choose the option that best expresses the meaning of the idiom/phrase: “A wild goose chase”
+(a) To tease or fool someone
+(b) To give up
+(c) A useless pursuit
+(d) At the last possible moment
+Answer: (c) A useless pursuit
+Q640. Choose the option that best expresses the meaning of the idiom/phrase: “To keep one's word”
+(a) To honour a promise
+(b) A costly but useless possession
+(c) To gain honour/fame
+(d) To tease or fool someone
+Answer: (a) To honour a promise
+Q641. Choose the option that best expresses the meaning of the idiom/phrase: “To bell the cat”
+(a) A good thing that seemed bad at first
+(b) To accept consequences
+(c) To take a dangerous lead
+(d) To be firm
+Answer: (c) To take a dangerous lead
+Q642. Choose the option that best expresses the meaning of the idiom/phrase: “To go to the dogs”
+(a) To be ruined
+(b) To start behaving better
+(c) To start a conversation
+(d) To take a subordinate role
+Answer: (a) To be ruined
+Q643. Choose the option that best expresses the meaning of the idiom/phrase: “To make a mountain out of a molehill”
+(a) To be defeated or die
+(b) To run away
+(c) To exaggerate a small issue
+(d) A sudden shock
+Answer: (c) To exaggerate a small issue
+Q644. Choose the option that best expresses the meaning of the idiom/phrase: “To nip in the bud”
+(a) A useless pursuit
+(b) To suspect something wrong
+(c) To give up
+(d) To stop at an early stage
+Answer: (d) To stop at an early stage
+Q645. Choose the option that best expresses the meaning of the idiom/phrase: “To be on the horns of a dilemma”
+(a) To stay calm and brave
+(b) A costly but useless possession
+(c) To face two hard choices
+(d) To be ruined
+Answer: (c) To face two hard choices
+
+Part C — One-Word Substitutions
+Q646. Choose the correct one-word substitution for: “One who loves mankind.”
+(a) Aviary
+(b) Incredible
+(c) Infanticide
+(d) Philanthropist
+Answer: (d) Philanthropist
+Q647. Choose the correct one-word substitution for: “One who hates mankind.”
+(a) Insatiable
+(b) Polyglot
+(c) Misanthrope
+(d) Pedestrian
+Answer: (c) Misanthrope
+Q648. Choose the correct one-word substitution for: “One who does not believe in God.”
+(a) Atheist
+(b) Illegible
+(c) Stoic
+(d) Inaudible
+Answer: (a) Atheist
+Q649. Choose the correct one-word substitution for: “One who believes in God.”
+(a) Oligarchy
+(b) Numismatist
+(c) Ephemeral / Transient
+(d) Theist
+Answer: (d) Theist
+Q650. Choose the correct one-word substitution for: “One who doubts the existence of God.”
+(a) Somniloquist
+(b) Agnostic
+(c) Calligraphy
+(d) Incredible
+Answer: (b) Agnostic
+Q651. Choose the correct one-word substitution for: “A person who knows many languages.”
+(a) Recluse / Hermit
+(b) Versatile
+(c) Infanticide
+(d) Polyglot
+Answer: (d) Polyglot
+Q652. Choose the correct one-word substitution for: “A speech made without preparation.”
+(a) Cannibal
+(b) Extempore
+(c) Synonym
+(d) Amnesia
+Answer: (b) Extempore
+Q653. Choose the correct one-word substitution for: “A government by the people.”
+(a) Democracy
+(b) Anthropology
+(c) Avaricious
+(d) Insatiable
+Answer: (a) Democracy
+Q654. Choose the correct one-word substitution for: “Government by a king or queen.”
+(a) Invincible
+(b) Monarchy
+(c) Offender / Culprit
+(d) Apiary
+Answer: (b) Monarchy
+Q655. Choose the correct one-word substitution for: “Government by the few.”
+(a) Aquarium
+(b) Stoic
+(c) Somnambulist
+(d) Oligarchy
+Answer: (d) Oligarchy
+Q656. Choose the correct one-word substitution for: “Rule by officials.”
+(a) Somniloquist
+(b) Hydrophobia
+(c) Bureaucracy
+(d) Reprobate / Scoundrel
+Answer: (c) Bureaucracy
+Q657. Choose the correct one-word substitution for: “A person who travels on foot.”
+(a) Volunteer
+(b) Pedestrian
+(c) Epicure / Gourmet
+(d) Apiary
+Answer: (b) Pedestrian
+Q658. Choose the correct one-word substitution for: “One who walks in sleep.”
+(a) Parasite
+(b) Somnambulist
+(c) Invisible
+(d) Excursion
+Answer: (b) Somnambulist
+Q659. Choose the correct one-word substitution for: “One who talks in sleep.”
+(a) Somniloquist
+(b) Ornithology
+(c) Versatile
+(d) Ephemeral / Transient
+Answer: (a) Somniloquist
+Q660. Choose the correct one-word substitution for: “A place where birds are kept.”
+(a) Aviary
+(b) Sanctuary
+(c) Infanticide
+(d) Misanthrope
+Answer: (a) Aviary
+Q661. Choose the correct one-word substitution for: “A place where bees are kept.”
+(a) Apiary
+(b) Somniloquist
+(c) Volunteer
+(d) Suicide
+Answer: (a) Apiary
+Q662. Choose the correct one-word substitution for: “A place for keeping fish.”
+(a) Panacea
+(b) Regicide
+(c) Cannibal
+(d) Aquarium
+Answer: (d) Aquarium
+Q663. Choose the correct one-word substitution for: “Animals that eat flesh.”
+(a) Carnivorous
+(b) Constellation
+(c) Numismatist
+(d) Omnipotent
+Answer: (a) Carnivorous
+Q664. Choose the correct one-word substitution for: “Animals that eat plants.”
+(a) Ambiguous
+(b) Avaricious
+(c) Herbivorous
+(d) Inaudible
+Answer: (c) Herbivorous
+Q665. Choose the correct one-word substitution for: “Animals that eat both.”
+(a) Polyglot
+(b) Somniloquist
+(c) Last words / Testament
+(d) Omnivorous
+Answer: (d) Omnivorous
+Q666. Choose the correct one-word substitution for: “One who eats human flesh.”
+(a) Cannibal
+(b) Archaeologist
+(c) Versatile
+(d) Antidote
+Answer: (a) Cannibal
+Q667. Choose the correct one-word substitution for: “Words of a departed person.”
+(a) Amnesia
+(b) Last words / Testament
+(c) Tangible
+(d) Hydrophobia
+Answer: (b) Last words / Testament
+Q668. Choose the correct one-word substitution for: “A handwriting that cannot be read.”
+(a) Illegible
+(b) Ornithology
+(c) Insatiable
+(d) Insensible / Impassive
+Answer: (a) Illegible
+Q669. Choose the correct one-word substitution for: “That which cannot be corrected.”
+(a) Calligraphy
+(b) Inevitable
+(c) Incorrigible
+(d) Parasite
+Answer: (c) Incorrigible
+Q670. Choose the correct one-word substitution for: “That which cannot be conquered.”
+(a) Invincible
+(b) Invisible
+(c) Calligraphy
+(d) Stoic
+Answer: (a) Invincible
+Q671. Choose the correct one-word substitution for: “That which cannot be avoided.”
+(a) Inevitable
+(b) Amnesia
+(c) Ornithology
+(d) Bibliophile
+Answer: (a) Inevitable
+Q672. Choose the correct one-word substitution for: “That which cannot be believed.”
+(a) Incredible
+(b) Monarchy
+(c) Ambidextrous
+(d) Illiterate
+Answer: (a) Incredible
+Q673. Choose the correct one-word substitution for: “That which cannot be explained.”
+(a) Numismatist
+(b) Cosmology
+(c) Inexplicable
+(d) Insatiable
+Answer: (c) Inexplicable
+Q674. Choose the correct one-word substitution for: “That which cannot be satisfied.”
+(a) Insatiable
+(b) Misanthrope
+(c) Philatelist
+(d) Parasite
+Answer: (a) Insatiable
+Q675. Choose the correct one-word substitution for: “That which cannot be heard.”
+(a) Inaudible
+(b) Somnambulist
+(c) Crusader
+(d) Omniscient
+Answer: (a) Inaudible
+Q676. Choose the correct one-word substitution for: “That which cannot be seen.”
+(a) Invisible
+(b) Excursion
+(c) Incredible
+(d) Inaudible
+Answer: (a) Invisible
+Q677. Choose the correct one-word substitution for: “That which cannot be undone.”
+(a) Democracy
+(b) Irreversible / Irrevocable
+(c) Ambiguous
+(d) Constellation
+Answer: (b) Irreversible / Irrevocable
+Q678. Choose the correct one-word substitution for: “Capable of being touched.”
+(a) Excursion
+(b) Offender / Culprit
+(c) Tangible
+(d) Epicure / Gourmet
+Answer: (c) Tangible
+Q679. Choose the correct one-word substitution for: “One who is greedy for money.”
+(a) Avaricious
+(b) Claustrophobia
+(c) Panacea
+(d) Bureaucracy
+Answer: (a) Avaricious
+Q680. Choose the correct one-word substitution for: “One who is all-powerful.”
+(a) Incorrigible
+(b) Omnipotent
+(c) Antidote
+(d) Hydrophobia
+Answer: (b) Omnipotent
+Q681. Choose the correct one-word substitution for: “One who is present everywhere.”
+(a) Omniscient
+(b) Omnipresent
+(c) Calligraphy
+(d) Democracy
+Answer: (b) Omnipresent
+Q682. Choose the correct one-word substitution for: “One who knows everything.”
+(a) Philanthropist
+(b) Antidote
+(c) Tangible
+(d) Omniscient
+Answer: (d) Omniscient
+Q683. Choose the correct one-word substitution for: “A medicine to counteract poison.”
+(a) Atheist
+(b) Antidote
+(c) Aviary
+(d) Archaeologist
+Answer: (b) Antidote
+Q684. Choose the correct one-word substitution for: “A person who fights for a cause.”
+(a) Polyglot
+(b) Aquarium
+(c) Crusader
+(d) Impromptu
+Answer: (c) Crusader
+Q685. Choose the correct one-word substitution for: “A list of items of business at a meeting.”
+(a) Agenda
+(b) Omnipresent
+(c) Pedestrian
+(d) Philanthropist
+Answer: (a) Agenda
+Q686. Choose the correct one-word substitution for: “A short trip for pleasure.”
+(a) Somniloquist
+(b) Excursion
+(c) Atheist
+(d) Invisible
+Answer: (b) Excursion
+Q687. Choose the correct one-word substitution for: “A person recovering from illness.”
+(a) Parasite
+(b) Antidote
+(c) Crusader
+(d) Convalescent
+Answer: (d) Convalescent
+Q688. Choose the correct one-word substitution for: “One who studies the past through remains.”
+(a) Archaeologist
+(b) Panacea
+(c) Insensible / Impassive
+(d) Soliloquy
+Answer: (a) Archaeologist
+Q689. Choose the correct one-word substitution for: “The study of birds.”
+(a) Extempore
+(b) Ornithology
+(c) Aviary
+(d) Amnesia
+Answer: (b) Ornithology
+Q690. Choose the correct one-word substitution for: “The study of the universe.”
+(a) Fratricide
+(b) Aquarium
+(c) Cosmology
+(d) Illiterate
+Answer: (c) Cosmology
+Q691. Choose the correct one-word substitution for: “The study of mankind.”
+(a) Anthropology
+(b) Eulogy
+(c) Polyglot
+(d) Cosmology
+Answer: (a) Anthropology
+Q692. Choose the correct one-word substitution for: “The art of beautiful handwriting.”
+(a) Glutton
+(b) Amnesia
+(c) Calligraphy
+(d) Misanthrope
+Answer: (c) Calligraphy
+Q693. Choose the correct one-word substitution for: “A person who loves books.”
+(a) Crusader
+(b) Bibliophile
+(c) Panacea
+(d) Soliloquy
+Answer: (b) Bibliophile
+Q694. Choose the correct one-word substitution for: “One who collects coins.”
+(a) Soliloquy
+(b) Ambiguous
+(c) Eulogy
+(d) Numismatist
+Answer: (d) Numismatist
+Q695. Choose the correct one-word substitution for: “One who collects stamps.”
+(a) Illegible
+(b) Inevitable
+(c) Philatelist
+(d) Philanthropist
+Answer: (c) Philatelist
+Q696. Choose the correct one-word substitution for: “A person hard to please.”
+(a) Acrophobia
+(b) Democracy
+(c) Fastidious
+(d) Constellation
+Answer: (c) Fastidious
+Q697. Choose the correct one-word substitution for: “A remedy for all diseases.”
+(a) Agenda
+(b) Panacea
+(c) Soliloquy
+(d) Stoic
+Answer: (b) Panacea
+Q698. Choose the correct one-word substitution for: “Words spoken to oneself.”
+(a) Impromptu
+(b) Omnipotent
+(c) Soliloquy
+(d) Aquarium
+Answer: (c) Soliloquy
+Q699. Choose the correct one-word substitution for: “Capable of burning.”
+(a) Omnipotent
+(b) Agnostic
+(c) Combustible
+(d) Irreversible / Irrevocable
+Answer: (c) Combustible
+Q700. Choose the correct one-word substitution for: “One who lives alone.”
+(a) Omniscient
+(b) Ornithology
+(c) Recluse / Hermit
+(d) Fratricide
+Answer: (c) Recluse / Hermit
+Q701. Choose the correct one-word substitution for: “Murder of a king.”
+(a) Somniloquist
+(b) Regicide
+(c) Stoic
+(d) Impromptu
+Answer: (b) Regicide
+Q702. Choose the correct one-word substitution for: “Murder of a brother.”
+(a) Extempore
+(b) Fratricide
+(c) Omnipresent
+(d) Inexplicable
+Answer: (b) Fratricide
+Q703. Choose the correct one-word substitution for: “Killing of oneself.”
+(a) Ambiguous
+(b) Fastidious
+(c) Suicide
+(d) Theist
+Answer: (c) Suicide
+Q704. Choose the correct one-word substitution for: “Killing of an infant.”
+(a) Fastidious
+(b) Infanticide
+(c) Synonym
+(d) Illiterate
+Answer: (b) Infanticide
+Q705. Choose the correct one-word substitution for: “One who cannot read or write.”
+(a) Pedestrian
+(b) Illiterate
+(c) Ambiguous
+(d) Ascetic
+Answer: (b) Illiterate
+Q706. Choose the correct one-word substitution for: “A person who renounces the world.”
+(a) Bureaucracy
+(b) Ascetic
+(c) Ephemeral / Transient
+(d) Monarchy
+Answer: (b) Ascetic
+Q707. Choose the correct one-word substitution for: “One who pretends to be what he is not.”
+(a) Hypocrite
+(b) Invincible
+(c) Xenophobia
+(d) Panacea
+Answer: (a) Hypocrite
+Q708. Choose the correct one-word substitution for: “A person who is new to a job.”
+(a) Misanthrope
+(b) Novice
+(c) Polygon
+(d) Volunteer
+Answer: (b) Novice
+Q709. Choose the correct one-word substitution for: “One who is skilled in many things.”
+(a) Philanthropist
+(b) Ambidextrous
+(c) Versatile
+(d) Suicide
+Answer: (c) Versatile
+Q710. Choose the correct one-word substitution for: “A speech in praise of someone.”
+(a) Inevitable
+(b) Eulogy
+(c) Invincible
+(d) Ambiguous
+Answer: (b) Eulogy
+Q711. Choose the correct one-word substitution for: “A decision made on the spur of the moment.”
+(a) Novice
+(b) Incredible
+(c) Impromptu
+(d) Bedlam / Pandemonium
+Answer: (c) Impromptu
+Q712. Choose the correct one-word substitution for: “A person who breaks the law.”
+(a) Polygon
+(b) Impromptu
+(c) Offender / Culprit
+(d) Suicide
+Answer: (c) Offender / Culprit
+Q713. Choose the correct one-word substitution for: “One who can use both hands equally.”
+(a) Ambidextrous
+(b) Maiden speech
+(c) Convalescent
+(d) Voyage
+Answer: (a) Ambidextrous
+Q714. Choose the correct one-word substitution for: “A cure-all.”
+(a) Antidote
+(b) Constellation
+(c) Stoic
+(d) Panacea
+Answer: (d) Panacea
+Q715. Choose the correct one-word substitution for: “The first speech of a person.”
+(a) Inexplicable
+(b) Cannibal
+(c) Incredible
+(d) Maiden speech
+Answer: (d) Maiden speech
+Q716. Choose the correct one-word substitution for: “A person who works for free.”
+(a) Bibliophile
+(b) Maiden speech
+(c) Volunteer
+(d) Stoic
+Answer: (c) Volunteer
+Q717. Choose the correct one-word substitution for: “One incapable of feeling pain.”
+(a) Ambidextrous
+(b) Illegible
+(c) Insensible / Impassive
+(d) Reprobate / Scoundrel
+Answer: (c) Insensible / Impassive
+Q718. Choose the correct one-word substitution for: “That which lasts for a short time.”
+(a) Insensible / Impassive
+(b) Illegible
+(c) Theist
+(d) Ephemeral / Transient
+Answer: (d) Ephemeral / Transient
+Q719. Choose the correct one-word substitution for: “A place of complete safety.”
+(a) Xenophobia
+(b) Polygon
+(c) Monarchy
+(d) Sanctuary
+Answer: (d) Sanctuary
+Q720. Choose the correct one-word substitution for: “A word opposite in meaning.”
+(a) Agenda
+(b) Somniloquist
+(c) Antonym
+(d) Epicure / Gourmet
+Answer: (c) Antonym
+Q721. Choose the correct one-word substitution for: “A word same in meaning.”
+(a) Synonym
+(b) Misanthrope
+(c) Volunteer
+(d) Soliloquy
+Answer: (a) Synonym
+Q722. Choose the correct one-word substitution for: “A figure with many sides.”
+(a) Bibliophile
+(b) Invisible
+(c) Incredible
+(d) Polygon
+Answer: (d) Polygon
+Q723. Choose the correct one-word substitution for: “One who eats too much.”
+(a) Stoic
+(b) Epicure / Gourmet
+(c) Glutton
+(d) Ephemeral / Transient
+Answer: (c) Glutton
+Q724. Choose the correct one-word substitution for: “A loud and confused noise.”
+(a) Extempore
+(b) Agenda
+(c) Bedlam / Pandemonium
+(d) Combustible
+Answer: (c) Bedlam / Pandemonium
+Q725. Choose the correct one-word substitution for: “A person of bad character.”
+(a) Agnostic
+(b) Bedlam / Pandemonium
+(c) Reprobate / Scoundrel
+(d) Last words / Testament
+Answer: (c) Reprobate / Scoundrel
+Q726. Choose the correct one-word substitution for: “A journey by sea.”
+(a) Illegible
+(b) Voyage
+(c) Polyglot
+(d) Hypocrite
+Answer: (b) Voyage
+Q727. Choose the correct one-word substitution for: “A group of stars.”
+(a) Aviary
+(b) Bibliophile
+(c) Hydrophobia
+(d) Constellation
+Answer: (d) Constellation
+Q728. Choose the correct one-word substitution for: “One who is indifferent to pleasure and pain.”
+(a) Monarchy
+(b) Stoic
+(c) Omnipresent
+(d) Bedlam / Pandemonium
+Answer: (b) Stoic
+Q729. Choose the correct one-word substitution for: “A person difficult to satisfy with food.”
+(a) Inaudible
+(b) Parasite
+(c) Epicure / Gourmet
+(d) Illegible
+Answer: (c) Epicure / Gourmet
+Q730. Choose the correct one-word substitution for: “Loss of memory.”
+(a) Hypocrite
+(b) Incredible
+(c) Fratricide
+(d) Amnesia
+Answer: (d) Amnesia
+Q731. Choose the correct one-word substitution for: “Fear of water.”
+(a) Hydrophobia
+(b) Panacea
+(c) Ascetic
+(d) Cosmology
+Answer: (a) Hydrophobia
+Q732. Choose the correct one-word substitution for: “Fear of foreigners.”
+(a) Carnivorous
+(b) Hypocrite
+(c) Illegible
+(d) Xenophobia
+Answer: (d) Xenophobia
+Q733. Choose the correct one-word substitution for: “Fear of confined spaces.”
+(a) Claustrophobia
+(b) Maiden speech
+(c) Pedestrian
+(d) Somnambulist
+Answer: (a) Claustrophobia
+Q734. Choose the correct one-word substitution for: “Fear of heights.”
+(a) Numismatist
+(b) Volunteer
+(c) Xenophobia
+(d) Acrophobia
+Answer: (d) Acrophobia
+Q735. Choose the correct one-word substitution for: “One who lives by preying on others.”
+(a) Epicure / Gourmet
+(b) Omniscient
+(c) Parasite
+(d) Agnostic
+Answer: (c) Parasite
+Q736. Choose the correct one-word substitution for: “A person who deserts his religion.”
+(a) Irreversible / Irrevocable
+(b) Infanticide
+(c) Apostate
+(d) Agenda
+Answer: (c) Apostate
+Q737. Choose the correct one-word substitution for: “A statement open to more than one meaning.”
+(a) Pedestrian
+(b) Recluse / Hermit
+(c) Omnipotent
+(d) Ambiguous
+Answer: (d) Ambiguous
