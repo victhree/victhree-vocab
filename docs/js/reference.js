@@ -28,7 +28,6 @@
   function renderRoots(){
     let items=roots.filter(r=>rootKind==='all'||r.kind===rootKind);
     items=items.filter(r=>matches(r.term+' '+r.meaning+' '+(r.examples||[]).join(' ')+' '+(r.example||'')));
-    $('#count').textContent=items.length+' entries';
     if(!items.length){ $('#list').innerHTML='<div class="empty">No matches.</div>'; return; }
     $('#list').innerHTML=items.map(r=>
       '<div class="wcard">'+
@@ -40,7 +39,6 @@
   }
   function renderClusters(){
     let items=clusters.filter(c=>matches(c.group+' '+(c.words||[]).join(' ')));
-    $('#count').textContent=items.length+' clusters';
     if(!items.length){ $('#list').innerHTML='<div class="empty">No matches.</div>'; return; }
     $('#list').innerHTML=items.map(c=>
       '<div class="wcard">'+
@@ -77,7 +75,6 @@
   document.addEventListener('keydown',ev=>{ if(ev.key==='Escape') closeModal(); });
   function renderConf(){
     let items=conf.filter(c=>matches(c.a+' '+c.b+' '+c.am+' '+c.bm+' '+(c.ae||'')+' '+(c.be||'')));
-    $('#count').textContent=items.length+' pairs';
     if(!items.length){ $('#list').innerHTML='<div class="empty">No matches.</div>'; return; }
     const one=(word,mean,ex)=>
       '<div class="confrow">'+
