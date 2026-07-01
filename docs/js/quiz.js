@@ -134,7 +134,7 @@
   }
 
   const titles={A:'Synonyms & Antonyms',B:'Idioms & Phrases',C:'One-word Substitutions'};
-  $('#qtitle').textContent= partFilter? ('Quiz · '+titles[partFilter]) : 'Full Quiz';
+  $('#qtitle').textContent= partFilter? ('Quiz · '+titles[partFilter]) : 'Random Quiz';
 
   $('#count').addEventListener('change',buildPool);
   $('#reshuffle').addEventListener('click',buildPool);

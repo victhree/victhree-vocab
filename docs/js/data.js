@@ -49,6 +49,16 @@
   };
   VV.resetProgress = ()=>write(PR,{});
 
+  // seen set (for no-repeat Learn/Practice mode) — id -> 1
+  const SN='vv_seen';
+  VV.isSeen = id=>!!read(SN)[id];
+  VV.markSeen = function(id){ const s=read(SN); s[id]=1; write(SN,s); };
+  VV.seenCount = ()=>Object.keys(read(SN)).length;
+  VV.resetSeen = function(ids){ // ids array -> clear those; no arg -> clear all
+    if(!ids){ write(SN,{}); return; }
+    const s=read(SN); ids.forEach(id=>delete s[id]); write(SN,s);
+  };
+
   /* ---------- helpers ---------- */
   VV.shuffle = function(a){ a=a.slice(); for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];} return a; };
   VV.esc = s => (s==null?'':String(s)).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
