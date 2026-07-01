@@ -89,10 +89,10 @@
     const verdict = ok
       ? '<span class="pbadge got">✓ Correct</span>'
       : '<span class="pbadge missed">✗ Review this one</span>';
-    let h='<div style="display:flex;align-items:center;gap:10px;margin-bottom:4px">'+verdict+
-      '<button class="star'+(VV.isBookmarked(w.id)?' on':'')+'" title="Bookmark">★</button></div>';
+    let h='<div class="dtop"><div>'+verdict+'</div><div class="dtools">'+
+      '<button class="star'+(VV.isBookmarked(w.id)?' on':'')+'" title="Bookmark">★</button>'+
+      VV.dlButton()+'</div></div>';
     h+=VV.detailHTML(w);
-    h+='<div class="dactions"><button class="btn sm outline dl">⬇ Download card (PNG)</button></div>';
     return h;
   }
   function bindDetail(card,w){

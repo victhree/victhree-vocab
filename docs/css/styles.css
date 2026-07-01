@@ -154,6 +154,11 @@ img{max-width:100%}
 .dline.dant .dk{color:#b83143}
 .dtrick{margin-top:16px;background:#fbf6e9;border-left:4px solid var(--gold);border-radius:8px;padding:14px 16px;font-size:16.5px;line-height:1.45}
 .dtrick b{color:#8a6a1f}
+.dtop{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:8px}
+.dtools{display:flex;align-items:center;gap:8px}
+.iconbtn{background:none;border:none;cursor:pointer;color:var(--muted);padding:5px;border-radius:8px;
+  line-height:0;display:inline-flex;align-items:center;transition:color .12s,background .12s}
+.iconbtn:hover{color:var(--navy);background:#eef2f8}
 .dactions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
 .row-between{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
 .home .banner{margin-top:4px}

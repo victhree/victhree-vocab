@@ -30,11 +30,11 @@
       const prog = st==='got'?'<span class="pbadge got">✓ got it</span>'
                  : st==='missed'?'<span class="pbadge missed">✗ missed</span>':'';
       return '<div class="wcard" data-wid="'+w.id+'">'+
-        '<div style="display:flex;align-items:center;gap:10px;margin-bottom:2px">'+
-          '<button class="star'+(VV.isBookmarked(w.id)?' on':'')+'" title="Bookmark">★</button>'+prog+
-        '</div>'+
+        '<div class="dtop"><div>'+prog+'</div><div class="dtools">'+
+          '<button class="star'+(VV.isBookmarked(w.id)?' on':'')+'" title="Bookmark">★</button>'+
+          VV.dlButton()+
+        '</div></div>'+
         VV.detailHTML(w)+
-        '<div class="dactions"><button class="btn sm outline dl">⬇ Download card (PNG)</button></div>'+
       '</div>';
     }).join('');
     $('#list').querySelectorAll('.wcard').forEach(card=>{

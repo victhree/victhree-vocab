@@ -68,6 +68,11 @@
   VV.titleOf = w => w ? w.word : '';
   VV.kindLabel = k => ({word:'Word', idiom:'Idiom', ows:'One-word substitution'}[k]||k);
 
+  // small download-icon button (class 'dl' is what click handlers bind to)
+  VV.dlButton = ()=> '<button class="iconbtn dl" title="Download this card as an image" aria-label="Download card">'+
+    '<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'+
+    '<path d="M12 3v11"/><path d="M8 11l4 4 4-4"/><path d="M5 20h14"/></svg></button>';
+
   /* ---------- detail card HTML (shared by browse + quiz) ---------- */
   VV.detailHTML = function(w){
     if(!w) return '';
