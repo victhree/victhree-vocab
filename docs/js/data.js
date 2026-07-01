@@ -72,29 +72,13 @@
   VV.detailHTML = function(w){
     if(!w) return '';
     const e=VV.esc;
-    let h='<div class="dword"><h3>'+e(w.word)+'</h3>';
-    h+='<span class="badge">'+e(VV.kindLabel(w.kind))+'</span>';
-    if(w.tier) h+='<span class="badge">'+e(w.tier)+'</span>';
-    if(w.level) h+='<span class="badge '+VV.levelClass(w.level)+'">'+e(w.level)+'</span>';
-    h+='</div>';
-    if(w.kind==='ows'){
-      h+='<p class="dmeaning"><span style="color:var(--muted)">Definition:</span> '+e(w.desc)+'</p>';
-    } else if(w.meaning){
-      h+='<p class="dmeaning">'+e(w.meaning)+'</p>';
-    }
-    if(w.example) h+='<p class="drow ex">“'+e(w.example)+'”</p>';
-    if(w.syn && w.syn.length){
-      h+='<div class="drow"><span class="k">Synonyms</span><span class="tags">'+
-        w.syn.map(s=>'<span class="tag syn">'+e(s)+'</span>').join('')+'</span></div>';
-    }
-    if(w.ant && w.ant.length){
-      h+='<div class="drow"><span class="k">Antonyms</span><span class="tags">'+
-        w.ant.map(s=>'<span class="tag ant">'+e(s)+'</span>').join('')+'</span></div>';
-    }
-    if(w.trick){
-      const k = w.kind==='ows' ? 'Memory hook' : 'Rule to remember';
-      h+='<div class="trick"><span class="k">💡 '+k+': </span>'+e(w.trick)+'</div>';
-    }
+    let h='<h3 class="dword">'+e(w.word)+'</h3>';
+    if(w.kind==='ows'){ h+='<p class="dmeaning">'+e(w.desc)+'</p>'; }
+    else if(w.meaning){ h+='<p class="dmeaning">'+e(w.meaning)+'</p>'; }
+    if(w.example) h+='<p class="dex">“'+e(w.example)+'”</p>';
+    if(w.syn && w.syn.length) h+='<p class="dline dsyn"><span class="dk">Synonyms</span> '+e(w.syn.join(', '))+'</p>';
+    if(w.ant && w.ant.length) h+='<p class="dline dant"><span class="dk">Antonyms</span> '+e(w.ant.join(', '))+'</p>';
+    if(w.trick){ const k = w.kind==='ows' ? 'Memory hook' : 'Remember'; h+='<div class="dtrick"><b>💡 '+k+':</b> '+e(w.trick)+'</div>'; }
     return h;
   };
 
