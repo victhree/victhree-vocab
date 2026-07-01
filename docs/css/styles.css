@@ -39,6 +39,23 @@ img{max-width:100%}
 
 .container{max-width:1000px;margin:0 auto;padding:18px 16px 60px}
 
+/* ---- Banner + page title (home) ---- */
+.banner{
+  display:block;width:100%;height:auto;border-radius:var(--radius);
+  box-shadow:var(--shadow-lg);margin-bottom:18px;
+}
+.page-title{
+  text-align:center;font-size:24px;color:var(--navy);margin:6px 0 20px;
+  letter-spacing:.2px;
+}
+.home-tiles{grid-template-columns:repeat(auto-fill,minmax(160px,1fr))}
+.home-tiles .tile{align-items:center;text-align:center;padding:22px 16px}
+.home-tiles .tile .ic{font-size:30px}
+@media(max-width:560px){
+  .page-title{font-size:20px}
+  .home-tiles{grid-template-columns:repeat(2,1fr)}
+}
+
 /* ---- Hero (home) ---- */
 .hero{
   background:linear-gradient(135deg,var(--navy),var(--navy-3));color:#fff;
@@ -145,6 +162,10 @@ img{max-width:100%}
 .trick{background:#fbf6e9;border:1px dashed var(--gold);border-radius:10px;padding:10px 12px;margin-top:10px;font-size:13.5px}
 .trick .k{font-weight:800;color:#8a6a1f}
 .dactions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.navrow{display:flex;justify-content:flex-end;margin-top:16px}
+.navrow .btn{min-width:170px}
+.qcard.result{text-align:center}
+.qcard.result .dactions{justify-content:center}
 
 /* star / progress */
 .star{background:none;border:none;cursor:pointer;font-size:20px;line-height:1;color:#cdd5e2;padding:0}

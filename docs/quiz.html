@@ -8,7 +8,7 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="assets/icon-180.png">
 <link rel="icon" href="assets/icon-192.png">
-<link rel="stylesheet" href="css/styles.css?v=1">
+<link rel="stylesheet" href="css/styles.css?v=2">
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -17,6 +17,7 @@
     <a href="index.html">Home</a>
     <a href="quiz.html" class="active">Quiz</a>
     <a href="browse.html">Word Bank</a>
+    <a href="browse.html?saved=1">★ Saved</a>
   </nav>
 </div></header>
 
@@ -41,16 +42,16 @@
   </div>
 
   <div class="scorebar">
-    <span>Answered <b id="sb-done">0</b>/<b id="sb-total">0</b></span>
+    <span>Q <b id="sb-done">0</b>/<b id="sb-total">0</b></span>
     <div class="track"><div class="fill" id="sb-fill"></div></div>
     <span>Score <b id="sb-score">0</b> · <b id="sb-pct">0%</b></span>
   </div>
 
-  <div class="cards" id="list"><div class="spin">Loading quiz…</div></div>
-  <p class="foot">Tap an option to answer — the word's full card opens instantly, right or wrong.</p>
+  <div id="stage"><div class="spin">Loading quiz…</div></div>
+  <p class="foot">Answer the question — the word's full card opens below, then move to the next.</p>
 </main>
 
-<script src="js/data.js?v=1"></script>
-<script src="js/quiz.js?v=1"></script>
+<script src="js/data.js?v=2"></script>
+<script src="js/quiz.js?v=2"></script>
 </body>
 </html>

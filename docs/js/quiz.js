@@ -1,4 +1,4 @@
-/* VicThree Vocab — quiz */
+/* VicThree Vocab — quiz (one question at a time) */
 (async function(){
   const $=s=>document.querySelector(s);
   const params=new URLSearchParams(location.search);
@@ -6,10 +6,10 @@
 
   let words, allQ;
   try{ [words,allQ]=await Promise.all([VV.loadWords(),VV.loadQuestions()]); }
-  catch(e){ $('#list').innerHTML='<div class="empty">Could not load quiz data.</div>'; return; }
+  catch(e){ $('#stage').innerHTML='<div class="empty">Could not load quiz data.</div>'; return; }
 
   const TYPE_LABEL={synonym:'Synonym',antonym:'Antonym',idiom:'Idiom',ows:'One-word substitution'};
-  let pool=[], answered=0, correct=0;
+  let pool=[], idx=0, answered=0, correct=0, locked=false;
 
   function buildPool(){
     let qs=allQ.slice();
@@ -17,43 +17,34 @@
     const cnt=parseInt($('#count').value,10);
     qs=VV.shuffle(qs);
     if(cnt>0) qs=qs.slice(0,cnt);
-    pool=qs; answered=0; correct=0;
-    render();
+    pool=qs; idx=0; answered=0; correct=0; locked=false;
+    renderQuestion();
   }
 
-  function render(){
-    const list=$('#list');
-    if(!pool.length){ list.innerHTML='<div class="empty">No questions.</div>'; return; }
-    list.innerHTML=pool.map((q,i)=>cardHTML(q,i)).join('');
-    updateBar();
-    // bind
-    list.querySelectorAll('.qcard').forEach(card=>{
-      const qi=+card.dataset.qi;
-      card.querySelectorAll('.opt').forEach(o=>o.addEventListener('click',()=>onPick(card,qi,+o.dataset.oi)));
-      const star=card.querySelector('.star');
-      if(star) star.addEventListener('click',()=>{
-        const on=VV.toggleBookmark(card.dataset.wid); star.classList.toggle('on',on);
-      });
-      const dl=card.querySelector('.dl');
-      if(dl) dl.addEventListener('click',()=>VV.downloadCardPNG(VV.wordById(card.dataset.wid)));
-    });
-  }
-
-  function cardHTML(q,i){
+  function renderQuestion(){
+    const stage=$('#stage');
+    if(!pool.length){ stage.innerHTML='<div class="empty">No questions.</div>'; updateBar(); return; }
+    const q=pool[idx];
     const w=VV.wordById(q.wordId);
-    const stem=highlightCap(q.stem);
     const opts=q.options.map((o,oi)=>
       '<div class="opt clickable" data-oi="'+oi+'"><span class="lt">'+VV.letter(oi)+'</span><span>'+VV.esc(o)+'</span></div>'
     ).join('');
-    return '<div class="qcard" data-qi="'+i+'" data-wid="'+(w?w.id:'')+'">'+
-      '<div class="qhead"><span class="qnum">Q'+(i+1)+'</span>'+
-        '<span class="qtype">'+(TYPE_LABEL[q.type]||q.type)+'</span></div>'+
-      '<div class="stem">'+stem+'</div>'+
-      '<div class="opts">'+opts+'</div>'+
-      '<div class="detail" id="d'+i+'"></div>'+
-    '</div>';
+    stage.innerHTML=
+      '<div class="qcard" data-wid="'+(w?w.id:'')+'">'+
+        '<div class="qhead">'+
+          '<span class="qnum">Q'+(idx+1)+' / '+pool.length+'</span>'+
+          '<span class="qtype">'+(TYPE_LABEL[q.type]||q.type)+'</span></div>'+
+        '<div class="stem">'+highlightCap(q.stem)+'</div>'+
+        '<div class="opts">'+opts+'</div>'+
+        '<div class="detail" id="detail"></div>'+
+        '<div class="navrow" id="navrow"></div>'+
+      '</div>';
+    locked=false;
+    stage.querySelectorAll('.opt').forEach(o=>o.addEventListener('click',()=>onPick(+o.dataset.oi)));
+    updateBar();
+    window.scrollTo({top:0,behavior:'smooth'});
   }
-  // bold the trailing CAPITALISED word / quoted phrase in the stem
+
   function highlightCap(stem){
     let s=VV.esc(stem);
     s=s.replace(/([A-Z][A-Z\- ]{2,})$/,'<span class="cap">$1</span>');
@@ -61,10 +52,12 @@
     return s;
   }
 
-  function onPick(card,qi,oi){
-    if(card.classList.contains('answered')) return;
+  function onPick(oi){
+    if(locked) return;
+    locked=true;
+    const q=pool[idx];
+    const card=$('#stage .qcard');
     card.classList.add('answered');
-    const q=pool[qi];
     const opts=card.querySelectorAll('.opt');
     opts.forEach(o=>o.classList.remove('clickable'));
     opts[q.answer].classList.add('correct');
@@ -72,15 +65,21 @@
     if(!ok) opts[oi].classList.add('wrong');
     answered++; if(ok) correct++;
 
-    // reveal detail card
     const w=VV.wordById(q.wordId);
-    const d=card.querySelector('.detail');
+    const d=$('#detail');
     d.innerHTML=detailWithActions(w,ok);
     d.classList.add('show');
     bindDetail(card,w);
-
-    // record progress on the linked word
     if(w) VV.setStatus(w.id, ok?'got':'missed');
+
+    // nav buttons
+    const last = idx>=pool.length-1;
+    $('#navrow').innerHTML = last
+      ? '<button class="btn" id="next">See results →</button>'
+      : '<button class="btn" id="next">Next question →</button>';
+    $('#next').addEventListener('click',()=>{
+      if(last){ showResults(); } else { idx++; renderQuestion(); }
+    });
     updateBar();
   }
 
@@ -92,9 +91,7 @@
     let h='<div style="display:flex;align-items:center;gap:10px;margin-bottom:4px">'+verdict+
       '<button class="star'+(VV.isBookmarked(w.id)?' on':'')+'" title="Bookmark">★</button></div>';
     h+=VV.detailHTML(w);
-    h+='<div class="dactions">'+
-       '<button class="btn sm outline dl">⬇ Download card (PNG)</button>'+
-       '</div>';
+    h+='<div class="dactions"><button class="btn sm outline dl">⬇ Download card (PNG)</button></div>';
     return h;
   }
   function bindDetail(card,w){
@@ -114,10 +111,28 @@
     $('#sb-score').textContent=correct;
     const pct= answered? Math.round(correct/answered*100):0;
     $('#sb-pct').textContent=pct+'%';
-    $('#sb-fill').style.width=(total?answered/total*100:0)+'%';
+    $('#sb-fill').style.width=(total?(idx+(locked?1:0))/total*100:0)+'%';
   }
 
-  // title
+  function showResults(){
+    const total=pool.length;
+    const pct= total? Math.round(correct/total*100):0;
+    $('#stage').innerHTML=
+      '<div class="qcard result">'+
+        '<h2 style="margin:0 0 6px;color:var(--navy)">Quiz complete 🎉</h2>'+
+        '<p style="font-size:18px;margin:6px 0">You scored <b>'+correct+'</b> / '+total+'  ·  <b>'+pct+'%</b></p>'+
+        '<div class="scorebar" style="position:static;margin:14px 0"><div class="track"><div class="fill" style="width:'+pct+'%"></div></div></div>'+
+        '<div class="dactions">'+
+          '<button class="btn" id="again">🔀 New set</button>'+
+          '<a class="btn outline" href="browse.html?saved=1">★ Review saved words</a>'+
+          '<a class="btn outline" href="index.html">← Home</a>'+
+        '</div>'+
+      '</div>';
+    $('#again').addEventListener('click',buildPool);
+    $('#sb-fill').style.width='100%';
+    window.scrollTo({top:0,behavior:'smooth'});
+  }
+
   const titles={A:'Synonyms & Antonyms',B:'Idioms & Phrases',C:'One-word Substitutions'};
   $('#qtitle').textContent= partFilter? ('Quiz · '+titles[partFilter]) : 'Full Quiz';
 

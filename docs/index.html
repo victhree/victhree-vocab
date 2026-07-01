@@ -3,13 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>VicThree Vocab — CDS & AFCAT English Vocabulary</title>
-<meta name="description" content="Trend-based English vocabulary for CDS & AFCAT: 737 quiz questions with synonyms, antonyms, idioms, one-word substitutions, memory tricks and downloadable cards.">
+<title>VicThree Vocab — English Vocabulary for Defence Exams</title>
+<meta name="description" content="English vocabulary for defence exams (CDS & AFCAT): synonyms, antonyms, idioms and one-word substitutions with quiz and word bank.">
 <meta name="theme-color" content="#0B1F3A">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="assets/icon-180.png">
 <link rel="icon" href="assets/icon-192.png">
-<link rel="stylesheet" href="css/styles.css?v=1">
+<link rel="stylesheet" href="css/styles.css?v=2">
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -18,27 +18,26 @@
     <a href="index.html" class="active">Home</a>
     <a href="quiz.html">Quiz</a>
     <a href="browse.html">Word Bank</a>
+    <a href="browse.html?saved=1">★ Saved</a>
   </nav>
 </div></header>
 
 <main class="container">
-  <section class="hero">
-    <h1>English Vocabulary for CDS &amp; AFCAT</h1>
-    <p>A trend-based word bank — synonyms, antonyms, idioms &amp; one-word substitutions. Attempt a question, then unlock the full card: meaning, example, synonyms/antonyms and a rule to remember.</p>
-    <div class="stats" id="stats"><div class="spin">Loading…</div></div>
-    <div style="margin-top:18px;display:flex;gap:10px;flex-wrap:wrap">
-      <a class="btn" href="quiz.html">▶ Start full quiz</a>
-      <a class="btn ghost" href="browse.html">📚 Browse word bank</a>
-    </div>
-  </section>
+  <img class="banner" src="assets/banner.jpg?v=2" alt="VicThree Vocab — English Vocabulary for Defence Exams" onerror="this.style.display='none'">
 
-  <div class="section-title">Practice &amp; study</div>
-  <div class="tiles" id="tiles"><div class="spin">Loading…</div></div>
+  <h1 class="page-title">English Vocabulary for Defence Exams</h1>
+
+  <div class="tiles home-tiles">
+    <a class="tile" href="quiz.html?part=A"><div class="ic">🔁</div><h3>Synonyms &amp; Antonyms</h3></a>
+    <a class="tile" href="quiz.html?part=B"><div class="ic">💬</div><h3>Idioms &amp; Phrases</h3></a>
+    <a class="tile" href="quiz.html?part=C"><div class="ic">🎯</div><h3>One-word Substitutions</h3></a>
+    <a class="tile" href="quiz.html"><div class="ic">📝</div><h3>Full Quiz</h3></a>
+    <a class="tile" href="browse.html"><div class="ic">📚</div><h3>Word Bank</h3></a>
+  </div>
 
   <p class="foot">VicThree Defence · CDS &amp; AFCAT English Vocabulary · works offline once visited</p>
 </main>
 
-<script src="js/data.js?v=1"></script>
-<script src="js/home.js?v=1"></script>
+<script src="js/data.js?v=2"></script>
 </body>
 </html>
