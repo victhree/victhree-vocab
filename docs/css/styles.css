@@ -44,6 +44,16 @@ img{max-width:100%}
 .vbanner-icons{display:flex;justify-content:flex-end;align-items:center;gap:18px;padding:8px 18px 12px}
 .vbanner-icons a{color:var(--gold-2);display:inline-flex;line-height:0;text-decoration:none}
 .vbanner-icons a:hover{color:#fff}
+.cta{display:flex;align-items:center;gap:16px;flex-wrap:wrap;
+  background:linear-gradient(135deg,var(--navy),var(--navy-2));color:#fff;
+  border-radius:14px;padding:16px 20px;margin:16px 0;box-shadow:var(--shadow-lg)}
+.cta-text{flex:1;min-width:230px}
+.cta-text b{display:block;font-size:16.5px;color:#fff;line-height:1.35}
+.cta-text span{display:block;margin-top:3px;font-size:13.5px;color:#c7d4e8;line-height:1.4}
+.cta-social{display:flex;gap:20px;align-items:center}
+.cta-social a{color:var(--gold-2);display:inline-flex;line-height:0;transition:color .12s,transform .12s}
+.cta-social a:hover{color:#fff;transform:translateY(-2px)}
+@media(max-width:560px){.cta-social{width:100%;justify-content:center}}
 .foot-social{display:flex;justify-content:center;align-items:center;gap:24px;margin:26px 0 6px}
 .foot-social a{color:var(--navy);display:inline-flex;line-height:0;text-decoration:none;transition:color .12s,transform .12s}
 .foot-social a:hover{color:var(--gold);transform:translateY(-2px)}
