@@ -41,12 +41,9 @@ img{max-width:100%}
 
 /* ---- PYQ-style banner header (all pages) ---- */
 .vbanner{background:var(--navy);text-align:center;padding-top:6px;position:relative}
-.vbanner-icons{position:absolute;right:14px;bottom:12px;display:flex;gap:10px}
-.vbanner-icons a{width:36px;height:36px;border-radius:50%;display:grid;place-items:center;font-size:18px;
-  text-decoration:none;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.28);color:#fff}
-.vbanner-icons a:hover{background:var(--gold);border-color:var(--gold)}
-.vbanner-icons .star{color:var(--gold-2)}
-.vbanner-icons a:hover.star,.vbanner-icons a.star:hover{color:var(--navy)}
+.vbanner-icons{position:absolute;right:16px;bottom:12px;display:flex;gap:16px;align-items:center}
+.vbanner-icons a{color:var(--gold-2);display:inline-flex;line-height:0;text-decoration:none}
+.vbanner-icons a:hover{color:#fff}
 .vbanner .bimg{display:block;width:100%;max-width:860px;height:auto;margin:0 auto}
 .vbanner-nav{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;padding:10px 12px 14px}
 .vbanner-nav a{color:#e7edf7;background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.20);
@@ -75,10 +72,12 @@ img{max-width:100%}
 .widecard.gold h3{color:var(--navy)}
 .widecard.gold .chev{color:var(--navy)}
 /* short split row (Weak Words left · Saved Words right, middle empty) */
-.home-actions{display:flex;justify-content:space-between;gap:12px;margin:16px 0 4px}
-.minitile{display:inline-flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--line);
-  border-radius:10px;padding:9px 16px;font-weight:700;font-size:14px;color:var(--navy);box-shadow:var(--shadow)}
+.home-actions{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:14px 0 4px}
+.home-actions .minitile:last-child{grid-column:-2 / -1}
+.minitile{display:flex;align-items:center;justify-content:center;gap:8px;background:var(--card);border:1px solid var(--line);
+  border-radius:12px;padding:12px;font-weight:700;font-size:14.5px;color:var(--navy);box-shadow:var(--shadow)}
 .minitile:hover{border-color:var(--gold);transform:translateY(-1px)}
+@media(max-width:600px){.home-actions{grid-template-columns:repeat(2,1fr)}}
 
 /* ---- Banner + page title (home) ---- */
 .banner{
