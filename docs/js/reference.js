@@ -32,8 +32,7 @@
     if(!items.length){ $('#list').innerHTML='<div class="empty">No matches.</div>'; return; }
     $('#list').innerHTML=items.map(r=>
       '<div class="wcard">'+
-        '<h3 class="dword">'+e(r.term)+' <span class="kindtag">'+e(r.kind)+'</span></h3>'+
-        '<p class="dmeaning">'+e(r.meaning)+'</p>'+
+        '<h3 class="dword">'+e(r.term)+' <span class="meaningtag">'+e(r.meaning)+'</span></h3>'+
         ((r.examples&&r.examples.length)?'<p class="dline"><span class="dk">Family</span> '+e(r.examples.join(', '))+'</p>':'')+
         (r.example?'<p class="dex">“'+e(r.example)+'”</p>':'')+
       '</div>'
@@ -77,14 +76,19 @@
   $('#modal').addEventListener('click',ev=>{ if(ev.target.id==='modal') closeModal(); });
   document.addEventListener('keydown',ev=>{ if(ev.key==='Escape') closeModal(); });
   function renderConf(){
-    let items=conf.filter(c=>matches(c.a+' '+c.b+' '+c.difference+' '+(c.example||'')));
+    let items=conf.filter(c=>matches(c.a+' '+c.b+' '+c.am+' '+c.bm+' '+(c.ae||'')+' '+(c.be||'')));
     $('#count').textContent=items.length+' pairs';
     if(!items.length){ $('#list').innerHTML='<div class="empty">No matches.</div>'; return; }
+    const one=(word,mean,ex)=>
+      '<div class="confrow">'+
+        '<p class="dline"><span class="cw">'+e(word)+'</span> — '+e(mean)+'</p>'+
+        (ex?'<p class="dex">“'+e(ex)+'”</p>':'')+
+      '</div>';
     $('#list').innerHTML=items.map(c=>
       '<div class="wcard">'+
         '<h3 class="dword">'+e(c.a)+' <span class="vs">vs</span> '+e(c.b)+'</h3>'+
-        '<p class="dmeaning">'+e(c.difference)+'</p>'+
-        (c.example?'<p class="dex">“'+e(c.example)+'”</p>':'')+
+        one(c.a,c.am,c.ae)+
+        one(c.b,c.bm,c.be)+
       '</div>'
     ).join('');
   }

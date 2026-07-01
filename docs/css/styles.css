@@ -161,6 +161,10 @@ img{max-width:100%}
 .iconbtn:hover{color:var(--navy);background:#eef2f8}
 .muted-intro{color:var(--muted);font-size:14px;margin:2px 0 12px;line-height:1.5}
 .kindtag{font-size:12px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;vertical-align:middle}
+.meaningtag{font-size:15px;font-weight:600;color:var(--navy);background:#eef2f8;border-radius:8px;padding:3px 11px;vertical-align:middle;white-space:normal}
+.confrow{margin:10px 0}
+.confrow + .confrow{border-top:1px solid var(--line);padding-top:12px}
+.confrow .cw{font-weight:800;color:var(--navy)}
 .vs{color:var(--muted);font-weight:600;font-size:16px}
 .dclust{display:flex;flex-wrap:wrap;gap:7px}
 .wchip{background:#eef2f8;color:var(--navy);border-radius:8px;padding:5px 10px;font-size:15px;font-weight:600}
