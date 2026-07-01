@@ -41,7 +41,7 @@ img{max-width:100%}
 
 /* ---- PYQ-style banner header (all pages) ---- */
 .vbanner{background:var(--navy);text-align:center;padding-top:6px;position:relative}
-.vbanner-icons{position:absolute;right:16px;bottom:12px;display:flex;gap:16px;align-items:center}
+.vbanner-icons{display:flex;justify-content:flex-end;align-items:center;gap:18px;padding:8px 18px 12px}
 .vbanner-icons a{color:var(--gold-2);display:inline-flex;line-height:0;text-decoration:none}
 .vbanner-icons a:hover{color:#fff}
 .vbanner .bimg{display:block;width:100%;max-width:860px;height:auto;margin:0 auto}
