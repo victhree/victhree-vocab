@@ -8,7 +8,7 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="assets/icon-180.png">
 <link rel="icon" href="assets/icon-192.png">
-<link rel="stylesheet" href="css/styles.css?v=3">
+<link rel="stylesheet" href="css/styles.css?v=4">
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -23,19 +23,16 @@
 
 <main class="container">
   <a class="backlink" href="index.html">← Home</a>
-  <h2 id="ltitle" style="margin:4px 0 12px">Practice</h2>
-
-  <div class="scorebar">
-    <span id="lprog">…</span>
-    <div class="track"><div class="fill" id="lfill"></div></div>
-    <button class="btn sm outline" id="restart-top">↺ Restart</button>
+  <div class="row-between">
+    <h2 id="ltitle" style="margin:4px 0 12px">Practice</h2>
+    <button class="btn sm outline" id="restart-top" title="Restart this set">↺ Restart</button>
   </div>
 
   <div id="stage"><div class="spin">Loading…</div></div>
   <p class="foot">Learn mode — answer each word, read its card, then move on. Words you've seen won't come back until you restart.</p>
 </main>
 
-<script src="js/data.js?v=3"></script>
-<script src="js/learn.js?v=3"></script>
+<script src="js/data.js?v=4"></script>
+<script src="js/learn.js?v=4"></script>
 </body>
 </html>

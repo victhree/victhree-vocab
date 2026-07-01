@@ -162,6 +162,8 @@ img{max-width:100%}
 .trick{background:#fbf6e9;border:1px dashed var(--gold);border-radius:10px;padding:10px 12px;margin-top:10px;font-size:13.5px}
 .trick .k{font-weight:800;color:#8a6a1f}
 .dactions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.row-between{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.home .banner{margin-top:4px}
 .navrow{display:flex;justify-content:flex-end;margin-top:16px}
 .navrow .btn{min-width:170px}
 .qcard.result{text-align:center}

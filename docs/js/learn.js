@@ -19,11 +19,6 @@
 
   function remainingList(){ return partQs.filter(q=>!VV.isSeen(q.wordId)); }
   function refill(){ queue = VV.shuffle(remainingList()); }
-  function updateProgress(){
-    const rem=remainingList().length, done=total-rem;
-    $('#lprog').textContent = 'Reviewed '+done+' / '+total+' · '+rem+' to go';
-    $('#lfill').style.width = (total?done/total*100:0)+'%';
-  }
 
   function nextWord(){
     if(!queue.length) refill();
@@ -38,8 +33,7 @@
     ).join('');
     $('#stage').innerHTML=
       '<div class="qcard" data-wid="'+(w?w.id:'')+'">'+
-        '<div class="qhead"><span class="qnum">New word</span>'+
-          '<span class="qtype">'+(TYPE_LABEL[q.type]||q.type)+'</span></div>'+
+        '<div class="qhead"><span class="qtype">'+(TYPE_LABEL[q.type]||q.type)+'</span></div>'+
         '<div class="stem">'+highlightCap(q.stem)+'</div>'+
         '<div class="opts">'+opts+'</div>'+
         '<div class="detail" id="detail"></div>'+
@@ -47,7 +41,6 @@
       '</div>';
     locked=false;
     $('#stage').querySelectorAll('.opt').forEach(o=>o.addEventListener('click',()=>onPick(q,+o.dataset.oi)));
-    updateProgress();
     window.scrollTo({top:0,behavior:'smooth'});
   }
 
@@ -79,7 +72,8 @@
 
     $('#navrow').innerHTML='<button class="btn" id="next">Next word →</button>';
     $('#next').addEventListener('click',nextWord);
-    updateProgress();
+    // bring the answer card into view (it opens below the options)
+    d.scrollIntoView({behavior:'smooth',block:'nearest'});
   }
 
   function detailWithActions(w,ok){
@@ -102,7 +96,6 @@
   }
 
   function showDone(){
-    updateProgress();
     $('#stage').innerHTML=
       '<div class="qcard result">'+
         '<h2 style="margin:0 0 6px;color:var(--navy)">All done 🎉</h2>'+
@@ -116,13 +109,11 @@
     $('#restart').addEventListener('click',doReset);
   }
 
-  function doReset(){
-    VV.resetSeen(partWordIds);
-    refill(); nextWord(); updateProgress();
-  }
+  function doReset(){ VV.resetSeen(partWordIds); refill(); nextWord(); }
 
-  $('#restart-top').addEventListener('click',()=>{
-    if(confirm('Restart this set? Your "seen" progress for '+(TITLES[part]||'this set')+' will be cleared.')) doReset();
+  const rt=$('#restart-top');
+  if(rt) rt.addEventListener('click',()=>{
+    if(confirm('Restart this set? Words you\'ve already seen in '+(TITLES[part]||'this set')+' will come up again.')) doReset();
   });
 
   refill();

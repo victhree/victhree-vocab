@@ -81,6 +81,7 @@
       if(last){ showResults(); } else { idx++; renderQuestion(); }
     });
     updateBar();
+    d.scrollIntoView({behavior:'smooth',block:'nearest'});
   }
 
   function detailWithActions(w,ok){
