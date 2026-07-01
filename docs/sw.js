@@ -5,6 +5,7 @@ const SHELL = [
   './css/styles.css?v=2',
   './js/data.js?v=2','./js/quiz.js?v=2','./js/browse.js?v=2',
   './manifest.webmanifest',
+  './assets/banner.png?v=2',
   './assets/icon-192.png','./assets/icon-512.png','./assets/icon-180.png'
 ];
 self.addEventListener('install', e=>{
