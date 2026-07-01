@@ -65,6 +65,14 @@ img{max-width:100%}
 .widecard .chev{color:var(--gold);font-size:22px;font-weight:700}
 .widecard.dark{background:linear-gradient(135deg,var(--navy),var(--navy-2));border:none;color:#fff}
 .widecard.dark h3{color:#fff}
+.widecard.gold{background:linear-gradient(135deg,var(--gold-2),var(--gold));border:none;color:var(--navy)}
+.widecard.gold h3{color:var(--navy)}
+.widecard.gold .chev{color:var(--navy)}
+/* short split row (Weak Words left · Saved Words right, middle empty) */
+.home-actions{display:flex;justify-content:space-between;gap:12px;margin:16px 0 4px}
+.minitile{display:inline-flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--line);
+  border-radius:10px;padding:9px 16px;font-weight:700;font-size:14px;color:var(--navy);box-shadow:var(--shadow)}
+.minitile:hover{border-color:var(--gold);transform:translateY(-1px)}
 
 /* ---- Banner + page title (home) ---- */
 .banner{

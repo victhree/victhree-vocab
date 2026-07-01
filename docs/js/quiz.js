@@ -11,7 +11,7 @@
 
   const TYPE_LABEL={synonym:'Synonym',antonym:'Antonym',idiom:'Idiom',ows:'One-word substitution'};
   const titles={A:'Synonyms & Antonyms',B:'Idioms & Phrases',C:'One-word Substitutions'};
-  $('#qtitle').textContent = mode==='review' ? 'Review weak words' : (partFilter? ('Quiz · '+titles[partFilter]) : 'Random Quiz');
+  $('#qtitle').textContent = mode==='review' ? 'Review weak words' : (partFilter? ('Quiz · '+titles[partFilter]) : 'English Quiz');
 
   let pool=[], answers=[], submitted=false;
 
@@ -23,7 +23,7 @@
         $('#bar').style.display='none';
         $('#stage').innerHTML='<div class="qcard result"><h2 style="margin:0 0 6px;color:var(--navy)">No weak words yet 💪</h2>'+
           '<p style="font-size:16px;margin:6px 0">Answer some questions in the Random Quiz or Practice — anything you get wrong lands here for focused review.</p>'+
-          '<div class="dactions"><a class="btn" href="quiz.html">🎲 Random Quiz</a><a class="btn outline" href="index.html">← Home</a></div></div>';
+          '<div class="dactions"><a class="btn" href="quiz.html">📝 English Quiz</a><a class="btn outline" href="index.html">← Home</a></div></div>';
         return;
       }
     } else if(partFilter){ qs=qs.filter(q=>q.part===partFilter); }
