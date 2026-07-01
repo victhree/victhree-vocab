@@ -253,5 +253,188 @@
                       "pacify",
                       "assuage"
                   ]
+    },
+    {
+        "group":  "Happiness / Joy",
+        "words":  [
+                      "elated",
+                      "jubilant",
+                      "ecstatic",
+                      "euphoric",
+                      "exuberant",
+                      "blithe",
+                      "buoyant",
+                      "mirthful"
+                  ]
+    },
+    {
+        "group":  "Sadness / Grief",
+        "words":  [
+                      "melancholy",
+                      "morose",
+                      "despondent",
+                      "forlorn",
+                      "doleful",
+                      "dejected",
+                      "sombre",
+                      "woeful"
+                  ]
+    },
+    {
+        "group":  "Wealth / Prosperity",
+        "words":  [
+                      "affluent",
+                      "opulent",
+                      "prosperous",
+                      "lavish",
+                      "luxuriant",
+                      "flourishing"
+                  ]
+    },
+    {
+        "group":  "Poverty / Destitution",
+        "words":  [
+                      "destitute",
+                      "impoverished",
+                      "indigent",
+                      "penurious",
+                      "needy",
+                      "impecunious"
+                  ]
+    },
+    {
+        "group":  "Laziness / Idleness",
+        "words":  [
+                      "indolent",
+                      "lethargic",
+                      "sluggish",
+                      "slothful",
+                      "languid",
+                      "torpid",
+                      "listless"
+                  ]
+    },
+    {
+        "group":  "Diligence / Hard work",
+        "words":  [
+                      "assiduous",
+                      "diligent",
+                      "industrious",
+                      "sedulous",
+                      "conscientious",
+                      "tireless"
+                  ]
+    },
+    {
+        "group":  "Pride / Arrogance",
+        "words":  [
+                      "haughty",
+                      "arrogant",
+                      "conceited",
+                      "pompous",
+                      "supercilious",
+                      "disdainful",
+                      "insolent"
+                  ]
+    },
+    {
+        "group":  "Humility / Modesty",
+        "words":  [
+                      "modest",
+                      "humble",
+                      "unassuming",
+                      "meek",
+                      "unpretentious",
+                      "demure"
+                  ]
+    },
+    {
+        "group":  "Cruelty / Ruthlessness",
+        "words":  [
+                      "brutal",
+                      "ruthless",
+                      "merciless",
+                      "savage",
+                      "callous",
+                      "heartless",
+                      "barbaric"
+                  ]
+    },
+    {
+        "group":  "Mercy / Compassion",
+        "words":  [
+                      "merciful",
+                      "compassionate",
+                      "clement",
+                      "lenient",
+                      "humane",
+                      "benevolent"
+                  ]
+    },
+    {
+        "group":  "Greed / Miserliness",
+        "words":  [
+                      "miserly",
+                      "avaricious",
+                      "parsimonious",
+                      "niggardly",
+                      "covetous",
+                      "rapacious"
+                  ]
+    },
+    {
+        "group":  "Secrecy / Concealment",
+        "words":  [
+                      "clandestine",
+                      "covert",
+                      "furtive",
+                      "surreptitious",
+                      "stealthy",
+                      "cryptic"
+                  ]
+    },
+    {
+        "group":  "Enthusiasm / Zeal",
+        "words":  [
+                      "ardent",
+                      "fervent",
+                      "zealous",
+                      "avid",
+                      "passionate",
+                      "keen",
+                      "vehement"
+                  ]
+    },
+    {
+        "group":  "Indifference / Apathy",
+        "words":  [
+                      "apathetic",
+                      "indifferent",
+                      "nonchalant",
+                      "aloof",
+                      "detached",
+                      "unconcerned"
+                  ]
+    },
+    {
+        "group":  "Danger / Risk",
+        "words":  [
+                      "perilous",
+                      "precarious",
+                      "hazardous",
+                      "treacherous",
+                      "parlous"
+                  ]
+    },
+    {
+        "group":  "Beauty / Splendour",
+        "words":  [
+                      "resplendent",
+                      "exquisite",
+                      "radiant",
+                      "alluring",
+                      "elegant",
+                      "sublime"
+                  ]
     }
 ]

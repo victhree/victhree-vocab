@@ -1,31 +1,458 @@
-[
-  { "a": "Affect", "am": "to influence (verb)", "ae": "A good leader can affect the whole team's morale.", "b": "Effect", "bm": "a result (noun)", "be": "The new policy had an immediate effect." },
-  { "a": "Accept", "am": "to receive or agree to", "ae": "She was proud to accept the award.", "b": "Except", "bm": "excluding / apart from", "be": "Everyone attended except the new recruit." },
-  { "a": "Adapt", "am": "to adjust to", "ae": "Soldiers must adapt to harsh conditions.", "b": "Adopt", "bm": "to take on as your own", "be": "The unit decided to adopt a new formation." },
-  { "a": "Principal", "am": "chief / main (or a head person)", "ae": "The principal reason for the retreat was low supplies.", "b": "Principle", "bm": "a rule or belief", "be": "He refused to lie, as a matter of principle." },
-  { "a": "Stationary", "am": "not moving", "ae": "The convoy stayed stationary for an hour.", "b": "Stationery", "bm": "writing materials", "be": "She bought pens and other stationery." },
-  { "a": "Complement", "am": "something that completes", "ae": "The new radios complement our existing kit.", "b": "Compliment", "bm": "praise", "be": "The general paid the cadets a warm compliment." },
-  { "a": "Counsel", "am": "advice (or to advise)", "ae": "The veteran offered wise counsel.", "b": "Council", "bm": "a group or assembly", "be": "The war council met at dawn." },
-  { "a": "Eligible", "am": "qualified / allowed", "ae": "He is now eligible for promotion.", "b": "Illegible", "bm": "unreadable", "be": "His hurried handwriting was illegible." },
-  { "a": "Eminent", "am": "famous / distinguished", "ae": "An eminent strategist addressed the officers.", "b": "Imminent", "bm": "about to happen", "be": "The storm made an attack seem imminent." },
-  { "a": "Ingenious", "am": "clever / inventive", "ae": "Her ingenious plan surprised everyone.", "b": "Ingenuous", "bm": "innocent / naive", "be": "The ingenuous recruit believed every rumour." },
-  { "a": "Loose", "am": "not tight", "ae": "Tighten that loose strap before the climb.", "b": "Lose", "bm": "to misplace or fail", "be": "Careless soldiers lose their kit." },
-  { "a": "Desert", "am": "dry barren land (or to abandon)", "ae": "They marched across the desert for days.", "b": "Dessert", "bm": "a sweet dish", "be": "Dinner ended with a rich dessert." },
-  { "a": "Cite", "am": "to quote or refer to", "ae": "He cited the field manual in his report.", "b": "Site", "bm": "a place or location", "be": "Scouts marked the ambush site on the map." },
-  { "a": "Censure", "am": "strong blame or criticism", "ae": "The board voted to censure the officer.", "b": "Censor", "bm": "to ban or cut content", "be": "Authorities tried to censor the leaked file." },
-  { "a": "Confident", "am": "sure of oneself", "ae": "The captain felt confident of victory.", "b": "Confidant", "bm": "a trusted friend", "be": "He shared the secret only with his confidant." },
-  { "a": "Moral", "am": "concerning right and wrong", "ae": "It was a moral duty to help the wounded.", "b": "Morale", "bm": "team spirit / confidence", "be": "A hot meal lifted the troops' morale." },
-  { "a": "Personal", "am": "private / individual", "ae": "He kept his personal diary hidden.", "b": "Personnel", "bm": "staff / employees", "be": "All personnel reported for the briefing." },
-  { "a": "Precede", "am": "to come before", "ae": "A short drill will precede the parade.", "b": "Proceed", "bm": "to go forward / continue", "be": "You may now proceed with the mission." },
-  { "a": "Devise", "am": "to plan or invent (verb)", "ae": "Engineers had to devise a new plan.", "b": "Device", "bm": "a gadget or tool (noun)", "be": "The device jammed enemy signals." },
-  { "a": "Advice", "am": "a recommendation (noun)", "ae": "Take my advice and rest before dawn.", "b": "Advise", "bm": "to recommend (verb)", "be": "I advise you to check the map again." },
-  { "a": "Beside", "am": "next to", "ae": "She stood beside the tank.", "b": "Besides", "bm": "in addition / apart from", "be": "Besides rifles, they carried medical kits." },
-  { "a": "Farther", "am": "a greater physical distance", "ae": "The base was farther than expected.", "b": "Further", "bm": "additional / to a greater degree", "be": "We need further supplies before advancing." },
-  { "a": "Imply", "am": "to suggest (done by the speaker)", "ae": "The order seemed to imply a retreat.", "b": "Infer", "bm": "to conclude (done by the listener)", "be": "From his tone, we inferred bad news." },
-  { "a": "Lay", "am": "to place something down (needs an object)", "ae": "Lay your weapon on the table.", "b": "Lie", "bm": "to recline (no object)", "be": "The soldiers lie down to take cover." },
-  { "a": "Allusion", "am": "an indirect reference", "ae": "His speech made an allusion to past victories.", "b": "Illusion", "bm": "a false impression", "be": "Their calm was just an illusion." },
-  { "a": "Coarse", "am": "rough in texture", "ae": "The rope was coarse and hard to grip.", "b": "Course", "bm": "a path, route or class", "be": "Recruits ran the obstacle course." },
-  { "a": "Elicit", "am": "to draw out / bring forth", "ae": "The questions were meant to elicit the truth.", "b": "Illicit", "bm": "illegal / forbidden", "be": "They uncovered an illicit arms deal." },
-  { "a": "Discreet", "am": "careful / tactful", "ae": "Be discreet about the mission details.", "b": "Discrete", "bm": "separate / distinct", "be": "The plan had three discrete phases." },
-  { "a": "Continual", "am": "repeated with breaks", "ae": "Continual interruptions delayed the briefing.", "b": "Continuous", "bm": "unbroken / without pause", "be": "They kept a continuous watch all night." }
+﻿[
+    {
+        "a":  "Affect",
+        "am":  "to influence (verb)",
+        "ae":  "A good leader can affect the whole team\u0027s morale.",
+        "b":  "Effect",
+        "bm":  "a result (noun)",
+        "be":  "The new policy had an immediate effect."
+    },
+    {
+        "a":  "Accept",
+        "am":  "to receive or agree to",
+        "ae":  "She was proud to accept the award.",
+        "b":  "Except",
+        "bm":  "excluding / apart from",
+        "be":  "Everyone attended except the new recruit."
+    },
+    {
+        "a":  "Adapt",
+        "am":  "to adjust to",
+        "ae":  "Soldiers must adapt to harsh conditions.",
+        "b":  "Adopt",
+        "bm":  "to take on as your own",
+        "be":  "The unit decided to adopt a new formation."
+    },
+    {
+        "a":  "Principal",
+        "am":  "chief / main (or a head person)",
+        "ae":  "The principal reason for the retreat was low supplies.",
+        "b":  "Principle",
+        "bm":  "a rule or belief",
+        "be":  "He refused to lie, as a matter of principle."
+    },
+    {
+        "a":  "Stationary",
+        "am":  "not moving",
+        "ae":  "The convoy stayed stationary for an hour.",
+        "b":  "Stationery",
+        "bm":  "writing materials",
+        "be":  "She bought pens and other stationery."
+    },
+    {
+        "a":  "Complement",
+        "am":  "something that completes",
+        "ae":  "The new radios complement our existing kit.",
+        "b":  "Compliment",
+        "bm":  "praise",
+        "be":  "The general paid the cadets a warm compliment."
+    },
+    {
+        "a":  "Counsel",
+        "am":  "advice (or to advise)",
+        "ae":  "The veteran offered wise counsel.",
+        "b":  "Council",
+        "bm":  "a group or assembly",
+        "be":  "The war council met at dawn."
+    },
+    {
+        "a":  "Eligible",
+        "am":  "qualified / allowed",
+        "ae":  "He is now eligible for promotion.",
+        "b":  "Illegible",
+        "bm":  "unreadable",
+        "be":  "His hurried handwriting was illegible."
+    },
+    {
+        "a":  "Eminent",
+        "am":  "famous / distinguished",
+        "ae":  "An eminent strategist addressed the officers.",
+        "b":  "Imminent",
+        "bm":  "about to happen",
+        "be":  "The storm made an attack seem imminent."
+    },
+    {
+        "a":  "Ingenious",
+        "am":  "clever / inventive",
+        "ae":  "Her ingenious plan surprised everyone.",
+        "b":  "Ingenuous",
+        "bm":  "innocent / naive",
+        "be":  "The ingenuous recruit believed every rumour."
+    },
+    {
+        "a":  "Loose",
+        "am":  "not tight",
+        "ae":  "Tighten that loose strap before the climb.",
+        "b":  "Lose",
+        "bm":  "to misplace or fail",
+        "be":  "Careless soldiers lose their kit."
+    },
+    {
+        "a":  "Desert",
+        "am":  "dry barren land (or to abandon)",
+        "ae":  "They marched across the desert for days.",
+        "b":  "Dessert",
+        "bm":  "a sweet dish",
+        "be":  "Dinner ended with a rich dessert."
+    },
+    {
+        "a":  "Cite",
+        "am":  "to quote or refer to",
+        "ae":  "He cited the field manual in his report.",
+        "b":  "Site",
+        "bm":  "a place or location",
+        "be":  "Scouts marked the ambush site on the map."
+    },
+    {
+        "a":  "Censure",
+        "am":  "strong blame or criticism",
+        "ae":  "The board voted to censure the officer.",
+        "b":  "Censor",
+        "bm":  "to ban or cut content",
+        "be":  "Authorities tried to censor the leaked file."
+    },
+    {
+        "a":  "Confident",
+        "am":  "sure of oneself",
+        "ae":  "The captain felt confident of victory.",
+        "b":  "Confidant",
+        "bm":  "a trusted friend",
+        "be":  "He shared the secret only with his confidant."
+    },
+    {
+        "a":  "Moral",
+        "am":  "concerning right and wrong",
+        "ae":  "It was a moral duty to help the wounded.",
+        "b":  "Morale",
+        "bm":  "team spirit / confidence",
+        "be":  "A hot meal lifted the troops\u0027 morale."
+    },
+    {
+        "a":  "Personal",
+        "am":  "private / individual",
+        "ae":  "He kept his personal diary hidden.",
+        "b":  "Personnel",
+        "bm":  "staff / employees",
+        "be":  "All personnel reported for the briefing."
+    },
+    {
+        "a":  "Precede",
+        "am":  "to come before",
+        "ae":  "A short drill will precede the parade.",
+        "b":  "Proceed",
+        "bm":  "to go forward / continue",
+        "be":  "You may now proceed with the mission."
+    },
+    {
+        "a":  "Devise",
+        "am":  "to plan or invent (verb)",
+        "ae":  "Engineers had to devise a new plan.",
+        "b":  "Device",
+        "bm":  "a gadget or tool (noun)",
+        "be":  "The device jammed enemy signals."
+    },
+    {
+        "a":  "Advice",
+        "am":  "a recommendation (noun)",
+        "ae":  "Take my advice and rest before dawn.",
+        "b":  "Advise",
+        "bm":  "to recommend (verb)",
+        "be":  "I advise you to check the map again."
+    },
+    {
+        "a":  "Beside",
+        "am":  "next to",
+        "ae":  "She stood beside the tank.",
+        "b":  "Besides",
+        "bm":  "in addition / apart from",
+        "be":  "Besides rifles, they carried medical kits."
+    },
+    {
+        "a":  "Farther",
+        "am":  "a greater physical distance",
+        "ae":  "The base was farther than expected.",
+        "b":  "Further",
+        "bm":  "additional / to a greater degree",
+        "be":  "We need further supplies before advancing."
+    },
+    {
+        "a":  "Imply",
+        "am":  "to suggest (done by the speaker)",
+        "ae":  "The order seemed to imply a retreat.",
+        "b":  "Infer",
+        "bm":  "to conclude (done by the listener)",
+        "be":  "From his tone, we inferred bad news."
+    },
+    {
+        "a":  "Lay",
+        "am":  "to place something down (needs an object)",
+        "ae":  "Lay your weapon on the table.",
+        "b":  "Lie",
+        "bm":  "to recline (no object)",
+        "be":  "The soldiers lie down to take cover."
+    },
+    {
+        "a":  "Allusion",
+        "am":  "an indirect reference",
+        "ae":  "His speech made an allusion to past victories.",
+        "b":  "Illusion",
+        "bm":  "a false impression",
+        "be":  "Their calm was just an illusion."
+    },
+    {
+        "a":  "Coarse",
+        "am":  "rough in texture",
+        "ae":  "The rope was coarse and hard to grip.",
+        "b":  "Course",
+        "bm":  "a path, route or class",
+        "be":  "Recruits ran the obstacle course."
+    },
+    {
+        "a":  "Elicit",
+        "am":  "to draw out / bring forth",
+        "ae":  "The questions were meant to elicit the truth.",
+        "b":  "Illicit",
+        "bm":  "illegal / forbidden",
+        "be":  "They uncovered an illicit arms deal."
+    },
+    {
+        "a":  "Discreet",
+        "am":  "careful / tactful",
+        "ae":  "Be discreet about the mission details.",
+        "b":  "Discrete",
+        "bm":  "separate / distinct",
+        "be":  "The plan had three discrete phases."
+    },
+    {
+        "a":  "Continual",
+        "am":  "repeated with breaks",
+        "ae":  "Continual interruptions delayed the briefing.",
+        "b":  "Continuous",
+        "bm":  "unbroken / without pause",
+        "be":  "They kept a continuous watch all night."
+    },
+    {
+        "a":  "Adverse",
+        "am":  "unfavourable / harmful",
+        "ae":  "The troops advanced despite adverse weather.",
+        "b":  "Averse",
+        "bm":  "strongly disliking / opposed to",
+        "be":  "He was averse to taking needless risks."
+    },
+    {
+        "a":  "Amiable",
+        "am":  "friendly and good-natured (of a person)",
+        "ae":  "The new captain was amiable and approachable.",
+        "b":  "Amicable",
+        "bm":  "friendly, without conflict (of relations/settlements)",
+        "be":  "The two sides reached an amicable settlement."
+    },
+    {
+        "a":  "Access",
+        "am":  "a way in or the right to use",
+        "ae":  "Only officers had access to the armoury.",
+        "b":  "Excess",
+        "bm":  "an amount that is too much",
+        "be":  "An excess of caution slowed the advance."
+    },
+    {
+        "a":  "Assent",
+        "am":  "agreement or approval",
+        "ae":  "The general gave his assent to the plan.",
+        "b":  "Ascent",
+        "bm":  "an upward climb",
+        "be":  "The ascent of the ridge took all night."
+    },
+    {
+        "a":  "Born",
+        "am":  "brought into life",
+        "ae":  "He was born into a family of soldiers.",
+        "b":  "Borne",
+        "bm":  "carried or endured",
+        "be":  "The hardship was borne without complaint."
+    },
+    {
+        "a":  "Canvas",
+        "am":  "strong, coarse cloth",
+        "ae":  "The tents were made of heavy canvas.",
+        "b":  "Canvass",
+        "bm":  "to seek votes or opinions",
+        "be":  "Officers canvassed the men for their views."
+    },
+    {
+        "a":  "Cease",
+        "am":  "to stop",
+        "ae":  "The guns did not cease until midnight.",
+        "b":  "Seize",
+        "bm":  "to grab or take by force",
+        "be":  "The raiders moved to seize the bridge."
+    },
+    {
+        "a":  "Conscience",
+        "am":  "the sense of right and wrong",
+        "ae":  "His conscience would not let him abandon them.",
+        "b":  "Conscious",
+        "bm":  "awake and aware",
+        "be":  "She stayed conscious despite the blow."
+    },
+    {
+        "a":  "Credible",
+        "am":  "believable",
+        "ae":  "The scout gave a credible report.",
+        "b":  "Credulous",
+        "bm":  "too ready to believe; gullible",
+        "be":  "The credulous recruit fell for the rumour."
+    },
+    {
+        "a":  "Deprecate",
+        "am":  "to express strong disapproval of",
+        "ae":  "The council deprecated the officer\u0027s rash order.",
+        "b":  "Depreciate",
+        "bm":  "to fall in value",
+        "be":  "Old equipment tends to depreciate quickly."
+    },
+    {
+        "a":  "Disinterested",
+        "am":  "impartial / unbiased",
+        "ae":  "They asked a disinterested officer to judge.",
+        "b":  "Uninterested",
+        "bm":  "not interested; bored",
+        "be":  "The tired cadets seemed uninterested in the lecture."
+    },
+    {
+        "a":  "Dual",
+        "am":  "double / having two parts",
+        "ae":  "The aircraft had dual controls.",
+        "b":  "Duel",
+        "bm":  "a fight between two people",
+        "be":  "The dispute nearly ended in a duel."
+    },
+    {
+        "a":  "Emigrant",
+        "am":  "one who leaves their own country",
+        "ae":  "The emigrant left home in search of work.",
+        "b":  "Immigrant",
+        "bm":  "one who enters a new country to settle",
+        "be":  "The immigrant soon adapted to the new land."
+    },
+    {
+        "a":  "Faint",
+        "am":  "to lose consciousness / (adj.) dim",
+        "ae":  "The heat made two recruits faint.",
+        "b":  "Feint",
+        "bm":  "a deceptive move to mislead an opponent",
+        "be":  "A feint on the left drew the enemy away."
+    },
+    {
+        "a":  "Formally",
+        "am":  "in a formal manner",
+        "ae":  "The award was formally presented on parade.",
+        "b":  "Formerly",
+        "bm":  "in the past; previously",
+        "be":  "The fort was formerly a colonial outpost."
+    },
+    {
+        "a":  "Human",
+        "am":  "of or relating to people",
+        "ae":  "It was a simple human error.",
+        "b":  "Humane",
+        "bm":  "kind and compassionate",
+        "be":  "They gave the prisoners humane treatment."
+    },
+    {
+        "a":  "Judicial",
+        "am":  "relating to courts and judges",
+        "ae":  "The case went through the judicial system.",
+        "b":  "Judicious",
+        "bm":  "wise; showing good judgement",
+        "be":  "A judicious commander weighs every risk."
+    },
+    {
+        "a":  "Later",
+        "am":  "at a subsequent time",
+        "ae":  "The briefing was moved to later that night.",
+        "b":  "Latter",
+        "bm":  "the second of two just mentioned",
+        "be":  "Of rifle and radio, the latter failed first."
+    },
+    {
+        "a":  "Lightning",
+        "am":  "the electrical flash in a storm",
+        "ae":  "Lightning lit up the ridge for an instant.",
+        "b":  "Lightening",
+        "bm":  "making lighter in weight or colour",
+        "be":  "Lightening the packs helped the march."
+    },
+    {
+        "a":  "Momentary",
+        "am":  "lasting only a moment",
+        "ae":  "There was a momentary pause before the charge.",
+        "b":  "Momentous",
+        "bm":  "of great importance",
+        "be":  "It was a momentous decision for the nation."
+    },
+    {
+        "a":  "Notable",
+        "am":  "worthy of notice; remarkable",
+        "ae":  "The rescue was a notable act of courage.",
+        "b":  "Notorious",
+        "bm":  "famous for something bad",
+        "be":  "The pass was notorious for ambushes."
+    },
+    {
+        "a":  "Official",
+        "am":  "authorised or formal",
+        "ae":  "The official orders arrived at noon.",
+        "b":  "Officious",
+        "bm":  "interfering; bossy over small matters",
+        "be":  "An officious clerk delayed the whole convoy."
+    },
+    {
+        "a":  "Persecute",
+        "am":  "to oppress or harass",
+        "ae":  "The regime continued to persecute dissenters.",
+        "b":  "Prosecute",
+        "bm":  "to take legal action against",
+        "be":  "The army chose to prosecute the deserter."
+    },
+    {
+        "a":  "Prescribe",
+        "am":  "to recommend or lay down (a remedy/rule)",
+        "ae":  "The doctor prescribed rest for the wounded.",
+        "b":  "Proscribe",
+        "bm":  "to forbid or ban",
+        "be":  "The treaty proscribed the use of such weapons."
+    },
+    {
+        "a":  "Venal",
+        "am":  "open to bribery; corrupt",
+        "ae":  "A venal official leaked the plans.",
+        "b":  "Venial",
+        "bm":  "(of a fault) minor and forgivable",
+        "be":  "Arriving late was only a venial offence."
+    },
+    {
+        "a":  "Waive",
+        "am":  "to give up a right or claim",
+        "ae":  "He agreed to waive his claim to the reward.",
+        "b":  "Wave",
+        "bm":  "to move the hand / a moving ridge of water",
+        "be":  "She gave a quick wave before boarding."
+    },
+    {
+        "a":  "Complacent",
+        "am":  "smugly self-satisfied",
+        "ae":  "A complacent army is easily surprised.",
+        "b":  "Complaisant",
+        "bm":  "eager to please; obliging",
+        "be":  "The complaisant host met every request."
+    },
+    {
+        "a":  "Temporal",
+        "am":  "relating to worldly (not spiritual) matters or to time",
+        "ae":  "The general held only temporal authority.",
+        "b":  "Temporary",
+        "bm":  "lasting only a short time",
+        "be":  "The forward camp was a temporary base."
+    }
 ]

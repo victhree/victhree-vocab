@@ -1,65 +1,1408 @@
-[
-  { "kind": "root", "term": "bene-", "meaning": "good/well", "examples": ["benevolent","benefit","benign"], "example": "A benevolent commander wins his soldiers' trust." },
-  { "kind": "root", "term": "mal-", "meaning": "bad/evil", "examples": ["malice","malign","malevolent","malady"], "example": "He bore no malice toward his defeated rivals." },
-  { "kind": "root", "term": "bel-/belli-", "meaning": "war", "examples": ["belligerent","rebel","bellicose"], "example": "The belligerent nation rejected every peace offer." },
-  { "kind": "root", "term": "bio-", "meaning": "life", "examples": ["biology","biography","biopsy"], "example": "Her biography traces a remarkable military life." },
-  { "kind": "root", "term": "chron-", "meaning": "time", "examples": ["chronic","chronology","synchronize"], "example": "The report lists every event in strict chronology." },
-  { "kind": "root", "term": "cred-", "meaning": "believe", "examples": ["credible","credulous","incredible"], "example": "The scout gave a credible account of the enemy's position." },
-  { "kind": "root", "term": "dict-", "meaning": "say/speak", "examples": ["predict","dictate","contradict"], "example": "Analysts predict a long and difficult campaign." },
-  { "kind": "root", "term": "duc-/duct-", "meaning": "lead", "examples": ["conduct","induce","educate"], "example": "Every officer must conduct himself with discipline." },
-  { "kind": "root", "term": "fid-", "meaning": "faith/trust", "examples": ["fidelity","confident","perfidious"], "example": "Soldiers swear an oath of fidelity to the nation." },
-  { "kind": "root", "term": "greg-", "meaning": "flock/group", "examples": ["gregarious","congregate","segregate"], "example": "A gregarious cadet makes friends across the barracks." },
-  { "kind": "root", "term": "loqu-/loc-", "meaning": "speak", "examples": ["eloquent","loquacious","soliloquy"], "example": "Her eloquent address moved the entire assembly." },
-  { "kind": "root", "term": "luc-/lum-", "meaning": "light", "examples": ["lucid","illuminate","translucent"], "example": "He gave a lucid explanation of the battle plan." },
-  { "kind": "root", "term": "magn-", "meaning": "great/large", "examples": ["magnificent","magnanimous","magnitude"], "example": "The magnanimous victor spared the surrendering troops." },
-  { "kind": "root", "term": "mort-", "meaning": "death", "examples": ["mortal","immortal","mortuary"], "example": "War is a stark reminder that we are all mortal." },
-  { "kind": "root", "term": "path-", "meaning": "feeling/disease", "examples": ["sympathy","apathy","pathology"], "example": "The recruits' apathy toward drills worried the sergeant." },
-  { "kind": "root", "term": "phil-", "meaning": "love", "examples": ["philanthropist","bibliophile"], "example": "The philanthropist funded a school for veterans' children." },
-  { "kind": "root", "term": "phon-", "meaning": "sound", "examples": ["phonetics","cacophony","symphony"], "example": "A cacophony of alarms filled the command post." },
-  { "kind": "root", "term": "port-", "meaning": "carry", "examples": ["portable","transport","export"], "example": "The field radio is light and fully portable." },
-  { "kind": "root", "term": "scrib-/script-", "meaning": "write", "examples": ["describe","manuscript","inscription"], "example": "The inscription on the memorial honoured the fallen." },
-  { "kind": "root", "term": "sol-", "meaning": "alone/sun", "examples": ["solitude","solar"], "example": "He sought solitude after the long night march." },
-  { "kind": "root", "term": "spec-/spect-", "meaning": "look/see", "examples": ["inspect","conspicuous","spectator"], "example": "The officer paused to inspect the front rank." },
-  { "kind": "root", "term": "ten-/tain-", "meaning": "hold", "examples": ["tenacious","retain","sustain"], "example": "Her tenacious defence held the position for hours." },
-  { "kind": "root", "term": "vid-/vis-", "meaning": "see", "examples": ["visible","evident","vision"], "example": "The signal flare was visible for miles." },
-  { "kind": "root", "term": "voc-/vok-", "meaning": "call/voice", "examples": ["vocal","provoke","advocate"], "example": "He was a vocal advocate for better training." },
-  { "kind": "root", "term": "ver-", "meaning": "truth", "examples": ["verify","veracity","verdict"], "example": "We must verify the intelligence before we act." },
-  { "kind": "root", "term": "temp-", "meaning": "time", "examples": ["temporary","contemporary","tempo"], "example": "The forward camp was only a temporary base." },
-  { "kind": "prefix", "term": "a-/an-", "meaning": "without/not", "examples": ["apathy","atheist","anonymous"], "example": "The warning letter was completely anonymous." },
-  { "kind": "prefix", "term": "ab-", "meaning": "away from", "examples": ["abduct","abnormal","abstain"], "example": "He chose to abstain from the council vote." },
-  { "kind": "prefix", "term": "ante-", "meaning": "before", "examples": ["antecedent","anterior"], "example": "The failed treaty was an antecedent to the war." },
-  { "kind": "prefix", "term": "anti-", "meaning": "against", "examples": ["antidote","antipathy","antagonist"], "example": "There was deep antipathy between the two commanders." },
-  { "kind": "prefix", "term": "circum-", "meaning": "around", "examples": ["circumvent","circumference"], "example": "The raiders tried to circumvent the blockade." },
-  { "kind": "prefix", "term": "con-/com-", "meaning": "with/together", "examples": ["consensus","compress","collaborate"], "example": "The staff quickly reached a consensus on the plan." },
-  { "kind": "prefix", "term": "de-", "meaning": "down/away", "examples": ["descend","demote","devalue"], "example": "At dawn the troops began to descend the ridge." },
-  { "kind": "prefix", "term": "dis-", "meaning": "not/apart", "examples": ["disagree","disperse","dissent"], "example": "Riot police moved in to disperse the crowd." },
-  { "kind": "prefix", "term": "e-/ex-", "meaning": "out", "examples": ["exclude","emit","extract"], "example": "The damaged engine began to emit black smoke." },
-  { "kind": "prefix", "term": "in-/im-/il-/ir-", "meaning": "not (or into)", "examples": ["invisible","impossible","illegal","irregular"], "example": "In the fading light the sniper was nearly invisible." },
-  { "kind": "prefix", "term": "inter-", "meaning": "between", "examples": ["intervene","international"], "example": "The alliance decided to intervene in the conflict." },
-  { "kind": "prefix", "term": "mis-", "meaning": "wrongly", "examples": ["misjudge","misanthrope","mislead"], "example": "Never misjudge a quiet but capable recruit." },
-  { "kind": "prefix", "term": "mono-", "meaning": "one", "examples": ["monarchy","monologue","monotone"], "example": "The tired briefer spoke in a flat monotone." },
-  { "kind": "prefix", "term": "poly-", "meaning": "many", "examples": ["polyglot","polygon"], "example": "A polyglot officer smoothed the negotiations." },
-  { "kind": "prefix", "term": "pre-", "meaning": "before", "examples": ["predict","precede","premature"], "example": "A short briefing will precede the live-fire drill." },
-  { "kind": "prefix", "term": "pro-", "meaning": "forward/for", "examples": ["proceed","promote","prologue"], "example": "The commander signalled the unit to proceed." },
-  { "kind": "prefix", "term": "re-", "meaning": "again/back", "examples": ["return","refute","reconcile"], "example": "After the truce the old rivals agreed to reconcile." },
-  { "kind": "prefix", "term": "sub-", "meaning": "under", "examples": ["submarine","subdue","subordinate"], "example": "Fresh reinforcements helped subdue the resistance." },
-  { "kind": "prefix", "term": "super-/sur-", "meaning": "above/over", "examples": ["superior","surpass","supervise"], "example": "Their marksmanship was clearly superior." },
-  { "kind": "prefix", "term": "trans-", "meaning": "across", "examples": ["transport","transient","translate"], "example": "The camp was only a transient arrangement." },
-  { "kind": "prefix", "term": "un-", "meaning": "not", "examples": ["unfair","unwilling","unscrupulous"], "example": "The unscrupulous supplier cheated the recruits." },
-  { "kind": "prefix", "term": "bene- (prefix)", "meaning": "good", "examples": ["benefit","benevolent"], "example": "The reforms will benefit every unit on the base." },
-  { "kind": "suffix", "term": "-able/-ible", "meaning": "capable of", "examples": ["tenable","credible","viable"], "example": "The exposed position was no longer tenable." },
-  { "kind": "suffix", "term": "-cide", "meaning": "killing", "examples": ["suicide","regicide","fratricide"], "example": "The failed plot amounted to attempted regicide." },
-  { "kind": "suffix", "term": "-cracy", "meaning": "rule/government", "examples": ["democracy","bureaucracy"], "example": "Endless bureaucracy slowed the relief effort." },
-  { "kind": "suffix", "term": "-ful", "meaning": "full of", "examples": ["fearful","doubtful","zealous"], "example": "The recruits were fearful of the rope climb." },
-  { "kind": "suffix", "term": "-fy/-ify", "meaning": "to make", "examples": ["clarify","magnify","pacify"], "example": "Let me clarify the orders before we move." },
-  { "kind": "suffix", "term": "-ist", "meaning": "one who", "examples": ["atheist","philanthropist"], "example": "The philanthropist paid for the field hospital." },
-  { "kind": "suffix", "term": "-logy", "meaning": "study of", "examples": ["biology","anthropology"], "example": "He studied biology before joining the medical corps." },
-  { "kind": "suffix", "term": "-ous", "meaning": "full of", "examples": ["courageous","virulent","copious"], "example": "A courageous soldier led the final charge." },
-  { "kind": "suffix", "term": "-phobia", "meaning": "fear of", "examples": ["claustrophobia","xenophobia"], "example": "His claustrophobia made the supply tunnel unbearable." },
-  { "kind": "suffix", "term": "-phile", "meaning": "lover of", "examples": ["bibliophile","anglophile"], "example": "The old bibliophile owned a library of war histories." },
-  { "kind": "suffix", "term": "-arch/-cracy", "meaning": "rule", "examples": ["oligarchy","monarchy"], "example": "The island was ruled for centuries as a monarchy." },
-  { "kind": "suffix", "term": "-ity/-ty", "meaning": "state/quality", "examples": ["integrity","brevity","tenacity"], "example": "The officer was respected for his integrity." },
-  { "kind": "suffix", "term": "-ize/-ise", "meaning": "to make/become", "examples": ["jeopardize","ostracize"], "example": "One careless signal could jeopardize the whole mission." },
-  { "kind": "suffix", "term": "-less", "meaning": "without", "examples": ["reckless","ruthless","hapless"], "example": "His reckless driving endangered the entire convoy." },
-  { "kind": "suffix", "term": "-ment", "meaning": "result/action", "examples": ["predicament","admonishment"], "example": "The cut-off platoon found itself in a real predicament." }
+﻿[
+    {
+        "kind":  "root",
+        "term":  "bene-",
+        "meaning":  "good/well",
+        "examples":  [
+                         "benevolent",
+                         "benefit",
+                         "benign"
+                     ],
+        "example":  "A benevolent commander wins his soldiers\u0027 trust."
+    },
+    {
+        "kind":  "root",
+        "term":  "mal-",
+        "meaning":  "bad/evil",
+        "examples":  [
+                         "malice",
+                         "malign",
+                         "malevolent",
+                         "malady"
+                     ],
+        "example":  "He bore no malice toward his defeated rivals."
+    },
+    {
+        "kind":  "root",
+        "term":  "bel-/belli-",
+        "meaning":  "war",
+        "examples":  [
+                         "belligerent",
+                         "rebel",
+                         "bellicose"
+                     ],
+        "example":  "The belligerent nation rejected every peace offer."
+    },
+    {
+        "kind":  "root",
+        "term":  "bio-",
+        "meaning":  "life",
+        "examples":  [
+                         "biology",
+                         "biography",
+                         "biopsy"
+                     ],
+        "example":  "Her biography traces a remarkable military life."
+    },
+    {
+        "kind":  "root",
+        "term":  "chron-",
+        "meaning":  "time",
+        "examples":  [
+                         "chronic",
+                         "chronology",
+                         "synchronize"
+                     ],
+        "example":  "The report lists every event in strict chronology."
+    },
+    {
+        "kind":  "root",
+        "term":  "cred-",
+        "meaning":  "believe",
+        "examples":  [
+                         "credible",
+                         "credulous",
+                         "incredible"
+                     ],
+        "example":  "The scout gave a credible account of the enemy\u0027s position."
+    },
+    {
+        "kind":  "root",
+        "term":  "dict-",
+        "meaning":  "say/speak",
+        "examples":  [
+                         "predict",
+                         "dictate",
+                         "contradict"
+                     ],
+        "example":  "Analysts predict a long and difficult campaign."
+    },
+    {
+        "kind":  "root",
+        "term":  "duc-/duct-",
+        "meaning":  "lead",
+        "examples":  [
+                         "conduct",
+                         "induce",
+                         "educate"
+                     ],
+        "example":  "Every officer must conduct himself with discipline."
+    },
+    {
+        "kind":  "root",
+        "term":  "fid-",
+        "meaning":  "faith/trust",
+        "examples":  [
+                         "fidelity",
+                         "confident",
+                         "perfidious"
+                     ],
+        "example":  "Soldiers swear an oath of fidelity to the nation."
+    },
+    {
+        "kind":  "root",
+        "term":  "greg-",
+        "meaning":  "flock/group",
+        "examples":  [
+                         "gregarious",
+                         "congregate",
+                         "segregate"
+                     ],
+        "example":  "A gregarious cadet makes friends across the barracks."
+    },
+    {
+        "kind":  "root",
+        "term":  "loqu-/loc-",
+        "meaning":  "speak",
+        "examples":  [
+                         "eloquent",
+                         "loquacious",
+                         "soliloquy"
+                     ],
+        "example":  "Her eloquent address moved the entire assembly."
+    },
+    {
+        "kind":  "root",
+        "term":  "luc-/lum-",
+        "meaning":  "light",
+        "examples":  [
+                         "lucid",
+                         "illuminate",
+                         "translucent"
+                     ],
+        "example":  "He gave a lucid explanation of the battle plan."
+    },
+    {
+        "kind":  "root",
+        "term":  "magn-",
+        "meaning":  "great/large",
+        "examples":  [
+                         "magnificent",
+                         "magnanimous",
+                         "magnitude"
+                     ],
+        "example":  "The magnanimous victor spared the surrendering troops."
+    },
+    {
+        "kind":  "root",
+        "term":  "mort-",
+        "meaning":  "death",
+        "examples":  [
+                         "mortal",
+                         "immortal",
+                         "mortuary"
+                     ],
+        "example":  "War is a stark reminder that we are all mortal."
+    },
+    {
+        "kind":  "root",
+        "term":  "path-",
+        "meaning":  "feeling/disease",
+        "examples":  [
+                         "sympathy",
+                         "apathy",
+                         "pathology"
+                     ],
+        "example":  "The recruits\u0027 apathy toward drills worried the sergeant."
+    },
+    {
+        "kind":  "root",
+        "term":  "phil-",
+        "meaning":  "love",
+        "examples":  [
+                         "philanthropist",
+                         "bibliophile"
+                     ],
+        "example":  "The philanthropist funded a school for veterans\u0027 children."
+    },
+    {
+        "kind":  "root",
+        "term":  "phon-",
+        "meaning":  "sound",
+        "examples":  [
+                         "phonetics",
+                         "cacophony",
+                         "symphony"
+                     ],
+        "example":  "A cacophony of alarms filled the command post."
+    },
+    {
+        "kind":  "root",
+        "term":  "port-",
+        "meaning":  "carry",
+        "examples":  [
+                         "portable",
+                         "transport",
+                         "export"
+                     ],
+        "example":  "The field radio is light and fully portable."
+    },
+    {
+        "kind":  "root",
+        "term":  "scrib-/script-",
+        "meaning":  "write",
+        "examples":  [
+                         "describe",
+                         "manuscript",
+                         "inscription"
+                     ],
+        "example":  "The inscription on the memorial honoured the fallen."
+    },
+    {
+        "kind":  "root",
+        "term":  "sol-",
+        "meaning":  "alone/sun",
+        "examples":  [
+                         "solitude",
+                         "solar"
+                     ],
+        "example":  "He sought solitude after the long night march."
+    },
+    {
+        "kind":  "root",
+        "term":  "spec-/spect-",
+        "meaning":  "look/see",
+        "examples":  [
+                         "inspect",
+                         "conspicuous",
+                         "spectator"
+                     ],
+        "example":  "The officer paused to inspect the front rank."
+    },
+    {
+        "kind":  "root",
+        "term":  "ten-/tain-",
+        "meaning":  "hold",
+        "examples":  [
+                         "tenacious",
+                         "retain",
+                         "sustain"
+                     ],
+        "example":  "Her tenacious defence held the position for hours."
+    },
+    {
+        "kind":  "root",
+        "term":  "vid-/vis-",
+        "meaning":  "see",
+        "examples":  [
+                         "visible",
+                         "evident",
+                         "vision"
+                     ],
+        "example":  "The signal flare was visible for miles."
+    },
+    {
+        "kind":  "root",
+        "term":  "voc-/vok-",
+        "meaning":  "call/voice",
+        "examples":  [
+                         "vocal",
+                         "provoke",
+                         "advocate"
+                     ],
+        "example":  "He was a vocal advocate for better training."
+    },
+    {
+        "kind":  "root",
+        "term":  "ver-",
+        "meaning":  "truth",
+        "examples":  [
+                         "verify",
+                         "veracity",
+                         "verdict"
+                     ],
+        "example":  "We must verify the intelligence before we act."
+    },
+    {
+        "kind":  "root",
+        "term":  "temp-",
+        "meaning":  "time",
+        "examples":  [
+                         "temporary",
+                         "contemporary",
+                         "tempo"
+                     ],
+        "example":  "The forward camp was only a temporary base."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "a-/an-",
+        "meaning":  "without/not",
+        "examples":  [
+                         "apathy",
+                         "atheist",
+                         "anonymous"
+                     ],
+        "example":  "The warning letter was completely anonymous."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "ab-",
+        "meaning":  "away from",
+        "examples":  [
+                         "abduct",
+                         "abnormal",
+                         "abstain"
+                     ],
+        "example":  "He chose to abstain from the council vote."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "ante-",
+        "meaning":  "before",
+        "examples":  [
+                         "antecedent",
+                         "anterior"
+                     ],
+        "example":  "The failed treaty was an antecedent to the war."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "anti-",
+        "meaning":  "against",
+        "examples":  [
+                         "antidote",
+                         "antipathy",
+                         "antagonist"
+                     ],
+        "example":  "There was deep antipathy between the two commanders."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "circum-",
+        "meaning":  "around",
+        "examples":  [
+                         "circumvent",
+                         "circumference"
+                     ],
+        "example":  "The raiders tried to circumvent the blockade."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "con-/com-",
+        "meaning":  "with/together",
+        "examples":  [
+                         "consensus",
+                         "compress",
+                         "collaborate"
+                     ],
+        "example":  "The staff quickly reached a consensus on the plan."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "de-",
+        "meaning":  "down/away",
+        "examples":  [
+                         "descend",
+                         "demote",
+                         "devalue"
+                     ],
+        "example":  "At dawn the troops began to descend the ridge."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "dis-",
+        "meaning":  "not/apart",
+        "examples":  [
+                         "disagree",
+                         "disperse",
+                         "dissent"
+                     ],
+        "example":  "Riot police moved in to disperse the crowd."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "e-/ex-",
+        "meaning":  "out",
+        "examples":  [
+                         "exclude",
+                         "emit",
+                         "extract"
+                     ],
+        "example":  "The damaged engine began to emit black smoke."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "in-/im-/il-/ir-",
+        "meaning":  "not (or into)",
+        "examples":  [
+                         "invisible",
+                         "impossible",
+                         "illegal",
+                         "irregular"
+                     ],
+        "example":  "In the fading light the sniper was nearly invisible."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "inter-",
+        "meaning":  "between",
+        "examples":  [
+                         "intervene",
+                         "international"
+                     ],
+        "example":  "The alliance decided to intervene in the conflict."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "mis-",
+        "meaning":  "wrongly",
+        "examples":  [
+                         "misjudge",
+                         "misanthrope",
+                         "mislead"
+                     ],
+        "example":  "Never misjudge a quiet but capable recruit."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "mono-",
+        "meaning":  "one",
+        "examples":  [
+                         "monarchy",
+                         "monologue",
+                         "monotone"
+                     ],
+        "example":  "The tired briefer spoke in a flat monotone."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "poly-",
+        "meaning":  "many",
+        "examples":  [
+                         "polyglot",
+                         "polygon"
+                     ],
+        "example":  "A polyglot officer smoothed the negotiations."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "pre-",
+        "meaning":  "before",
+        "examples":  [
+                         "predict",
+                         "precede",
+                         "premature"
+                     ],
+        "example":  "A short briefing will precede the live-fire drill."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "pro-",
+        "meaning":  "forward/for",
+        "examples":  [
+                         "proceed",
+                         "promote",
+                         "prologue"
+                     ],
+        "example":  "The commander signalled the unit to proceed."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "re-",
+        "meaning":  "again/back",
+        "examples":  [
+                         "return",
+                         "refute",
+                         "reconcile"
+                     ],
+        "example":  "After the truce the old rivals agreed to reconcile."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "sub-",
+        "meaning":  "under",
+        "examples":  [
+                         "submarine",
+                         "subdue",
+                         "subordinate"
+                     ],
+        "example":  "Fresh reinforcements helped subdue the resistance."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "super-/sur-",
+        "meaning":  "above/over",
+        "examples":  [
+                         "superior",
+                         "surpass",
+                         "supervise"
+                     ],
+        "example":  "Their marksmanship was clearly superior."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "trans-",
+        "meaning":  "across",
+        "examples":  [
+                         "transport",
+                         "transient",
+                         "translate"
+                     ],
+        "example":  "The camp was only a transient arrangement."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "un-",
+        "meaning":  "not",
+        "examples":  [
+                         "unfair",
+                         "unwilling",
+                         "unscrupulous"
+                     ],
+        "example":  "The unscrupulous supplier cheated the recruits."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "bene- (prefix)",
+        "meaning":  "good",
+        "examples":  [
+                         "benefit",
+                         "benevolent"
+                     ],
+        "example":  "The reforms will benefit every unit on the base."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-able/-ible",
+        "meaning":  "capable of",
+        "examples":  [
+                         "tenable",
+                         "credible",
+                         "viable"
+                     ],
+        "example":  "The exposed position was no longer tenable."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-cide",
+        "meaning":  "killing",
+        "examples":  [
+                         "suicide",
+                         "regicide",
+                         "fratricide"
+                     ],
+        "example":  "The failed plot amounted to attempted regicide."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-cracy",
+        "meaning":  "rule/government",
+        "examples":  [
+                         "democracy",
+                         "bureaucracy"
+                     ],
+        "example":  "Endless bureaucracy slowed the relief effort."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-ful",
+        "meaning":  "full of",
+        "examples":  [
+                         "fearful",
+                         "doubtful",
+                         "zealous"
+                     ],
+        "example":  "The recruits were fearful of the rope climb."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-fy/-ify",
+        "meaning":  "to make",
+        "examples":  [
+                         "clarify",
+                         "magnify",
+                         "pacify"
+                     ],
+        "example":  "Let me clarify the orders before we move."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-ist",
+        "meaning":  "one who",
+        "examples":  [
+                         "atheist",
+                         "philanthropist"
+                     ],
+        "example":  "The philanthropist paid for the field hospital."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-logy",
+        "meaning":  "study of",
+        "examples":  [
+                         "biology",
+                         "anthropology"
+                     ],
+        "example":  "He studied biology before joining the medical corps."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-ous",
+        "meaning":  "full of",
+        "examples":  [
+                         "courageous",
+                         "virulent",
+                         "copious"
+                     ],
+        "example":  "A courageous soldier led the final charge."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-phobia",
+        "meaning":  "fear of",
+        "examples":  [
+                         "claustrophobia",
+                         "xenophobia"
+                     ],
+        "example":  "His claustrophobia made the supply tunnel unbearable."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-phile",
+        "meaning":  "lover of",
+        "examples":  [
+                         "bibliophile",
+                         "anglophile"
+                     ],
+        "example":  "The old bibliophile owned a library of war histories."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-arch/-cracy",
+        "meaning":  "rule",
+        "examples":  [
+                         "oligarchy",
+                         "monarchy"
+                     ],
+        "example":  "The island was ruled for centuries as a monarchy."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-ity/-ty",
+        "meaning":  "state/quality",
+        "examples":  [
+                         "integrity",
+                         "brevity",
+                         "tenacity"
+                     ],
+        "example":  "The officer was respected for his integrity."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-ize/-ise",
+        "meaning":  "to make/become",
+        "examples":  [
+                         "jeopardize",
+                         "ostracize"
+                     ],
+        "example":  "One careless signal could jeopardize the whole mission."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-less",
+        "meaning":  "without",
+        "examples":  [
+                         "reckless",
+                         "ruthless",
+                         "hapless"
+                     ],
+        "example":  "His reckless driving endangered the entire convoy."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-ment",
+        "meaning":  "result/action",
+        "examples":  [
+                         "predicament",
+                         "admonishment"
+                     ],
+        "example":  "The cut-off platoon found itself in a real predicament."
+    },
+    {
+        "kind":  "root",
+        "term":  "aqua-",
+        "meaning":  "water",
+        "examples":  [
+                         "aquarium",
+                         "aquatic",
+                         "aqueduct"
+                     ],
+        "example":  "The old aqueduct still carried water to the fort."
+    },
+    {
+        "kind":  "root",
+        "term":  "aud-",
+        "meaning":  "hear",
+        "examples":  [
+                         "audible",
+                         "audience",
+                         "auditorium"
+                     ],
+        "example":  "His command was barely audible over the gunfire."
+    },
+    {
+        "kind":  "root",
+        "term":  "anthrop-",
+        "meaning":  "human/mankind",
+        "examples":  [
+                         "anthropology",
+                         "philanthropy",
+                         "misanthrope"
+                     ],
+        "example":  "She studied the anthropology of frontier tribes."
+    },
+    {
+        "kind":  "root",
+        "term":  "astro-/aster-",
+        "meaning":  "star",
+        "examples":  [
+                         "astronomy",
+                         "asteroid",
+                         "disaster"
+                     ],
+        "example":  "Astronomy once guided sailors across the sea."
+    },
+    {
+        "kind":  "root",
+        "term":  "carn-",
+        "meaning":  "flesh/meat",
+        "examples":  [
+                         "carnivore",
+                         "carnage",
+                         "incarnate"
+                     ],
+        "example":  "The battlefield was a scene of terrible carnage."
+    },
+    {
+        "kind":  "root",
+        "term":  "ced-/cess-",
+        "meaning":  "go/yield",
+        "examples":  [
+                         "recede",
+                         "concede",
+                         "access"
+                     ],
+        "example":  "The floodwaters slowly began to recede."
+    },
+    {
+        "kind":  "root",
+        "term":  "clud-/clus-",
+        "meaning":  "shut/close",
+        "examples":  [
+                         "include",
+                         "exclude",
+                         "seclusion"
+                     ],
+        "example":  "The plan did not exclude a night assault."
+    },
+    {
+        "kind":  "root",
+        "term":  "cord-/card-",
+        "meaning":  "heart",
+        "examples":  [
+                         "cordial",
+                         "concord",
+                         "cardiac"
+                     ],
+        "example":  "The two sides reached a cordial understanding."
+    },
+    {
+        "kind":  "root",
+        "term":  "corp-",
+        "meaning":  "body",
+        "examples":  [
+                         "corps",
+                         "corporation",
+                         "incorporate"
+                     ],
+        "example":  "The medical corps treated the wounded."
+    },
+    {
+        "kind":  "root",
+        "term":  "dem-",
+        "meaning":  "people",
+        "examples":  [
+                         "democracy",
+                         "demographic",
+                         "epidemic"
+                     ],
+        "example":  "An epidemic swept through the crowded camp."
+    },
+    {
+        "kind":  "root",
+        "term":  "equ-",
+        "meaning":  "equal",
+        "examples":  [
+                         "equal",
+                         "equity",
+                         "equanimity"
+                     ],
+        "example":  "She faced the danger with remarkable equanimity."
+    },
+    {
+        "kind":  "root",
+        "term":  "fract-/frag-",
+        "meaning":  "break",
+        "examples":  [
+                         "fracture",
+                         "fragment",
+                         "fragile"
+                     ],
+        "example":  "The blast left only fragments of the wall."
+    },
+    {
+        "kind":  "root",
+        "term":  "gen-",
+        "meaning":  "birth/produce",
+        "examples":  [
+                         "generate",
+                         "genesis",
+                         "congenital"
+                     ],
+        "example":  "The reforms will generate new opportunities."
+    },
+    {
+        "kind":  "root",
+        "term":  "geo-",
+        "meaning":  "earth",
+        "examples":  [
+                         "geography",
+                         "geology",
+                         "geometry"
+                     ],
+        "example":  "Knowledge of geography is vital for any officer."
+    },
+    {
+        "kind":  "root",
+        "term":  "grad-/gress-",
+        "meaning":  "step/go",
+        "examples":  [
+                         "gradual",
+                         "progress",
+                         "digress"
+                     ],
+        "example":  "The advance up the slope was slow and gradual."
+    },
+    {
+        "kind":  "root",
+        "term":  "graph-/gram-",
+        "meaning":  "write/draw",
+        "examples":  [
+                         "autograph",
+                         "telegram",
+                         "biography"
+                     ],
+        "example":  "The telegram brought urgent news from the front."
+    },
+    {
+        "kind":  "root",
+        "term":  "ject-",
+        "meaning":  "throw",
+        "examples":  [
+                         "reject",
+                         "inject",
+                         "eject"
+                     ],
+        "example":  "The panel chose to reject the flawed proposal."
+    },
+    {
+        "kind":  "root",
+        "term":  "jud-/jur-",
+        "meaning":  "law/judge",
+        "examples":  [
+                         "judge",
+                         "justice",
+                         "perjury"
+                     ],
+        "example":  "He was charged with perjury for lying under oath."
+    },
+    {
+        "kind":  "root",
+        "term":  "lev-",
+        "meaning":  "raise/light",
+        "examples":  [
+                         "elevate",
+                         "alleviate",
+                         "levity"
+                     ],
+        "example":  "A short rest will alleviate the soldiers\u0027 fatigue."
+    },
+    {
+        "kind":  "root",
+        "term":  "liber-",
+        "meaning":  "free",
+        "examples":  [
+                         "liberty",
+                         "liberate",
+                         "liberal"
+                     ],
+        "example":  "The troops moved to liberate the occupied town."
+    },
+    {
+        "kind":  "root",
+        "term":  "man-/manu-",
+        "meaning":  "hand",
+        "examples":  [
+                         "manual",
+                         "manuscript",
+                         "manufacture"
+                     ],
+        "example":  "He read the training manual twice before the drill."
+    },
+    {
+        "kind":  "root",
+        "term":  "mit-/miss-",
+        "meaning":  "send",
+        "examples":  [
+                         "transmit",
+                         "submit",
+                         "dismiss"
+                     ],
+        "example":  "The signaller struggled to transmit the message."
+    },
+    {
+        "kind":  "root",
+        "term":  "nov-",
+        "meaning":  "new",
+        "examples":  [
+                         "novel",
+                         "novice",
+                         "renovate"
+                     ],
+        "example":  "The novice soldier learned the drill quickly."
+    },
+    {
+        "kind":  "root",
+        "term":  "pel-/puls-",
+        "meaning":  "drive/push",
+        "examples":  [
+                         "compel",
+                         "expel",
+                         "impulse"
+                     ],
+        "example":  "Hunger can compel a besieged army to surrender."
+    },
+    {
+        "kind":  "root",
+        "term":  "pend-/pens-",
+        "meaning":  "hang/weigh",
+        "examples":  [
+                         "suspend",
+                         "pension",
+                         "pensive"
+                     ],
+        "example":  "The verdict was suspended pending a full inquiry."
+    },
+    {
+        "kind":  "root",
+        "term":  "pon-/pos-",
+        "meaning":  "place/put",
+        "examples":  [
+                         "postpone",
+                         "deposit",
+                         "component"
+                     ],
+        "example":  "Bad weather forced them to postpone the assault."
+    },
+    {
+        "kind":  "root",
+        "term":  "reg-/rect-",
+        "meaning":  "rule/straight",
+        "examples":  [
+                         "regulate",
+                         "rectify",
+                         "direct"
+                     ],
+        "example":  "Strict rules regulate the use of live ammunition."
+    },
+    {
+        "kind":  "root",
+        "term":  "rupt-",
+        "meaning":  "break",
+        "examples":  [
+                         "erupt",
+                         "disrupt",
+                         "corrupt"
+                     ],
+        "example":  "Sabotage threatened to disrupt the supply line."
+    },
+    {
+        "kind":  "root",
+        "term":  "sci-",
+        "meaning":  "know",
+        "examples":  [
+                         "science",
+                         "conscious",
+                         "omniscient"
+                     ],
+        "example":  "He stayed conscious despite the wound."
+    },
+    {
+        "kind":  "root",
+        "term":  "sens-/sent-",
+        "meaning":  "feel",
+        "examples":  [
+                         "sensation",
+                         "sentiment",
+                         "consent"
+                     ],
+        "example":  "A sensation of dread spread through the ranks."
+    },
+    {
+        "kind":  "root",
+        "term":  "sequ-",
+        "meaning":  "follow",
+        "examples":  [
+                         "sequence",
+                         "consequence",
+                         "sequel"
+                     ],
+        "example":  "Every action in war has a consequence."
+    },
+    {
+        "kind":  "root",
+        "term":  "stru-/struct-",
+        "meaning":  "build",
+        "examples":  [
+                         "construct",
+                         "structure",
+                         "instruct"
+                     ],
+        "example":  "Engineers rushed to construct a pontoon bridge."
+    },
+    {
+        "kind":  "root",
+        "term":  "tract-",
+        "meaning":  "pull/drag",
+        "examples":  [
+                         "attract",
+                         "extract",
+                         "protract"
+                     ],
+        "example":  "The negotiators tried not to protract the talks."
+    },
+    {
+        "kind":  "root",
+        "term":  "ven-/vent-",
+        "meaning":  "come",
+        "examples":  [
+                         "convene",
+                         "prevent",
+                         "intervene"
+                     ],
+        "example":  "The war council will convene at first light."
+    },
+    {
+        "kind":  "root",
+        "term":  "vert-/vers-",
+        "meaning":  "turn",
+        "examples":  [
+                         "convert",
+                         "reverse",
+                         "divert"
+                     ],
+        "example":  "They tried to divert the enemy\u0027s attention."
+    },
+    {
+        "kind":  "root",
+        "term":  "vor-",
+        "meaning":  "eat/devour",
+        "examples":  [
+                         "carnivore",
+                         "voracious",
+                         "devour"
+                     ],
+        "example":  "He had a voracious appetite for tactics manuals."
+    },
+    {
+        "kind":  "root",
+        "term":  "vit-/viv-",
+        "meaning":  "life/live",
+        "examples":  [
+                         "vital",
+                         "revive",
+                         "survive"
+                     ],
+        "example":  "Clean water is vital on a long march."
+    },
+    {
+        "kind":  "root",
+        "term":  "fin-",
+        "meaning":  "end/limit",
+        "examples":  [
+                         "final",
+                         "infinite",
+                         "definite"
+                     ],
+        "example":  "The final assault began at dawn."
+    },
+    {
+        "kind":  "root",
+        "term":  "flu-",
+        "meaning":  "flow",
+        "examples":  [
+                         "fluent",
+                         "influx",
+                         "fluctuate"
+                     ],
+        "example":  "She was fluent in three languages."
+    },
+    {
+        "kind":  "root",
+        "term":  "form-",
+        "meaning":  "shape",
+        "examples":  [
+                         "reform",
+                         "conform",
+                         "uniform"
+                     ],
+        "example":  "Recruits must conform to strict discipline."
+    },
+    {
+        "kind":  "root",
+        "term":  "nym-",
+        "meaning":  "name",
+        "examples":  [
+                         "synonym",
+                         "antonym",
+                         "anonymous"
+                     ],
+        "example":  "The warning came from an anonymous source."
+    },
+    {
+        "kind":  "root",
+        "term":  "ped-/pod-",
+        "meaning":  "foot",
+        "examples":  [
+                         "pedestrian",
+                         "pedal",
+                         "tripod"
+                     ],
+        "example":  "A pedestrian bridge spanned the narrow ravine."
+    },
+    {
+        "kind":  "root",
+        "term":  "psych-",
+        "meaning":  "mind/soul",
+        "examples":  [
+                         "psychology",
+                         "psyche",
+                         "psychic"
+                     ],
+        "example":  "Combat tests a soldier\u0027s psychology as much as strength."
+    },
+    {
+        "kind":  "root",
+        "term":  "cap-/capt-",
+        "meaning":  "take/seize",
+        "examples":  [
+                         "capture",
+                         "captive",
+                         "captivate"
+                     ],
+        "example":  "The unit moved to capture the ridge before dusk."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "auto-",
+        "meaning":  "self",
+        "examples":  [
+                         "automatic",
+                         "autonomy",
+                         "autobiography"
+                     ],
+        "example":  "The rifle had an automatic reload."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "omni-",
+        "meaning":  "all",
+        "examples":  [
+                         "omnipotent",
+                         "omniscient",
+                         "omnipresent"
+                     ],
+        "example":  "No commander is truly omnipotent."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "semi-",
+        "meaning":  "half",
+        "examples":  [
+                         "semicircle",
+                         "semifinal",
+                         "semiconscious"
+                     ],
+        "example":  "The guards formed a loose semicircle."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "multi-",
+        "meaning":  "many",
+        "examples":  [
+                         "multitude",
+                         "multiple",
+                         "multinational"
+                     ],
+        "example":  "A multitude of tasks awaited the new recruits."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "tele-",
+        "meaning":  "far/distant",
+        "examples":  [
+                         "telephone",
+                         "telescope",
+                         "telegraph"
+                     ],
+        "example":  "He scanned the ridge through a telescope."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "syn-/sym-",
+        "meaning":  "together/with",
+        "examples":  [
+                         "synthesis",
+                         "sympathy",
+                         "symphony"
+                     ],
+        "example":  "The plan required a synthesis of many reports."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "peri-",
+        "meaning":  "around",
+        "examples":  [
+                         "perimeter",
+                         "periphery",
+                         "periscope"
+                     ],
+        "example":  "Sentries patrolled the camp\u0027s perimeter."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "hyper-",
+        "meaning":  "over/excessive",
+        "examples":  [
+                         "hyperactive",
+                         "hyperbole",
+                         "hypersensitive"
+                     ],
+        "example":  "His report was full of hyperbole."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "hypo-",
+        "meaning":  "under/below",
+        "examples":  [
+                         "hypothermia",
+                         "hypothesis",
+                         "hypodermic"
+                     ],
+        "example":  "The icy water brought on hypothermia."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "bi-",
+        "meaning":  "two",
+        "examples":  [
+                         "bicycle",
+                         "bilateral",
+                         "bilingual"
+                     ],
+        "example":  "The two states signed a bilateral pact."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "tri-",
+        "meaning":  "three",
+        "examples":  [
+                         "triangle",
+                         "tripod",
+                         "trilogy"
+                     ],
+        "example":  "The camera rested on a sturdy tripod."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "eu-",
+        "meaning":  "good/well",
+        "examples":  [
+                         "euphoria",
+                         "eulogy",
+                         "euphemism"
+                     ],
+        "example":  "Victory brought a wave of euphoria."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "mega-",
+        "meaning":  "great/large",
+        "examples":  [
+                         "megaphone",
+                         "megalomania",
+                         "megalith"
+                     ],
+        "example":  "He barked orders through a megaphone."
+    },
+    {
+        "kind":  "prefix",
+        "term":  "retro-",
+        "meaning":  "backward",
+        "examples":  [
+                         "retrospect",
+                         "retrograde",
+                         "retroactive"
+                     ],
+        "example":  "In retrospect, the retreat was the wiser choice."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-ism",
+        "meaning":  "doctrine/belief",
+        "examples":  [
+                         "patriotism",
+                         "heroism",
+                         "capitalism"
+                     ],
+        "example":  "Their patriotism never wavered under fire."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-tude",
+        "meaning":  "state/quality",
+        "examples":  [
+                         "fortitude",
+                         "solitude",
+                         "magnitude"
+                     ],
+        "example":  "She bore the ordeal with great fortitude."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-escent",
+        "meaning":  "becoming/in the process of",
+        "examples":  [
+                         "adolescent",
+                         "convalescent",
+                         "obsolescent"
+                     ],
+        "example":  "The convalescent troops slowly regained strength."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-ee",
+        "meaning":  "recipient / one who",
+        "examples":  [
+                         "trainee",
+                         "employee",
+                         "nominee"
+                     ],
+        "example":  "Each trainee finished the obstacle course."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-mony",
+        "meaning":  "state/result",
+        "examples":  [
+                         "testimony",
+                         "matrimony",
+                         "acrimony"
+                     ],
+        "example":  "His testimony convinced the whole panel."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-ish",
+        "meaning":  "somewhat/like",
+        "examples":  [
+                         "foolish",
+                         "childish",
+                         "sluggish"
+                     ],
+        "example":  "It was a foolish risk to take at night."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-ic",
+        "meaning":  "relating to",
+        "examples":  [
+                         "heroic",
+                         "strategic",
+                         "poetic"
+                     ],
+        "example":  "The rescue was a truly heroic effort."
+    },
+    {
+        "kind":  "suffix",
+        "term":  "-ate",
+        "meaning":  "to make/cause",
+        "examples":  [
+                         "activate",
+                         "alienate",
+                         "liberate"
+                     ],
+        "example":  "A single order can activate the reserve units."
+    }
 ]
