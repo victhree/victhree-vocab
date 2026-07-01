@@ -54,7 +54,8 @@ img{max-width:100%}
 .cta-social a{color:var(--gold-2);display:inline-flex;line-height:0;transition:color .12s,transform .12s}
 .cta-social a:hover{color:#fff;transform:translateY(-2px)}
 @media(max-width:560px){.cta-social{width:100%;justify-content:center}}
-.foot-social{display:flex;justify-content:center;align-items:center;gap:24px;margin:26px 0 6px}
+.join-label{text-align:center;font-weight:800;color:var(--navy);font-size:16px;letter-spacing:.3px;margin:26px 0 0}
+.foot-social{display:flex;justify-content:center;align-items:center;gap:24px;margin:10px 0 6px}
 .foot-social a{color:var(--navy);display:inline-flex;line-height:0;text-decoration:none;transition:color .12s,transform .12s}
 .foot-social a:hover{color:var(--gold);transform:translateY(-2px)}
 .vbanner .bimg{display:block;width:100%;max-width:860px;height:auto;margin:0 auto}
