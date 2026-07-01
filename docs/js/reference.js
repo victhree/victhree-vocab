@@ -6,12 +6,16 @@
   let tab=params.get('tab'); if(!['roots','clusters','confusables'].includes(tab)) tab='roots';
 
   async function j(n){ const r=await fetch(BASE+'data/'+n,{cache:'no-cache'}); return r.json(); }
-  let roots, clusters, conf;
-  try{ [roots,clusters,conf]=await Promise.all([j('roots.json'),j('clusters.json'),j('confusables.json')]); }
+  let roots, clusters, conf, words;
+  try{ [roots,clusters,conf,words]=await Promise.all([j('roots.json'),j('clusters.json'),j('confusables.json'),VV.loadWords()]); }
   catch(e){ $('#list').innerHTML='<div class="empty">Could not load toolkit data.</div>'; return; }
 
   const e=VV.esc;
   let rootKind='all', q='';
+
+  // map cluster words -> word-bank records (so cluster words open their card)
+  const byWord={};
+  words.forEach(w=>{ const k=(w.word||'').toLowerCase().trim(); if(k && !byWord[k]) byWord[k]=w.id; });
 
   const INTRO={
     roots:'One root unlocks a whole family of words — learn the root, decode words you’ve never seen.',
@@ -42,10 +46,36 @@
     $('#list').innerHTML=items.map(c=>
       '<div class="wcard">'+
         '<h3 class="dword">'+e(c.group)+'</h3>'+
-        '<p class="dline dclust">'+c.words.map(w=>'<span class="wchip">'+e(w)+'</span>').join('')+'</p>'+
+        '<p class="dline dclust">'+c.words.map(w=>{
+          const id=byWord[(w||'').toLowerCase().trim()];
+          return id ? '<button class="wchip link" data-wid="'+id+'">'+e(w)+'</button>'
+                    : '<span class="wchip">'+e(w)+'</span>';
+        }).join('')+'</p>'+
       '</div>'
     ).join('');
+    $('#list').querySelectorAll('.wchip.link').forEach(b=>b.addEventListener('click',()=>openModal(b.dataset.wid)));
   }
+
+  // ---- word-card popup (opened from a cluster word) ----
+  function openModal(id){
+    const w=VV.wordById(id); if(!w) return;
+    $('#modal-card').innerHTML=
+      '<div class="dtop"><div></div><div class="dtools">'+
+        '<button class="star'+(VV.isBookmarked(w.id)?' on':'')+'" title="Bookmark">★</button>'+
+        VV.dlButton()+
+        '<button class="iconbtn" id="mclose" title="Close" aria-label="Close">✕</button>'+
+      '</div></div>'+VV.detailHTML(w);
+    const card=$('#modal-card');
+    const star=card.querySelector('.star');
+    if(star) star.addEventListener('click',()=>{ const on=VV.toggleBookmark(w.id); star.classList.toggle('on',on); });
+    const dl=card.querySelector('.dl');
+    if(dl) dl.addEventListener('click',()=>VV.downloadCardPNG(w));
+    card.querySelector('#mclose').addEventListener('click',closeModal);
+    $('#modal').hidden=false;
+  }
+  function closeModal(){ $('#modal').hidden=true; }
+  $('#modal').addEventListener('click',ev=>{ if(ev.target.id==='modal') closeModal(); });
+  document.addEventListener('keydown',ev=>{ if(ev.key==='Escape') closeModal(); });
   function renderConf(){
     let items=conf.filter(c=>matches(c.a+' '+c.b+' '+c.difference+' '+c.tip));
     $('#count').textContent=items.length+' pairs';

@@ -8,7 +8,7 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="assets/icon-180.png">
 <link rel="icon" href="assets/icon-192.png">
-<link rel="stylesheet" href="css/styles.css?v=7">
+<link rel="stylesheet" href="css/styles.css?v=8">
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -48,10 +48,12 @@
 
   <div class="meta-row"><span id="count">…</span></div>
   <div class="cards" id="list"><div class="spin">Loading toolkit…</div></div>
-  <p class="foot">From the CDS vocabulary field manual — Roots (Strategy 8), Synonym Clusters (Strategy 1), Confusables (Strategy 6).</p>
+  <p class="foot">From the CDS vocabulary field manual — Roots (Strategy 8), Synonym Clusters (Strategy 1), Confusables (Strategy 6). Tap a highlighted cluster word to open its full card.</p>
 </main>
 
-<script src="js/data.js?v=7"></script>
-<script src="js/reference.js?v=7"></script>
+<div class="modal" id="modal" hidden><div class="modal-card" id="modal-card"></div></div>
+
+<script src="js/data.js?v=8"></script>
+<script src="js/reference.js?v=8"></script>
 </body>
 </html>
