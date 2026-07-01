@@ -44,9 +44,9 @@ img{max-width:100%}
 .vbanner-icons{display:flex;justify-content:flex-end;align-items:center;gap:18px;padding:8px 18px 12px}
 .vbanner-icons a{color:var(--gold-2);display:inline-flex;line-height:0;text-decoration:none}
 .vbanner-icons a:hover{color:#fff}
-.vbanner-social{display:flex;justify-content:center;align-items:center;gap:22px;padding:6px 12px 14px}
-.vbanner-social a{color:var(--gold-2);display:inline-flex;line-height:0;text-decoration:none;transition:color .12s,transform .12s}
-.vbanner-social a:hover{color:#fff;transform:translateY(-2px)}
+.foot-social{display:flex;justify-content:center;align-items:center;gap:24px;margin:26px 0 6px}
+.foot-social a{color:var(--navy);display:inline-flex;line-height:0;text-decoration:none;transition:color .12s,transform .12s}
+.foot-social a:hover{color:var(--gold);transform:translateY(-2px)}
 .vbanner .bimg{display:block;width:100%;max-width:860px;height:auto;margin:0 auto}
 .vbanner-nav{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;padding:10px 12px 14px}
 .vbanner-nav a{color:#e7edf7;background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.20);
