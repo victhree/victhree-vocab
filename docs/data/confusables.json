@@ -1,0 +1,182 @@
+﻿[
+    {
+        "a":  "Affect",
+        "b":  "Effect",
+        "difference":  "\u0027Affect\u0027 (verb) = to influence; \u0027Effect\u0027 (noun) = result",
+        "tip":  "Affect = Action; Effect = End result."
+    },
+    {
+        "a":  "Accept",
+        "b":  "Except",
+        "difference":  "\u0027Accept\u0027 = to receive; \u0027Except\u0027 = excluding",
+        "tip":  "\u0027Ex-\u0027 in Except = exclude."
+    },
+    {
+        "a":  "Adapt",
+        "b":  "Adopt",
+        "difference":  "\u0027Adapt\u0027 = adjust to; \u0027Adopt\u0027 = take on as your own",
+        "tip":  "Ada-PT = adjust; ad-OPT = opt to take."
+    },
+    {
+        "a":  "Principal",
+        "b":  "Principle",
+        "difference":  "\u0027Principal\u0027 = head/main; \u0027Principle\u0027 = a rule",
+        "tip":  "The principal is your \u0027pal\u0027; principle = rule."
+    },
+    {
+        "a":  "Stationary",
+        "b":  "Stationery",
+        "difference":  "\u0027Stationary\u0027 = not moving; \u0027Stationery\u0027 = writing materials",
+        "tip":  "\u0027e\u0027 in stationEry = Envelope/pEn."
+    },
+    {
+        "a":  "Complement",
+        "b":  "Compliment",
+        "difference":  "\u0027Complement\u0027 = completes; \u0027Compliment\u0027 = praise",
+        "tip":  "Compl-E-ment = complete; compl-I-ment = praise (I like it)."
+    },
+    {
+        "a":  "Counsel",
+        "b":  "Council",
+        "difference":  "\u0027Counsel\u0027 = advice; \u0027Council\u0027 = a group/assembly",
+        "tip":  "CounSEL = adviSE; counCIL = a body."
+    },
+    {
+        "a":  "Eligible",
+        "b":  "Illegible",
+        "difference":  "\u0027Eligible\u0027 = qualified; \u0027Illegible\u0027 = unreadable",
+        "tip":  "\u0027Il-\u0027 = not, can\u0027t read."
+    },
+    {
+        "a":  "Eminent",
+        "b":  "Imminent",
+        "difference":  "\u0027Eminent\u0027 = famous; \u0027Imminent\u0027 = about to happen",
+        "tip":  "Imm-IN-ent = coming IN soon."
+    },
+    {
+        "a":  "Ingenious",
+        "b":  "Ingenuous",
+        "difference":  "\u0027Ingenious\u0027 = clever; \u0027Ingenuous\u0027 = innocent/naive",
+        "tip":  "-OUS innocent; -IOUS clever idea."
+    },
+    {
+        "a":  "Loose",
+        "b":  "Lose",
+        "difference":  "\u0027Loose\u0027 = not tight; \u0027Lose\u0027 = to misplace/fail",
+        "tip":  "Loose has an extra \u0027o\u0027 = loose."
+    },
+    {
+        "a":  "Desert",
+        "b":  "Dessert",
+        "difference":  "\u0027Desert\u0027 = dry land/abandon; \u0027Dessert\u0027 = sweet dish",
+        "tip":  "Dessert has 2 \u0027s\u0027 = So Sweet."
+    },
+    {
+        "a":  "Cite",
+        "b":  "Site",
+        "difference":  "\u0027Cite\u0027 = quote; \u0027Site\u0027 = place; \u0027Sight\u0027 = vision",
+        "tip":  "Site = locaSion; Sight = eyeSight."
+    },
+    {
+        "a":  "Council",
+        "b":  "Counsel",
+        "difference":  "See above pair",
+        "tip":  "--"
+    },
+    {
+        "a":  "Censure",
+        "b":  "Censor",
+        "difference":  "\u0027Censure\u0027 = blame; \u0027Censor\u0027 = to ban content",
+        "tip":  "CensUre = blame; censOr = cut out."
+    },
+    {
+        "a":  "Confident",
+        "b":  "Confidant",
+        "difference":  "\u0027Confident\u0027 = sure; \u0027Confidant\u0027 = a trusted friend",
+        "tip":  "-ant person you confide in."
+    },
+    {
+        "a":  "Moral",
+        "b":  "Morale",
+        "difference":  "\u0027Moral\u0027 = ethical; \u0027Morale\u0027 = team spirit",
+        "tip":  "MoralE = Energy/spirit of a team."
+    },
+    {
+        "a":  "Personal",
+        "b":  "Personnel",
+        "difference":  "\u0027Personal\u0027 = private; \u0027Personnel\u0027 = staff",
+        "tip":  "PersonnEL = EmpLoyees."
+    },
+    {
+        "a":  "Precede",
+        "b":  "Proceed",
+        "difference":  "\u0027Precede\u0027 = come before; \u0027Proceed\u0027 = to go on",
+        "tip":  "Pre- = before; Pro- = forward."
+    },
+    {
+        "a":  "Devise",
+        "b":  "Device",
+        "difference":  "\u0027Devise\u0027 (verb) = to plan; \u0027Device\u0027 (noun) = a gadget",
+        "tip":  "-SE verb; -CE noun."
+    },
+    {
+        "a":  "Advice",
+        "b":  "Advise",
+        "difference":  "\u0027Advice\u0027 (noun); \u0027Advise\u0027 (verb)",
+        "tip":  "-CE noun; -SE verb."
+    },
+    {
+        "a":  "Beside",
+        "b":  "Besides",
+        "difference":  "\u0027Beside\u0027 = next to; \u0027Besides\u0027 = in addition",
+        "tip":  "BesideS = something extra (S)."
+    },
+    {
+        "a":  "Farther",
+        "b":  "Further",
+        "difference":  "\u0027Farther\u0027 = physical distance; \u0027Further\u0027 = extra/abstract",
+        "tip":  "FARther = FAR distance."
+    },
+    {
+        "a":  "Imply",
+        "b":  "Infer",
+        "difference":  "\u0027Imply\u0027 = speaker suggests; \u0027Infer\u0027 = listener concludes",
+        "tip":  "Speaker imPlies; listener inFers."
+    },
+    {
+        "a":  "Lay",
+        "b":  "Lie",
+        "difference":  "\u0027Lay\u0027 = to place something; \u0027Lie\u0027 = to recline",
+        "tip":  "Lay needs an object; lie does not."
+    },
+    {
+        "a":  "Allusion",
+        "b":  "Illusion",
+        "difference":  "\u0027Allusion\u0027 = an indirect reference; \u0027Illusion\u0027 = a false impression",
+        "tip":  "Allusion = to mention; Illusion = unreal."
+    },
+    {
+        "a":  "Coarse",
+        "b":  "Course",
+        "difference":  "\u0027Coarse\u0027 = rough; \u0027Course\u0027 = a path/class",
+        "tip":  "CoArse = rough As sand."
+    },
+    {
+        "a":  "Elicit",
+        "b":  "Illicit",
+        "difference":  "\u0027Elicit\u0027 = draw out; \u0027Illicit\u0027 = illegal",
+        "tip":  "\u0027Il-\u0027 = not allowed."
+    },
+    {
+        "a":  "Discreet",
+        "b":  "Discrete",
+        "difference":  "\u0027Discreet\u0027 = careful; \u0027Discrete\u0027 = separate",
+        "tip":  "DiscreEt = sEcrEt; discretE = sEparatE."
+    },
+    {
+        "a":  "Continual",
+        "b":  "Continuous",
+        "difference":  "\u0027Continual\u0027 = repeated with breaks; \u0027Continuous\u0027 = unbroken",
+        "tip":  "-ous = one unbroken stretch."
+    }
+]

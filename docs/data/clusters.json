@@ -1,0 +1,257 @@
+﻿[
+    {
+        "group":  "Praise / Approval",
+        "words":  [
+                      "commend",
+                      "laud",
+                      "extol",
+                      "exalt",
+                      "applaud",
+                      "eulogize",
+                      "venerate",
+                      "acclaim",
+                      "endorse",
+                      "plaudits"
+                  ]
+    },
+    {
+        "group":  "Criticism / Blame",
+        "words":  [
+                      "censure",
+                      "condemn",
+                      "rebuke",
+                      "reprimand",
+                      "castigate",
+                      "chastise",
+                      "berate",
+                      "denounce",
+                      "deride",
+                      "disparage",
+                      "denigrate",
+                      "reproach"
+                  ]
+    },
+    {
+        "group":  "Fear / Anxiety",
+        "words":  [
+                      "trepidation",
+                      "apprehension",
+                      "dread",
+                      "dismay",
+                      "timorous",
+                      "timid",
+                      "foreboding",
+                      "consternation"
+                  ]
+    },
+    {
+        "group":  "Anger / Hostility",
+        "words":  [
+                      "irate",
+                      "indignant",
+                      "vehement",
+                      "belligerent",
+                      "irascible",
+                      "truculent",
+                      "animosity",
+                      "rancour",
+                      "wrath"
+                  ]
+    },
+    {
+        "group":  "Confusion / Puzzlement",
+        "words":  [
+                      "bewilder",
+                      "perplex",
+                      "baffle",
+                      "befuddle",
+                      "conundrum",
+                      "quandary",
+                      "enigma",
+                      "ambiguous",
+                      "obscure"
+                  ]
+    },
+    {
+        "group":  "Honesty / Truthfulness",
+        "words":  [
+                      "candid",
+                      "frank",
+                      "sincere",
+                      "forthright",
+                      "integrity",
+                      "probity",
+                      "veracity",
+                      "ingenuous"
+                  ]
+    },
+    {
+        "group":  "Dishonesty / Deceit",
+        "words":  [
+                      "deceitful",
+                      "devious",
+                      "furtive",
+                      "perfidious",
+                      "spurious",
+                      "duplicity",
+                      "guile",
+                      "mendacious"
+                  ]
+    },
+    {
+        "group":  "Speaking (a lot)",
+        "words":  [
+                      "garrulous",
+                      "loquacious",
+                      "voluble",
+                      "verbose",
+                      "vociferous",
+                      "eloquent",
+                      "articulate"
+                  ]
+    },
+    {
+        "group":  "Speaking (little)",
+        "words":  [
+                      "taciturn",
+                      "reticent",
+                      "laconic",
+                      "terse",
+                      "reserved",
+                      "succinct"
+                  ]
+    },
+    {
+        "group":  "Intelligence / Wisdom",
+        "words":  [
+                      "astute",
+                      "shrewd",
+                      "sagacious",
+                      "judicious",
+                      "erudite",
+                      "acumen",
+                      "prudent",
+                      "perspicacious"
+                  ]
+    },
+    {
+        "group":  "Foolishness / Naivety",
+        "words":  [
+                      "inane",
+                      "gullible",
+                      "credulous",
+                      "naive",
+                      "fatuous",
+                      "obtuse"
+                  ]
+    },
+    {
+        "group":  "Strength / Courage",
+        "words":  [
+                      "fortitude",
+                      "valour",
+                      "intrepid",
+                      "gallant",
+                      "valiant",
+                      "robust",
+                      "tenacity",
+                      "resilient",
+                      "stoic"
+                  ]
+    },
+    {
+        "group":  "Weakness / Cowardice",
+        "words":  [
+                      "feeble",
+                      "frail",
+                      "timid",
+                      "timorous",
+                      "infirm",
+                      "cowardice",
+                      "faint-hearted"
+                  ]
+    },
+    {
+        "group":  "Movement (fast)",
+        "words":  [
+                      "expedite",
+                      "hasten",
+                      "accelerate",
+                      "brisk",
+                      "alacrity",
+                      "swift"
+                  ]
+    },
+    {
+        "group":  "Movement (slow)",
+        "words":  [
+                      "sluggish",
+                      "languid",
+                      "dilatory",
+                      "lethargic",
+                      "dawdle",
+                      "tardy"
+                  ]
+    },
+    {
+        "group":  "Kindness / Generosity",
+        "words":  [
+                      "benevolent",
+                      "magnanimous",
+                      "munificent",
+                      "compassionate",
+                      "cordial",
+                      "affable",
+                      "largesse"
+                  ]
+    },
+    {
+        "group":  "Stubbornness",
+        "words":  [
+                      "obstinate",
+                      "adamant",
+                      "obdurate",
+                      "intransigent",
+                      "recalcitrant",
+                      "headstrong",
+                      "dogmatic"
+                  ]
+    },
+    {
+        "group":  "Abundance / Excess",
+        "words":  [
+                      "copious",
+                      "profuse",
+                      "plethora",
+                      "ample",
+                      "prolific",
+                      "lavish",
+                      "voracious(appetite)"
+                  ]
+    },
+    {
+        "group":  "Scarcity / Lack",
+        "words":  [
+                      "scarce",
+                      "dearth",
+                      "paucity",
+                      "meagre",
+                      "scanty",
+                      "sparse",
+                      "destitute"
+                  ]
+    },
+    {
+        "group":  "Calm / Peace",
+        "words":  [
+                      "serene",
+                      "tranquil",
+                      "placid",
+                      "equanimity",
+                      "composed",
+                      "sedate",
+                      "pacify",
+                      "assuage"
+                  ]
+    }
+]

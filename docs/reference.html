@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Word Toolkit — VicThree Vocab</title>
+<meta name="theme-color" content="#0B1F3A">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="assets/icon-180.png">
+<link rel="icon" href="assets/icon-192.png">
+<link rel="stylesheet" href="css/styles.css?v=7">
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="index.html"><span class="v3">V3</span><span>VicThree Vocab<small>CDS &amp; AFCAT English</small></span></a>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="quiz.html">Quiz</a>
+    <a href="browse.html">Word Bank</a>
+    <a href="reference.html" class="active">Toolkit</a>
+    <a href="browse.html?saved=1">★ Saved</a>
+  </nav>
+</div></header>
+
+<main class="container">
+  <a class="backlink" href="index.html">← Home</a>
+  <h2 style="margin:4px 0 12px">Word Toolkit</h2>
+
+  <div class="chips" id="tabs" style="margin-bottom:10px">
+    <button class="chip" data-tab="roots">🌱 Roots &amp; affixes</button>
+    <button class="chip" data-tab="clusters">🕸️ Synonym clusters</button>
+    <button class="chip" data-tab="confusables">⚠️ Confusable pairs</button>
+  </div>
+
+  <p id="intro" class="muted-intro"></p>
+
+  <div class="chips" id="rootkinds" style="margin-bottom:12px">
+    <button class="chip on" data-k="all">All</button>
+    <button class="chip" data-k="root">Roots</button>
+    <button class="chip" data-k="prefix">Prefixes</button>
+    <button class="chip" data-k="suffix">Suffixes</button>
+  </div>
+
+  <div class="toolbar" style="grid-template-columns:1fr">
+    <div class="field"><label for="search">Search</label>
+      <input id="search" type="search" placeholder="root, word, meaning…"></div>
+  </div>
+
+  <div class="meta-row"><span id="count">…</span></div>
+  <div class="cards" id="list"><div class="spin">Loading toolkit…</div></div>
+  <p class="foot">From the CDS vocabulary field manual — Roots (Strategy 8), Synonym Clusters (Strategy 1), Confusables (Strategy 6).</p>
+</main>
+
+<script src="js/data.js?v=7"></script>
+<script src="js/reference.js?v=7"></script>
+</body>
+</html>

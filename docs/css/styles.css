@@ -159,6 +159,11 @@ img{max-width:100%}
 .iconbtn{background:none;border:none;cursor:pointer;color:var(--muted);padding:5px;border-radius:8px;
   line-height:0;display:inline-flex;align-items:center;transition:color .12s,background .12s}
 .iconbtn:hover{color:var(--navy);background:#eef2f8}
+.muted-intro{color:var(--muted);font-size:14px;margin:2px 0 12px;line-height:1.5}
+.kindtag{font-size:12px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;vertical-align:middle}
+.vs{color:var(--muted);font-weight:600;font-size:16px}
+.dclust{display:flex;flex-wrap:wrap;gap:7px}
+.wchip{background:#eef2f8;color:var(--navy);border-radius:8px;padding:5px 10px;font-size:15px;font-weight:600}
 .dactions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
 .row-between{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
 .home .banner{margin-top:4px}
