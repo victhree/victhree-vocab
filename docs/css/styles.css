@@ -40,7 +40,13 @@ img{max-width:100%}
 .container{max-width:1000px;margin:0 auto;padding:18px 16px 60px}
 
 /* ---- PYQ-style banner header (all pages) ---- */
-.vbanner{background:var(--navy);text-align:center;padding-top:6px}
+.vbanner{background:var(--navy);text-align:center;padding-top:6px;position:relative}
+.vbanner-icons{position:absolute;right:14px;bottom:12px;display:flex;gap:10px}
+.vbanner-icons a{width:36px;height:36px;border-radius:50%;display:grid;place-items:center;font-size:18px;
+  text-decoration:none;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.28);color:#fff}
+.vbanner-icons a:hover{background:var(--gold);border-color:var(--gold)}
+.vbanner-icons .star{color:var(--gold-2)}
+.vbanner-icons a:hover.star,.vbanner-icons a.star:hover{color:var(--navy)}
 .vbanner .bimg{display:block;width:100%;max-width:860px;height:auto;margin:0 auto}
 .vbanner-nav{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;padding:10px 12px 14px}
 .vbanner-nav a{color:#e7edf7;background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.20);
