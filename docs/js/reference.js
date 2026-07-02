@@ -92,10 +92,12 @@
 
   // hint on the Synonym Clusters tab (explains the gold-underlined tappable words)
   let hintTimer=null;
+  function hintSeen(){ try{ return !!localStorage.getItem('vv_clusterHintSeen'); }catch(e){ return false; } }
   function maybeShowHint(){
     const hint=$('#cluster-hint'); if(!hint) return;
-    if(tab==='clusters'){
+    if(tab==='clusters' && !hintSeen()){
       hint.hidden=false;
+      try{ localStorage.setItem('vv_clusterHintSeen','1'); }catch(e){}
       clearTimeout(hintTimer);
       hintTimer=setTimeout(()=>{ hint.hidden=true; }, 6000);
     } else { hint.hidden=true; clearTimeout(hintTimer); }
