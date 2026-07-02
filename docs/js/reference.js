@@ -98,9 +98,7 @@
     if(tab==='clusters' && !hintSeen()){
       hint.hidden=false;
       try{ localStorage.setItem('vv_clusterHintSeen','1'); }catch(e){}
-      clearTimeout(hintTimer);
-      hintTimer=setTimeout(()=>{ hint.hidden=true; }, 6000);
-    } else { hint.hidden=true; clearTimeout(hintTimer); }
+    } else { hint.hidden=true; }
   }
   const _hx=document.querySelector('#cluster-hint .hint-x');
   if(_hx) _hx.addEventListener('click',()=>{ document.querySelector('#cluster-hint').hidden=true; clearTimeout(hintTimer); });
