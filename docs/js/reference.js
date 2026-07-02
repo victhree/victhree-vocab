@@ -90,6 +90,19 @@
     ).join('');
   }
 
+  // hint on the Synonym Clusters tab (explains the gold-underlined tappable words)
+  let hintTimer=null;
+  function maybeShowHint(){
+    const hint=$('#cluster-hint'); if(!hint) return;
+    if(tab==='clusters'){
+      hint.hidden=false;
+      clearTimeout(hintTimer);
+      hintTimer=setTimeout(()=>{ hint.hidden=true; }, 6000);
+    } else { hint.hidden=true; clearTimeout(hintTimer); }
+  }
+  const _hx=document.querySelector('#cluster-hint .hint-x');
+  if(_hx) _hx.addEventListener('click',()=>{ document.querySelector('#cluster-hint').hidden=true; clearTimeout(hintTimer); });
+
   function render(){
     $('#intro').textContent=INTRO[tab];
     $('#rootkinds').style.display = tab==='roots' ? 'flex' : 'none';
@@ -105,6 +118,7 @@
       tab=c.dataset.tab;
       $('#tabs').querySelectorAll('.chip').forEach(x=>x.classList.toggle('on',x===c));
       render();
+      maybeShowHint();
     });
   });
   $('#rootkinds').querySelectorAll('.chip').forEach(c=>{
@@ -117,4 +131,5 @@
   $('#search').addEventListener('input',ev=>{ q=ev.target.value.trim().toLowerCase(); render(); });
 
   render();
+  maybeShowHint();
 })();
