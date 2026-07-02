@@ -48,6 +48,8 @@ img{max-width:100%}
   background:linear-gradient(135deg,var(--navy),var(--navy-2));color:#fff;
   border-radius:14px;padding:14px 18px;margin:16px 0;box-shadow:var(--shadow-lg);text-align:center}
 .cta-text{font-size:15px;font-weight:600;color:#fff;line-height:1.4}
+.m-br{display:none}
+@media(max-width:600px){.m-br{display:inline}}
 .cta-social{display:flex;gap:16px;align-items:center}
 .cta-social a{color:var(--gold-2);display:inline-flex;line-height:0;transition:color .12s,transform .12s}
 .cta-social a:hover{color:#fff;transform:translateY(-2px)}
