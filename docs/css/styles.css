@@ -383,9 +383,29 @@ body.home .home-quiz .minitile.gold:hover{background:linear-gradient(135deg,#ecc
   font-family:var(--mono);border-top:1px solid rgba(255,255,255,.10);padding-top:16px;
 }
 .hud-readout .t{font-size:10.5px;color:var(--gold-2);letter-spacing:1.5px}
-.hud-readout .n{font-size:30px;color:var(--hud-white);margin:5px 0 2px;letter-spacing:1px;line-height:1}
-.hud-readout .n .u{font-size:12px;color:var(--hud-dim);margin-left:5px;letter-spacing:1px}
 .hud-readout .s{font-size:10px;color:var(--hud-dim);letter-spacing:1.5px;text-transform:uppercase}
+
+/* seven-segment LED "bomb timer" digits (DSEG7 — SIL OFL font, bundled offline) */
+@font-face{
+  font-family:'DSEG7';
+  src:url('../assets/DSEG7Classic-Bold.woff2') format('woff2');
+  font-weight:700;font-style:normal;font-display:swap;
+}
+.hud-readout .n{
+  font-family:'DSEG7',var(--mono);font-size:36px;line-height:1;letter-spacing:4px;
+  color:#ff2f2f;margin:7px 0 3px;
+  text-shadow:0 0 8px rgba(255,45,45,.9),0 0 2px rgba(255,95,95,.95);
+  animation:led-pulse 2s ease-in-out infinite;
+}
+.hud-readout .n .u{
+  font-family:var(--mono);font-size:11px;color:var(--hud-dim);
+  margin-left:8px;letter-spacing:1px;text-shadow:none;vertical-align:middle;
+}
+@keyframes led-pulse{
+  0%,100%{opacity:1;   text-shadow:0 0 9px rgba(255,45,45,.95),0 0 3px rgba(255,95,95,1)}
+  50%    {opacity:.38; text-shadow:0 0 3px rgba(255,45,45,.35)}
+}
+@media(prefers-reduced-motion:reduce){.hud-readout .n{animation:none}}
 
 body.home .join-label{color:var(--hud-white);font-family:var(--mono);text-transform:uppercase;letter-spacing:3px;font-size:13px;font-weight:700}
 body.home .foot-social a{color:var(--gold-2)}
