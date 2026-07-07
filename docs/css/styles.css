@@ -90,7 +90,7 @@ img{max-width:100%}
 .widecard.gold .chev{color:var(--navy)}
 /* short split row (Weak Words left · Saved Words right, middle empty) */
 .home-actions{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:14px 0 4px}
-.home-actions .minitile:last-child{grid-column:-2 / -1}
+.home-actions .action-col:last-child{grid-column:-2 / -1}
 .minitile{display:flex;align-items:center;justify-content:center;gap:8px;background:var(--card);border:1px solid var(--line);
   border-radius:12px;padding:12px;font-weight:700;font-size:14.5px;color:var(--navy);box-shadow:var(--shadow)}
 .minitile:hover{border-color:var(--gold);transform:translateY(-1px)}
@@ -377,13 +377,12 @@ body.home .home-quiz .minitile.gold{
 }
 body.home .home-quiz .minitile.gold:hover{background:linear-gradient(135deg,#eccb7c,var(--gold-2));border-color:transparent}
 
-/* exam countdown readout (reference photo 1 — timecode row) */
-.hud-readout{
-  display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin:24px 0 4px;
-  font-family:var(--mono);border-top:1px solid rgba(255,255,255,.10);padding-top:16px;
-}
-.hud-readout .t{font-size:10.5px;color:var(--gold-2);letter-spacing:1.5px}
-.hud-readout .s{font-size:10px;color:var(--hud-dim);letter-spacing:1.5px;text-transform:uppercase}
+/* per-exam countdown, stacked under each action tile */
+.home-actions .action-col{display:flex;flex-direction:column;gap:12px}
+.exam-timer{text-align:center;font-family:var(--mono)}
+.exam-timer .et-name{font-size:11px;color:var(--gold-2);letter-spacing:1.5px;text-transform:uppercase}
+.exam-timer .et-date{font-size:10.5px;color:var(--hud-dim);letter-spacing:1px;text-transform:uppercase;margin-top:3px}
+.exam-timer .et-count{margin-top:8px;line-height:1;white-space:nowrap}
 
 /* seven-segment LED "bomb timer" digits (DSEG7 — SIL OFL font, bundled offline) */
 @font-face{
@@ -391,21 +390,21 @@ body.home .home-quiz .minitile.gold:hover{background:linear-gradient(135deg,#ecc
   src:url('../assets/DSEG7Classic-Bold.woff2') format('woff2');
   font-weight:700;font-style:normal;font-display:swap;
 }
-.hud-readout .n{
-  font-family:'DSEG7',var(--mono);font-size:36px;line-height:1;letter-spacing:4px;
-  color:#ff2f2f;margin:7px 0 3px;
+.et-count .n{
+  font-family:'DSEG7',var(--mono);font-size:32px;line-height:1;letter-spacing:4px;
+  color:#ff2f2f;display:inline-block;vertical-align:middle;
   text-shadow:0 0 8px rgba(255,45,45,.9),0 0 2px rgba(255,95,95,.95);
   animation:led-pulse 2s ease-in-out infinite;
 }
-.hud-readout .n .u{
-  font-family:var(--mono);font-size:11px;color:var(--hud-dim);
-  margin-left:8px;letter-spacing:1px;text-shadow:none;vertical-align:middle;
+.et-count .et-unit{
+  font-family:var(--mono);font-size:11px;color:var(--hud-dim);text-transform:uppercase;
+  margin-left:8px;letter-spacing:1px;vertical-align:middle;
 }
 @keyframes led-pulse{
   0%,100%{opacity:1;   text-shadow:0 0 9px rgba(255,45,45,.95),0 0 3px rgba(255,95,95,1)}
   50%    {opacity:.38; text-shadow:0 0 3px rgba(255,45,45,.35)}
 }
-@media(prefers-reduced-motion:reduce){.hud-readout .n{animation:none}}
+@media(prefers-reduced-motion:reduce){.et-count .n{animation:none}}
 
 body.home .join-label{color:var(--hud-white);font-family:var(--mono);text-transform:uppercase;letter-spacing:3px;font-size:13px;font-weight:700}
 body.home .foot-social a{color:var(--gold-2)}
