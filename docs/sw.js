@@ -1,11 +1,11 @@
 /* VicThree Vocab service worker */
-const CACHE = 'vv-v33';
+const CACHE = 'vv-v34';
 const SHELL = [
   './','./index.html','./quiz.html','./learn.html','./browse.html','./reference.html',
-  './css/styles.css?v=33',
-  './js/data.js?v=33','./js/quiz.js?v=33','./js/learn.js?v=33','./js/browse.js?v=33','./js/reference.js?v=33',
+  './css/styles.css?v=34',
+  './js/data.js?v=34','./js/quiz.js?v=34','./js/learn.js?v=34','./js/browse.js?v=34','./js/reference.js?v=34',
   './manifest.webmanifest',
-  './assets/banner.png?v=33',
+  './assets/banner.png?v=34',
   './assets/shield-192.png','./assets/shield-512.png','./assets/shield-180.png'
 ];
 self.addEventListener('install', e=>{

@@ -7,14 +7,14 @@
 <meta name="description" content="English vocabulary for defence exams (CDS & AFCAT): synonyms, antonyms, idioms, one-word substitutions, roots and confusables. Mentorship by Anmol Sharma, AIR 32 UPSC CDS.">
 <meta name="theme-color" content="#0B1F3A">
 <link rel="manifest" href="manifest.webmanifest">
-<link rel="apple-touch-icon" href="assets/shield-180.png?v=33">
-<link rel="icon" href="assets/shield-192.png?v=33"><link rel="icon" sizes="32x32" href="assets/shield-32.png?v=33">
-<link rel="stylesheet" href="css/styles.css?v=33">
+<link rel="apple-touch-icon" href="assets/shield-180.png?v=34">
+<link rel="icon" href="assets/shield-192.png?v=34"><link rel="icon" sizes="32x32" href="assets/shield-32.png?v=34">
+<link rel="stylesheet" href="css/styles.css?v=34">
 </head>
 <body class="home">
 <header class="vbanner">
-  <img class="bimg" src="assets/banner.png?v=33" alt="VicThree Defence — by Anmol Sharma">
-  <div class="hud-bar"><span class="dot"></span> System Online <span class="sep">·</span> CDS <span class="amber">//</span> AFCAT English <span class="sep">·</span> <span class="amber">737</span> Entries <span class="sep">·</span> Ready</div>
+  <img class="bimg" src="assets/banner.png?v=34" alt="VicThree Defence — by Anmol Sharma">
+  <div class="hud-bar"><span class="dot"></span> System Online <span class="sep">·</span> <span class="amber">TARGET:</span> CDS <span class="amber">//</span> AFCAT English <span class="sep">·</span> Ready</div>
 </header>
 <div class="titlebar"><h1>English Vocabulary <br class="m-br">for Defence Exams</h1></div>
 
@@ -48,9 +48,8 @@
   </div>
 
   <div class="hud-readout">
-    <div class="col"><div class="t">SEC-01</div><div class="n">737</div><div class="s">Words &amp; Idioms</div></div>
-    <div class="col"><div class="t">SEC-02</div><div class="n">129</div><div class="s">Roots &amp; Affixes</div></div>
-    <div class="col"><div class="t">SEC-03</div><div class="n">57</div><div class="s">Confusable Pairs</div></div>
+    <div class="col"><div class="t">01 · AFCAT (II) 2026</div><div class="n" data-countdown="2026-08-08">—<span class="u">days</span></div><div class="s">Days Left · 08 Aug 2026</div></div>
+    <div class="col"><div class="t">02 · CDS (II) 2026</div><div class="n" data-countdown="2026-09-13">—<span class="u">days</span></div><div class="s">Days Left · 13 Sep 2026</div></div>
   </div>
 
   <p class="join-label">Join the Journey</p>
@@ -63,6 +62,17 @@
   <p class="foot">VicThree Defence · CDS &amp; AFCAT English Vocabulary · works offline once visited</p>
 </main>
 
-<script src="js/data.js?v=33"></script>
+<script src="js/data.js?v=34"></script>
+<script>
+(function(){
+  var today = new Date(); today.setHours(0,0,0,0);
+  document.querySelectorAll('.hud-readout [data-countdown]').forEach(function(el){
+    var parts = el.getAttribute('data-countdown').split('-');
+    var exam = new Date(+parts[0], +parts[1]-1, +parts[2]);
+    var days = Math.max(0, Math.round((exam - today) / 86400000));
+    el.innerHTML = days + '<span class="u">' + (days === 1 ? 'day' : 'days') + '</span>';
+  });
+})();
+</script>
 </body>
 </html>
