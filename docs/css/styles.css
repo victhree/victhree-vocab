@@ -275,34 +275,113 @@ img{max-width:100%}
   .brand small{display:none}
 }
 
-/* ============ Tactical / military accents (subtle — keeps it light & readable) ============ */
-:root{ --mono:"Consolas","SF Mono",ui-monospace,"DejaVu Sans Mono",monospace; }
+/* ============ Tactical / military HUD theme ============
+   Home page = full obsidian HUD (the reference photos).
+   Sub-pages = tactical "shell" (mono headers, status strip, faint grid)
+   but keep the study/reading surfaces light & high-contrast. */
+:root{
+  --mono:"Consolas","SF Mono",ui-monospace,"DejaVu Sans Mono",monospace;
+  --obsidian:#0c0e0d; --obsidian-2:#14140f;
+  --hud-line:rgba(201,162,75,.35);
+  --hud-white:#eef0ea; --hud-dim:#8f9488;
+}
 
-/* faint tactical map-grid behind the light content */
-body{
+/* ---- shared tactical accents (all pages) ---- */
+.qtype,.qnum,.kindtag{font-family:var(--mono);text-transform:uppercase;letter-spacing:1px}
+#tabs .chip,#rootkinds .chip,#kind-chips .chip{font-family:var(--mono);text-transform:uppercase;letter-spacing:.5px;font-size:12.5px}
+.section-title{font-family:var(--mono)}
+/* page headers read like field-manual labels */
+#qtitle,#ltitle,.container > h2{font-family:var(--mono);text-transform:uppercase;letter-spacing:2px;font-weight:700}
+
+/* faint tactical map-grid on light sub-pages only */
+body:not(.home){
   background-image:
     linear-gradient(rgba(11,31,58,.045) 1px, transparent 1px),
     linear-gradient(90deg, rgba(11,31,58,.045) 1px, transparent 1px);
   background-size:28px 28px;
 }
 
-/* tactical tags in monospace, uppercase */
-.qtype,.qnum,.kindtag{font-family:var(--mono);text-transform:uppercase;letter-spacing:1px}
-#tabs .chip,#rootkinds .chip,#kind-chips .chip{font-family:var(--mono);text-transform:uppercase;letter-spacing:.5px;font-size:12.5px}
+/* HUD status strip beneath the banner (all pages) */
+.vbanner{border-bottom:1px solid var(--hud-line)}
+.hud-bar{
+  font-family:var(--mono);font-size:10.5px;letter-spacing:2px;text-transform:uppercase;
+  color:var(--hud-dim);background:var(--obsidian);
+  display:flex;align-items:center;gap:9px;justify-content:center;flex-wrap:wrap;
+  padding:6px 14px;border-top:1px solid rgba(201,162,75,.18);
+}
+.hud-bar .dot{width:6px;height:6px;background:var(--green);border-radius:50%;
+  display:inline-block;box-shadow:0 0 6px var(--green)}
+.hud-bar .amber{color:var(--gold-2)}
+.hud-bar .sep{color:rgba(255,255,255,.22)}
 
-/* insignia-style topic tiles: HUD gold corner brackets + uppercase labels */
+/* insignia-style topic tiles: HUD gold corner brackets (all pages) */
 .topic-grid .tile{position:relative}
-.topic-grid .tile h3{text-transform:uppercase;letter-spacing:.6px}
-.topic-grid .tile::before,.topic-grid .tile::after{content:"";position:absolute;width:14px;height:14px;border:2px solid var(--gold);opacity:.5;pointer-events:none}
-.topic-grid .tile::before{top:9px;left:9px;border-right:0;border-bottom:0}
-.topic-grid .tile::after{bottom:9px;right:9px;border-left:0;border-top:0}
-.minitile{text-transform:uppercase;letter-spacing:.5px}
+.topic-grid .tile h3{text-transform:uppercase;letter-spacing:.7px}
+.topic-grid .tile::before,.topic-grid .tile::after{content:"";position:absolute;width:13px;height:13px;border:2px solid var(--gold);opacity:.55;pointer-events:none}
+.topic-grid .tile::before{top:8px;left:8px;border-right:0;border-bottom:0}
+.topic-grid .tile::after{bottom:8px;right:8px;border-left:0;border-top:0}
+.minitile{text-transform:uppercase;letter-spacing:.6px}
 
-/* CTA gets HUD corner brackets (on navy) */
-.cta{position:relative}
-.cta::before,.cta::after{content:"";position:absolute;width:16px;height:16px;border:2px solid var(--gold-2);opacity:.6;pointer-events:none}
-.cta::before{top:8px;left:8px;border-right:0;border-bottom:0}
-.cta::after{bottom:8px;right:8px;border-left:0;border-top:0}
+/* ================= HOME — obsidian HUD ================= */
+body.home{
+  background:
+    radial-gradient(120% 85% at 16% 6%, rgba(96,84,50,.30), transparent 55%),
+    radial-gradient(120% 90% at 88% 42%, rgba(56,78,90,.24), transparent 55%),
+    var(--obsidian);
+  color:var(--hud-white);
+}
+body.home .vbanner{background:transparent}
+body.home .titlebar{background:transparent;border-bottom:1px solid var(--hud-line)}
+body.home .titlebar h1{color:var(--hud-white)}
+body.home .container{position:relative}
 
-/* section title (toolkit etc.) reads like a field label */
-.section-title{font-family:var(--mono)}
+/* corner crop-marks framing the whole layout (reference photo 1) */
+.tick{position:absolute;width:20px;height:20px;pointer-events:none;opacity:.75;z-index:5}
+.tick.tl{top:4px;left:0;border-top:2px solid var(--gold);border-left:2px solid var(--gold)}
+.tick.tr{top:4px;right:0;border-top:2px solid var(--gold);border-right:2px solid var(--gold)}
+.tick.bl{bottom:4px;left:0;border-bottom:2px solid var(--gold);border-left:2px solid var(--gold)}
+.tick.br{bottom:4px;right:0;border-bottom:2px solid var(--gold);border-right:2px solid var(--gold)}
+
+/* CTA as a translucent dark glass panel */
+body.home .cta{
+  background:rgba(255,255,255,.035);border:1px solid rgba(255,255,255,.11);
+  box-shadow:none;border-radius:6px;backdrop-filter:blur(6px);
+}
+body.home .cta-text{color:#d7d9d2}
+body.home .cta-social a{color:var(--gold-2)}
+body.home .cta::before,body.home .cta::after{content:"";position:absolute;width:14px;height:14px;border:2px solid var(--gold-2);opacity:.6;pointer-events:none}
+body.home .cta::before{top:8px;left:8px;border-right:0;border-bottom:0}
+body.home .cta::after{bottom:8px;right:8px;border-left:0;border-top:0}
+body.home .cta{position:relative}
+
+/* insignia tiles on obsidian */
+body.home .topic-grid .tile{
+  background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.10);
+  border-radius:8px;box-shadow:none;color:var(--hud-white);
+}
+body.home .topic-grid .tile:hover{border-color:var(--gold);background:rgba(201,162,75,.08);transform:translateY(-2px)}
+body.home .topic-grid .tile h3{color:var(--hud-white);font-family:var(--mono);font-size:12.5px;font-weight:700;letter-spacing:.8px}
+body.home .topic-grid .tile::before,body.home .topic-grid .tile::after{opacity:.65}
+
+/* quiz button + action tiles on obsidian */
+body.home .home-quiz .minitile.gold{border-radius:6px;font-family:var(--mono);letter-spacing:2px}
+body.home .minitile{
+  background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.10);color:var(--hud-white);
+  border-radius:6px;font-family:var(--mono);letter-spacing:1px;font-size:13px;box-shadow:none;
+}
+body.home .minitile:hover{border-color:var(--gold);background:rgba(201,162,75,.08)}
+body.home .minitile.gold{color:var(--navy)}
+
+/* three-column mono readout (reference photo 1 — cities/timecodes) */
+.hud-readout{
+  display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:24px 0 4px;
+  font-family:var(--mono);border-top:1px solid rgba(255,255,255,.10);padding-top:16px;
+}
+.hud-readout .t{font-size:10.5px;color:var(--gold-2);letter-spacing:1.5px}
+.hud-readout .n{font-size:24px;color:var(--hud-white);margin:5px 0 2px;letter-spacing:1px}
+.hud-readout .s{font-size:10px;color:var(--hud-dim);letter-spacing:1.5px;text-transform:uppercase}
+
+body.home .join-label{color:var(--hud-white);font-family:var(--mono);text-transform:uppercase;letter-spacing:3px;font-size:13px;font-weight:700}
+body.home .foot-social a{color:var(--gold-2)}
+body.home .foot-social a:hover{color:#fff}
+body.home .foot{color:var(--hud-dim);font-family:var(--mono);letter-spacing:.5px}
