@@ -274,3 +274,35 @@ img{max-width:100%}
   .hero h1{font-size:20px}
   .brand small{display:none}
 }
+
+/* ============ Tactical / military accents (subtle — keeps it light & readable) ============ */
+:root{ --mono:"Consolas","SF Mono",ui-monospace,"DejaVu Sans Mono",monospace; }
+
+/* faint tactical map-grid behind the light content */
+body{
+  background-image:
+    linear-gradient(rgba(11,31,58,.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(11,31,58,.045) 1px, transparent 1px);
+  background-size:28px 28px;
+}
+
+/* tactical tags in monospace, uppercase */
+.qtype,.qnum,.kindtag{font-family:var(--mono);text-transform:uppercase;letter-spacing:1px}
+#tabs .chip,#rootkinds .chip,#kind-chips .chip{font-family:var(--mono);text-transform:uppercase;letter-spacing:.5px;font-size:12.5px}
+
+/* insignia-style topic tiles: HUD gold corner brackets + uppercase labels */
+.topic-grid .tile{position:relative}
+.topic-grid .tile h3{text-transform:uppercase;letter-spacing:.6px}
+.topic-grid .tile::before,.topic-grid .tile::after{content:"";position:absolute;width:14px;height:14px;border:2px solid var(--gold);opacity:.5;pointer-events:none}
+.topic-grid .tile::before{top:9px;left:9px;border-right:0;border-bottom:0}
+.topic-grid .tile::after{bottom:9px;right:9px;border-left:0;border-top:0}
+.minitile{text-transform:uppercase;letter-spacing:.5px}
+
+/* CTA gets HUD corner brackets (on navy) */
+.cta{position:relative}
+.cta::before,.cta::after{content:"";position:absolute;width:16px;height:16px;border:2px solid var(--gold-2);opacity:.6;pointer-events:none}
+.cta::before{top:8px;left:8px;border-right:0;border-bottom:0}
+.cta::after{bottom:8px;right:8px;border-left:0;border-top:0}
+
+/* section title (toolkit etc.) reads like a field label */
+.section-title{font-family:var(--mono)}
