@@ -72,7 +72,7 @@
   function updateBar(){
     const done=answers.filter(a=>a!==null).length;
     $('#prog').textContent=done+' / '+pool.length+' answered';
-    $('#submit').textContent = done<pool.length ? ('Submit test ('+done+'/'+pool.length+')') : 'Submit test';
+    $('#submit').textContent='Submit test';
   }
 
   function submit(){

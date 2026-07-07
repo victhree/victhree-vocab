@@ -81,8 +81,10 @@
     if(w.kind==='ows'){ h+='<p class="dmeaning">'+e(w.desc)+'</p>'; }
     else if(w.meaning){ h+='<p class="dmeaning">'+e(w.meaning)+'</p>'; }
     if(w.example) h+='<p class="dex">“'+e(w.example)+'”</p>';
-    if(w.syn && w.syn.length) h+='<p class="dline dsyn"><span class="dk">Synonyms</span> '+e(w.syn.join(', '))+'</p>';
-    if(w.ant && w.ant.length) h+='<p class="dline dant"><span class="dk">Antonyms</span> '+e(w.ant.join(', '))+'</p>';
+    const asList=v=>Array.isArray(v)?v.join(', '):(typeof v==='string'?v.trim():'');
+    const synStr=asList(w.syn), antStr=asList(w.ant);
+    if(synStr) h+='<p class="dline dsyn"><span class="dk">Synonyms</span> '+e(synStr)+'</p>';
+    if(antStr) h+='<p class="dline dant"><span class="dk">Antonyms</span> '+e(antStr)+'</p>';
     if(w.trick){ const k = w.kind==='ows' ? 'Memory hook' : 'Remember'; h+='<div class="dtrick"><b>💡 '+k+':</b> '+e(w.trick)+'</div>'; }
     return h;
   };
@@ -132,8 +134,10 @@
     if(w.kind==='ows') block('DEFINITION', w.desc);
     else block('MEANING', w.meaning);
     block(w.kind==='idiom'?'EXAMPLE':'EXAMPLE', w.example?('“'+w.example+'”'):'', 'italic');
-    if(w.syn&&w.syn.length) block('SYNONYMS', w.syn.join(',  '));
-    if(w.ant&&w.ant.length) block('ANTONYMS', w.ant.join(',  '));
+    const pl=v=>Array.isArray(v)?v.join(',  '):(typeof v==='string'?v.trim():'');
+    const synP=pl(w.syn), antP=pl(w.ant);
+    if(synP) block('SYNONYMS', synP);
+    if(antP) block('ANTONYMS', antP);
     if(w.trick) block(null, (w.kind==='ows'?'💡 Memory hook: ':'💡 Rule to remember: ')+w.trick, 'trick');
 
     y+=pad+30; // footer space
