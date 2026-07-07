@@ -309,6 +309,9 @@ body:not(.home){
   display:flex;align-items:center;gap:9px;justify-content:center;flex-wrap:wrap;
   padding:6px 14px;border-top:1px solid rgba(201,162,75,.18);
 }
+@media(max-width:600px){
+  .hud-bar{flex-wrap:nowrap;white-space:nowrap;gap:4px;font-size:9px;letter-spacing:.3px;padding:6px 6px}
+}
 .hud-bar .dot{width:6px;height:6px;background:var(--green);border-radius:50%;
   display:inline-block;box-shadow:0 0 6px var(--green)}
 .hud-bar .amber{color:var(--gold-2)}
@@ -324,10 +327,13 @@ body:not(.home){
 
 /* ================= HOME — obsidian HUD ================= */
 body.home{
-  background:
-    radial-gradient(120% 85% at 16% 6%, rgba(96,84,50,.30), transparent 55%),
-    radial-gradient(120% 90% at 88% 42%, rgba(56,78,90,.24), transparent 55%),
-    var(--obsidian);
+  background-color:#1b1f23;
+  background-image:
+    linear-gradient(rgba(201,162,75,.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(201,162,75,.05) 1px, transparent 1px),
+    radial-gradient(120% 85% at 16% 6%, rgba(122,107,66,.26), transparent 55%),
+    radial-gradient(120% 90% at 88% 42%, rgba(72,97,112,.20), transparent 55%);
+  background-size:30px 30px, 30px 30px, auto, auto;
   color:var(--hud-white);
 }
 body.home .vbanner{background:transparent}
