@@ -64,7 +64,8 @@ img{max-width:100%}
 .vbanner-nav a:hover,.vbanner-nav a.active{background:var(--gold);border-color:var(--gold);color:var(--navy)}
 .titlebar{background:var(--navy);border-bottom:4px solid var(--gold);padding:6px 16px 20px;text-align:center}
 .titlebar h1{margin:0;color:#fff;font-size:30px;font-weight:800;letter-spacing:1.5px;
-  font-family:Georgia,"Times New Roman",serif;text-transform:uppercase}
+  font-family:Georgia,"Times New Roman",serif;text-transform:uppercase;
+  text-align:center;padding-left:1.5px}
 @media(max-width:560px){.titlebar h1{font-size:21px}}
 
 /* ---- Topic grid + wide cards (PYQ look) ---- */
@@ -310,7 +311,7 @@ body:not(.home){
   padding:6px 14px;border-top:1px solid rgba(201,162,75,.18);
 }
 @media(max-width:600px){
-  .hud-bar{flex-wrap:nowrap;white-space:nowrap;gap:4px;font-size:9px;letter-spacing:.3px;padding:6px 6px}
+  .hud-bar{flex-wrap:nowrap;white-space:nowrap;gap:3px;font-size:8.5px;letter-spacing:.2px;padding:6px 6px}
 }
 .hud-bar .dot{width:6px;height:6px;background:var(--green);border-radius:50%;
   display:inline-block;box-shadow:0 0 6px var(--green)}
@@ -327,12 +328,13 @@ body:not(.home){
 
 /* ================= HOME — obsidian HUD ================= */
 body.home{
-  background-color:#1b1f23;
+  overflow-x:clip;
+  background-color:#262c31;
   background-image:
-    linear-gradient(rgba(201,162,75,.05) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(201,162,75,.05) 1px, transparent 1px),
-    radial-gradient(120% 85% at 16% 6%, rgba(122,107,66,.26), transparent 55%),
-    radial-gradient(120% 90% at 88% 42%, rgba(72,97,112,.20), transparent 55%);
+    linear-gradient(rgba(201,162,75,.055) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(201,162,75,.055) 1px, transparent 1px),
+    radial-gradient(120% 85% at 16% 6%, rgba(128,112,70,.24), transparent 55%),
+    radial-gradient(120% 90% at 88% 42%, rgba(76,102,118,.18), transparent 55%);
   background-size:30px 30px, 30px 30px, auto, auto;
   color:var(--hud-white);
 }
