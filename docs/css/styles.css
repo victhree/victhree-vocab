@@ -386,7 +386,7 @@ body.home .home-quiz .minitile.gold{
 body.home .home-quiz .minitile.gold:hover{background:linear-gradient(135deg,#eccb7c,var(--gold-2));border-color:transparent}
 
 /* per-exam countdown, stacked under each action tile */
-.home-actions .action-col{display:flex;flex-direction:column;gap:12px}
+.home-actions .action-col{display:flex;flex-direction:column;gap:22px}
 .exam-timer{text-align:center;font-family:var(--mono)}
 .exam-timer .et-name{font-size:11px;color:var(--gold-2);letter-spacing:1.5px;text-transform:uppercase}
 .exam-timer .et-date{font-size:10.5px;color:var(--hud-dim);letter-spacing:1px;text-transform:uppercase;margin-top:3px}
