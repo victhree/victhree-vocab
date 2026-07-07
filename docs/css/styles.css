@@ -357,10 +357,6 @@ body.home .cta{
 }
 body.home .cta-text{color:#d7d9d2}
 body.home .cta-social a{color:var(--gold-2)}
-body.home .cta::before,body.home .cta::after{content:"";position:absolute;width:14px;height:14px;border:2px solid var(--gold-2);opacity:.6;pointer-events:none}
-body.home .cta::before{top:8px;left:8px;border-right:0;border-bottom:0}
-body.home .cta::after{bottom:8px;right:8px;border-left:0;border-top:0}
-body.home .cta{position:relative}
 
 /* insignia tiles on obsidian */
 body.home .topic-grid .tile{
