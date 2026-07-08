@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Practice — VicThree Vocab</title>
+<title>Vocabulary of the Day — VicThree Vocab</title>
 <meta name="theme-color" content="#0B1F3A">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="assets/shield-180.png?v=50">
@@ -21,18 +21,19 @@
 </header>
 
 <main class="container">
-  <h2 id="ltitle" style="margin:4px 0 10px">Practice</h2>
-  <div class="chips" id="mode-row" style="margin-bottom:12px">
-    <button class="chip on" id="mode-learn">Practice set</button>
-    <button class="chip" id="mode-pyq">📜 PYQs only</button>
-    <button class="chip" id="restart-top" title="Restart this set">↺ Restart</button>
+  <h2 style="margin:4px 0 4px">Vocabulary of the Day</h2>
+  <p class="muted-intro">10 fresh words every day, picked from the day's headlines in The Hindu, Times of India, Indian Express &amp; Hindustan Times — with meanings, synonyms and the source.</p>
+
+  <div class="toolbar" style="grid-template-columns:1fr">
+    <div class="field"><label for="f-day">Day</label><select id="f-day"></select></div>
   </div>
 
-  <div id="stage"><div class="spin">Loading…</div></div>
-  <p class="foot">Learn mode — answer each word, read its card, then move on. Words you've seen won't come back until you restart.</p>
+  <div class="meta-row"><span id="count">…</span></div>
+  <div class="cards" id="list"><div class="spin">Loading today's words…</div></div>
+  <p class="foot">Updated every morning (IST). Words are sourced from public news headlines; meanings are for study use.</p>
 </main>
 
 <script src="js/data.js?v=50"></script>
-<script src="js/learn.js?v=50"></script>
+<script src="js/wotd.js?v=50"></script>
 </body>
 </html>

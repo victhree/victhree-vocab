@@ -1,0 +1,19 @@
+[
+  {
+    "date": "2026-07-08",
+    "label": "8 July 2026",
+    "seed": true,
+    "words": [
+      { "word": "Ubiquitous", "pos": "adjective", "meaning": "Present, appearing, or found everywhere.", "synonyms": ["omnipresent", "pervasive", "widespread"], "example": "Smartphones have become ubiquitous in modern life.", "source": "Editor's pick", "headline": "" },
+      { "word": "Mitigate", "pos": "verb", "meaning": "To make something less severe, serious, or painful.", "synonyms": ["alleviate", "lessen", "ease"], "example": "The new policy aims to mitigate the impact of the drought.", "source": "Editor's pick", "headline": "" },
+      { "word": "Austerity", "pos": "noun", "meaning": "Sternness or severity of manner; difficult economic conditions created by government measures to reduce spending.", "synonyms": ["frugality", "thrift", "severity"], "example": "The nation adopted austerity to cut its fiscal deficit.", "source": "Editor's pick", "headline": "" },
+      { "word": "Precarious", "pos": "adjective", "meaning": "Not securely held or in position; dangerously likely to fall or fail.", "synonyms": ["unstable", "insecure", "shaky"], "example": "The climbers were in a precarious position on the cliff.", "source": "Editor's pick", "headline": "" },
+      { "word": "Culminate", "pos": "verb", "meaning": "To reach a climax or point of highest development.", "synonyms": ["climax", "peak", "conclude"], "example": "Years of training culminated in an Olympic gold.", "source": "Editor's pick", "headline": "" },
+      { "word": "Resilient", "pos": "adjective", "meaning": "Able to recover quickly from difficulties; tough.", "synonyms": ["hardy", "tough", "adaptable"], "example": "A resilient economy bounces back after a shock.", "source": "Editor's pick", "headline": "" },
+      { "word": "Ambiguous", "pos": "adjective", "meaning": "Open to more than one interpretation; not having one obvious meaning.", "synonyms": ["unclear", "vague", "equivocal"], "example": "The treaty's ambiguous wording led to disputes.", "source": "Editor's pick", "headline": "" },
+      { "word": "Scrutiny", "pos": "noun", "meaning": "Critical observation or examination.", "synonyms": ["inspection", "examination", "review"], "example": "The accounts came under close scrutiny by auditors.", "source": "Editor's pick", "headline": "" },
+      { "word": "Unprecedented", "pos": "adjective", "meaning": "Never done or known before.", "synonyms": ["unparalleled", "novel", "exceptional"], "example": "The floods were of unprecedented severity.", "source": "Editor's pick", "headline": "" },
+      { "word": "Deteriorate", "pos": "verb", "meaning": "To become progressively worse.", "synonyms": ["worsen", "decline", "degrade"], "example": "Relations between the two nations deteriorated rapidly.", "source": "Editor's pick", "headline": "" }
+    ]
+  }
+]

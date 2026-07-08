@@ -30,6 +30,13 @@
     _pyq = await fetchJSON('pyq.json');
     return _pyq;
   };
+
+  let _wotd=null;
+  VV.loadWOTD = async function(){
+    if(_wotd) return _wotd;
+    _wotd = await fetchJSON('wotd.json');
+    return _wotd;
+  };
   // labels for PYQ vocabulary types
   VV.PYQ_TYPES = [
     {key:'synonym',   label:'Synonyms'},

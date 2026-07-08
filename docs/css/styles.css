@@ -436,3 +436,9 @@ body.home .foot{color:var(--hud-dim);font-family:var(--mono);letter-spacing:.5px
   #mode-row{gap:6px}
   #mode-row .chip{padding:7px 11px;font-size:12.5px}
 }
+
+/* Vocabulary of the Day */
+.wotd-src{margin:10px 0 0;font-size:13px;color:var(--muted);font-weight:600}
+.wotd-src .wotd-hl{font-weight:500;color:#7a889c}
+.topic-grid.duo{grid-template-columns:repeat(2,minmax(0,300px));justify-content:center;margin:18px auto}
+@media(max-width:600px){.topic-grid.duo{grid-template-columns:1fr;max-width:340px}}
