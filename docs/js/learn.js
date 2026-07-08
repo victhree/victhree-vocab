@@ -113,8 +113,94 @@
 
   const rt=$('#restart-top');
   if(rt) rt.addEventListener('click',()=>{
+    if(pyqMode){ startPYQ(); return; }
     if(confirm('Restart this set? Words you\'ve already seen in '+(TITLES[part]||'this set')+' will come up again.')) doReset();
   });
+
+  /* ---------- PYQ mode (previous-year questions for this topic) ---------- */
+  const PYQ_MAP={A:['synonym','antonym','usage'],B:['idiom'],C:['meaning']};
+  let pyqMode=false, pyqAll=null, pyqQueue=[];
+
+  async function startPYQ(){
+    if(!pyqAll){
+      try{ pyqAll = await VV.loadPYQ(); }
+      catch(e){ $('#stage').innerHTML='<div class="empty">Could not load PYQ data.</div>'; return; }
+    }
+    const types=PYQ_MAP[part]||[];
+    pyqQueue = VV.shuffle(pyqAll.filter(q=>types.includes(q.type)));
+    if(!pyqQueue.length){ $('#stage').innerHTML='<div class="empty">No previous-year questions for this topic yet.</div>'; return; }
+    nextPYQ();
+  }
+  function nextPYQ(){
+    if(!pyqQueue.length){ showDonePYQ(); return; }
+    renderPYQ(pyqQueue.shift());
+  }
+  function pyqStem(q){
+    let s=VV.esc(q.stem);
+    if(q.word && /^(synonym|antonym|usage|meaning)$/.test(q.type)){
+      const w=q.word.split(/[\s→/(]/)[0].trim();
+      if(w && w.length>2){ try{ s=s.replace(new RegExp('\\b('+w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')\\b','i'),'<span class="cap">$1</span>'); }catch(e){} }
+    }
+    return s;
+  }
+  function renderPYQ(q){
+    const opts=q.options.map((o,oi)=>
+      '<div class="opt clickable" data-oi="'+oi+'"><span class="lt">'+VV.letter(oi)+'</span><span>'+VV.esc(o)+'</span></div>'
+    ).join('');
+    $('#stage').innerHTML=
+      '<div class="qcard">'+
+        '<div class="qhead"><span class="pyqtag">PYQ · '+VV.esc(q.paper)+' · '+q.year+'</span>'+
+          '<span class="qtype">'+VV.esc(VV.pyqTypeLabel(q.type))+'</span></div>'+
+        '<div class="stem">'+pyqStem(q)+'</div>'+
+        '<div class="opts">'+opts+'</div>'+
+        '<div class="detail" id="detail"></div>'+
+        '<div class="navrow" id="navrow"></div>'+
+      '</div>';
+    locked=false;
+    $('#stage').querySelectorAll('.opt').forEach(o=>o.addEventListener('click',()=>onPickPYQ(q,+o.dataset.oi)));
+    window.scrollTo({top:0,behavior:'smooth'});
+  }
+  function onPickPYQ(q,oi){
+    if(locked) return; locked=true;
+    const card=$('#stage .qcard');
+    const opts=card.querySelectorAll('.opt');
+    opts.forEach(o=>o.classList.remove('clickable'));
+    opts[q.answer].classList.add('correct');
+    if(oi!==q.answer) opts[oi].classList.add('wrong');
+    const verdict = oi===q.answer
+      ? '<span class="pbadge got">✓ Correct</span>'
+      : '<span class="pbadge missed">✗ Answer: '+VV.letter(q.answer).toUpperCase()+'</span>';
+    let h='<div class="dtop"><div>'+verdict+'</div></div>';
+    h+='<p class="dline"><span class="dk">Why</span> '+VV.esc(q.explanation||'')+'</p>';
+    if(q.note) h+='<p class="dnote">⚠ '+VV.esc(q.note)+'</p>';
+    const d=$('#detail'); d.innerHTML=h; d.classList.add('show');
+    $('#navrow').innerHTML='<button class="btn" id="next">Next question →</button>';
+    $('#next').addEventListener('click',nextPYQ);
+    d.scrollIntoView({behavior:'smooth',block:'nearest'});
+  }
+  function showDonePYQ(){
+    $('#stage').innerHTML=
+      '<div class="qcard result">'+
+        '<h2 style="margin:0 0 6px;color:var(--navy)">All PYQs done 🎉</h2>'+
+        '<p style="font-size:16px;margin:6px 0">You\'ve gone through the previous-year '+(TITLES[part]||'')+' questions.</p>'+
+        '<div class="dactions">'+
+          '<button class="btn" id="restartp">↺ Start over</button>'+
+          '<a class="btn outline" href="pyq.html">🗂️ All Vocabulary PYQs</a>'+
+          '<a class="btn outline" href="index.html">← Home</a>'+
+        '</div>'+
+      '</div>';
+    $('#restartp').addEventListener('click',startPYQ);
+  }
+
+  function setMode(m){
+    pyqMode = (m==='pyq');
+    $('#mode-learn').classList.toggle('on',!pyqMode);
+    $('#mode-pyq').classList.toggle('on',pyqMode);
+    $('#ltitle').textContent = (pyqMode?'PYQs · ':'Practice · ')+(TITLES[part]||'Vocabulary');
+    if(pyqMode) startPYQ(); else nextWord();
+  }
+  $('#mode-learn').addEventListener('click',()=>{ if(pyqMode) setMode('learn'); });
+  $('#mode-pyq').addEventListener('click',()=>{ if(!pyqMode) setMode('pyq'); });
 
   refill();
   nextWord();

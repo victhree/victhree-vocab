@@ -221,6 +221,12 @@ img{max-width:100%}
 .iconbtn:hover{color:var(--navy);background:#eef2f8}
 .muted-intro{color:var(--muted);font-size:14px;margin:2px 0 12px;line-height:1.5}
 .kindtag{font-size:12px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;vertical-align:middle}
+/* PYQ tag + chip counts + OCR note */
+.pyqtag{font-family:var(--mono);font-size:11px;font-weight:700;letter-spacing:.5px;color:var(--navy);
+  background:linear-gradient(135deg,var(--gold-2),var(--gold));border-radius:7px;padding:3px 9px;flex:0 0 auto;white-space:nowrap}
+.chip .chipn{font-size:11px;opacity:.7;font-weight:700}
+.chip.on .chipn{opacity:.85}
+.dnote{margin:8px 0 0;font-size:13.5px;line-height:1.45;color:#8a6a1f;background:#fbf6e9;border-left:3px solid var(--gold);border-radius:6px;padding:8px 12px}
 .meaningtag{font-size:15px;font-weight:600;color:var(--navy);background:#eef2f8;border-radius:8px;padding:3px 11px;vertical-align:middle;white-space:normal}
 .confrow{margin:10px 0}
 .confrow + .confrow{border-top:1px solid var(--line);padding-top:12px}
@@ -415,3 +421,8 @@ body.home .join-label{color:var(--hud-white);font-family:var(--mono);text-transf
 body.home .foot-social a{color:var(--gold-2)}
 body.home .foot-social a:hover{color:#fff}
 body.home .foot{color:var(--hud-dim);font-family:var(--mono);letter-spacing:.5px}
+
+/* home "Vocabulary PYQs" section heading */
+.pyq-head{text-align:center;margin:32px 0 2px}
+.home-sec{font-family:var(--mono);text-transform:uppercase;letter-spacing:2px;font-size:16px;color:var(--gold-2);margin:0}
+.home-sec-sub{font-size:12.5px;color:var(--hud-dim);margin:6px 0 0;font-family:var(--mono);letter-spacing:.4px}

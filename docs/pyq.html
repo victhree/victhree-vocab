@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Practice — VicThree Vocab</title>
+<title>Vocabulary PYQs — VicThree Vocab</title>
 <meta name="theme-color" content="#0B1F3A">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="assets/shield-180.png?v=45">
@@ -21,21 +21,21 @@
 </header>
 
 <main class="container">
-  <div class="row-between">
-    <h2 id="ltitle" style="margin:4px 0 12px">Practice</h2>
-    <button class="btn sm outline" id="restart-top" title="Restart this set">↺ Restart</button>
-  </div>
+  <h2 style="margin:4px 0 4px">Vocabulary PYQs</h2>
+  <p class="muted-intro">Real UPSC CDS vocabulary questions (2021–2026, CDS 1 &amp; 2) with the correct answer and a short explanation. Pick a topic and year, then tap an option to check yourself.</p>
 
-  <div class="chips" id="mode-row" style="margin-bottom:12px">
-    <button class="chip on" id="mode-learn">Practice set</button>
-    <button class="chip" id="mode-pyq">📜 Show only PYQs</button>
-  </div>
+  <div class="section-title">Topic</div>
+  <div class="chips" id="type-chips" style="margin-bottom:12px"></div>
 
-  <div id="stage"><div class="spin">Loading…</div></div>
-  <p class="foot">Learn mode — answer each word, read its card, then move on. Words you've seen won't come back until you restart.</p>
+  <div class="section-title">Paper / Year</div>
+  <div class="chips" id="year-chips" style="margin-bottom:12px"></div>
+
+  <div class="meta-row"><span id="count">…</span></div>
+  <div class="cards" id="list"><div class="spin">Loading previous-year questions…</div></div>
+  <p class="foot">Compiled from UPSC CDS English question papers. A few OCR-flagged items were omitted. Tap an option to reveal the answer &amp; explanation.</p>
 </main>
 
 <script src="js/data.js?v=45"></script>
-<script src="js/learn.js?v=45"></script>
+<script src="js/pyq.js?v=45"></script>
 </body>
 </html>

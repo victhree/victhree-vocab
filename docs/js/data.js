@@ -24,6 +24,24 @@
   };
   VV.wordById = id => _byId ? _byId[id] : null;
 
+  let _pyq=null;
+  VV.loadPYQ = async function(){
+    if(_pyq) return _pyq;
+    _pyq = await fetchJSON('pyq.json');
+    return _pyq;
+  };
+  // labels for PYQ vocabulary types
+  VV.PYQ_TYPES = [
+    {key:'synonym',   label:'Synonyms'},
+    {key:'antonym',   label:'Antonyms'},
+    {key:'idiom',     label:'Idioms & Phrases'},
+    {key:'confusable',label:'Confusable Pairs'},
+    {key:'meaning',   label:'Word Meanings'},
+    {key:'usage',     label:'Vocabulary in Context'},
+    {key:'similar',   label:'Similar-sounding Words'}
+  ];
+  VV.pyqTypeLabel = k => (VV.PYQ_TYPES.find(t=>t.key===k)||{}).label || k;
+
   /* ---------- localStorage: bookmarks + progress ---------- */
   const BK='vv_bookmarks', PR='vv_progress';
   function read(k){ try{return JSON.parse(localStorage.getItem(k)||'{}');}catch(e){return {};} }
