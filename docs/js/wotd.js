@@ -16,7 +16,11 @@
     if(d && d.date && /^\d{4}-\d{2}-\d{2}$/.test(d.date)){
       const p=d.date.split('-');
       const dt=new Date(+p[0], +p[1]-1, +p[2]);
-      if(!isNaN(dt)) return dt.toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+      if(!isNaN(dt)){
+        const datePart=dt.toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'});
+        const weekday=dt.toLocaleDateString('en-GB',{weekday:'long'});
+        return datePart+', '+weekday;   // date first, day later
+      }
     }
     return (d&&d.label)||'';
   }
