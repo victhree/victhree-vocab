@@ -14,7 +14,7 @@ const FEEDS = [
   { source: 'The Hindu',        url: 'https://www.thehindu.com/feeder/default.rss' },
   { source: 'Times of India',   url: 'https://timesofindia.indiatimes.com/rssfeedstopstories.cms' },
   { source: 'Indian Express',   url: 'https://indianexpress.com/feed/' },
-  { source: 'Hindustan Times',  url: 'https://www.hindustantimes.com/feeds/rss/india-news/index.xml' },
+  { source: 'Hindustan Times',  url: 'https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml' },
 ];
 
 function istDate() {
