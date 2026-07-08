@@ -38,7 +38,8 @@
     {key:'confusable',label:'Confusable Pairs'},
     {key:'meaning',   label:'Word Meanings'},
     {key:'usage',     label:'Vocabulary in Context'},
-    {key:'similar',   label:'Similar-sounding Words'}
+    {key:'similar',   label:'Similar-sounding Words'},
+    {key:'spelling',  label:'Spelling'}
   ];
   VV.pyqTypeLabel = k => (VV.PYQ_TYPES.find(t=>t.key===k)||{}).label || k;
 

@@ -1,5 +1,4065 @@
 [
     {
+        "id":  "pyq-2018-c1-1",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  1,
+        "word":  "ripe (a ripe person)",
+        "stem":  "A truly respectable old man is a ripe person.",
+        "options":  [
+                        "senior",
+                        "mature",
+                        "perfect",
+                        "seasoned"
+                    ],
+        "answer":  1,
+        "explanation":  "‘A ripe person’ = fully developed/mature. (‘Seasoned’ is close, but ‘mature’ is the direct synonym for a person.)"
+    },
+    {
+        "id":  "pyq-2018-c1-2",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  2,
+        "word":  "repulsed",
+        "stem":  "The soldiers repulsed the enemy.",
+        "options":  [
+                        "defeated",
+                        "destroyed",
+                        "rejected",
+                        "repelled"
+                    ],
+        "answer":  3,
+        "explanation":  "Repulse = to drive back/repel (an enemy). (Defeated/rejected are looser.)"
+    },
+    {
+        "id":  "pyq-2018-c1-3",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  3,
+        "word":  "masked",
+        "stem":  "She deftly masked her feelings.",
+        "options":  [
+                        "hid",
+                        "flaunted",
+                        "oblique",
+                        "obscured"
+                    ],
+        "answer":  0,
+        "explanation":  "Mask = to conceal/hide (feelings). (‘Obscured’ = made unclear is close; ‘hid’ is the direct synonym.)"
+    },
+    {
+        "id":  "pyq-2018-c1-4",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  4,
+        "word":  "Vendors",
+        "stem":  "Vendors must have licence.",
+        "options":  [
+                        "One who drives a car",
+                        "One who works in a hospital",
+                        "One who is employed in food serving",
+                        "One engaged in selling"
+                    ],
+        "answer":  3,
+        "explanation":  "A vendor is a seller."
+    },
+    {
+        "id":  "pyq-2018-c1-6",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  6,
+        "word":  "stolen",
+        "stem":  "The jewels have been stolen from her bedroom.",
+        "options":  [
+                        "embezzled",
+                        "asserted",
+                        "yielded",
+                        "abdicated"
+                    ],
+        "answer":  0,
+        "explanation":  "To steal (esp. entrusted valuables) = embezzle. (Asserted, yielded, abdicated are unrelated.)"
+    },
+    {
+        "id":  "pyq-2018-c1-7",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  7,
+        "word":  "exemplary",
+        "stem":  "The soldier showed an exemplary courage.",
+        "options":  [
+                        "flawed",
+                        "faulty",
+                        "ideal",
+                        "boisterous"
+                    ],
+        "answer":  2,
+        "explanation":  "Exemplary = serving as a model/ideal. (Flawed, faulty are opposites.)"
+    },
+    {
+        "id":  "pyq-2018-c1-8",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  8,
+        "word":  "served (served fruits)",
+        "stem":  "They served fruits after the dinner.",
+        "options":  [
+                        "assisted",
+                        "obliged",
+                        "waited",
+                        "offered"
+                    ],
+        "answer":  3,
+        "explanation":  "Here ‘served’ = presented/offered (food). (Assisted, waited are the wrong sense.)"
+    },
+    {
+        "id":  "pyq-2018-c1-9",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  9,
+        "word":  "recommend",
+        "stem":  "The committee should recommend his name to the government.",
+        "options":  [
+                        "praise",
+                        "advise",
+                        "counsel",
+                        "suggest"
+                    ],
+        "answer":  3,
+        "explanation":  "Recommend = to put forward as suitable = suggest. (Advise/counsel are close; ‘suggest’ best fits ‘recommend his name’.)"
+    },
+    {
+        "id":  "pyq-2018-c1-31",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  31,
+        "word":  "naive",
+        "stem":  "It was a mystery as to where the young girl had acquired such a naive belief.",
+        "options":  [
+                        "credulous",
+                        "childlike",
+                        "wise",
+                        "innocent"
+                    ],
+        "answer":  2,
+        "explanation":  "Naive = innocent/unsophisticated; opposite is wise. (Credulous, childlike, innocent are synonyms.)"
+    },
+    {
+        "id":  "pyq-2018-c1-32",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  32,
+        "word":  "suitable",
+        "stem":  "It\u0027s the only treatment suitable for cancer.",
+        "options":  [
+                        "insufficient",
+                        "impertinent",
+                        "befitting",
+                        "congenial"
+                    ],
+        "answer":  1,
+        "explanation":  "Suitable = fitting/appropriate; opposite is impertinent (here in the sense of ‘not pertinent/inappropriate’). (Befitting, congenial are synonyms.)"
+    },
+    {
+        "id":  "pyq-2018-c1-33",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  33,
+        "word":  "criticisms",
+        "stem":  "Some of the criticisms which they had to put up were very unfair.",
+        "options":  [
+                        "scold",
+                        "scorn",
+                        "appreciation",
+                        "censure"
+                    ],
+        "answer":  2,
+        "explanation":  "Criticism = disapproval; opposite is appreciation. (Scold, scorn, censure are synonyms.)"
+    },
+    {
+        "id":  "pyq-2018-c1-34",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  34,
+        "word":  "anxious",
+        "stem":  "I would beg of all friends not to rush to Birla house nor try to dissuade me or be anxious about me.",
+        "options":  [
+                        "certain",
+                        "composed",
+                        "careless",
+                        "heedless"
+                    ],
+        "answer":  1,
+        "explanation":  "Anxious = worried/uneasy; opposite is composed (calm). (Certain, careless, heedless are distractors.)"
+    },
+    {
+        "id":  "pyq-2018-c1-36",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  36,
+        "word":  "peculiar",
+        "stem":  "Indian culture has been, from time immemorial, of a peculiar cast and mould.",
+        "options":  [
+                        "common",
+                        "customary",
+                        "natural",
+                        "familiar"
+                    ],
+        "answer":  0,
+        "explanation":  "Peculiar = unusual/distinctive; opposite is common (ordinary). (Customary, natural, familiar are related distractors.)"
+    },
+    {
+        "id":  "pyq-2018-c1-37",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  37,
+        "word":  "charming",
+        "stem":  "The princess charming was the centre of attraction today.",
+        "options":  [
+                        "enchanting",
+                        "hypnotic",
+                        "repulsive",
+                        "fascinating"
+                    ],
+        "answer":  2,
+        "explanation":  "Charming = delightful/attractive; opposite is repulsive. (Enchanting, hypnotic, fascinating are synonyms.)"
+    },
+    {
+        "id":  "pyq-2018-c1-38",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  38,
+        "word":  "abominable",
+        "stem":  "Macbeth is an abominable figure.",
+        "options":  [
+                        "abhorrent",
+                        "repugnant",
+                        "reputable",
+                        "attractive"
+                    ],
+        "answer":  3,
+        "explanation":  "Abominable = detestable/repellent; opposite is attractive (pleasing). (Abhorrent, repugnant are synonyms; ‘reputable’ is a distractor.)"
+    },
+    {
+        "id":  "pyq-2018-c1-39",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  39,
+        "word":  "fanatical",
+        "stem":  "Terrorists profess fanatical ideology.",
+        "options":  [
+                        "bigoted",
+                        "militant",
+                        "moderate",
+                        "fervid"
+                    ],
+        "answer":  2,
+        "explanation":  "Fanatical = extreme/zealous; opposite is moderate. (Bigoted, militant, fervid are synonyms.)"
+    },
+    {
+        "id":  "pyq-2018-c1-40",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  40,
+        "word":  "vulnerable",
+        "stem":  "Rakesh is vulnerable to political pressure.",
+        "options":  [
+                        "weak",
+                        "unguarded",
+                        "exposed",
+                        "resilient"
+                    ],
+        "answer":  3,
+        "explanation":  "Vulnerable = open to harm; opposite is resilient (able to withstand). (Weak, unguarded, exposed are synonyms.)"
+    },
+    {
+        "id":  "pyq-2018-c1-106",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  106,
+        "word":  "A hot potato",
+        "stem":  "A hot potato",
+        "options":  [
+                        "A dish to relish when it is hot",
+                        "A very important person in a gathering",
+                        "An issue which is disputed, and catching the attention of people",
+                        "A way of thinking what someone is thinking"
+                    ],
+        "answer":  2,
+        "explanation":  "A controversial, sensitive matter no one wants to handle."
+    },
+    {
+        "id":  "pyq-2018-c1-107",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  107,
+        "word":  "You snooze, you lose",
+        "stem":  "You snooze, you lose",
+        "options":  [
+                        "Don\u0027t take it lightly",
+                        "Don\u0027t be over-enthusiastic",
+                        "Don\u0027t hesitate to do it",
+                        "Don\u0027t be pessimistic"
+                    ],
+        "answer":  0,
+        "explanation":  "If you are inattentive/slow to act, you miss the opportunity."
+    },
+    {
+        "id":  "pyq-2018-c1-108",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  108,
+        "word":  "I don\u0027t buy it",
+        "stem":  "I don\u0027t buy it",
+        "options":  [
+                        "I don\u0027t believe it",
+                        "I have no money",
+                        "I summarize it",
+                        "I don\u0027t need it"
+                    ],
+        "answer":  0,
+        "explanation":  "To refuse to accept/believe something."
+    },
+    {
+        "id":  "pyq-2018-c1-109",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  109,
+        "word":  "My two cents",
+        "stem":  "My two cents",
+        "options":  [
+                        "My money",
+                        "My opinion",
+                        "My decision",
+                        "My explanation"
+                    ],
+        "answer":  1,
+        "explanation":  "One’s (humbly offered) opinion."
+    },
+    {
+        "id":  "pyq-2018-c1-110",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  110,
+        "word":  "Out of the blue",
+        "stem":  "Out of the blue",
+        "options":  [
+                        "Undoubtedly",
+                        "Unexpectedly",
+                        "Unbelievably",
+                        "Unconcerned"
+                    ],
+        "answer":  1,
+        "explanation":  "Suddenly and without warning."
+    },
+    {
+        "id":  "pyq-2018-c1-111",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  111,
+        "word":  "What a small world",
+        "stem":  "What a small world",
+        "options":  [
+                        "What a coincidence",
+                        "What a challenging task",
+                        "What a narrow space",
+                        "What a beautiful place"
+                    ],
+        "answer":  0,
+        "explanation":  "Said on an unexpected/coincidental encounter."
+    },
+    {
+        "id":  "pyq-2018-c1-112",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  112,
+        "word":  "Down the road",
+        "stem":  "Down the road",
+        "options":  [
+                        "In future",
+                        "In the past",
+                        "At present",
+                        "No particular time"
+                    ],
+        "answer":  0,
+        "explanation":  "At some later time."
+    },
+    {
+        "id":  "pyq-2018-c1-113",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  113,
+        "word":  "Raising eyebrows",
+        "stem":  "Raising eyebrows",
+        "options":  [
+                        "To show surprise",
+                        "Criticize",
+                        "Support",
+                        "Instruct"
+                    ],
+        "answer":  0,
+        "explanation":  "To cause surprise or mild disapproval."
+    },
+    {
+        "id":  "pyq-2018-c1-114",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  114,
+        "word":  "Step up to the plate",
+        "stem":  "Step up to the plate",
+        "options":  [
+                        "Take control",
+                        "Take a job",
+                        "Take a responsibility",
+                        "Take an opportunity"
+                    ],
+        "answer":  2,
+        "explanation":  "To take action/accept responsibility when needed."
+    },
+    {
+        "id":  "pyq-2018-c1-115",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  115,
+        "word":  "The Holy Grail",
+        "stem":  "The Holy Grail",
+        "options":  [
+                        "The pious place of worship",
+                        "An important object or goal",
+                        "A very important place",
+                        "Someone\u0027s destination of life"
+                    ],
+        "answer":  1,
+        "explanation":  "A greatly desired objective that is hard to attain."
+    },
+    {
+        "id":  "pyq-2018-c1-116",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  116,
+        "word":  "You scratch my back, I\u0027ll scratch yours",
+        "stem":  "You scratch my back, I\u0027ll scratch yours",
+        "options":  [
+                        "Mutual favour",
+                        "Mutual understanding",
+                        "Mutual respect",
+                        "Mutual disliking"
+                    ],
+        "answer":  0,
+        "explanation":  "An exchange of favours/help."
+    },
+    {
+        "id":  "pyq-2018-c1-117",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  117,
+        "word":  "At the drop of a hat",
+        "stem":  "At the drop of a hat",
+        "options":  [
+                        "Without any hesitation",
+                        "When attempt fails and it\u0027s time to start all over",
+                        "To further a loss with mockery",
+                        "Judging other\u0027s intentions too much"
+                    ],
+        "answer":  0,
+        "explanation":  "Immediately, without hesitation."
+    },
+    {
+        "id":  "pyq-2018-c1-118",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  118,
+        "word":  "Ball is in your court",
+        "stem":  "Ball is in your court",
+        "options":  [
+                        "Be happy at the dance / ball room",
+                        "It\u0027s up to you to make the decision",
+                        "A very powerful person",
+                        "Not speaking directly about an issue"
+                    ],
+        "answer":  1,
+        "explanation":  "The responsibility to act/decide is now yours."
+    },
+    {
+        "id":  "pyq-2018-c1-119",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  119,
+        "word":  "Best of both worlds",
+        "stem":  "Best of both worlds",
+        "options":  [
+                        "A happy person who is the best with all",
+                        "All the advantages",
+                        "To take on a task that is way too big",
+                        "Someone whom everybody likes"
+                    ],
+        "answer":  1,
+        "explanation":  "Enjoying the benefits of two different things at once."
+    },
+    {
+        "id":  "pyq-2018-c1-120",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "04 Feb 2018",
+        "tag":  "CDS 1 2018",
+        "qnum":  120,
+        "word":  "Costs an arm and a leg",
+        "stem":  "Costs an arm and a leg",
+        "options":  [
+                        "Severe punishment to someone",
+                        "Too much consciousness about one\u0027s body",
+                        "Two difficult alternatives",
+                        "Something very expensive"
+                    ],
+        "answer":  3,
+        "explanation":  "Extremely costly."
+    },
+    {
+        "id":  "pyq-2018-c2-11",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  11,
+        "word":  "thrifty",
+        "stem":  "Rahul is always thrifty.",
+        "options":  [
+                        "reckless",
+                        "economical",
+                        "naive",
+                        "extravagant"
+                    ],
+        "answer":  1,
+        "explanation":  "Thrifty = careful with money = economical. (Reckless, extravagant are opposites.)"
+    },
+    {
+        "id":  "pyq-2018-c2-12",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  12,
+        "word":  "salubrious",
+        "stem":  "His salubrious words calmed the students.",
+        "options":  [
+                        "provoking",
+                        "pleasant",
+                        "ridiculous",
+                        "thanking"
+                    ],
+        "answer":  1,
+        "explanation":  "Salubrious = wholesome/agreeable; in ‘salubrious words that calmed’ = pleasant/soothing."
+    },
+    {
+        "id":  "pyq-2018-c2-13",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  13,
+        "word":  "desolated",
+        "stem":  "He felt desolated after he lost his business.",
+        "options":  [
+                        "deserted",
+                        "joyful",
+                        "strong",
+                        "annoyed"
+                    ],
+        "answer":  0,
+        "explanation":  "Desolate = forlorn/abandoned; nearest is deserted. (Joyful is the opposite.)"
+    },
+    {
+        "id":  "pyq-2018-c2-14",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  14,
+        "word":  "condone",
+        "stem":  "Don\u0027t condone such acts which lead to unrest in the country.",
+        "options":  [
+                        "regard",
+                        "punish",
+                        "aware of",
+                        "overlook"
+                    ],
+        "answer":  3,
+        "explanation":  "Condone = to disregard/forgive an offence = overlook. (Punish is the opposite.)"
+    },
+    {
+        "id":  "pyq-2018-c2-15",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  15,
+        "word":  "ineptitude",
+        "stem":  "A good work place shall not encourage ineptitude even in a hidden manner.",
+        "options":  [
+                        "incompetence",
+                        "courage",
+                        "gossip",
+                        "radical thinking"
+                    ],
+        "answer":  0,
+        "explanation":  "Ineptitude = lack of skill = incompetence."
+    },
+    {
+        "id":  "pyq-2018-c2-16",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  16,
+        "word":  "impede",
+        "stem":  "Learning of foreign language should not impede one\u0027s mother tongue learning.",
+        "options":  [
+                        "facilitate",
+                        "hinder",
+                        "prevent",
+                        "accept"
+                    ],
+        "answer":  1,
+        "explanation":  "Impede = to obstruct/slow down = hinder. (‘Prevent’ = stop completely is stronger; ‘facilitate’ is the opposite.)"
+    },
+    {
+        "id":  "pyq-2018-c2-18",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  18,
+        "word":  "detrimental",
+        "stem":  "It was felt that the decision to remove the group from the exercise would be detrimental to the organization.",
+        "options":  [
+                        "beneficial",
+                        "harsh",
+                        "disadvantageous",
+                        "demanding"
+                    ],
+        "answer":  2,
+        "explanation":  "Detrimental = harmful = disadvantageous. (Beneficial is the opposite.)"
+    },
+    {
+        "id":  "pyq-2018-c2-19",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  19,
+        "word":  "derisive",
+        "stem":  "His derisive behaviour has led to the situation we face now.",
+        "options":  [
+                        "mockery",
+                        "conducive",
+                        "encouraging",
+                        "contemptuous"
+                    ],
+        "answer":  3,
+        "explanation":  "Derisive = mocking/scornful = contemptuous. (‘Mockery’ is a noun, not the adjective needed.)"
+    },
+    {
+        "id":  "pyq-2018-c2-20",
+        "type":  "synonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  20,
+        "word":  "engaging",
+        "stem":  "Any classroom should provide an engaging environment for learners.",
+        "options":  [
+                        "carefree",
+                        "appealing",
+                        "thinking",
+                        "dreaming"
+                    ],
+        "answer":  1,
+        "explanation":  "Engaging = charming/attractive = appealing."
+    },
+    {
+        "id":  "pyq-2018-c2-64",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  64,
+        "word":  "on the fly",
+        "stem":  "He makes decision on the fly. (idiom: on the fly)",
+        "options":  [
+                        "He decides quickly without any seriousness.",
+                        "He decides with all seriousness.",
+                        "He decides nonchalantly.",
+                        "He is unwilling to decide."
+                    ],
+        "answer":  0,
+        "explanation":  "‘On the fly’ = hastily/spontaneously, without deliberation."
+    },
+    {
+        "id":  "pyq-2018-c2-65",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  65,
+        "word":  "Follow suit",
+        "stem":  "Follow suit",
+        "options":  [
+                        "Following someone\u0027s suit",
+                        "Suiting to someone",
+                        "Doing the same as someone else has just done",
+                        "Doing the same kind of mistake"
+                    ],
+        "answer":  2,
+        "explanation":  "To imitate the action just taken by another."
+    },
+    {
+        "id":  "pyq-2018-c2-66",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  66,
+        "word":  "Close shave",
+        "stem":  "Close shave",
+        "options":  [
+                        "Shaving very closely",
+                        "Miraculous escape",
+                        "Saving someone from danger",
+                        "Easy escape"
+                    ],
+        "answer":  1,
+        "explanation":  "A narrow escape from danger."
+    },
+    {
+        "id":  "pyq-2018-c2-67",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  67,
+        "word":  "At the crossroads",
+        "stem":  "At the crossroads",
+        "options":  [
+                        "At important point of a decision",
+                        "At an important point of journey",
+                        "At the important road of a journey",
+                        "At an important stage or decision"
+                    ],
+        "answer":  3,
+        "explanation":  "At a critical point where an important choice must be made."
+    },
+    {
+        "id":  "pyq-2018-c2-68",
+        "type":  "idiom",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  68,
+        "word":  "A pearl of wisdom",
+        "stem":  "A pearl of wisdom",
+        "options":  [
+                        "A wise man",
+                        "An important piece of order",
+                        "An important piece of pearl",
+                        "An important piece of advice"
+                    ],
+        "answer":  3,
+        "explanation":  "A wise/valuable piece of advice."
+    },
+    {
+        "id":  "pyq-2018-c2-99",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  99,
+        "word":  "obscure",
+        "stem":  "His ideas are obscure.",
+        "options":  [
+                        "New",
+                        "Clear",
+                        "Infamous",
+                        "Obscene"
+                    ],
+        "answer":  1,
+        "explanation":  "Obscure = unclear/hard to understand; opposite is clear. (New, infamous, obscene are distractors.)"
+    },
+    {
+        "id":  "pyq-2018-c2-100",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  100,
+        "word":  "sanguine",
+        "stem":  "Ravi is jovial and he makes the environment sanguine.",
+        "options":  [
+                        "Pessimistic",
+                        "Optimistic",
+                        "Humorous",
+                        "Rebellious"
+                    ],
+        "answer":  0,
+        "explanation":  "Sanguine = optimistic/cheerful; opposite is pessimistic. (Optimistic is a synonym.)"
+    },
+    {
+        "id":  "pyq-2018-c2-101",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  101,
+        "word":  "woebegone",
+        "stem":  "There prevailed a woebegone feeling in the room.",
+        "options":  [
+                        "Sad",
+                        "Cheerful",
+                        "Sleepy",
+                        "Thoughtful"
+                    ],
+        "answer":  1,
+        "explanation":  "Woebegone = sorrowful/miserable; opposite is cheerful. (Sad is a synonym.)"
+    },
+    {
+        "id":  "pyq-2018-c2-102",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  102,
+        "word":  "mutinous",
+        "stem":  "It appears that the whole group is mutinous.",
+        "options":  [
+                        "Arrogant",
+                        "Lucky",
+                        "Obedient",
+                        "Sincere"
+                    ],
+        "answer":  2,
+        "explanation":  "Mutinous = rebellious; opposite is obedient. (Arrogant, lucky, sincere are distractors.)"
+    },
+    {
+        "id":  "pyq-2018-c2-103",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  103,
+        "word":  "foes",
+        "stem":  "They consider themselves as foes from birth.",
+        "options":  [
+                        "Protagonists",
+                        "Opponents",
+                        "Friends",
+                        "Soul mates"
+                    ],
+        "answer":  2,
+        "explanation":  "Foes = enemies; opposite is friends. (Opponents is a synonym.)"
+    },
+    {
+        "id":  "pyq-2018-c2-104",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  104,
+        "word":  "distinctive",
+        "stem":  "This painting has a distinctive element which can be noticed well.",
+        "options":  [
+                        "Salient",
+                        "Common",
+                        "Great",
+                        "Unique"
+                    ],
+        "answer":  1,
+        "explanation":  "Distinctive = characteristic/unique; opposite is common. (Salient, unique are synonyms.)"
+    },
+    {
+        "id":  "pyq-2018-c2-105",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  105,
+        "word":  "inadvertently",
+        "stem":  "The entry was carried out inadvertently.",
+        "options":  [
+                        "Purposely",
+                        "Purposively",
+                        "Accidently",
+                        "Not noticing"
+                    ],
+        "answer":  0,
+        "explanation":  "Inadvertently = accidentally/unintentionally; opposite is purposely. (‘Accidently’ is a synonym; ‘purposively’ means goal-directed, a weaker fit.)"
+    },
+    {
+        "id":  "pyq-2018-c2-106",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  106,
+        "word":  "disdainful",
+        "stem":  "The whole audience showed a disdainful attitude during the match.",
+        "options":  [
+                        "Sneering",
+                        "Respectful",
+                        "Mocking",
+                        "Cheerful"
+                    ],
+        "answer":  1,
+        "explanation":  "Disdainful = scornful; opposite is respectful. (Sneering, mocking are synonyms.)"
+    },
+    {
+        "id":  "pyq-2018-c2-107",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  107,
+        "word":  "Efficacy",
+        "stem":  "Efficacy of the project needs an examination.",
+        "options":  [
+                        "Inefficiency",
+                        "Efficiency",
+                        "Value",
+                        "Effectiveness"
+                    ],
+        "answer":  0,
+        "explanation":  "Efficacy = effectiveness; opposite is inefficiency. (Efficiency, value, effectiveness are synonyms/related.)"
+    },
+    {
+        "id":  "pyq-2018-c2-108",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  108,
+        "word":  "rebuttal",
+        "stem":  "Her rebuttal that she was not involved in the case was considered by the court.",
+        "options":  [
+                        "Refusal",
+                        "Denial",
+                        "Acceptance",
+                        "Kindness"
+                    ],
+        "answer":  2,
+        "explanation":  "Rebuttal = denial/refutation; opposite is acceptance. (Refusal, denial are synonyms.)"
+    },
+    {
+        "id":  "pyq-2018-c2-109",
+        "type":  "antonym",
+        "year":  2018,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "18 Nov 2018",
+        "tag":  "CDS 2 2018",
+        "qnum":  109,
+        "word":  "soggy",
+        "stem":  "The baby could not move as the place was soggy.",
+        "options":  [
+                        "Sodden",
+                        "Dry",
+                        "Hot",
+                        "Wet"
+                    ],
+        "answer":  1,
+        "explanation":  "Soggy = soaked/wet; opposite is dry. (Sodden, wet are synonyms.)"
+    },
+    {
+        "id":  "pyq-2019-c1-11",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  11,
+        "word":  "provocative",
+        "stem":  "A provocative message had been doing rounds on social media to instigate the mob against migrants.",
+        "options":  [
+                        "dexterous",
+                        "inflammatory",
+                        "valiant",
+                        "prudent"
+                    ],
+        "answer":  1,
+        "explanation":  "Provocative (here) = likely to arouse anger = inflammatory."
+    },
+    {
+        "id":  "pyq-2019-c1-12",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  12,
+        "word":  "precipitation",
+        "stem":  "The differences include increase in mean temperature and heavy precipitation in several regions.",
+        "options":  [
+                        "drought",
+                        "oasis",
+                        "rainfall",
+                        "snowing"
+                    ],
+        "answer":  2,
+        "explanation":  "Precipitation (meteorology) = rain/snow etc.; in context of ‘heavy precipitation’ = rainfall."
+    },
+    {
+        "id":  "pyq-2019-c1-13",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  13,
+        "word":  "anonymously",
+        "stem":  "The portal will help victims and complainants to anonymously report cyber crime.",
+        "options":  [
+                        "incognito",
+                        "directly",
+                        "unfailingly",
+                        "in situ"
+                    ],
+        "answer":  0,
+        "explanation":  "Anonymously = without revealing identity = incognito."
+    },
+    {
+        "id":  "pyq-2019-c1-14",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  14,
+        "word":  "terminal",
+        "stem":  "He is suffering from a terminal disease.",
+        "options":  [
+                        "sublunary",
+                        "inconsistent",
+                        "chronic",
+                        "incurable"
+                    ],
+        "answer":  3,
+        "explanation":  "A terminal disease = one that ends in death/incurable."
+    },
+    {
+        "id":  "pyq-2019-c1-15",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  15,
+        "word":  "reluctant",
+        "stem":  "Doctors are reluctant to take rural postings despite big salary offers.",
+        "options":  [
+                        "disinclined",
+                        "eager",
+                        "fervent",
+                        "akin"
+                    ],
+        "answer":  0,
+        "explanation":  "Reluctant = unwilling = disinclined. (Eager, fervent are opposites.)"
+    },
+    {
+        "id":  "pyq-2019-c1-16",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  16,
+        "word":  "reprimanded",
+        "stem":  "The authorities have reprimanded the subordinate officer for violating the protocol.",
+        "options":  [
+                        "extolled",
+                        "purported",
+                        "admonished",
+                        "required an apology"
+                    ],
+        "answer":  2,
+        "explanation":  "Reprimand = to rebuke = admonish. (Extolled is the opposite.)"
+    },
+    {
+        "id":  "pyq-2019-c1-17",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  17,
+        "word":  "liability",
+        "stem":  "For Gandhiji, India\u0027s religious and linguistic diversity was an asset, not a liability.",
+        "options":  [
+                        "obligation",
+                        "advantage",
+                        "attribute",
+                        "reinforcement"
+                    ],
+        "answer":  0,
+        "explanation":  "Liability = a burden/responsibility = obligation. (Advantage/attribute are the opposite direction, since diversity is called an asset ‘not a liability’.)"
+    },
+    {
+        "id":  "pyq-2019-c1-18",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  18,
+        "word":  "hysterical",
+        "stem":  "How hysterical he is!",
+        "options":  [
+                        "berserk",
+                        "terrific",
+                        "duplicitous",
+                        "insincere"
+                    ],
+        "answer":  0,
+        "explanation":  "Hysterical = wildly uncontrolled/frenzied = berserk."
+    },
+    {
+        "id":  "pyq-2019-c1-19",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  19,
+        "word":  "prejudiced",
+        "stem":  "Mahesh is mostly prejudiced in his political opinion.",
+        "options":  [
+                        "objectionable",
+                        "predatory",
+                        "jaundiced",
+                        "intimate"
+                    ],
+        "answer":  2,
+        "explanation":  "Prejudiced = biased; ‘jaundiced’ = affected by bias/resentment."
+    },
+    {
+        "id":  "pyq-2019-c1-20",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  20,
+        "word":  "tautology",
+        "stem":  "Do not indulge in tautology.",
+        "options":  [
+                        "truth telling",
+                        "prolixity",
+                        "foretelling",
+                        "telepathic conversation"
+                    ],
+        "answer":  1,
+        "explanation":  "Tautology = needless repetition/wordiness; nearest is prolixity (verbosity)."
+    },
+    {
+        "id":  "pyq-2019-c1-22",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  22,
+        "word":  "heretics",
+        "stem":  "Religious fundamentalists often consider the followers of other religions to be heretics.",
+        "options":  [
+                        "dissenter",
+                        "believer",
+                        "renegade",
+                        "sceptic"
+                    ],
+        "answer":  1,
+        "explanation":  "Heretic = one who rejects orthodox belief; opposite is a (orthodox) believer. (Dissenter, renegade, sceptic are synonyms.)"
+    },
+    {
+        "id":  "pyq-2019-c1-23",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  23,
+        "word":  "inert",
+        "stem":  "According to G B Shaw, men have become inert. Therefore, life force has chosen women to perform its functions.",
+        "options":  [
+                        "lively",
+                        "quiescent",
+                        "dormant",
+                        "apathetic"
+                    ],
+        "answer":  0,
+        "explanation":  ""
+    },
+    {
+        "id":  "pyq-2019-c1-24",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  24,
+        "word":  "misanthropic",
+        "stem":  "Some of the men are highly misanthropic.",
+        "options":  [
+                        "anti-social",
+                        "philosophic",
+                        "atrophic",
+                        "philanthropic"
+                    ],
+        "answer":  3,
+        "explanation":  "Misanthropic = hating people; opposite is philanthropic (loving humankind). (Anti-social is a synonym.)"
+    },
+    {
+        "id":  "pyq-2019-c1-25",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  25,
+        "word":  "profound",
+        "stem":  "The teacher was a very profound man.",
+        "options":  [
+                        "sincere",
+                        "erudite",
+                        "scholarly",
+                        "superficial"
+                    ],
+        "answer":  3,
+        "explanation":  "Profound = deep/learned; opposite is superficial (shallow). (Erudite, scholarly are synonyms.)"
+    },
+    {
+        "id":  "pyq-2019-c1-26",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  26,
+        "word":  "readable",
+        "stem":  "His hand-writing is readable.",
+        "options":  [
+                        "well-written",
+                        "decipherable",
+                        "illegible",
+                        "comprehensible"
+                    ],
+        "answer":  2,
+        "explanation":  "Readable = able to be read; opposite is illegible. (Well-written, decipherable, comprehensible are synonyms.)"
+    },
+    {
+        "id":  "pyq-2019-c1-28",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  28,
+        "word":  "tempestuous",
+        "stem":  "Radha often goes tempestuous while debating.",
+        "options":  [
+                        "calm",
+                        "violent",
+                        "fierce",
+                        "vehement"
+                    ],
+        "answer":  0,
+        "explanation":  "Tempestuous = stormy/violent; opposite is calm. (Violent, fierce, vehement are synonyms.)"
+    },
+    {
+        "id":  "pyq-2019-c1-29",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  29,
+        "word":  "vital",
+        "stem":  "The thief had very vital information to pass on to the police.",
+        "options":  [
+                        "crucial",
+                        "inessential",
+                        "indispensable",
+                        "fundamental"
+                    ],
+        "answer":  1,
+        "explanation":  "Vital = essential; opposite is inessential. (Crucial, indispensable, fundamental are synonyms.)"
+    },
+    {
+        "id":  "pyq-2019-c1-30",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  30,
+        "word":  "wordy",
+        "stem":  "His lectures are often wordy and pointless.",
+        "options":  [
+                        "diffuse",
+                        "concise",
+                        "garrulous",
+                        "voluble"
+                    ],
+        "answer":  1,
+        "explanation":  "Wordy = using too many words; opposite is concise. (Diffuse, garrulous, voluble are synonyms.)"
+    },
+    {
+        "id":  "pyq-2019-c1-106",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  106,
+        "word":  "A match made in heaven",
+        "stem":  "A match made in heaven",
+        "options":  [
+                        "a marriage that is solemnized in a church",
+                        "a marriage that is unsuccessful",
+                        "a marriage that is likely to be happy and successful",
+                        "a marriage of convenience"
+                    ],
+        "answer":  2,
+        "explanation":  "A perfectly compatible pairing."
+    },
+    {
+        "id":  "pyq-2019-c1-107",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  107,
+        "word":  "A culture vulture",
+        "stem":  "A culture vulture",
+        "options":  [
+                        "someone who is very keen to experience art and literature",
+                        "someone who wants to defend ancient culture",
+                        "someone who is ashamed of one\u0027s own culture",
+                        "someone who looks at her/his culture critically"
+                    ],
+        "answer":  0,
+        "explanation":  "A person eager to consume art/culture."
+    },
+    {
+        "id":  "pyq-2019-c1-108",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  108,
+        "word":  "A death blow",
+        "stem":  "A death blow",
+        "options":  [
+                        "to be nearly dead",
+                        "to be deeply afraid of death",
+                        "to beat someone to death",
+                        "an action or event which causes something to end or fail"
+                    ],
+        "answer":  3,
+        "explanation":  "A decisive blow that finishes something off."
+    },
+    {
+        "id":  "pyq-2019-c1-109",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  109,
+        "word":  "The jewel in the crown",
+        "stem":  "The jewel in the crown",
+        "options":  [
+                        "someone who has many skills",
+                        "something that one wants",
+                        "the most valuable thing in a group of things",
+                        "the jewel in the crown of the king"
+                    ],
+        "answer":  2,
+        "explanation":  "The finest/most prized part of something."
+    },
+    {
+        "id":  "pyq-2019-c1-110",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  110,
+        "word":  "To live in a fool\u0027s paradise",
+        "stem":  "To live in a fool\u0027s paradise",
+        "options":  [
+                        "to live a life that is dishonest",
+                        "to be happy because you will not accept how bad a situation really is",
+                        "to believe that things you want will happen",
+                        "to enjoy yourself by spending a lot of money"
+                    ],
+        "answer":  1,
+        "explanation":  "False contentment based on denying reality."
+    },
+    {
+        "id":  "pyq-2019-c1-111",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  111,
+        "word":  "A rotten apple",
+        "stem":  "A rotten apple",
+        "options":  [
+                        "to remove something which is rotten",
+                        "one bad person in a group of good people",
+                        "a loving and kind person",
+                        "a disorganized person with bad habits"
+                    ],
+        "answer":  1,
+        "explanation":  "A single bad member who can corrupt the group."
+    },
+    {
+        "id":  "pyq-2019-c1-112",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  112,
+        "word":  "To vote with your feet",
+        "stem":  "To vote with your feet",
+        "options":  [
+                        "to show that you do not support something",
+                        "to replace something important",
+                        "to change something you must do",
+                        "to express a particular opinion"
+                    ],
+        "answer":  0,
+        "explanation":  "To express disapproval by leaving/withdrawing."
+    },
+    {
+        "id":  "pyq-2019-c1-113",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  113,
+        "word":  "Verbal diarrhoea",
+        "stem":  "Verbal diarrhoea",
+        "options":  [
+                        "to be sick",
+                        "to talk too much",
+                        "to be in a difficult situation",
+                        "to be a good orator"
+                    ],
+        "answer":  1,
+        "explanation":  "Excessive, uncontrolled talking."
+    },
+    {
+        "id":  "pyq-2019-c1-114",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  114,
+        "word":  "To sail close to the wind",
+        "stem":  "To sail close to the wind",
+        "options":  [
+                        "to pretend to be something that you are not",
+                        "to be in some unpleasant situation",
+                        "to be destroyed by a belief",
+                        "to do something that is dangerous"
+                    ],
+        "answer":  3,
+        "explanation":  "To act riskily, near the limits of what is safe/legal."
+    },
+    {
+        "id":  "pyq-2019-c1-115",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  115,
+        "word":  "A double edged sword",
+        "stem":  "A double edged sword",
+        "options":  [
+                        "to look at someone or something twice",
+                        "a situation in which you cannot succeed",
+                        "a word which has two meanings",
+                        "something that causes both advantages and problems"
+                    ],
+        "answer":  3,
+        "explanation":  "Something with both good and bad consequences."
+    },
+    {
+        "id":  "pyq-2019-c1-117",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  117,
+        "word":  "Cook the books",
+        "stem":  "Cook the books",
+        "options":  [
+                        "to record false information in the accounts of an organization",
+                        "to do something that spoils someone\u0027s plan",
+                        "to tell a false story",
+                        "to be very angry"
+                    ],
+        "answer":  0,
+        "explanation":  "To falsify financial records."
+    },
+    {
+        "id":  "pyq-2019-c1-118",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  118,
+        "word":  "Change your tune",
+        "stem":  "Change your tune",
+        "options":  [
+                        "to listen to good music",
+                        "to do things that you are not willing to",
+                        "to change your opinion completely because it will bring you an advantage",
+                        "to pretend to be very friendly"
+                    ],
+        "answer":  2,
+        "explanation":  "To reverse one’s stance for personal benefit."
+    },
+    {
+        "id":  "pyq-2019-c1-119",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  119,
+        "word":  "Blue blood",
+        "stem":  "Blue blood",
+        "options":  [
+                        "to swallow poison",
+                        "to be overly interested in someone",
+                        "to suddenly become jealous",
+                        "to belong to a family of the highest social class"
+                    ],
+        "answer":  3,
+        "explanation":  "Of noble/aristocratic descent."
+    },
+    {
+        "id":  "pyq-2019-c1-120",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "03 Feb 2019",
+        "tag":  "CDS 1 2019",
+        "qnum":  120,
+        "word":  "Cut the crap",
+        "stem":  "Cut the crap",
+        "options":  [
+                        "an impolite way of telling someone to stop saying things that are not true",
+                        "to stop needing someone else to look after you",
+                        "to talk about something important",
+                        "to upset someone by criticizing them"
+                    ],
+        "answer":  0,
+        "explanation":  "A rude demand to stop talking nonsense/lies."
+    },
+    {
+        "id":  "pyq-2019-c2-1",
+        "type":  "spelling",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  1,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Accommodate",
+                        "Acomodate",
+                        "Accomdate",
+                        "Acomodait"
+                    ],
+        "answer":  0,
+        "explanation":  "Correct spelling (double ‘c’, double ‘m’)."
+    },
+    {
+        "id":  "pyq-2019-c2-2",
+        "type":  "spelling",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  2,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Recommand",
+                        "Reccommend",
+                        "Recommend",
+                        "Reccomand"
+                    ],
+        "answer":  2,
+        "explanation":  "Correct spelling (one ‘c’, double ‘m’)."
+    },
+    {
+        "id":  "pyq-2019-c2-3",
+        "type":  "spelling",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  3,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Argyument",
+                        "Argument",
+                        "Arguement",
+                        "Argyooment"
+                    ],
+        "answer":  1,
+        "explanation":  "Correct spelling (no ‘e’ after ‘argu’)."
+    },
+    {
+        "id":  "pyq-2019-c2-4",
+        "type":  "spelling",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  4,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Decisive",
+                        "Desisive",
+                        "Descisive",
+                        "Desicive"
+                    ],
+        "answer":  0,
+        "explanation":  "Correct spelling."
+    },
+    {
+        "id":  "pyq-2019-c2-5",
+        "type":  "spelling",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  5,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Aggressive",
+                        "Agresive",
+                        "Agressive",
+                        "Aggresive"
+                    ],
+        "answer":  0,
+        "explanation":  "Correct spelling (double ‘g’, double ‘s’)."
+    },
+    {
+        "id":  "pyq-2019-c2-6",
+        "type":  "spelling",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  6,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Assassination",
+                        "Asassination",
+                        "Asasination",
+                        "Assasination"
+                    ],
+        "answer":  0,
+        "explanation":  "Correct spelling (‘as-sas-sin’)."
+    },
+    {
+        "id":  "pyq-2019-c2-7",
+        "type":  "spelling",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  7,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Embarassment",
+                        "Embbarasment",
+                        "Embrasement",
+                        "Embarrassment"
+                    ],
+        "answer":  3,
+        "explanation":  "Correct spelling (double ‘r’, double ‘s’)."
+    },
+    {
+        "id":  "pyq-2019-c2-8",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  8,
+        "word":  "Dirt cheap",
+        "stem":  "Dirt cheap",
+        "options":  [
+                        "Extremely cheap",
+                        "Extremely costly",
+                        "Very cheap person",
+                        "Very cheap item"
+                    ],
+        "answer":  0,
+        "explanation":  "Very inexpensive."
+    },
+    {
+        "id":  "pyq-2019-c2-9",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  9,
+        "word":  "A shrinking violet",
+        "stem":  "A shrinking violet",
+        "options":  [
+                        "A lean person",
+                        "A shy person",
+                        "A happy person",
+                        "A sad person"
+                    ],
+        "answer":  1,
+        "explanation":  "A timid, self-effacing person."
+    },
+    {
+        "id":  "pyq-2019-c2-10",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  10,
+        "word":  "Gordian knot",
+        "stem":  "Gordian knot",
+        "options":  [
+                        "Undoable job",
+                        "A difficult problem",
+                        "A different problem",
+                        "Doable job"
+                    ],
+        "answer":  1,
+        "explanation":  "An extremely difficult/intricate problem."
+    },
+    {
+        "id":  "pyq-2019-c2-11",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  11,
+        "word":  "Fall in a heap",
+        "stem":  "Fall in a heap",
+        "options":  [
+                        "To be at the mercy of someone else",
+                        "To be thinking about someone",
+                        "To lose control of one\u0027s own feelings",
+                        "To be in control of one\u0027s own feelings"
+                    ],
+        "answer":  2,
+        "explanation":  "To collapse or break down (emotionally)."
+    },
+    {
+        "id":  "pyq-2019-c2-12",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  12,
+        "word":  "Have a conniption fit",
+        "stem":  "Have a conniption fit",
+        "options":  [
+                        "To be very angry",
+                        "To be very happy",
+                        "To be very sad",
+                        "To be a jubilant person"
+                    ],
+        "answer":  0,
+        "explanation":  "A fit of rage or hysterics."
+    },
+    {
+        "id":  "pyq-2019-c2-13",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  13,
+        "word":  "Be in seventh heaven",
+        "stem":  "Be in seventh heaven",
+        "options":  [
+                        "To be extremely happy",
+                        "To be extremely upset",
+                        "To be extremely adventurous",
+                        "To be extremely silent"
+                    ],
+        "answer":  0,
+        "explanation":  "In a state of great joy/bliss."
+    },
+    {
+        "id":  "pyq-2019-c2-14",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  14,
+        "word":  "Hand in glove",
+        "stem":  "Hand in glove",
+        "options":  [
+                        "Working separately",
+                        "Working together",
+                        "Working for someone",
+                        "Not willing to work"
+                    ],
+        "answer":  1,
+        "explanation":  "In close cooperation (often with a negative connotation)."
+    },
+    {
+        "id":  "pyq-2019-c2-15",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  15,
+        "word":  "Nip in the bud",
+        "stem":  "Nip in the bud",
+        "options":  [
+                        "Prevent a small problem before it becomes severe",
+                        "Prevent the big problems",
+                        "Make it severe",
+                        "Beating the problem"
+                    ],
+        "answer":  0,
+        "explanation":  "To stop something at an early stage."
+    },
+    {
+        "id":  "pyq-2019-c2-16",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  16,
+        "word":  "Like a shag on a rock",
+        "stem":  "Like a shag on a rock",
+        "options":  [
+                        "Completely alone",
+                        "Completely idle",
+                        "Complete silence",
+                        "Complete happy"
+                    ],
+        "answer":  0,
+        "explanation":  "Utterly alone/isolated (Australian idiom)."
+    },
+    {
+        "id":  "pyq-2019-c2-17",
+        "type":  "idiom",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  17,
+        "word":  "A pearl of wisdom",
+        "stem":  "A pearl of wisdom",
+        "options":  [
+                        "An important piece of news",
+                        "An important person",
+                        "An important thing for life",
+                        "An important piece of advice"
+                    ],
+        "answer":  3,
+        "explanation":  "A wise/valuable saying or piece of advice."
+    },
+    {
+        "id":  "pyq-2019-c2-37",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  37,
+        "word":  "impounded",
+        "stem":  "The properties of the family have been impounded by the order of the court.",
+        "options":  [
+                        "Confiscated",
+                        "Permitted",
+                        "Sold",
+                        "Put on hold"
+                    ],
+        "answer":  0,
+        "explanation":  "Impound = to seize and take legal custody of = confiscate."
+    },
+    {
+        "id":  "pyq-2019-c2-38",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  38,
+        "word":  "impugned",
+        "stem":  "The officer in charge of the operations has been impugned for the excesses.",
+        "options":  [
+                        "Expelled",
+                        "Rewarded",
+                        "Challenged",
+                        "Given allowance"
+                    ],
+        "answer":  2,
+        "explanation":  "Impugn = to dispute/call into question = challenge."
+    },
+    {
+        "id":  "pyq-2019-c2-39",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  39,
+        "word":  "innate",
+        "stem":  "Cognitivist and linguists believe that every child is born with innate qualities.",
+        "options":  [
+                        "Biological",
+                        "Intrinsic",
+                        "Extrinsic",
+                        "Unnatural"
+                    ],
+        "answer":  1,
+        "explanation":  "Innate = inborn/natural = intrinsic. (Extrinsic is the opposite.)"
+    },
+    {
+        "id":  "pyq-2019-c2-40",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  40,
+        "word":  "obligatory",
+        "stem":  "It was obligatory for the board to implement the rule.",
+        "options":  [
+                        "Compulsory",
+                        "Unnecessary",
+                        "By chance",
+                        "Problematic"
+                    ],
+        "answer":  0,
+        "explanation":  "Obligatory = required = compulsory. (Unnecessary is the opposite.)"
+    },
+    {
+        "id":  "pyq-2019-c2-41",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  41,
+        "word":  "betrayal",
+        "stem":  "They describe the act as a blatant betrayal of faith.",
+        "options":  [
+                        "Loyal",
+                        "Faithfulness",
+                        "Treachery",
+                        "Honesty"
+                    ],
+        "answer":  2,
+        "explanation":  "Betrayal = disloyalty/breach of trust = treachery. (Loyalty, faithfulness are opposites.)"
+    },
+    {
+        "id":  "pyq-2019-c2-42",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  42,
+        "word":  "narrowest",
+        "stem":  "However, if it must decide, then it should do so on the narrowest ground possible.",
+        "options":  [
+                        "Widest",
+                        "Slightly",
+                        "Smallest",
+                        "Thick"
+                    ],
+        "answer":  2,
+        "explanation":  "‘Narrowest ground’ = the most limited/smallest basis. (Widest is the opposite.)"
+    },
+    {
+        "id":  "pyq-2019-c2-43",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  43,
+        "word":  "akin",
+        "stem":  "This is akin to a contractual relationship that places obligations on the entities entrusted with data.",
+        "options":  [
+                        "Removed",
+                        "Narrow",
+                        "Similar",
+                        "Unparallel"
+                    ],
+        "answer":  2,
+        "explanation":  "Akin = similar/related. (Unparallel is the opposite.)"
+    },
+    {
+        "id":  "pyq-2019-c2-44",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  44,
+        "word":  "attributed",
+        "stem":  "Many communication problems can be attributed directly to misunderstandings and inaccuracies.",
+        "options":  [
+                        "Disapproved",
+                        "Unofficial",
+                        "Ascribed",
+                        "Tribute"
+                    ],
+        "answer":  2,
+        "explanation":  "Attribute = to credit/assign to a cause = ascribe."
+    },
+    {
+        "id":  "pyq-2019-c2-45",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  45,
+        "word":  "acquiring",
+        "stem":  "The exemptions granted to State institutions for acquiring informed consent from processing personal data in many cases appear to be too blanket.",
+        "options":  [
+                        "Obtain",
+                        "Lose",
+                        "Giving",
+                        "Thinking"
+                    ],
+        "answer":  0,
+        "explanation":  "Acquire = to get/gain = obtain. (Lose, giving are opposites.)"
+    },
+    {
+        "id":  "pyq-2019-c2-46",
+        "type":  "synonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  46,
+        "word":  "desired",
+        "stem":  "The manner in which this exercise has been undertaken leaves much to be desired.",
+        "options":  [
+                        "Disliked",
+                        "Unlikely",
+                        "Wish for",
+                        "Asked for"
+                    ],
+        "answer":  2,
+        "explanation":  "Desire = to want/long for = wish for."
+    },
+    {
+        "id":  "pyq-2019-c2-66",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  66,
+        "word":  "Beauty",
+        "stem":  "Beauty lies in the eyes of the beholder.",
+        "options":  [
+                        "Allure",
+                        "Charm",
+                        "Inelegance",
+                        "Ideal"
+                    ],
+        "answer":  2,
+        "explanation":  "Beauty = grace/attractiveness; opposite is inelegance. (Allure, charm are synonyms.)"
+    },
+    {
+        "id":  "pyq-2019-c2-67",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  67,
+        "word":  "vulnerable",
+        "stem":  "Reading details about suicide cases can push vulnerable people taking the extreme step.",
+        "options":  [
+                        "Imperious",
+                        "Impervious",
+                        "Helpless",
+                        "Defenseless"
+                    ],
+        "answer":  1,
+        "explanation":  "Vulnerable = open to harm; opposite is impervious (unaffected/impenetrable). (Helpless, defenceless are synonyms; ‘imperious’ = domineering is a distractor.)"
+    },
+    {
+        "id":  "pyq-2019-c2-68",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  68,
+        "word":  "daunting",
+        "stem":  "Standing before a judge in a courtroom can be daunting for anyone.",
+        "options":  [
+                        "Uncomfortable",
+                        "Encouraging",
+                        "Demoralizing",
+                        "Off-putting"
+                    ],
+        "answer":  1,
+        "explanation":  "Daunting = intimidating/discouraging; opposite is encouraging. (Uncomfortable, demoralizing, off-putting are synonyms.)"
+    },
+    {
+        "id":  "pyq-2019-c2-70",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  70,
+        "word":  "constrain",
+        "stem":  "There are many factors that constrain the philosophy of job enrichment in practice.",
+        "options":  [
+                        "Oblige",
+                        "Pressure",
+                        "Restrict",
+                        "Support"
+                    ],
+        "answer":  3,
+        "explanation":  "Constrain = to restrict/compel; opposite is support (to free/back). (Oblige, pressure, restrict are synonyms.)"
+    },
+    {
+        "id":  "pyq-2019-c2-71",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  71,
+        "word":  "plausible",
+        "stem":  "People look for plausible remedies to the problems which they do not know.",
+        "options":  [
+                        "Acceptable",
+                        "Unthinkable",
+                        "Solvable",
+                        "Believable"
+                    ],
+        "answer":  1,
+        "explanation":  "Plausible = believable/reasonable; opposite is unthinkable (implausible). (Acceptable, solvable, believable are related/synonyms.)"
+    },
+    {
+        "id":  "pyq-2019-c2-72",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  72,
+        "word":  "plaintive",
+        "stem":  "The departing speech of the Chairperson ended with a plaintive note.",
+        "options":  [
+                        "Melancholic",
+                        "Gleeful",
+                        "Doleful",
+                        "Adventurous"
+                    ],
+        "answer":  1,
+        "explanation":  "Plaintive = mournful/sorrowful; opposite is gleeful (joyful). (Melancholic, doleful are synonyms.)"
+    },
+    {
+        "id":  "pyq-2019-c2-73",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  73,
+        "word":  "discord",
+        "stem":  "The members have taken a unanimous decision to discord some of the rulings of the Managing Committee.",
+        "options":  [
+                        "Accord",
+                        "Dissension",
+                        "Dispute",
+                        "Friction"
+                    ],
+        "answer":  0,
+        "explanation":  "Discord = disagreement; opposite is accord (agreement). (Dissension, dispute, friction are synonyms.)"
+    },
+    {
+        "id":  "pyq-2019-c2-74",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  74,
+        "word":  "insolent",
+        "stem":  "The insolent nature of the speaker had provoked the members of the house and this led to pandemonium.",
+        "options":  [
+                        "Respectful",
+                        "Autocratic",
+                        "Impudent",
+                        "Thought provoking"
+                    ],
+        "answer":  0,
+        "explanation":  "Insolent = rude/disrespectful; opposite is respectful. (Impudent is a synonym.)"
+    },
+    {
+        "id":  "pyq-2019-c2-75",
+        "type":  "antonym",
+        "year":  2019,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Sep 2019",
+        "tag":  "CDS 2 2019",
+        "qnum":  75,
+        "word":  "Incessant",
+        "stem":  "Incessant rains have resulted in failure of crops during this season.",
+        "options":  [
+                        "Sporadic",
+                        "Persistent",
+                        "Continual",
+                        "Ceaseless"
+                    ],
+        "answer":  0,
+        "explanation":  "Incessant = unceasing/constant; opposite is sporadic (occasional). (Persistent, continual, ceaseless are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c1-32",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  32,
+        "word":  "Lily-livered",
+        "stem":  "Lily-livered",
+        "options":  [
+                        "Brave and courageous",
+                        "Not brave",
+                        "Comical",
+                        "Outrageous"
+                    ],
+        "answer":  1,
+        "explanation":  "Cowardly/timid."
+    },
+    {
+        "id":  "pyq-2020-c1-33",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  33,
+        "word":  "Eat like a bird",
+        "stem":  "Eat like a bird",
+        "options":  [
+                        "Eat fast",
+                        "Eat very little",
+                        "Eat a lot",
+                        "Pretending to be eating"
+                    ],
+        "answer":  1,
+        "explanation":  "To eat only tiny amounts."
+    },
+    {
+        "id":  "pyq-2020-c1-34",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  34,
+        "word":  "The dog days",
+        "stem":  "The dog days",
+        "options":  [
+                        "Days celebrating dogs",
+                        "The bitter days",
+                        "The hottest days",
+                        "The coldest days"
+                    ],
+        "answer":  2,
+        "explanation":  "The hottest, most sultry days of summer."
+    },
+    {
+        "id":  "pyq-2020-c1-35",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  35,
+        "word":  "A banana republic",
+        "stem":  "A banana republic",
+        "options":  [
+                        "A small or poor country with a weak government",
+                        "A small or poor country which produces banana",
+                        "A country which has been occupied by a big country",
+                        "A country without any government"
+                    ],
+        "answer":  0,
+        "explanation":  "A politically unstable, poorly governed country dependent on limited resources."
+    },
+    {
+        "id":  "pyq-2020-c1-36",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  36,
+        "word":  "The pros and cons",
+        "stem":  "The pros and cons",
+        "options":  [
+                        "The good and bad parts of a situation",
+                        "Like and dislike of a situation",
+                        "A bad experience in an event",
+                        "A good moment of an event"
+                    ],
+        "answer":  0,
+        "explanation":  "The advantages and disadvantages."
+    },
+    {
+        "id":  "pyq-2020-c1-37",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  37,
+        "word":  "Prime the pump",
+        "stem":  "Prime the pump",
+        "options":  [
+                        "To do something in order to make something succeed",
+                        "To do good things to succeed in life",
+                        "To do something in order to get bad things done",
+                        "Asking people to do things to make something succeed"
+                    ],
+        "answer":  0,
+        "explanation":  "To stimulate/give initial help so something can grow or succeed."
+    },
+    {
+        "id":  "pyq-2020-c1-38",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  38,
+        "word":  "The green-eyed monster",
+        "stem":  "The green-eyed monster",
+        "options":  [
+                        "Feeling of being joyous",
+                        "Feeling of being jealous",
+                        "Feeling bad about happenings",
+                        "Feeling lucky about something"
+                    ],
+        "answer":  1,
+        "explanation":  "Jealousy personified."
+    },
+    {
+        "id":  "pyq-2020-c1-39",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  39,
+        "word":  "Rise to the occasion",
+        "stem":  "Rise to the occasion",
+        "options":  [
+                        "To celebrate a success in a difficult situation",
+                        "To regret a situation which ended in failure",
+                        "To succeed in dealing with a difficult situation",
+                        "To motivate people to succeed in a difficult situation"
+                    ],
+        "answer":  2,
+        "explanation":  "To perform well when a challenge demands it."
+    },
+    {
+        "id":  "pyq-2020-c1-40",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  40,
+        "word":  "Call it a day",
+        "stem":  "Call it a day",
+        "options":  [
+                        "End of the day",
+                        "Completion of work",
+                        "Stop doing something",
+                        "A beautiful day"
+                    ],
+        "answer":  2,
+        "explanation":  "To decide to stop an activity (for now)."
+    },
+    {
+        "id":  "pyq-2020-c1-61",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  61,
+        "word":  "implications",
+        "stem":  "All the developments that took place in the 20th century have had implications for the next century.",
+        "options":  [
+                        "consequences",
+                        "interferences",
+                        "feedback",
+                        "planning"
+                    ],
+        "answer":  0,
+        "explanation":  "Implications = likely effects/results = consequences."
+    },
+    {
+        "id":  "pyq-2020-c1-62",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  62,
+        "word":  "contagious",
+        "stem":  "He is such a leader that his actions are contagious.",
+        "options":  [
+                        "complicated",
+                        "transmittable",
+                        "effective",
+                        "unthinkable"
+                    ],
+        "answer":  1,
+        "explanation":  "Contagious = spreadable/catching = transmittable (here, of behaviour)."
+    },
+    {
+        "id":  "pyq-2020-c1-63",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  63,
+        "word":  "incorporated",
+        "stem":  "The budget incorporated a number of tax reforms which included higher taxes for the very rich.",
+        "options":  [
+                        "excluded",
+                        "integrated",
+                        "laid down",
+                        "removed"
+                    ],
+        "answer":  1,
+        "explanation":  "Incorporate = to include/combine into a whole = integrate. (Excluded, removed are opposites.)"
+    },
+    {
+        "id":  "pyq-2020-c1-64",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  64,
+        "word":  "generic",
+        "stem":  "His thesis makes all generic statements which have already been proved.",
+        "options":  [
+                        "specific",
+                        "crude",
+                        "broad",
+                        "non-standard"
+                    ],
+        "answer":  2,
+        "explanation":  "Generic = general/non-specific = broad. (Specific is the opposite.)"
+    },
+    {
+        "id":  "pyq-2020-c1-65",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  65,
+        "word":  "stellar",
+        "stem":  "The captain produced yet another stellar show to make the team enter the semi-finals.",
+        "options":  [
+                        "extraordinary",
+                        "eclipse",
+                        "poor",
+                        "not a great"
+                    ],
+        "answer":  0,
+        "explanation":  "Stellar = outstanding/star-like = extraordinary. (Poor is the opposite.)"
+    },
+    {
+        "id":  "pyq-2020-c1-66",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  66,
+        "word":  "clichéd",
+        "stem":  "A new show is trying to change the clichéd depictions of women in animation.",
+        "options":  [
+                        "original",
+                        "hackneyed",
+                        "crony",
+                        "artificial"
+                    ],
+        "answer":  1,
+        "explanation":  "Clichéd = overused/unoriginal = hackneyed. (Original is the opposite.)"
+    },
+    {
+        "id":  "pyq-2020-c1-67",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  67,
+        "word":  "vocation",
+        "stem":  "Not everyone finds a vocation which suits one\u0027s aptitude.",
+        "options":  [
+                        "attitude",
+                        "approach",
+                        "liking",
+                        "occupation"
+                    ],
+        "answer":  3,
+        "explanation":  "Vocation = a calling/profession = occupation."
+    },
+    {
+        "id":  "pyq-2020-c1-68",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  68,
+        "word":  "fatigued",
+        "stem":  "Uninterrupted rain had fatigued the commuters from the outskirts to the city and the work suffered.",
+        "options":  [
+                        "excited",
+                        "refreshed",
+                        "slowed",
+                        "exhausted"
+                    ],
+        "answer":  3,
+        "explanation":  "Fatigued = extremely tired = exhausted. (Refreshed is the opposite.)"
+    },
+    {
+        "id":  "pyq-2020-c1-69",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  69,
+        "word":  "aghast",
+        "stem":  "The leader said, \"I am aghast with the developments so far.\"",
+        "options":  [
+                        "satisfied",
+                        "sad",
+                        "amused",
+                        "horrified"
+                    ],
+        "answer":  3,
+        "explanation":  "Aghast = struck with shock/dismay = horrified."
+    },
+    {
+        "id":  "pyq-2020-c1-70",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  70,
+        "word":  "ascertained",
+        "stem":  "The cause of the accident is yet to be ascertained, but police officials suspect the driver fell asleep.",
+        "options":  [
+                        "determined",
+                        "curtained",
+                        "thought of",
+                        "being known"
+                    ],
+        "answer":  0,
+        "explanation":  "Ascertain = to find out for certain = determine."
+    },
+    {
+        "id":  "pyq-2020-c1-71",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  71,
+        "word":  "decay",
+        "stem":  "It was not a period of urban decay as claimed by some.",
+        "options":  [
+                        "survival",
+                        "waste away",
+                        "decomposition",
+                        "spoil"
+                    ],
+        "answer":  0,
+        "explanation":  "Decay = rot/decline; opposite is survival. (Waste away, decomposition, spoil are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c1-72",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  72,
+        "word":  "eloquently",
+        "stem":  "He speaks eloquently and can pull crowds.",
+        "options":  [
+                        "confusingly",
+                        "expressively",
+                        "powerfully",
+                        "fluently"
+                    ],
+        "answer":  0,
+        "explanation":  "Eloquent = fluent and articulate; opposite is confusingly. (Expressively, powerfully, fluently are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c1-73",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  73,
+        "word":  "inertia",
+        "stem":  "Everyone has to fight the inertia in the system.",
+        "options":  [
+                        "sluggishness",
+                        "indolence",
+                        "activity",
+                        "torpor"
+                    ],
+        "answer":  2,
+        "explanation":  "Inertia = inactivity/sluggishness; opposite is activity. (Sluggishness, indolence, torpor are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c1-74",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  74,
+        "word":  "philanthropy",
+        "stem":  "There is a need to promote philanthropy in education.",
+        "options":  [
+                        "charity",
+                        "benevolence",
+                        "nastiness",
+                        "likeliness"
+                    ],
+        "answer":  2,
+        "explanation":  "Philanthropy = goodwill/generosity; opposite is nastiness (ill-will). (Charity, benevolence are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c1-75",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  75,
+        "word":  "compassion",
+        "stem":  "What we lack in the current times is compassion.",
+        "options":  [
+                        "empathy",
+                        "carefulness",
+                        "indifference",
+                        "hardship"
+                    ],
+        "answer":  2,
+        "explanation":  "Compassion = sympathetic concern; opposite is indifference. (Empathy is a synonym.)"
+    },
+    {
+        "id":  "pyq-2020-c1-76",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  76,
+        "word":  "Tempestuous",
+        "stem":  "Tempestuous behaviour would not yield much in any place.",
+        "options":  [
+                        "relaxed",
+                        "passionate",
+                        "intense",
+                        "windy"
+                    ],
+        "answer":  0,
+        "explanation":  "Tempestuous = stormy/turbulent; opposite is relaxed (calm). (Passionate, intense, windy are related/synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c1-77",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  77,
+        "word":  "Wooing",
+        "stem":  "Wooing everyone over an issue for support will not serve much purpose.",
+        "options":  [
+                        "discouraging",
+                        "encouraging",
+                        "pursuing",
+                        "persuading"
+                    ],
+        "answer":  0,
+        "explanation":  "Woo = to court/seek support; opposite is discouraging. (Encouraging, pursuing, persuading are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c1-78",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  78,
+        "word":  "bestowed",
+        "stem":  "The highest award was bestowed upon her for her yeoman service.",
+        "options":  [
+                        "conferred",
+                        "withdrawn",
+                        "imparted",
+                        "imbibed"
+                    ],
+        "answer":  1,
+        "explanation":  "Bestow = to confer/give; opposite is withdrawn (taken back). (Conferred, imparted are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c1-79",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  79,
+        "word":  "elated",
+        "stem":  "One feels elated when someone praises one\u0027s work.",
+        "options":  [
+                        "feels good",
+                        "excited",
+                        "depressed",
+                        "sober"
+                    ],
+        "answer":  2,
+        "explanation":  "Elated = joyful/thrilled; opposite is depressed. (Feels good, excited are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c1-80",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  80,
+        "word":  "charitable",
+        "stem":  "All business activities need not result in profit-making. There is a need to be charitable.",
+        "options":  [
+                        "lenient",
+                        "malevolent",
+                        "unforeseen",
+                        "gracious"
+                    ],
+        "answer":  1,
+        "explanation":  "Charitable = kind/generous; opposite is malevolent (ill-willed). (Lenient, gracious are related/synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c1-91",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  91,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Continuum",
+                        "Continuem",
+                        "Contuneim",
+                        "Continueiam"
+                    ],
+        "answer":  0,
+        "explanation":  "Correct spelling; plural ‘continua’."
+    },
+    {
+        "id":  "pyq-2020-c1-92",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  92,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Stretegy",
+                        "Stretagy",
+                        "Stratagy",
+                        "Strategy"
+                    ],
+        "answer":  3,
+        "explanation":  "Correct spelling."
+    },
+    {
+        "id":  "pyq-2020-c1-93",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  93,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Commisionor",
+                        "Commisioner",
+                        "Commissioner",
+                        "Comissioner"
+                    ],
+        "answer":  2,
+        "explanation":  "Correct spelling (double ‘m’, double ‘s’)."
+    },
+    {
+        "id":  "pyq-2020-c1-94",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  94,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Vacum",
+                        "Vacuum",
+                        "Vacuem",
+                        "Vacam"
+                    ],
+        "answer":  1,
+        "explanation":  "Correct spelling (‘vac-u-um’)."
+    },
+    {
+        "id":  "pyq-2020-c1-95",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  95,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Psephology",
+                        "Psefoloagy",
+                        "Sephology",
+                        "Psyphology"
+                    ],
+        "answer":  0,
+        "explanation":  "Correct spelling (the study of elections)."
+    },
+    {
+        "id":  "pyq-2020-c1-96",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  96,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Neuphrology",
+                        "Nephrology",
+                        "Neprology",
+                        "Neaprology"
+                    ],
+        "answer":  1,
+        "explanation":  "Correct spelling (the study of kidneys)."
+    },
+    {
+        "id":  "pyq-2020-c1-97",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  97,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Psudonym",
+                        "Pseudonym",
+                        "Pseudanym",
+                        "Seeudonym"
+                    ],
+        "answer":  1,
+        "explanation":  "Correct spelling (silent ‘p’)."
+    },
+    {
+        "id":  "pyq-2020-c1-98",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  98,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Pnumonia",
+                        "Neumonia",
+                        "Pneumonia",
+                        "Numania"
+                    ],
+        "answer":  2,
+        "explanation":  "Correct spelling (silent ‘p’)."
+    },
+    {
+        "id":  "pyq-2020-c1-99",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  99,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Resilient",
+                        "Resilint",
+                        "Risilient",
+                        "Realisent"
+                    ],
+        "answer":  0,
+        "explanation":  "Correct spelling."
+    },
+    {
+        "id":  "pyq-2020-c1-100",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "02 Feb 2020",
+        "tag":  "CDS 1 2020",
+        "qnum":  100,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Suplementary",
+                        "Supplementary",
+                        "Supplementery",
+                        "Supplemantory"
+                    ],
+        "answer":  1,
+        "explanation":  "Correct spelling (double ‘p’, ‘-ary’)."
+    },
+    {
+        "id":  "pyq-2020-c2-31",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  31,
+        "word":  "Get the jitters",
+        "stem":  "Get the jitters",
+        "options":  [
+                        "Feeling anxious",
+                        "Feeling happy",
+                        "Stammering",
+                        "Feeling exposed"
+                    ],
+        "answer":  0,
+        "explanation":  "To become nervous/anxious before an event."
+    },
+    {
+        "id":  "pyq-2020-c2-32",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  32,
+        "word":  "French leave",
+        "stem":  "French leave",
+        "options":  [
+                        "Absent from work without asking for permission in French",
+                        "Asking for permission before leaving work",
+                        "Work for permission to get leave",
+                        "Absent from work without asking for permission"
+                    ],
+        "answer":  3,
+        "explanation":  "To take leave without permission or notice. (Option (a) adds the nonsensical ‘in French’.)"
+    },
+    {
+        "id":  "pyq-2020-c2-33",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  33,
+        "word":  "Take a stand",
+        "stem":  "Take a stand",
+        "options":  [
+                        "To publicly express an opinion about something",
+                        "To make a stand for one to sit",
+                        "To be firm on your work",
+                        "To be part of the work"
+                    ],
+        "answer":  0,
+        "explanation":  "To declare and defend a firm position on an issue."
+    },
+    {
+        "id":  "pyq-2020-c2-34",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  34,
+        "word":  "Cut and run",
+        "stem":  "Cut and run",
+        "options":  [
+                        "To avoid a difficult situation by leaving suddenly",
+                        "To avoid an event suddenly",
+                        "To meet some danger suddenly",
+                        "To ask for sudden meeting with someone"
+                    ],
+        "answer":  0,
+        "explanation":  "To make a hasty escape from a difficult situation."
+    },
+    {
+        "id":  "pyq-2020-c2-35",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  35,
+        "word":  "Cut the cord",
+        "stem":  "Cut the cord",
+        "options":  [
+                        "To stop needing your parents for money",
+                        "To stop needing someone else to look after you and start acting independently",
+                        "To be safe on your own",
+                        "To be a married person"
+                    ],
+        "answer":  1,
+        "explanation":  "To become independent (from a parent/guardian)."
+    },
+    {
+        "id":  "pyq-2020-c2-36",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  36,
+        "word":  "Cupboard love",
+        "stem":  "Cupboard love",
+        "options":  [
+                        "Loving someone to get something from the person",
+                        "Loving the cupboards",
+                        "Innocent love",
+                        "Loving to be free of all conditions"
+                    ],
+        "answer":  0,
+        "explanation":  "Affection shown only to gain a reward/benefit."
+    },
+    {
+        "id":  "pyq-2020-c2-37",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  37,
+        "word":  "Around the corner",
+        "stem":  "Around the corner",
+        "options":  [
+                        "A thing which is at the end of the corner",
+                        "An event or thing which is going to happen soon",
+                        "An event that corners someone for his wrong",
+                        "An event that happens in the corner of powerful place"
+                    ],
+        "answer":  1,
+        "explanation":  "Imminent; about to happen."
+    },
+    {
+        "id":  "pyq-2020-c2-38",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  38,
+        "word":  "With heavy heart",
+        "stem":  "With Heavy Heart",
+        "options":  [
+                        "With heavy weight",
+                        "With joy and humour",
+                        "With sense of shame",
+                        "With pain and regret"
+                    ],
+        "answer":  3,
+        "explanation":  "Feeling great sadness or reluctance."
+    },
+    {
+        "id":  "pyq-2020-c2-39",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  39,
+        "word":  "Cost a bomb",
+        "stem":  "Cost a bomb",
+        "options":  [
+                        "To be very arrogant",
+                        "To be with rich people",
+                        "To be very expensive",
+                        "To be stingy"
+                    ],
+        "answer":  2,
+        "explanation":  "To be extremely costly."
+    },
+    {
+        "id":  "pyq-2020-c2-40",
+        "type":  "idiom",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  40,
+        "word":  "Roll your sleeves up",
+        "stem":  "Roll your sleeves up",
+        "options":  [
+                        "To prepare for wrestling",
+                        "To prepare for hard work",
+                        "To make someone work for you",
+                        "To work with others"
+                    ],
+        "answer":  1,
+        "explanation":  "To get ready to work hard."
+    },
+    {
+        "id":  "pyq-2020-c2-61",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  61,
+        "word":  "Emboldened",
+        "stem":  "Emboldened by its success, the leader now plans to go ahead with the plan and implementation.",
+        "options":  [
+                        "Encouraged",
+                        "Disgruntled",
+                        "Succeeded",
+                        "Failed"
+                    ],
+        "answer":  0,
+        "explanation":  "Emboldened = given courage/confidence = encouraged. (Disgruntled is the opposite.)"
+    },
+    {
+        "id":  "pyq-2020-c2-62",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  62,
+        "word":  "indigenous",
+        "stem":  "It is encouraging to see India\u0027s indigenous cinema is going places.",
+        "options":  [
+                        "homogenous",
+                        "classical",
+                        "home-grown",
+                        "Non-native language"
+                    ],
+        "answer":  2,
+        "explanation":  "Indigenous = native/locally produced = home-grown."
+    },
+    {
+        "id":  "pyq-2020-c2-63",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  63,
+        "word":  "pleonexia",
+        "stem":  "The ability to imagine and conceive a common good is inconsistent with what is known as \u0027pleonexia\u0027.",
+        "options":  [
+                        "Greed to grab everything for oneself",
+                        "Greed to accumulate more and more wealth",
+                        "Dislike for others",
+                        "Over ambitious"
+                    ],
+        "answer":  0,
+        "explanation":  "Pleonexia = insatiable, grasping greed — the desire to seize more than one’s share, which is why it is set against ‘common good’."
+    },
+    {
+        "id":  "pyq-2020-c2-64",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  64,
+        "word":  "implicate",
+        "stem":  "He tried to avoid saying something that would implicate him further.",
+        "options":  [
+                        "reward",
+                        "incriminate",
+                        "encourage",
+                        "incite"
+                    ],
+        "answer":  1,
+        "explanation":  "To implicate = to show involvement in wrongdoing = incriminate."
+    },
+    {
+        "id":  "pyq-2020-c2-65",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  65,
+        "word":  "statutory",
+        "stem":  "The statutory corporate tax which forms the major income of the government has not changed this year.",
+        "options":  [
+                        "legislature",
+                        "unlawful",
+                        "government",
+                        "legal"
+                    ],
+        "answer":  3,
+        "explanation":  "Statutory = fixed/required by statute = legal. (‘Legislature’ is a body, not the adjective needed.)"
+    },
+    {
+        "id":  "pyq-2020-c2-66",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  66,
+        "word":  "dissident",
+        "stem":  "He has been part of the all dissident activities.",
+        "options":  [
+                        "rebellious",
+                        "supportive",
+                        "conformist",
+                        "legal"
+                    ],
+        "answer":  0,
+        "explanation":  "Dissident = opposing official policy = rebellious. (Supportive, conformist are opposites.)"
+    },
+    {
+        "id":  "pyq-2020-c2-67",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  67,
+        "word":  "Advocacy",
+        "stem":  "Advocacy is one major component of any new programme.",
+        "options":  [
+                        "promotion",
+                        "opposition",
+                        "critique",
+                        "liking"
+                    ],
+        "answer":  0,
+        "explanation":  "Advocacy = active support/promotion of a cause. (Opposition, critique are opposites.)"
+    },
+    {
+        "id":  "pyq-2020-c2-68",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  68,
+        "word":  "high mindedness",
+        "stem":  "People avoided him for his high mindedness.",
+        "options":  [
+                        "toughness",
+                        "strong principles",
+                        "anger",
+                        "whims"
+                    ],
+        "answer":  1,
+        "explanation":  "High-minded = having high moral principles."
+    },
+    {
+        "id":  "pyq-2020-c2-69",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  69,
+        "word":  "tendency",
+        "stem":  "There is a tendency to treat social changes as mere development in terms of accumulation of wealth.",
+        "options":  [
+                        "position",
+                        "predisposition",
+                        "thinking",
+                        "idea"
+                    ],
+        "answer":  1,
+        "explanation":  "Tendency = an inclination to act a certain way = predisposition."
+    },
+    {
+        "id":  "pyq-2020-c2-70",
+        "type":  "synonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  70,
+        "word":  "patronized",
+        "stem":  "During the ancient period poets were patronized through various institutions.",
+        "options":  [
+                        "supported",
+                        "respected",
+                        "opposed",
+                        "scolded"
+                    ],
+        "answer":  0,
+        "explanation":  "Here ‘patronised’ = sponsored/supported (poets were funded/backed). (Opposed, scolded are opposites.)"
+    },
+    {
+        "id":  "pyq-2020-c2-71",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  71,
+        "word":  "archaic",
+        "stem":  "The archaic thinking leads to unfounded beliefs.",
+        "options":  [
+                        "antiquated",
+                        "outmoded",
+                        "beyond the times",
+                        "modern"
+                    ],
+        "answer":  3,
+        "explanation":  "Archaic = old/outdated; opposite is modern. (Antiquated, outmoded, beyond the times are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c2-72",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  72,
+        "word":  "diffuse",
+        "stem":  "Police had to resort to tear gas to diffuse tension among the crowd.",
+        "options":  [
+                        "concentrate",
+                        "scatter",
+                        "disperse",
+                        "strew"
+                    ],
+        "answer":  0,
+        "explanation":  "Diffuse (verb) = to spread out; opposite is concentrate. (Scatter, disperse, strew are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c2-73",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  73,
+        "word":  "Unrest",
+        "stem":  "Unrest in some pockets made the city dwellers confine themselves at home.",
+        "options":  [
+                        "Turbulence",
+                        "Unease",
+                        "Apprehension",
+                        "Calm"
+                    ],
+        "answer":  3,
+        "explanation":  "Unrest = disturbance/agitation; opposite is calm. (Turbulence, unease, apprehension are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c2-74",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  74,
+        "word":  "tranquility",
+        "stem":  "Peace and tranquility are instruments which would boost the development of society.",
+        "options":  [
+                        "uproar",
+                        "calm",
+                        "serenity",
+                        "sound"
+                    ],
+        "answer":  0,
+        "explanation":  "Tranquillity = calm/peace; opposite is uproar. (Calm, serenity are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c2-75",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  75,
+        "word":  "Barring",
+        "stem":  "Barring a decision of such disputes, other matters may be regulated by law made by Parliament.",
+        "options":  [
+                        "excepting",
+                        "without",
+                        "including",
+                        "excluding"
+                    ],
+        "answer":  2,
+        "explanation":  "Barring = excepting/leaving out; opposite is including. (Without, excluding are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c2-76",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  76,
+        "word":  "extempore",
+        "stem":  "His speech was full of emotions and it was an extempore.",
+        "options":  [
+                        "prepared",
+                        "ready made",
+                        "unrehearsed",
+                        "ad lib"
+                    ],
+        "answer":  0,
+        "explanation":  "Extempore = spoken without preparation; opposite is prepared. (Unrehearsed, ad lib are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c2-77",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  77,
+        "word":  "ensuing",
+        "stem":  "The teacher asked her students to understand the ensuing problems and address them suitably.",
+        "options":  [
+                        "subsequent",
+                        "consequent",
+                        "retrospective",
+                        "en suite"
+                    ],
+        "answer":  2,
+        "explanation":  "Ensuing = following/coming next; opposite is retrospective (looking back). (Subsequent, consequent are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c2-79",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  79,
+        "word":  "dissuaded",
+        "stem":  "His relatives dissuaded him from giving up the job.",
+        "options":  [
+                        "persuaded",
+                        "discouraged",
+                        "advised against",
+                        "deter"
+                    ],
+        "answer":  0,
+        "explanation":  "Dissuade = to talk someone out of; opposite is persuade. (Discouraged, advised against, deter are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c2-80",
+        "type":  "antonym",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  80,
+        "word":  "confidants",
+        "stem":  "He is one of the confidants of the leader and can influence the decision of the government.",
+        "options":  [
+                        "opponents",
+                        "intimate",
+                        "close friend",
+                        "colleague"
+                    ],
+        "answer":  0,
+        "explanation":  "A confidant is a trusted friend; opposite is an opponent/enemy. (Intimate, close friend, colleague are synonyms.)"
+    },
+    {
+        "id":  "pyq-2020-c2-111",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  111,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Mountaneous",
+                        "Mountenous",
+                        "Mountaineous",
+                        "Mountainous"
+                    ],
+        "answer":  3,
+        "explanation":  "Correct spelling of the adjective for ‘having mountains’."
+    },
+    {
+        "id":  "pyq-2020-c2-112",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  112,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Etiquette",
+                        "Etiquete",
+                        "Etiequtte",
+                        "Etequtte"
+                    ],
+        "answer":  0,
+        "explanation":  "Correct spelling (French loan-word)."
+    },
+    {
+        "id":  "pyq-2020-c2-113",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  113,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Curriculam",
+                        "Curiculum",
+                        "Curiculeum",
+                        "Curriculum"
+                    ],
+        "answer":  3,
+        "explanation":  "Correct spelling; plural ‘curricula’."
+    },
+    {
+        "id":  "pyq-2020-c2-114",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  114,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Magnificent",
+                        "Magnificant",
+                        "Magneficent",
+                        "Magenficient"
+                    ],
+        "answer":  0,
+        "explanation":  "Correct spelling."
+    },
+    {
+        "id":  "pyq-2020-c2-115",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  115,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Felecitation",
+                        "Felicitation",
+                        "Falicitation",
+                        "Felicitasion"
+                    ],
+        "answer":  1,
+        "explanation":  "Correct spelling (from ‘felicitate’)."
+    },
+    {
+        "id":  "pyq-2020-c2-116",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  116,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Twelth",
+                        "Twelfth",
+                        "Tweluth",
+                        "Twelthe"
+                    ],
+        "answer":  1,
+        "explanation":  "Correct spelling of the ordinal (twelve + th)."
+    },
+    {
+        "id":  "pyq-2020-c2-117",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  117,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Snobbery",
+                        "Snoberry",
+                        "Snabbery",
+                        "Snobbory"
+                    ],
+        "answer":  0,
+        "explanation":  "Correct spelling (double ‘b’, ‘-ery’)."
+    },
+    {
+        "id":  "pyq-2020-c2-118",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  118,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Neurasis",
+                        "Nuroesis",
+                        "Neurosis",
+                        "Neuresis"
+                    ],
+        "answer":  2,
+        "explanation":  "Correct spelling; plural ‘neuroses’."
+    },
+    {
+        "id":  "pyq-2020-c2-119",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  119,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Dipthteria",
+                        "Diptheria",
+                        "Diphtheria",
+                        "Diphthria"
+                    ],
+        "answer":  2,
+        "explanation":  "Correct spelling (‘diph-the-ria’)."
+    },
+    {
+        "id":  "pyq-2020-c2-120",
+        "type":  "spelling",
+        "year":  2020,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "08 Nov 2020",
+        "tag":  "CDS 2 2020",
+        "qnum":  120,
+        "word":  "(spelling)",
+        "stem":  "Choose the correctly spelt word:",
+        "options":  [
+                        "Meagre",
+                        "Megare",
+                        "Meagr",
+                        "Megear"
+                    ],
+        "answer":  0,
+        "explanation":  "Correct British spelling (US: ‘meager’)."
+    },
+    {
         "id":  "pyq-2021-c1-11",
         "type":  "idiom",
         "year":  2021,
@@ -557,7 +4617,7 @@
                         "A daredevil\u0027s life"
                     ],
         "answer":  0,
-        "explanation":  "Life seen as it really is â€” harsh and unpolished."
+        "explanation":  "Life seen as it really is — harsh and unpolished."
     },
     {
         "id":  "pyq-2021-c2-43",
@@ -657,7 +4717,7 @@
                         "Express your opinion"
                     ],
         "answer":  3,
-        "explanation":  "To state oneâ€™s views, especially having waited to do so."
+        "explanation":  "To state one’s views, especially having waited to do so."
     },
     {
         "id":  "pyq-2021-c2-48",
@@ -757,7 +4817,7 @@
                         "discrepancies"
                     ],
         "answer":  2,
-        "explanation":  "â€˜Our differences are growingâ€™ = our disagreements. (Discrepancies = factual inconsistencies, not personal disputes.)"
+        "explanation":  "‘Our differences are growing’ = our disagreements. (Discrepancies = factual inconsistencies, not personal disputes.)"
     },
     {
         "id":  "pyq-2021-c2-74",
@@ -917,7 +4977,7 @@
                         "minute"
                     ],
         "answer":  1,
-        "explanation":  "Very â€˜particularâ€™ = precise/exacting about detail; opposite is vague. (Minute is a synonym of detailed.)"
+        "explanation":  "Very ‘particular’ = precise/exacting about detail; opposite is vague. (Minute is a synonym of detailed.)"
     },
     {
         "id":  "pyq-2021-c2-82",
@@ -1177,7 +5237,7 @@
                         "To treat people as relatives"
                     ],
         "answer":  2,
-        "explanation":  "A great many people â€” far more than expected."
+        "explanation":  "A great many people — far more than expected."
     },
     {
         "id":  "pyq-2022-c1-27",
@@ -1257,7 +5317,7 @@
                         "informal"
                     ],
         "answer":  3,
-        "explanation":  "â€˜Conversational languageâ€™ = everyday/informal language. (Formal, complex are opposites.)"
+        "explanation":  "‘Conversational language’ = everyday/informal language. (Formal, complex are opposites.)"
     },
     {
         "id":  "pyq-2022-c1-52",
@@ -1357,7 +5417,7 @@
                         "disabled"
                     ],
         "answer":  0,
-        "explanation":  "Gibbous = humped/convex; â€˜hunchedâ€™ is nearest for â€˜gibbous looksâ€™."
+        "explanation":  "Gibbous = humped/convex; ‘hunched’ is nearest for ‘gibbous looks’."
     },
     {
         "id":  "pyq-2022-c1-57",
@@ -2117,7 +6177,7 @@
                         "prominent"
                     ],
         "answer":  1,
-        "explanation":  "Here â€˜anxious forâ€™ = keen/eager to have. (Composed, indifferent are opposites.)"
+        "explanation":  "Here ‘anxious for’ = keen/eager to have. (Composed, indifferent are opposites.)"
     },
     {
         "id":  "pyq-2023-c1-52",
@@ -2717,7 +6777,7 @@
                         "cried"
                     ],
         "answer":  0,
-        "explanation":  "Convulsed = shook violently; â€˜shiveredâ€™ (shook) is nearest among the options."
+        "explanation":  "Convulsed = shook violently; ‘shivered’ (shook) is nearest among the options."
     },
     {
         "id":  "pyq-2023-c2-54",
@@ -2817,7 +6877,7 @@
                         "merged"
                     ],
         "answer":  0,
-        "explanation":  "Transpire = to happen / to come to light; â€˜emergedâ€™ (came to be known/occurred) is nearest."
+        "explanation":  "Transpire = to happen / to come to light; ‘emerged’ (came to be known/occurred) is nearest."
     },
     {
         "id":  "pyq-2023-c2-71",
@@ -2857,7 +6917,7 @@
                         "evaporation"
                     ],
         "answer":  3,
-        "explanation":  "Condensation (vapourâ†’liquid) is the opposite of evaporation (liquidâ†’vapour)."
+        "explanation":  "Condensation (vapour→liquid) is the opposite of evaporation (liquid→vapour)."
     },
     {
         "id":  "pyq-2023-c2-73",
@@ -2997,7 +7057,7 @@
                         "elevation"
                     ],
         "answer":  0,
-        "explanation":  "Self-aggrandisement = promoting oneâ€™s own importance; opposite is humility. (Exaggeration, elevation are related to it, not opposites.)"
+        "explanation":  "Self-aggrandisement = promoting one’s own importance; opposite is humility. (Exaggeration, elevation are related to it, not opposites.)"
     },
     {
         "id":  "pyq-2023-c2-80",
@@ -3397,7 +7457,7 @@
                         "Enquiry means act of investiture and inquiry means to investigate"
                     ],
         "answer":  0,
-        "explanation":  "By the common British distinction, â€˜enquiryâ€™ = a general request for information; â€˜inquiryâ€™ = a formal investigation."
+        "explanation":  "By the common British distinction, ‘enquiry’ = a general request for information; ‘inquiry’ = a formal investigation."
     },
     {
         "id":  "pyq-2024-c1-96",
@@ -3717,7 +7777,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  0,
-        "explanation":  "Anarchism (the political doctrine) = absence of government/authority (meaning 1). â€˜Chaos and disorderâ€™ (meaning 2) is the loose, colloquial sense of â€˜anarchyâ€™, not of the doctrine."
+        "explanation":  "Anarchism (the political doctrine) = absence of government/authority (meaning 1). ‘Chaos and disorder’ (meaning 2) is the loose, colloquial sense of ‘anarchy’, not of the doctrine."
     },
     {
         "id":  "pyq-2024-c2-87",
@@ -3737,7 +7797,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  0,
-        "explanation":  "Pristine = in its original, unspoilt condition (1). â€˜Extremely polluted/defiledâ€™ (2) is the opposite."
+        "explanation":  "Pristine = in its original, unspoilt condition (1). ‘Extremely polluted/defiled’ (2) is the opposite."
     },
     {
         "id":  "pyq-2024-c2-88",
@@ -3777,7 +7837,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  3,
-        "explanation":  "Quotidian = daily/ordinary/commonplace. Neither â€˜to quote inaccuratelyâ€™ nor â€˜fond of quotingâ€™ is correct."
+        "explanation":  "Quotidian = daily/ordinary/commonplace. Neither ‘to quote inaccurately’ nor ‘fond of quoting’ is correct."
     },
     {
         "id":  "pyq-2024-c2-90",
@@ -3857,7 +7917,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  0,
-        "explanation":  "A raconteur = someone skilled at telling stories in an interesting way (1). It does not imply telling â€˜tall talesâ€™ (2)."
+        "explanation":  "A raconteur = someone skilled at telling stories in an interesting way (1). It does not imply telling ‘tall tales’ (2)."
     },
     {
         "id":  "pyq-2024-c2-94",
@@ -3877,7 +7937,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  3,
-        "explanation":  "Emasculate = to weaken/deprive of force or effectiveness â€” the opposite of â€˜making strongâ€™ (1) or â€˜increasing musculatureâ€™ (2)."
+        "explanation":  "Emasculate = to weaken/deprive of force or effectiveness — the opposite of ‘making strong’ (1) or ‘increasing musculature’ (2)."
     },
     {
         "id":  "pyq-2025-c1-1",
@@ -3888,7 +7948,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  1,
-        "word":  "intimated â†’",
+        "word":  "intimated →",
         "stem":  "The officer under suspension felt intimated by the committee members during his interrogation regarding the allegations against him.",
         "options":  [
                         "inculcated",
@@ -3897,7 +7957,7 @@
                         "annulled"
                     ],
         "answer":  1,
-        "explanation":  "An officer under suspension who â€˜felt ___ by the committee during interrogationâ€™ was frightened/coerced = intimidated. â€˜Intimatedâ€™ = hinted/announced, which is wrong."
+        "explanation":  "An officer under suspension who ‘felt ___ by the committee during interrogation’ was frightened/coerced = intimidated. ‘Intimated’ = hinted/announced, which is wrong."
     },
     {
         "id":  "pyq-2025-c1-2",
@@ -3908,7 +7968,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  2,
-        "word":  "perquisite â†’",
+        "word":  "perquisite →",
         "stem":  "Amongst them all, she was the only one with the perquisite to understand the complexity of the situation.",
         "options":  [
                         "perspicacity",
@@ -3917,7 +7977,7 @@
                         "presumptuousness"
                     ],
         "answer":  0,
-        "explanation":  "Only she had the keen insight to grasp the complexity = perspicacity (sharp discernment). â€˜Perquisiteâ€™ = a perk/benefit, which doesnâ€™t fit."
+        "explanation":  "Only she had the keen insight to grasp the complexity = perspicacity (sharp discernment). ‘Perquisite’ = a perk/benefit, which doesn’t fit."
     },
     {
         "id":  "pyq-2025-c1-3",
@@ -3928,7 +7988,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  3,
-        "word":  "scrumptious â†’",
+        "word":  "scrumptious →",
         "stem":  "At the official function organised for the attending dignitaries, guests arrived in scrumptious attire for the banquet.",
         "options":  [
                         "synergistic",
@@ -3937,7 +7997,7 @@
                         "scrimpy"
                     ],
         "answer":  2,
-        "explanation":  "Guests arrived in lavish/splendid attire = sumptuous. â€˜Scrumptiousâ€™ (delicious) applies to food, not clothes."
+        "explanation":  "Guests arrived in lavish/splendid attire = sumptuous. ‘Scrumptious’ (delicious) applies to food, not clothes."
     },
     {
         "id":  "pyq-2025-c1-4",
@@ -3948,7 +8008,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  4,
-        "word":  "lyre â†’",
+        "word":  "lyre →",
         "stem":  "The lake atop the mountain has always been the lyre for intrepid hikers.",
         "options":  [
                         "link",
@@ -3957,7 +8017,7 @@
                         "lure"
                     ],
         "answer":  3,
-        "explanation":  "The lake has always been the â€˜___ for intrepid hikersâ€™ = a lure (an attraction). â€˜Lyreâ€™ (a musical instrument) is a sound-alike error."
+        "explanation":  "The lake has always been the ‘___ for intrepid hikers’ = a lure (an attraction). ‘Lyre’ (a musical instrument) is a sound-alike error."
     },
     {
         "id":  "pyq-2025-c1-5",
@@ -3968,7 +8028,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  5,
-        "word":  "absorption â†’",
+        "word":  "absorption →",
         "stem":  "The candidates went through an intensive instruction process before their absorption into the service.",
         "options":  [
                         "immersion",
@@ -3977,7 +8037,7 @@
                         "unction"
                     ],
         "answer":  2,
-        "explanation":  "Trainees go through instruction before their â€˜___ into the serviceâ€™ = induction (formal entry). â€˜Absorption/immersionâ€™ are less precise for joining a service."
+        "explanation":  "Trainees go through instruction before their ‘___ into the service’ = induction (formal entry). ‘Absorption/immersion’ are less precise for joining a service."
     },
     {
         "id":  "pyq-2025-c1-6",
@@ -3988,7 +8048,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  6,
-        "word":  "minimise â†’",
+        "word":  "minimise →",
         "stem":  "The office memorandum directed personnel to minimise their consumption of office stationery by up to twenty percent.",
         "options":  [
                         "supervise",
@@ -3997,7 +8057,7 @@
                         "reduce"
                     ],
         "answer":  3,
-        "explanation":  "You â€˜reduce consumption by twenty percentâ€™; â€˜minimiseâ€™ means cut to the least possible, which doesnâ€™t combine with a fixed percentage. (â€˜Lowerâ€™ also works, but â€˜reduceâ€™ is the standard correction.)"
+        "explanation":  "You ‘reduce consumption by twenty percent’; ‘minimise’ means cut to the least possible, which doesn’t combine with a fixed percentage. (‘Lower’ also works, but ‘reduce’ is the standard correction.)"
     },
     {
         "id":  "pyq-2025-c1-7",
@@ -4008,7 +8068,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  7,
-        "word":  "tumult â†’",
+        "word":  "tumult →",
         "stem":  "The announcement of an unexpected bonus led to great tumult among the staff.",
         "options":  [
                         "merriment",
@@ -4017,7 +8077,7 @@
                         "uproar"
                     ],
         "answer":  0,
-        "explanation":  "An unexpected bonus is good news, so it produces joy = merriment. â€˜Tumult/uproar/upheavalâ€™ suggest disorder, wrong for a happy event."
+        "explanation":  "An unexpected bonus is good news, so it produces joy = merriment. ‘Tumult/uproar/upheaval’ suggest disorder, wrong for a happy event."
     },
     {
         "id":  "pyq-2025-c1-8",
@@ -4028,7 +8088,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  8,
-        "word":  "scurrilous â†’",
+        "word":  "scurrilous →",
         "stem":  "The scurrilous remarks in the article were met with great joy by the leadership of the company.",
         "options":  [
                         "laudatory",
@@ -4037,7 +8097,7 @@
                         "upbraiding"
                     ],
         "answer":  0,
-        "explanation":  "The remarks were â€˜met with great joy by the leadershipâ€™, so they must be praising = laudatory. â€˜Scurrilousâ€™ (abusive) contradicts the joy."
+        "explanation":  "The remarks were ‘met with great joy by the leadership’, so they must be praising = laudatory. ‘Scurrilous’ (abusive) contradicts the joy."
     },
     {
         "id":  "pyq-2025-c1-9",
@@ -4048,7 +8108,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  9,
-        "word":  "plaudits â†’",
+        "word":  "plaudits →",
         "stem":  "His inappropriate behaviour earned plaudits from his colleagues.",
         "options":  [
                         "sanctimoniousness",
@@ -4057,7 +8117,7 @@
                         "banter"
                     ],
         "answer":  2,
-        "explanation":  "â€˜Inappropriate behaviourâ€™ would earn disgrace/harsh criticism = opprobrium. â€˜Plauditsâ€™ (praise) is the wrong direction."
+        "explanation":  "‘Inappropriate behaviour’ would earn disgrace/harsh criticism = opprobrium. ‘Plaudits’ (praise) is the wrong direction."
     },
     {
         "id":  "pyq-2025-c1-10",
@@ -4068,7 +8128,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  10,
-        "word":  "enormity â†’",
+        "word":  "enormity →",
         "stem":  "The enormity of the mountain range stunned the visitors to the hill station.",
         "options":  [
                         "eternity",
@@ -4077,7 +8137,7 @@
                         "simulacrum"
                     ],
         "answer":  1,
-        "explanation":  "To describe the vast size of a mountain range use â€˜enormousnessâ€™. â€˜Enormityâ€™ properly means great wickedness, not great size."
+        "explanation":  "To describe the vast size of a mountain range use ‘enormousness’. ‘Enormity’ properly means great wickedness, not great size."
     },
     {
         "id":  "pyq-2025-c1-26",
@@ -4097,7 +8157,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  3,
-        "explanation":  "1 â€˜pare the branchesâ€™ âœ“ (trim); 2 â€˜the pair of treesâ€™ âœ“ (two); 3 â€˜the pear tree â€¦ bountyâ€™ âœ“ (fruit). All correct."
+        "explanation":  "1 ‘pare the branches’ ✓ (trim); 2 ‘the pair of trees’ ✓ (two); 3 ‘the pear tree … bounty’ ✓ (fruit). All correct."
     },
     {
         "id":  "pyq-2025-c1-27",
@@ -4117,7 +8177,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  2,
-        "explanation":  "1 â€˜participate in a seanceâ€™ âœ“ (spiritualist sitting). 2 â€˜eating the sconceâ€™ âœ— (should be â€˜sconeâ€™, the baked item); 3 â€˜scone reading on the graphâ€™ âœ— (neither word denotes a graph reading â€” a â€˜sconceâ€™ is a wall light-bracket)."
+        "explanation":  "1 ‘participate in a seance’ ✓ (spiritualist sitting). 2 ‘eating the sconce’ ✗ (should be ‘scone’, the baked item); 3 ‘scone reading on the graph’ ✗ (neither word denotes a graph reading — a ‘sconce’ is a wall light-bracket)."
     },
     {
         "id":  "pyq-2025-c1-28",
@@ -4137,7 +8197,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  0,
-        "explanation":  "1 â€˜reap what one sows is a truismâ€™ âœ“ (an obvious truth). 2 â€˜the altruism uttered by the seerâ€™ âœ— â€” altruism = selflessness, not a statement that can be â€˜utteredâ€™ (a â€˜truism/aphorismâ€™ was meant)."
+        "explanation":  "1 ‘reap what one sows is a truism’ ✓ (an obvious truth). 2 ‘the altruism uttered by the seer’ ✗ — altruism = selflessness, not a statement that can be ‘uttered’ (a ‘truism/aphorism’ was meant)."
     },
     {
         "id":  "pyq-2025-c1-29",
@@ -4157,7 +8217,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  2,
-        "explanation":  "1 â€˜Consequent to the decisions â€¦ procedures were brought inâ€™ âœ“ (following as a result); 2 â€˜the past is of little consequenceâ€™ âœ“ (importance). Both correct."
+        "explanation":  "1 ‘Consequent to the decisions … procedures were brought in’ ✓ (following as a result); 2 ‘the past is of little consequence’ ✓ (importance). Both correct."
     },
     {
         "id":  "pyq-2025-c1-30",
@@ -4177,7 +8237,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  3,
-        "explanation":  "1 â€˜seize the contrabandâ€™ âœ“ (confiscate); 2 â€˜hostilities should ceaseâ€™ âœ“ (stop); 3 â€˜a knife-edge-like creaseâ€™ âœ“ (fold/line). All correct."
+        "explanation":  "1 ‘seize the contraband’ ✓ (confiscate); 2 ‘hostilities should cease’ ✓ (stop); 3 ‘a knife-edge-like crease’ ✓ (fold/line). All correct."
     },
     {
         "id":  "pyq-2025-c1-31",
@@ -4217,7 +8277,7 @@
                         "Unchanging and firm in belief and conviction"
                     ],
         "answer":  3,
-        "explanation":  "Fixed in oneâ€™s views; thoroughgoing (from wool dyed before spinning, so the colour is permanent)."
+        "explanation":  "Fixed in one’s views; thoroughgoing (from wool dyed before spinning, so the colour is permanent)."
     },
     {
         "id":  "pyq-2025-c1-33",
@@ -4277,7 +8337,7 @@
                         "To not deviate from one\u0027s goal"
                     ],
         "answer":  1,
-        "explanation":  "To live honestly and morally (the â€˜straight and narrowâ€™ path)."
+        "explanation":  "To live honestly and morally (the ‘straight and narrow’ path)."
     },
     {
         "id":  "pyq-2025-c1-37",
@@ -4437,7 +8497,7 @@
                         "Precept is a noun and it means an object of perception. Percept is a noun and it means a general rule intended to regulate behaviour. Word Usage - only one sentence uses the word correctly (Q96-100)  (5)"
                     ],
         "answer":  1,
-        "explanation":  "â€˜Emigrateâ€™ = to leave oneâ€™s own country to settle in another. Animals â€˜migrateâ€™ (a), workers moving between provinces are internal â€˜migrationâ€™ (c), and entry into a country is â€˜immigrationâ€™ (d)."
+        "explanation":  "‘Emigrate’ = to leave one’s own country to settle in another. Animals ‘migrate’ (a), workers moving between provinces are internal ‘migration’ (c), and entry into a country is ‘immigration’ (d)."
     },
     {
         "id":  "pyq-2025-c2-31",
@@ -4477,7 +8537,7 @@
                         "Anyway is a phrase meaning regardless. Any way is an adverb meaning any manner or method."
                     ],
         "answer":  2,
-        "explanation":  "â€˜Anywayâ€™ (one word) = in any case/regardless; â€˜any wayâ€™ (two words) = by any method."
+        "explanation":  "‘Anyway’ (one word) = in any case/regardless; ‘any way’ (two words) = by any method."
     },
     {
         "id":  "pyq-2025-c2-33",
@@ -4537,7 +8597,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  1,
-        "explanation":  "2 â€˜proceedings were quite drearyâ€™ âœ“ (dull). 1 â€˜memories in her private dairyâ€™ âœ— (should be â€˜diaryâ€™); 3 â€˜milk products from the local diaryâ€™ âœ— (should be â€˜dairyâ€™)."
+        "explanation":  "2 ‘proceedings were quite dreary’ ✓ (dull). 1 ‘memories in her private dairy’ ✗ (should be ‘diary’); 3 ‘milk products from the local diary’ ✗ (should be ‘dairy’)."
     },
     {
         "id":  "pyq-2025-c2-87",
@@ -4557,7 +8617,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  1,
-        "explanation":  "2 â€˜sport a beardâ€™ âœ“; 3 â€˜males brood the eggsâ€™ âœ“ (incubate). 1 â€˜braid the river by converting it into a single bodyâ€™ âœ— â€” braiding a river means splitting it into many channels, the opposite of a single body."
+        "explanation":  "2 ‘sport a beard’ ✓; 3 ‘males brood the eggs’ ✓ (incubate). 1 ‘braid the river by converting it into a single body’ ✗ — braiding a river means splitting it into many channels, the opposite of a single body."
     },
     {
         "id":  "pyq-2025-c2-88",
@@ -4577,7 +8637,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  0,
-        "explanation":  "1 â€˜life-threatening lesionâ€™ âœ“ (injury/abnormal tissue); 2 â€˜a legion of followersâ€™ âœ“ (a great number). 3 â€˜to lesson the burdenâ€™ âœ— (should be â€˜lessenâ€™ = reduce)."
+        "explanation":  "1 ‘life-threatening lesion’ ✓ (injury/abnormal tissue); 2 ‘a legion of followers’ ✓ (a great number). 3 ‘to lesson the burden’ ✗ (should be ‘lessen’ = reduce)."
     },
     {
         "id":  "pyq-2025-c2-89",
@@ -4597,7 +8657,7 @@
                         "3 only"
                     ],
         "answer":  3,
-        "explanation":  "3 â€˜the government can deport someoneâ€™ âœ“ (expel from a country). 1 â€˜depose himself and act naturallyâ€™ âœ— (depose = remove from office / testify); 2 â€˜enthusiastically â€¦ deplore the salutary impactâ€™ âœ— â€” deplore = strongly disapprove, which contradicts â€˜enthusiasticallyâ€™ and a â€˜salutary (beneficial) impactâ€™."
+        "explanation":  "3 ‘the government can deport someone’ ✓ (expel from a country). 1 ‘depose himself and act naturally’ ✗ (depose = remove from office / testify); 2 ‘enthusiastically … deplore the salutary impact’ ✗ — deplore = strongly disapprove, which contradicts ‘enthusiastically’ and a ‘salutary (beneficial) impact’."
     },
     {
         "id":  "pyq-2025-c2-90",
@@ -4617,7 +8677,7 @@
                         "2 only"
                     ],
         "answer":  1,
-        "explanation":  "2 â€˜set the bait to capture the leopardâ€™ âœ“; 3 â€˜bade goodbyeâ€™ âœ“ (past tense of bid). 1 â€˜asked to bate their curiosityâ€™ âœ— â€” â€˜bateâ€™ (to lessen/restrain) collocates with â€˜bated breathâ€™, not â€˜curiosityâ€™, so the usage is treated as incorrect."
+        "explanation":  "2 ‘set the bait to capture the leopard’ ✓; 3 ‘bade goodbye’ ✓ (past tense of bid). 1 ‘asked to bate their curiosity’ ✗ — ‘bate’ (to lessen/restrain) collocates with ‘bated breath’, not ‘curiosity’, so the usage is treated as incorrect."
     },
     {
         "id":  "pyq-2025-c2-91",
@@ -4637,7 +8697,7 @@
                         "Someone embarrassed at being caught in the act of lying"
                     ],
         "answer":  2,
-        "explanation":  "Describes someone straining to listen in on othersâ€™ talk."
+        "explanation":  "Describes someone straining to listen in on others’ talk."
     },
     {
         "id":  "pyq-2025-c2-92",
@@ -4657,7 +8717,7 @@
                         "To make someone who is already feeling bad, feel worse with one\u0027s words or actions"
                     ],
         "answer":  3,
-        "explanation":  "To deliberately worsen anotherâ€™s pain or difficulty."
+        "explanation":  "To deliberately worsen another’s pain or difficulty."
     },
     {
         "id":  "pyq-2025-c2-93",
@@ -4677,7 +8737,7 @@
                         "Be scathing in one\u0027s criticism of others"
                     ],
         "answer":  2,
-        "explanation":  "To boast about oneâ€™s own successes."
+        "explanation":  "To boast about one’s own successes."
     },
     {
         "id":  "pyq-2025-c2-94",
@@ -4697,7 +8757,7 @@
                         "To annoy or irritate someone intensely"
                     ],
         "answer":  3,
-        "explanation":  "In this sense it means to irritate persistently. (It can also mean to fascinate, but among the options â€˜annoy/irritateâ€™ is intended.)"
+        "explanation":  "In this sense it means to irritate persistently. (It can also mean to fascinate, but among the options ‘annoy/irritate’ is intended.)"
     },
     {
         "id":  "pyq-2025-c2-95",
@@ -4828,7 +8888,7 @@
         "date":  "14 Sep 2025",
         "tag":  "CDS 2 2025",
         "qnum":  101,
-        "word":  "bilateral â†’",
+        "word":  "bilateral →",
         "stem":  "The opposing political parties nevertheless took a bilateral position in the national interest.",
         "options":  [
                         "impartial",
@@ -4837,7 +8897,7 @@
                         "bipartisan"
                     ],
         "answer":  3,
-        "explanation":  "Two opposing political parties taking a common position = bipartisan. â€˜Bilateralâ€™ (between two states/parties) does not fit party politics as neatly."
+        "explanation":  "Two opposing political parties taking a common position = bipartisan. ‘Bilateral’ (between two states/parties) does not fit party politics as neatly."
     },
     {
         "id":  "pyq-2025-c2-102",
@@ -4848,7 +8908,7 @@
         "date":  "14 Sep 2025",
         "tag":  "CDS 2 2025",
         "qnum":  102,
-        "word":  "indefinite â†’",
+        "word":  "indefinite →",
         "stem":  "Although she had sampled food from all the restaurants in the food court, she remained indefinite towards the culinary fare on offer.",
         "options":  [
                         "imperious",
@@ -4868,7 +8928,7 @@
         "date":  "14 Sep 2025",
         "tag":  "CDS 2 2025",
         "qnum":  104,
-        "word":  "diligent â†’",
+        "word":  "diligent →",
         "stem":  "Humanity was rendered diligent due to the crash in the share market.",
         "options":  [
                         "indigent",
@@ -4877,7 +8937,7 @@
                         "apathetic"
                     ],
         "answer":  0,
-        "explanation":  "A stock-market crash would leave people poor = indigent. â€˜Diligentâ€™ (hardworking) makes no sense here."
+        "explanation":  "A stock-market crash would leave people poor = indigent. ‘Diligent’ (hardworking) makes no sense here."
     },
     {
         "id":  "pyq-2025-c2-106",
@@ -4888,7 +8948,7 @@
         "date":  "14 Sep 2025",
         "tag":  "CDS 2 2025",
         "qnum":  106,
-        "word":  "postscript â†’",
+        "word":  "postscript →",
         "stem":  "The document was discerned to be a postscript where clearly an earlier manuscript had been replaced by a new one.",
         "options":  [
                         "parchment",
@@ -4908,7 +8968,7 @@
         "date":  "14 Sep 2025",
         "tag":  "CDS 2 2025",
         "qnum":  107,
-        "word":  "simulism â†’",
+        "word":  "simulism →",
         "stem":  "He was accused of simulism for having copied without due acknowledgement.",
         "options":  [
                         "sensationalism",
@@ -4928,7 +8988,7 @@
         "date":  "14 Sep 2025",
         "tag":  "CDS 2 2025",
         "qnum":  110,
-        "word":  "salutary â†’",
+        "word":  "salutary →",
         "stem":  "Her actions were considered salutary because they were done without good reason or cause.",
         "options":  [
                         "ingratiated",
@@ -4937,7 +8997,7 @@
                         "gargantuan"
                     ],
         "answer":  1,
-        "explanation":  "Actions â€˜done without good reason or causeâ€™ = gratuitous (uncalled-for). â€˜Salutaryâ€™ means beneficial, which contradicts the clause."
+        "explanation":  "Actions ‘done without good reason or cause’ = gratuitous (uncalled-for). ‘Salutary’ means beneficial, which contradicts the clause."
     },
     {
         "id":  "pyq-2026-c1-1",
@@ -4997,7 +9057,7 @@
                         "Imminent means happening soon and Eminent means famous and respected"
                     ],
         "answer":  3,
-        "explanation":  "Imminent = about to occur (impending); eminent = distinguished/prominent. (A third look-alike, â€˜immanentâ€™, means inherent.)"
+        "explanation":  "Imminent = about to occur (impending); eminent = distinguished/prominent. (A third look-alike, ‘immanent’, means inherent.)"
     },
     {
         "id":  "pyq-2026-c1-4",
@@ -5057,7 +9117,7 @@
                         "Climatic means climbing to the top of something and Climactic means the scientific study of climate"
                     ],
         "answer":  0,
-        "explanation":  "Climatic derives from â€˜climateâ€™; climactic derives from â€˜climaxâ€™ (the high point)."
+        "explanation":  "Climatic derives from ‘climate’; climactic derives from ‘climax’ (the high point)."
     },
     {
         "id":  "pyq-2026-c1-7",
@@ -5117,7 +9177,7 @@
                         "Hard means to a great degree and Hardly means never"
                     ],
         "answer":  0,
-        "explanation":  "â€˜Hardâ€™ can be an adjective/adverb meaning difficult or forceful; â€˜hardlyâ€™ means barely/scarcely â€” not simply the adverb form of hard."
+        "explanation":  "‘Hard’ can be an adjective/adverb meaning difficult or forceful; ‘hardly’ means barely/scarcely — not simply the adverb form of hard."
     },
     {
         "id":  "pyq-2026-c1-10",
@@ -5148,7 +9208,7 @@
         "date":  "13 Apr 2026",
         "tag":  "CDS 1 2026",
         "qnum":  11,
-        "word":  "understatement (â€˜pandemic done and dusted would be an understatementâ€™)",
+        "word":  "understatement (‘pandemic done and dusted would be an understatement’)",
         "stem":  "To say that the pandemic is done and dusted with would be an understatement.",
         "options":  [
                         "affecting politeness",
@@ -5157,7 +9217,7 @@
                         "practising subterfuge"
                     ],
         "answer":  1,
-        "explanation":  "An understatement deliberately presents something as smaller/less important than it is â€” i.e., underplaying its significance."
+        "explanation":  "An understatement deliberately presents something as smaller/less important than it is — i.e., underplaying its significance."
     },
     {
         "id":  "pyq-2026-c1-12",
@@ -5217,7 +9277,7 @@
                         "supplied"
                     ],
         "answer":  2,
-        "explanation":  "Interspersed = scattered/mixed in among other things; â€˜combinedâ€™ (with practical demos) is nearest."
+        "explanation":  "Interspersed = scattered/mixed in among other things; ‘combined’ (with practical demos) is nearest."
     },
     {
         "id":  "pyq-2026-c1-15",
@@ -5257,7 +9317,7 @@
                         "probing"
                     ],
         "answer":  0,
-        "explanation":  "Ingenuous = innocent, unsuspecting, naive (not to be confused with â€˜ingeniousâ€™ = clever)."
+        "explanation":  "Ingenuous = innocent, unsuspecting, naive (not to be confused with ‘ingenious’ = clever)."
     },
     {
         "id":  "pyq-2026-c1-17",
@@ -5317,7 +9377,7 @@
                         "demonstration"
                     ],
         "answer":  0,
-        "explanation":  "A travesty is a grotesque, absurd imitation â€” a mockery of the original."
+        "explanation":  "A travesty is a grotesque, absurd imitation — a mockery of the original."
     },
     {
         "id":  "pyq-2026-c1-20",
@@ -5357,7 +9417,7 @@
                         "Person who negates his own positions"
                     ],
         "answer":  2,
-        "explanation":  "Literally â€˜image-breakerâ€™; one who attacks or rejects cherished beliefs and established conventions."
+        "explanation":  "Literally ‘image-breaker’; one who attacks or rejects cherished beliefs and established conventions."
     },
     {
         "id":  "pyq-2026-c1-22",
@@ -5437,7 +9497,7 @@
                         "Patchy skin"
                     ],
         "answer":  0,
-        "explanation":  "Pachyderm (e.g., elephant, rhino) literally means â€˜thick-skinnedâ€™."
+        "explanation":  "Pachyderm (e.g., elephant, rhino) literally means ‘thick-skinned’."
     },
     {
         "id":  "pyq-2026-c1-26",
@@ -5577,7 +9637,7 @@
                         "Be excessively happy"
                     ],
         "answer":  0,
-        "explanation":  "From the opossumâ€™s habit of feigning death; to pretend to be dead or asleep/unaware."
+        "explanation":  "From the opossum’s habit of feigning death; to pretend to be dead or asleep/unaware."
     },
     {
         "id":  "pyq-2026-c1-45",
@@ -5917,7 +9977,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  3,
-        "explanation":  "1 â€˜GM cropsâ€™ âœ“ (cultivated plants); 2 â€˜volunteer corpsâ€™ âœ“ (an organised group); 3 â€˜sleeping like a corpseâ€™ âœ“ (motionless as a dead body). All three words are used correctly."
+        "explanation":  "1 ‘GM crops’ ✓ (cultivated plants); 2 ‘volunteer corps’ ✓ (an organised group); 3 ‘sleeping like a corpse’ ✓ (motionless as a dead body). All three words are used correctly."
     },
     {
         "id":  "pyq-2026-c1-82",
@@ -5937,7 +9997,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  2,
-        "explanation":  "1 â€˜reports censoredâ€™ âœ“ (suppress content); 3 â€˜incense out of the censerâ€™ âœ“ (incense holder); 2 â€˜censure board must regulate cinematic contentâ€™ âœ— â€” should be â€˜censor boardâ€™ (censure = to criticise/blame)."
+        "explanation":  "1 ‘reports censored’ ✓ (suppress content); 3 ‘incense out of the censer’ ✓ (incense holder); 2 ‘censure board must regulate cinematic content’ ✗ — should be ‘censor board’ (censure = to criticise/blame)."
     },
     {
         "id":  "pyq-2026-c1-85",
@@ -5957,7 +10017,7 @@
                         "3 only"
                     ],
         "answer":  3,
-        "explanation":  "3 â€˜body placed on a bierâ€™ âœ“ (funeral stand). 1 â€˜could not bare the heatâ€™ âœ— (should be â€˜bearâ€™ = endure); 2 â€˜walls looked bearâ€™ âœ— (should be â€˜bareâ€™ = empty)."
+        "explanation":  "3 ‘body placed on a bier’ ✓ (funeral stand). 1 ‘could not bare the heat’ ✗ (should be ‘bear’ = endure); 2 ‘walls looked bear’ ✗ (should be ‘bare’ = empty)."
     },
     {
         "id":  "pyq-2026-c1-86",
@@ -5977,7 +10037,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  0,
-        "explanation":  "2 â€˜car developed a flat tyreâ€™ âœ“. 1 â€˜tier the building with graffitiâ€™ âœ— (nonsensical; deface would be â€˜tar/marâ€™); 3 â€˜third tire of the buildingâ€™ âœ— (should be â€˜tierâ€™ = level)."
+        "explanation":  "2 ‘car developed a flat tyre’ ✓. 1 ‘tier the building with graffiti’ ✗ (nonsensical; deface would be ‘tar/mar’); 3 ‘third tire of the building’ ✗ (should be ‘tier’ = level)."
     },
     {
         "id":  "pyq-2026-c1-87",
@@ -5997,6 +10057,6 @@
                         "1, 2 and 3"
                     ],
         "answer":  1,
-        "explanation":  "2 â€˜a pleasant sightâ€™ âœ“. 1 â€˜inspection of the citeâ€™ âœ— (should be â€˜siteâ€™ = location); 3 â€˜site their sourcesâ€™ âœ— (should be â€˜citeâ€™ = quote)."
+        "explanation":  "2 ‘a pleasant sight’ ✓. 1 ‘inspection of the cite’ ✗ (should be ‘site’ = location); 3 ‘site their sources’ ✗ (should be ‘cite’ = quote)."
     }
 ]
