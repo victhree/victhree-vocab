@@ -75,7 +75,7 @@ img{max-width:100%}
 @media(max-width:600px){.home-quiz{grid-template-columns:1fr}.home-quiz .minitile{grid-column:1}}
 .topic-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:14px 0}
 .topic-grid.one{grid-template-columns:minmax(0,340px);justify-content:center;margin:18px auto}
-.topic-grid .tile{align-items:center;text-align:center;padding:22px 14px;gap:10px}
+.topic-grid .tile{align-items:center;justify-content:center;text-align:center;padding:22px 14px;gap:10px}
 .topic-grid .tile .ic{font-size:30px}
 @media(max-width:600px){.topic-grid{grid-template-columns:repeat(2,1fr)}}
 .widecard{display:flex;align-items:center;gap:16px;background:var(--card);border:1px solid var(--line);
