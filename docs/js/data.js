@@ -51,14 +51,14 @@
   VV.pyqTypeLabel = k => (VV.PYQ_TYPES.find(t=>t.key===k)||{}).label || k;
   // the "Directions:" task line so students know what to do with each question
   VV.PYQ_DIRECTIONS = {
-    synonym:   'Directions: Choose the word nearest in meaning to the word in bold.',
-    antonym:   'Directions: Choose the word opposite in meaning to the word in bold.',
-    idiom:     'Directions: Choose the option that best expresses the meaning of the idiom/phrase.',
-    confusable:'Directions: Choose the option that correctly gives the meaning of both words.',
-    meaning:   'Directions: Choose the correct meaning of the given word.',
-    usage:     'Directions: Choose the option that best replaces the underlined word in the sentence.',
-    similar:   'Directions: Choose the sentence(s) in which the word(s) have been used correctly.',
-    spelling:  'Directions: Choose the correctly spelt word.'
+    synonym:   'Choose the word nearest in meaning to the word in bold.',
+    antonym:   'Choose the word opposite in meaning to the word in bold.',
+    idiom:     'Choose the option that best expresses the meaning of the idiom/phrase.',
+    confusable:'Choose the option that correctly gives the meaning of both words.',
+    meaning:   'Choose the correct meaning of the given word.',
+    usage:     'Choose the option that best replaces the underlined word in the sentence.',
+    similar:   'Choose the sentence(s) in which the word(s) have been used correctly.',
+    spelling:  'Choose the correctly spelt word.'
   };
   VV.pyqDirections = t => VV.PYQ_DIRECTIONS[t] || '';
 
