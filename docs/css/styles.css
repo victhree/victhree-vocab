@@ -463,4 +463,4 @@ body.home .foot{color:var(--hud-dim);font-family:var(--mono);letter-spacing:.5px
 .pyq-directions{font-size:12.5px;color:var(--muted);font-style:italic;margin:2px 0 10px;line-height:1.4}
 
 /* date under the Vocabulary of the Day home tile */
-.tile-date{display:block;font-family:var(--mono);font-size:12px;letter-spacing:.5px;color:var(--gold-2);margin-top:4px;font-weight:700}
+.tile-date{display:block;font-family:var(--mono);font-size:14px;letter-spacing:.5px;color:var(--gold-2);margin:0;font-weight:700}
