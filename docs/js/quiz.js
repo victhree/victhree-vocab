@@ -1,38 +1,63 @@
-/* VicThree Vocab — quiz (select all, submit, then reveal answers) */
+/* VicThree Vocab — quiz (word bank + PYQs, select all, submit, then reveal) */
 (async function(){
   const $=s=>document.querySelector(s);
   const params=new URLSearchParams(location.search);
   const partFilter=params.get('part'); // A | B | C | null
   const mode=params.get('mode');       // 'review' | null
+  const pyqType=params.get('type');    // for PYQ-scoped quizzes
+  const pyqYear=params.get('year');
+  const initialSrc=params.get('src')|| (mode==='review'?'words':'all'); // all | words | pyq
 
-  let words, allQ;
-  try{ [words,allQ]=await Promise.all([VV.loadWords(),VV.loadQuestions()]); }
-  catch(e){ $('#stage').innerHTML='<div class="empty">Could not load quiz data.</div>'; return; }
+  let words, allQ, allPYQ;
+  try{
+    [words,allQ,allPYQ]=await Promise.all([VV.loadWords(),VV.loadQuestions(),VV.loadPYQ()]);
+  }catch(e){ $('#stage').innerHTML='<div class="empty">Could not load quiz data.</div>'; return; }
+  allPYQ.forEach(q=>q._pyq=true);
 
   const TYPE_LABEL={synonym:'Synonym',antonym:'Antonym',idiom:'Idiom',ows:'One-word substitution'};
   const titles={A:'Synonyms & Antonyms',B:'Idioms & Phrases',C:'One-word Substitutions'};
-  $('#qtitle').textContent = mode==='review' ? 'Review weak words' : (partFilter? ('Quiz · '+titles[partFilter]) : 'English Quiz');
+
+  const srcSel=$('#src');
+  if(srcSel && ['all','words','pyq'].includes(initialSrc)) srcSel.value=initialSrc;
 
   let pool=[], answers=[], submitted=false;
 
+  function setTitle(){
+    const src = srcSel ? srcSel.value : 'all';
+    $('#qtitle').textContent =
+      mode==='review' ? 'Review weak words'
+      : src==='pyq' ? 'PYQ Quiz'
+      : partFilter ? ('Quiz · '+titles[partFilter])
+      : 'English Quiz';
+  }
+
   function buildPool(){
-    let qs=allQ.slice();
+    const src = srcSel ? srcSel.value : 'all';
+    let qs=[];
     if(mode==='review'){
-      qs=qs.filter(q=>VV.getStatus(q.wordId)==='missed');
+      qs=allQ.filter(q=>VV.getStatus(q.wordId)==='missed');
       if(!qs.length){
         $('#bar').style.display='none';
         $('#stage').innerHTML='<div class="qcard result"><h2 style="margin:0 0 6px;color:var(--navy)">No weak words yet 💪</h2>'+
-          '<p style="font-size:16px;margin:6px 0">Answer some questions in the Random Quiz or Practice — anything you get wrong lands here for focused review.</p>'+
+          '<p style="font-size:16px;margin:6px 0">Answer some questions in the English Quiz or Practice — anything you get wrong lands here for focused review.</p>'+
           '<div class="dactions"><a class="btn" href="quiz.html">📝 English Quiz</a><a class="btn outline" href="index.html">← Home</a></div></div>';
         return;
       }
-    } else if(partFilter){ qs=qs.filter(q=>q.part===partFilter); }
+    } else {
+      let wb=allQ.slice();
+      if(partFilter) wb=wb.filter(q=>q.part===partFilter);
+      let pq=allPYQ.slice();
+      if(pyqType) pq=pq.filter(q=>q.type===pyqType);
+      if(pyqYear) pq=pq.filter(q=>String(q.year)===pyqYear);
+      qs = src==='words' ? wb : src==='pyq' ? pq : wb.concat(pq);
+    }
     const cnt=parseInt($('#count').value,10);
     qs=VV.shuffle(qs);
     if(cnt>0) qs=qs.slice(0,cnt);
     pool=qs; answers=new Array(pool.length).fill(null); submitted=false;
     $('#bar').style.display='';
     $('#result').innerHTML='';
+    setTitle();
     render();
   }
 
@@ -42,17 +67,27 @@
     s=s.replace(/(&quot;[^&]*&quot;)/,'<span class="cap">$1</span>');
     return s;
   }
+  function pyqStemHTML(q){
+    let s=VV.esc(q.stem);
+    if(q.word && /^(synonym|antonym|usage|meaning)$/.test(q.type)){
+      const w=q.word.split(/[\s→/(]/)[0].trim();
+      if(w && w.length>2){ try{ s=s.replace(new RegExp('\\b('+w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')\\b','i'),'<span class="cap">$1</span>'); }catch(e){} }
+    }
+    return s;
+  }
+  function typeLabel(q){ return q._pyq ? VV.pyqTypeLabel(q.type) : (TYPE_LABEL[q.type]||q.type); }
 
   function render(){
-    if(!pool.length){ $('#stage').innerHTML='<div class="empty">No questions.</div>'; return; }
+    if(!pool.length){ $('#stage').innerHTML='<div class="empty">No questions for this selection.</div>'; return; }
     $('#stage').innerHTML=pool.map((q,i)=>{
       const opts=q.options.map((o,oi)=>
         '<div class="opt clickable" data-i="'+i+'" data-oi="'+oi+'"><span class="lt">'+VV.letter(oi)+'</span><span>'+VV.esc(o)+'</span></div>'
       ).join('');
+      const tag = q._pyq ? ' <span class="pyqtag">PYQ · '+VV.esc(q.paper)+' · '+q.year+'</span>' : '';
       return '<div class="qcard" data-qi="'+i+'">'+
-        '<div class="qhead"><span class="qnum">Q'+(i+1)+'</span>'+
-          '<span class="qtype">'+(TYPE_LABEL[q.type]||q.type)+'</span></div>'+
-        '<div class="stem">'+highlightCap(q.stem)+'</div>'+
+        '<div class="qhead"><span class="qnum">Q'+(i+1)+'</span>'+tag+
+          '<span class="qtype">'+VV.esc(typeLabel(q))+'</span></div>'+
+        '<div class="stem">'+(q._pyq?pyqStemHTML(q):highlightCap(q.stem))+'</div>'+
         '<div class="opts">'+opts+'</div>'+
         '<div class="detail" id="d'+i+'"></div>'+
       '</div>';
@@ -89,12 +124,16 @@
       const ok = chosen===q.answer;
       if(chosen!==null && !ok) opts[chosen].classList.add('wrong');
       if(ok) correct++;
-      const w=VV.wordById(q.wordId);
-      if(w) VV.setStatus(w.id, ok?'got':'missed');
       const d=card.querySelector('.detail');
-      d.innerHTML=detailWithActions(w, ok, chosen===null);
+      if(q._pyq){
+        d.innerHTML=pyqDetail(q, ok, chosen===null);
+      } else {
+        const w=VV.wordById(q.wordId);
+        if(w) VV.setStatus(w.id, ok?'got':'missed');
+        d.innerHTML=detailWithActions(w, ok, chosen===null);
+        bindDetail(card,w);
+      }
       d.classList.add('show');
-      bindDetail(card,w);
     });
     const pct=Math.round(correct/pool.length*100);
     $('#result').innerHTML='<div class="qcard result">'+
@@ -107,6 +146,16 @@
     $('#again').addEventListener('click',buildPool);
     $('#submit').disabled=true; $('#submit').textContent='Submitted ✓';
     window.scrollTo({top:0,behavior:'smooth'});
+  }
+
+  function pyqDetail(q,ok,skipped){
+    const verdict = ok ? '<span class="pbadge got">✓ Correct</span>'
+      : (skipped ? '<span class="pbadge missed">— Not answered · Ans '+VV.letter(q.answer).toUpperCase()+'</span>'
+                 : '<span class="pbadge missed">✗ Answer: '+VV.letter(q.answer).toUpperCase()+'</span>');
+    let h='<div class="dtop"><div>'+verdict+'</div></div>';
+    h+='<p class="dline"><span class="dk">Why</span> '+VV.esc(q.explanation||'')+'</p>';
+    if(q.note) h+='<p class="dnote">⚠ '+VV.esc(q.note)+'</p>';
+    return h;
   }
 
   function detailWithActions(w,ok,skipped){
@@ -127,6 +176,7 @@
     if(dl) dl.addEventListener('click',()=>VV.downloadCardPNG(w));
   }
 
+  if(srcSel) srcSel.addEventListener('change',buildPool);
   $('#count').addEventListener('change',buildPool);
   $('#reshuffle').addEventListener('click',buildPool);
   $('#submit').addEventListener('click',submit);

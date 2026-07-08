@@ -33,6 +33,16 @@
     return pyq.filter(q=>(type==='all'||q.type===type) && (year==='all'||String(q.year)===year));
   }
 
+  function updateQuizLink(){
+    const btn=$('#take-pyq-quiz'); if(!btn) return;
+    const p=new URLSearchParams(); p.set('src','pyq');
+    if(type!=='all') p.set('type',type);
+    if(year!=='all') p.set('year',year);
+    btn.href='quiz.html?'+p.toString();
+    const n=filtered().length;
+    btn.textContent='📝 Take PYQ Quiz'+(type!=='all'||year!=='all' ? ' ('+n+')' : '');
+  }
+
   // bold the tested word inside the stem (synonym/antonym/usage)
   function stemHTML(q){
     let s=VV.esc(q.stem);
@@ -47,6 +57,7 @@
 
   function renderList(){
     const list = filtered();
+    updateQuizLink();
     $('#count').textContent = list.length+' question'+(list.length===1?'':'s')
       + (type!=='all' ? ' · '+VV.pyqTypeLabel(type) : '')
       + (year!=='all' ? ' · '+year : '');
