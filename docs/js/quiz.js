@@ -23,7 +23,7 @@
   let pool=[], answers=[], submitted=false;
 
   function setTitle(){
-    const src = srcSel ? srcSel.value : 'all';
+    const src = srcSel ? srcSel.value : initialSrc;
     $('#qtitle').textContent =
       mode==='review' ? 'Review weak words'
       : src==='pyq' ? 'PYQ Quiz'
@@ -32,7 +32,7 @@
   }
 
   function buildPool(){
-    const src = srcSel ? srcSel.value : 'all';
+    const src = srcSel ? srcSel.value : initialSrc;
     let qs=[];
     if(mode==='review'){
       qs=allQ.filter(q=>VV.getStatus(q.wordId)==='missed');

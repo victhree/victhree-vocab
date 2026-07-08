@@ -17,29 +17,7 @@
                         "Being defeated"
                     ],
         "answer":  0,
-        "explanation":  "To be in decline / less prominent than before.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2021-c1-12",
-        "type":  "idiom",
-        "year":  2021,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "07 Feb 2021",
-        "tag":  "CDS 1 2021",
-        "qnum":  12,
-        "word":  "Modus operandi",
-        "stem":  "Modus operandi",
-        "options":  [
-                        "A technique",
-                        "Methods of achieving something",
-                        "Norms and regulations of doing something",
-                        "Improving one\u0027s way of doing something"
-                    ],
-        "answer":  0,
-        "explanation":  "A particular method or way of doing/operating.",
-        "note":  "Option (b) ‘methods of achieving something’ is very close in meaning; ‘modus operandi’ literally = mode of operating, so either could be marked — verify with the key."
+        "explanation":  "To be in decline / less prominent than before."
     },
     {
         "id":  "pyq-2021-c1-13",
@@ -59,8 +37,7 @@
                         "Feeling fine"
                     ],
         "answer":  2,
-        "explanation":  "Roused, protesting angrily about something.",
-        "note":  ""
+        "explanation":  "Roused, protesting angrily about something."
     },
     {
         "id":  "pyq-2021-c1-14",
@@ -80,8 +57,7 @@
                         "Not much"
                     ],
         "answer":  1,
-        "explanation":  "Expensive; high-priced.",
-        "note":  ""
+        "explanation":  "Expensive; high-priced."
     },
     {
         "id":  "pyq-2021-c1-15",
@@ -101,8 +77,7 @@
                         "News which has been long expected, but arrives late"
                     ],
         "answer":  0,
-        "explanation":  "A complete, sudden surprise.",
-        "note":  ""
+        "explanation":  "A complete, sudden surprise."
     },
     {
         "id":  "pyq-2021-c1-16",
@@ -122,8 +97,7 @@
                         "Create law and order for others"
                     ],
         "answer":  0,
-        "explanation":  "To act as you please, ignoring normal rules/customs.",
-        "note":  ""
+        "explanation":  "To act as you please, ignoring normal rules/customs."
     },
     {
         "id":  "pyq-2021-c1-17",
@@ -143,8 +117,7 @@
                         "To appear on the stage as a baboon"
                     ],
         "answer":  0,
-        "explanation":  "To smarten up / make tidy and attractive.",
-        "note":  ""
+        "explanation":  "To smarten up / make tidy and attractive."
     },
     {
         "id":  "pyq-2021-c1-18",
@@ -164,8 +137,7 @@
                         "To grow without any control"
                     ],
         "answer":  3,
-        "explanation":  "To grow or behave without restraint.",
-        "note":  ""
+        "explanation":  "To grow or behave without restraint."
     },
     {
         "id":  "pyq-2021-c1-19",
@@ -185,8 +157,7 @@
                         "To act on the ground"
                     ],
         "answer":  0,
-        "explanation":  "To unwind/gradually relax.",
-        "note":  ""
+        "explanation":  "To unwind/gradually relax."
     },
     {
         "id":  "pyq-2021-c1-20",
@@ -206,8 +177,7 @@
                         "To work hard and doing much work"
                     ],
         "answer":  2,
-        "explanation":  "To relax and become calm/laid-back.",
-        "note":  ""
+        "explanation":  "To relax and become calm/laid-back."
     },
     {
         "id":  "pyq-2021-c1-61",
@@ -227,8 +197,7 @@
                         "not true"
                     ],
         "answer":  1,
-        "explanation":  "Bombastic = pompous/inflated language; opposite is straightforward (plain/simple). (Verbose is a synonym.)",
-        "note":  ""
+        "explanation":  "Bombastic = pompous/inflated language; opposite is straightforward (plain/simple). (Verbose is a synonym.)"
     },
     {
         "id":  "pyq-2021-c1-62",
@@ -248,8 +217,7 @@
                         "thoughtful"
                     ],
         "answer":  2,
-        "explanation":  "Absurd = ridiculous/illogical; opposite is reasonable. (Bizarre, meaningless are synonyms.)",
-        "note":  ""
+        "explanation":  "Absurd = ridiculous/illogical; opposite is reasonable. (Bizarre, meaningless are synonyms.)"
     },
     {
         "id":  "pyq-2021-c1-63",
@@ -269,8 +237,7 @@
                         "survived"
                     ],
         "answer":  1,
-        "explanation":  "Deceased = dead; opposite is alive. (Demised, dead are synonyms.)",
-        "note":  ""
+        "explanation":  "Deceased = dead; opposite is alive. (Demised, dead are synonyms.)"
     },
     {
         "id":  "pyq-2021-c1-64",
@@ -290,8 +257,7 @@
                         "aggravation"
                     ],
         "answer":  3,
-        "explanation":  "Solace = comfort in distress; opposite is aggravation (worsening/distress). (Comfort, relief are synonyms.)",
-        "note":  ""
+        "explanation":  "Solace = comfort in distress; opposite is aggravation (worsening/distress). (Comfort, relief are synonyms.)"
     },
     {
         "id":  "pyq-2021-c1-65",
@@ -311,29 +277,7 @@
                         "disagreeing"
                     ],
         "answer":  0,
-        "explanation":  "Contrary = opposed/conflicting; opposite is unanimous (in full agreement). (Different, divergent, disagreeing are synonyms.)",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2021-c1-66",
-        "type":  "antonym",
-        "year":  2021,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "07 Feb 2021",
-        "tag":  "CDS 1 2021",
-        "qnum":  66,
-        "word":  "spontaneous",
-        "stem":  "The poet said that poetry is a spontaneous overflow of powerful feelings.",
-        "options":  [
-                        "prepared",
-                        "alerted",
-                        "deliberate",
-                        "well executed"
-                    ],
-        "answer":  2,
-        "explanation":  "Spontaneous = unplanned/impulsive; opposite is deliberate (intentional/planned).",
-        "note":  "‘Prepared’ (a) is also an opposite; ‘deliberate’ is the precise antonym of ‘spontaneous’."
+        "explanation":  "Contrary = opposed/conflicting; opposite is unanimous (in full agreement). (Different, divergent, disagreeing are synonyms.)"
     },
     {
         "id":  "pyq-2021-c1-67",
@@ -353,8 +297,7 @@
                         "propagating"
                     ],
         "answer":  2,
-        "explanation":  "Assert = to state positively/insist; opposite is deny. (Declaring, supporting, propagating are related, not opposite.)",
-        "note":  ""
+        "explanation":  "Assert = to state positively/insist; opposite is deny. (Declaring, supporting, propagating are related, not opposite.)"
     },
     {
         "id":  "pyq-2021-c1-68",
@@ -374,29 +317,7 @@
                         "felicitated"
                     ],
         "answer":  2,
-        "explanation":  "Exonerate = to clear of blame; opposite is convict. (Pardoned is a near-synonym.)",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2021-c1-69",
-        "type":  "antonym",
-        "year":  2021,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "07 Feb 2021",
-        "tag":  "CDS 1 2021",
-        "qnum":  69,
-        "word":  "Persuasion",
-        "stem":  "Persuasion is essential for people to work as a team.",
-        "options":  [
-                        "Dislike",
-                        "Discouraging",
-                        "Convincing",
-                        "Deter"
-                    ],
-        "answer":  3,
-        "explanation":  "Persuasion = inducing someone to act; its opposite is dissuasion — ‘deter’ (to discourage from acting) is the antonym here. (Convincing is a synonym.)",
-        "note":  "‘Discouraging’ (b) is closely related; ‘deter’ = dissuade is the intended opposite of persuade/persuasion. Verify with the key."
+        "explanation":  "Exonerate = to clear of blame; opposite is convict. (Pardoned is a near-synonym.)"
     },
     {
         "id":  "pyq-2021-c1-70",
@@ -416,8 +337,7 @@
                         "unfamiliar"
                     ],
         "answer":  1,
-        "explanation":  "Distinctive = characteristic/unique; opposite is common (ordinary). (Unique, special are synonyms.)",
-        "note":  ""
+        "explanation":  "Distinctive = characteristic/unique; opposite is common (ordinary). (Unique, special are synonyms.)"
     },
     {
         "id":  "pyq-2021-c1-81",
@@ -437,8 +357,7 @@
                         "furious"
                     ],
         "answer":  0,
-        "explanation":  "Commotion = noisy disturbance = uproar. (Peace is the opposite.)",
-        "note":  ""
+        "explanation":  "Commotion = noisy disturbance = uproar. (Peace is the opposite.)"
     },
     {
         "id":  "pyq-2021-c1-82",
@@ -458,8 +377,7 @@
                         "inbuilt"
                     ],
         "answer":  3,
-        "explanation":  "Inherent = existing as a natural/permanent part = inbuilt/innate.",
-        "note":  ""
+        "explanation":  "Inherent = existing as a natural/permanent part = inbuilt/innate."
     },
     {
         "id":  "pyq-2021-c1-83",
@@ -479,8 +397,7 @@
                         "disliked"
                     ],
         "answer":  0,
-        "explanation":  "Reprimand = to rebuke formally = admonish. (Appreciated, praised are opposites.)",
-        "note":  ""
+        "explanation":  "Reprimand = to rebuke formally = admonish. (Appreciated, praised are opposites.)"
     },
     {
         "id":  "pyq-2021-c1-84",
@@ -500,8 +417,7 @@
                         "all persuasive"
                     ],
         "answer":  2,
-        "explanation":  "Perpetual = never-ending = everlasting. (Temporary is the opposite.)",
-        "note":  ""
+        "explanation":  "Perpetual = never-ending = everlasting. (Temporary is the opposite.)"
     },
     {
         "id":  "pyq-2021-c1-85",
@@ -521,8 +437,7 @@
                         "demonstrate"
                     ],
         "answer":  3,
-        "explanation":  "Exemplify = to illustrate/serve as an example of = demonstrate.",
-        "note":  ""
+        "explanation":  "Exemplify = to illustrate/serve as an example of = demonstrate."
     },
     {
         "id":  "pyq-2021-c1-86",
@@ -542,8 +457,7 @@
                         "tip"
                     ],
         "answer":  0,
-        "explanation":  "The crux = the central/most important point = core.",
-        "note":  ""
+        "explanation":  "The crux = the central/most important point = core."
     },
     {
         "id":  "pyq-2021-c1-87",
@@ -563,8 +477,7 @@
                         "ideal"
                     ],
         "answer":  0,
-        "explanation":  "Competency = ability/capability to do something.",
-        "note":  ""
+        "explanation":  "Competency = ability/capability to do something."
     },
     {
         "id":  "pyq-2021-c1-88",
@@ -584,8 +497,7 @@
                         "knowledgeable"
                     ],
         "answer":  2,
-        "explanation":  "Haughty = arrogantly superior/proud = arrogant. (Modest is the opposite.)",
-        "note":  ""
+        "explanation":  "Haughty = arrogantly superior/proud = arrogant. (Modest is the opposite.)"
     },
     {
         "id":  "pyq-2021-c1-89",
@@ -605,8 +517,7 @@
                         "insincere"
                     ],
         "answer":  0,
-        "explanation":  "Industrious = hardworking = diligent. (Indolent, insincere are opposites.)",
-        "note":  ""
+        "explanation":  "Industrious = hardworking = diligent. (Indolent, insincere are opposites.)"
     },
     {
         "id":  "pyq-2021-c1-90",
@@ -626,29 +537,7 @@
                         "supportive"
                     ],
         "answer":  0,
-        "explanation":  "Indignant = angry at unfair treatment = resentful. (Congenial, supportive are opposites.)",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2021-c2-41",
-        "type":  "idiom",
-        "year":  2021,
-        "cds":  2,
-        "paper":  "CDS 2",
-        "date":  "14 Nov 2021",
-        "tag":  "CDS 2 2021",
-        "qnum":  41,
-        "word":  "Forty winks",
-        "stem":  "Forty winks",
-        "options":  [
-                        "Winking forty times",
-                        "(!) option unclear in scan",
-                        "(!) option unclear in scan",
-                        "A short sleep during the day"
-                    ],
-        "answer":  3,
-        "explanation":  "A brief nap.",
-        "note":  "Options (b)/(c) were unreadable in the scan; (d) is the established meaning."
+        "explanation":  "Indignant = angry at unfair treatment = resentful. (Congenial, supportive are opposites.)"
     },
     {
         "id":  "pyq-2021-c2-42",
@@ -668,8 +557,7 @@
                         "A daredevil\u0027s life"
                     ],
         "answer":  0,
-        "explanation":  "Life seen as it really is — harsh and unpolished.",
-        "note":  ""
+        "explanation":  "Life seen as it really is â€” harsh and unpolished."
     },
     {
         "id":  "pyq-2021-c2-43",
@@ -689,8 +577,7 @@
                         "To speak to people in a roaring voice"
                     ],
         "answer":  0,
-        "explanation":  "Something that looks powerful/dangerous but is actually weak.",
-        "note":  ""
+        "explanation":  "Something that looks powerful/dangerous but is actually weak."
     },
     {
         "id":  "pyq-2021-c2-44",
@@ -710,8 +597,7 @@
                         "Careful about large amounts but careless about small amounts"
                     ],
         "answer":  1,
-        "explanation":  "Thrifty over trifles yet wasteful over big sums.",
-        "note":  ""
+        "explanation":  "Thrifty over trifles yet wasteful over big sums."
     },
     {
         "id":  "pyq-2021-c2-45",
@@ -731,8 +617,7 @@
                         "To clean your ears with a pin"
                     ],
         "answer":  0,
-        "explanation":  "To pay close attention / listen hard.",
-        "note":  ""
+        "explanation":  "To pay close attention / listen hard."
     },
     {
         "id":  "pyq-2021-c2-46",
@@ -752,8 +637,7 @@
                         "Going round and round in a court of law"
                     ],
         "answer":  1,
-        "explanation":  "A person who switches sides/allegiance.",
-        "note":  ""
+        "explanation":  "A person who switches sides/allegiance."
     },
     {
         "id":  "pyq-2021-c2-47",
@@ -773,8 +657,7 @@
                         "Express your opinion"
                     ],
         "answer":  3,
-        "explanation":  "To state one’s views, especially having waited to do so.",
-        "note":  ""
+        "explanation":  "To state oneâ€™s views, especially having waited to do so."
     },
     {
         "id":  "pyq-2021-c2-48",
@@ -794,8 +677,7 @@
                         "Person of integrity"
                     ],
         "answer":  2,
-        "explanation":  "Excellent; first-rate.",
-        "note":  ""
+        "explanation":  "Excellent; first-rate."
     },
     {
         "id":  "pyq-2021-c2-49",
@@ -815,8 +697,7 @@
                         "Making or receiving payments surreptitiously"
                     ],
         "answer":  3,
-        "explanation":  "Secretly/illicitly (e.g., a bribe).",
-        "note":  ""
+        "explanation":  "Secretly/illicitly (e.g., a bribe)."
     },
     {
         "id":  "pyq-2021-c2-50",
@@ -836,29 +717,7 @@
                         "A happy and easygoing man"
                     ],
         "answer":  1,
-        "explanation":  "Immediately, without hesitation.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2021-c2-71",
-        "type":  "synonym",
-        "year":  2021,
-        "cds":  2,
-        "paper":  "CDS 2",
-        "date":  "14 Nov 2021",
-        "tag":  "CDS 2 2021",
-        "qnum":  71,
-        "word":  "drowned",
-        "stem":  "He drowned in the flood water last year.",
-        "options":  [
-                        "sank",
-                        "swam",
-                        "submerged",
-                        "floated"
-                    ],
-        "answer":  2,
-        "explanation":  "‘He drowned in the flood water’ — he went under water; ‘submerged’ is nearest. (Swam/floated are opposites.)",
-        "note":  "‘Sank’ (a) is also defensible; both describe going under. Confirm with the official key if needed."
+        "explanation":  "Immediately, without hesitation."
     },
     {
         "id":  "pyq-2021-c2-72",
@@ -878,8 +737,7 @@
                         "moist"
                     ],
         "answer":  0,
-        "explanation":  "Dry = lacking moisture = arid. (Humid, rainy, moist are opposites.)",
-        "note":  ""
+        "explanation":  "Dry = lacking moisture = arid. (Humid, rainy, moist are opposites.)"
     },
     {
         "id":  "pyq-2021-c2-73",
@@ -899,8 +757,7 @@
                         "discrepancies"
                     ],
         "answer":  2,
-        "explanation":  "‘Our differences are growing’ = our disagreements. (Discrepancies = factual inconsistencies, not personal disputes.)",
-        "note":  ""
+        "explanation":  "â€˜Our differences are growingâ€™ = our disagreements. (Discrepancies = factual inconsistencies, not personal disputes.)"
     },
     {
         "id":  "pyq-2021-c2-74",
@@ -920,8 +777,7 @@
                         "poured"
                     ],
         "answer":  0,
-        "explanation":  "Hinder = to obstruct/hold back = impede. (Facilitated is the opposite.)",
-        "note":  ""
+        "explanation":  "Hinder = to obstruct/hold back = impede. (Facilitated is the opposite.)"
     },
     {
         "id":  "pyq-2021-c2-75",
@@ -941,8 +797,7 @@
                         "complacency"
                     ],
         "answer":  1,
-        "explanation":  "Complexity = the state of being intricate = intricacy.",
-        "note":  ""
+        "explanation":  "Complexity = the state of being intricate = intricacy."
     },
     {
         "id":  "pyq-2021-c2-76",
@@ -962,8 +817,7 @@
                         "innocuous"
                     ],
         "answer":  1,
-        "explanation":  "Excessive = beyond normal limits = inordinate. (Innocuous, inculpable are unrelated.)",
-        "note":  ""
+        "explanation":  "Excessive = beyond normal limits = inordinate. (Innocuous, inculpable are unrelated.)"
     },
     {
         "id":  "pyq-2021-c2-77",
@@ -983,8 +837,7 @@
                         "planned"
                     ],
         "answer":  2,
-        "explanation":  "Initiate = to start = begin.",
-        "note":  ""
+        "explanation":  "Initiate = to start = begin."
     },
     {
         "id":  "pyq-2021-c2-78",
@@ -1004,8 +857,7 @@
                         "radiant"
                     ],
         "answer":  0,
-        "explanation":  "Pale/unhealthy in colour = sallow (yellowish). (Ruddy, radiant are opposites.)",
-        "note":  ""
+        "explanation":  "Pale/unhealthy in colour = sallow (yellowish). (Ruddy, radiant are opposites.)"
     },
     {
         "id":  "pyq-2021-c2-79",
@@ -1025,8 +877,7 @@
                         "supersede"
                     ],
         "answer":  1,
-        "explanation":  "Overrule = to reject/override a decision = veto. (Supersede = replace, less exact here.)",
-        "note":  ""
+        "explanation":  "Overrule = to reject/override a decision = veto. (Supersede = replace, less exact here.)"
     },
     {
         "id":  "pyq-2021-c2-80",
@@ -1046,8 +897,7 @@
                         "scintillated"
                     ],
         "answer":  2,
-        "explanation":  "Shocked = horrified/dismayed = appalled. (Pacified is the opposite.)",
-        "note":  ""
+        "explanation":  "Shocked = horrified/dismayed = appalled. (Pacified is the opposite.)"
     },
     {
         "id":  "pyq-2021-c2-81",
@@ -1067,8 +917,7 @@
                         "minute"
                     ],
         "answer":  1,
-        "explanation":  "Very ‘particular’ = precise/exacting about detail; opposite is vague. (Minute is a synonym of detailed.)",
-        "note":  ""
+        "explanation":  "Very â€˜particularâ€™ = precise/exacting about detail; opposite is vague. (Minute is a synonym of detailed.)"
     },
     {
         "id":  "pyq-2021-c2-82",
@@ -1088,8 +937,7 @@
                         "fat"
                     ],
         "answer":  1,
-        "explanation":  "Paunchy = pot-bellied; opposite is slim. (Stout, plump, fat are synonyms.)",
-        "note":  ""
+        "explanation":  "Paunchy = pot-bellied; opposite is slim. (Stout, plump, fat are synonyms.)"
     },
     {
         "id":  "pyq-2021-c2-83",
@@ -1109,29 +957,7 @@
                         "emanates"
                     ],
         "answer":  1,
-        "explanation":  "Originate = to begin; opposite is culminate (to end/reach a climax). (Inaugurates, initiates, emanates are synonyms.)",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2021-c2-84",
-        "type":  "antonym",
-        "year":  2021,
-        "cds":  2,
-        "paper":  "CDS 2",
-        "date":  "14 Nov 2021",
-        "tag":  "CDS 2 2021",
-        "qnum":  84,
-        "word":  "hilarious",
-        "stem":  "The film I saw was hilarious.",
-        "options":  [
-                        "tragic",
-                        "serious",
-                        "uproarious",
-                        "jovial"
-                    ],
-        "answer":  1,
-        "explanation":  "Hilarious = extremely funny; opposite is serious (humourless). (Uproarious, jovial are synonyms.)",
-        "note":  "‘Tragic’ (a) is arguable as the comedy↔tragedy contrast, but ‘serious’ is the more direct antonym of ‘funny’. Verify with the key."
+        "explanation":  "Originate = to begin; opposite is culminate (to end/reach a climax). (Inaugurates, initiates, emanates are synonyms.)"
     },
     {
         "id":  "pyq-2021-c2-85",
@@ -1151,8 +977,7 @@
                         "accolade"
                     ],
         "answer":  2,
-        "explanation":  "Pandemonium = uproar/chaos; opposite is peace. (Hullaballoo, uproar are synonyms.)",
-        "note":  ""
+        "explanation":  "Pandemonium = uproar/chaos; opposite is peace. (Hullaballoo, uproar are synonyms.)"
     },
     {
         "id":  "pyq-2021-c2-86",
@@ -1172,8 +997,7 @@
                         "held"
                     ],
         "answer":  1,
-        "explanation":  "Detain = to hold in custody; opposite is release. (Impeded, confined, held are synonyms.)",
-        "note":  ""
+        "explanation":  "Detain = to hold in custody; opposite is release. (Impeded, confined, held are synonyms.)"
     },
     {
         "id":  "pyq-2021-c2-87",
@@ -1193,8 +1017,7 @@
                         "elation"
                     ],
         "answer":  3,
-        "explanation":  "Despair = hopelessness/dejection; opposite is elation (great joy). (Despondency is a synonym.)",
-        "note":  ""
+        "explanation":  "Despair = hopelessness/dejection; opposite is elation (great joy). (Despondency is a synonym.)"
     },
     {
         "id":  "pyq-2021-c2-88",
@@ -1214,8 +1037,7 @@
                         "arraigned"
                     ],
         "answer":  0,
-        "explanation":  "Accuse = to charge with wrongdoing; opposite is vindicate (clear of blame). (Incriminated, indicted, arraigned are synonyms.)",
-        "note":  ""
+        "explanation":  "Accuse = to charge with wrongdoing; opposite is vindicate (clear of blame). (Incriminated, indicted, arraigned are synonyms.)"
     },
     {
         "id":  "pyq-2021-c2-89",
@@ -1235,8 +1057,7 @@
                         "flaunt"
                     ],
         "answer":  2,
-        "explanation":  "Boast = to praise oneself; opposite is deprecate (belittle/disparage). (Bluster, brag, flaunt are synonyms.)",
-        "note":  ""
+        "explanation":  "Boast = to praise oneself; opposite is deprecate (belittle/disparage). (Bluster, brag, flaunt are synonyms.)"
     },
     {
         "id":  "pyq-2021-c2-90",
@@ -1256,8 +1077,7 @@
                         "an idiosyncratic"
                     ],
         "answer":  2,
-        "explanation":  "Eccentric = unconventional/odd; opposite is normal. (Odd, peculiar, idiosyncratic are synonyms.)",
-        "note":  ""
+        "explanation":  "Eccentric = unconventional/odd; opposite is normal. (Odd, peculiar, idiosyncratic are synonyms.)"
     },
     {
         "id":  "pyq-2022-c1-21",
@@ -1277,8 +1097,7 @@
                         "To be very happy"
                     ],
         "answer":  0,
-        "explanation":  "From boxing (a 10-count knockout); to be fast asleep or unconscious.",
-        "note":  ""
+        "explanation":  "From boxing (a 10-count knockout); to be fast asleep or unconscious."
     },
     {
         "id":  "pyq-2022-c1-22",
@@ -1298,8 +1117,7 @@
                         "To follow rules exactly"
                     ],
         "answer":  3,
-        "explanation":  "To do something strictly according to the rules.",
-        "note":  ""
+        "explanation":  "To do something strictly according to the rules."
     },
     {
         "id":  "pyq-2022-c1-23",
@@ -1319,29 +1137,7 @@
                         "Talking repeatedly and annoying people"
                     ],
         "answer":  2,
-        "explanation":  "Deliberately ambiguous or evasive language meant to deceive.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2022-c1-24",
-        "type":  "idiom",
-        "year":  2022,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "10 Apr 2022",
-        "tag":  "CDS 1 2022",
-        "qnum":  24,
-        "word":  "At somebody\u0027s elbow",
-        "stem":  "At somebody\u0027s elbow",
-        "options":  [
-                        "To be dominated by someone",
-                        "To be near someone in order to help",
-                        "To be a burden on someone",
-                        "To be helped by someone"
-                    ],
-        "answer":  1,
-        "explanation":  "Close at hand, ready to assist.",
-        "note":  "Options (c)/(d) were flagged (!) in the scan; the meaning ‘close by to help’ is standard."
+        "explanation":  "Deliberately ambiguous or evasive language meant to deceive."
     },
     {
         "id":  "pyq-2022-c1-25",
@@ -1361,8 +1157,7 @@
                         "To be careful in speech and actions"
                     ],
         "answer":  3,
-        "explanation":  "To act very cautiously to avoid upsetting someone.",
-        "note":  ""
+        "explanation":  "To act very cautiously to avoid upsetting someone."
     },
     {
         "id":  "pyq-2022-c1-26",
@@ -1382,8 +1177,7 @@
                         "To treat people as relatives"
                     ],
         "answer":  2,
-        "explanation":  "A great many people — far more than expected.",
-        "note":  ""
+        "explanation":  "A great many people â€” far more than expected."
     },
     {
         "id":  "pyq-2022-c1-27",
@@ -1403,8 +1197,7 @@
                         "Hidden faults"
                     ],
         "answer":  3,
-        "explanation":  "A hidden flaw or weakness in someone widely admired.",
-        "note":  ""
+        "explanation":  "A hidden flaw or weakness in someone widely admired."
     },
     {
         "id":  "pyq-2022-c1-28",
@@ -1424,8 +1217,7 @@
                         "Feeling disappointment"
                     ],
         "answer":  2,
-        "explanation":  "To begin to suffer from a shortage of money.",
-        "note":  ""
+        "explanation":  "To begin to suffer from a shortage of money."
     },
     {
         "id":  "pyq-2022-c1-29",
@@ -1445,29 +1237,7 @@
                         "To get into a romantic relationship"
                     ],
         "answer":  1,
-        "explanation":  "A situation marked by angry quarrelling.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2022-c1-30",
-        "type":  "idiom",
-        "year":  2022,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "10 Apr 2022",
-        "tag":  "CDS 1 2022",
-        "qnum":  30,
-        "word":  "A foregone conclusion",
-        "stem":  "A foregone conclusion",
-        "options":  [
-                        "(!) option unclear in scan",
-                        "(!) option unclear in scan",
-                        "An obvious pretence",
-                        "An inevitable result"
-                    ],
-        "answer":  3,
-        "explanation":  "An outcome that is certain/predictable in advance.",
-        "note":  "Options (a)/(b) were unreadable in the scan; (d) is the established meaning."
+        "explanation":  "A situation marked by angry quarrelling."
     },
     {
         "id":  "pyq-2022-c1-51",
@@ -1487,8 +1257,7 @@
                         "informal"
                     ],
         "answer":  3,
-        "explanation":  "‘Conversational language’ = everyday/informal language. (Formal, complex are opposites.)",
-        "note":  ""
+        "explanation":  "â€˜Conversational languageâ€™ = everyday/informal language. (Formal, complex are opposites.)"
     },
     {
         "id":  "pyq-2022-c1-52",
@@ -1508,8 +1277,7 @@
                         "magnanimous"
                     ],
         "answer":  2,
-        "explanation":  "Malicious = intending harm/spiteful. (Generous, affectionate, magnanimous are opposites.)",
-        "note":  ""
+        "explanation":  "Malicious = intending harm/spiteful. (Generous, affectionate, magnanimous are opposites.)"
     },
     {
         "id":  "pyq-2022-c1-53",
@@ -1529,8 +1297,7 @@
                         "personality"
                     ],
         "answer":  0,
-        "explanation":  "Designation = an official title/position/rank.",
-        "note":  ""
+        "explanation":  "Designation = an official title/position/rank."
     },
     {
         "id":  "pyq-2022-c1-54",
@@ -1550,8 +1317,7 @@
                         "wisdom"
                     ],
         "answer":  1,
-        "explanation":  "Endearment = an expression of affection/fondness.",
-        "note":  ""
+        "explanation":  "Endearment = an expression of affection/fondness."
     },
     {
         "id":  "pyq-2022-c1-55",
@@ -1571,8 +1337,7 @@
                         "support"
                     ],
         "answer":  2,
-        "explanation":  "Forbearance = patient self-control/restraint.",
-        "note":  ""
+        "explanation":  "Forbearance = patient self-control/restraint."
     },
     {
         "id":  "pyq-2022-c1-56",
@@ -1592,8 +1357,7 @@
                         "disabled"
                     ],
         "answer":  0,
-        "explanation":  "Gibbous = humped/convex; ‘hunched’ is nearest for ‘gibbous looks’.",
-        "note":  ""
+        "explanation":  "Gibbous = humped/convex; â€˜hunchedâ€™ is nearest for â€˜gibbous looksâ€™."
     },
     {
         "id":  "pyq-2022-c1-57",
@@ -1613,8 +1377,7 @@
                         "distressed"
                     ],
         "answer":  3,
-        "explanation":  "Torment = to cause great suffering = distress. (Cajoled is the opposite in tone.)",
-        "note":  ""
+        "explanation":  "Torment = to cause great suffering = distress. (Cajoled is the opposite in tone.)"
     },
     {
         "id":  "pyq-2022-c1-58",
@@ -1634,8 +1397,7 @@
                         "unequalled"
                     ],
         "answer":  3,
-        "explanation":  "Peerless = without equal, matchless.",
-        "note":  ""
+        "explanation":  "Peerless = without equal, matchless."
     },
     {
         "id":  "pyq-2022-c1-59",
@@ -1655,8 +1417,7 @@
                         "lessons"
                     ],
         "answer":  0,
-        "explanation":  "Mensuration = the branch of maths dealing with measurement (of lengths, areas, volumes).",
-        "note":  ""
+        "explanation":  "Mensuration = the branch of maths dealing with measurement (of lengths, areas, volumes)."
     },
     {
         "id":  "pyq-2022-c1-60",
@@ -1676,8 +1437,7 @@
                         "saw"
                     ],
         "answer":  2,
-        "explanation":  "To smother a fire = to extinguish it by cutting off air = douse.",
-        "note":  ""
+        "explanation":  "To smother a fire = to extinguish it by cutting off air = douse."
     },
     {
         "id":  "pyq-2022-c1-61",
@@ -1697,8 +1457,7 @@
                         "concealed"
                     ],
         "answer":  1,
-        "explanation":  "Discontinue = to stop; opposite is resume. (Ceased is a synonym.)",
-        "note":  ""
+        "explanation":  "Discontinue = to stop; opposite is resume. (Ceased is a synonym.)"
     },
     {
         "id":  "pyq-2022-c1-62",
@@ -1718,8 +1477,7 @@
                         "reproved"
                     ],
         "answer":  2,
-        "explanation":  "Chide = to scold; opposite is commend (praise). (Admonished, reprimanded, reproved are synonyms.)",
-        "note":  ""
+        "explanation":  "Chide = to scold; opposite is commend (praise). (Admonished, reprimanded, reproved are synonyms.)"
     },
     {
         "id":  "pyq-2022-c1-63",
@@ -1739,8 +1497,7 @@
                         "sustain"
                     ],
         "answer":  0,
-        "explanation":  "Cherish = to hold dear; opposite is deprecate (belittle/disapprove). (Value, adore are synonyms.)",
-        "note":  ""
+        "explanation":  "Cherish = to hold dear; opposite is deprecate (belittle/disapprove). (Value, adore are synonyms.)"
     },
     {
         "id":  "pyq-2022-c1-64",
@@ -1760,8 +1517,7 @@
                         "order"
                     ],
         "answer":  3,
-        "explanation":  "Chaos = complete disorder; opposite is order. (Disorder, confusion are synonyms.)",
-        "note":  ""
+        "explanation":  "Chaos = complete disorder; opposite is order. (Disorder, confusion are synonyms.)"
     },
     {
         "id":  "pyq-2022-c1-65",
@@ -1781,8 +1537,7 @@
                         "ritual"
                     ],
         "answer":  1,
-        "explanation":  "Celestial = heavenly; opposite is earthly. (Utopian, transcendental are not opposites.)",
-        "note":  ""
+        "explanation":  "Celestial = heavenly; opposite is earthly. (Utopian, transcendental are not opposites.)"
     },
     {
         "id":  "pyq-2022-c1-66",
@@ -1802,8 +1557,7 @@
                         "quiet"
                     ],
         "answer":  0,
-        "explanation":  "Reticent = reserved/uncommunicative; opposite is garrulous (talkative). (Taciturn, reserved, quiet are synonyms.)",
-        "note":  ""
+        "explanation":  "Reticent = reserved/uncommunicative; opposite is garrulous (talkative). (Taciturn, reserved, quiet are synonyms.)"
     },
     {
         "id":  "pyq-2022-c1-67",
@@ -1823,8 +1577,7 @@
                         "exquisite"
                     ],
         "answer":  2,
-        "explanation":  "Childish = immature; opposite is seasoned (mature/experienced). (Infantile is a synonym.)",
-        "note":  ""
+        "explanation":  "Childish = immature; opposite is seasoned (mature/experienced). (Infantile is a synonym.)"
     },
     {
         "id":  "pyq-2022-c1-68",
@@ -1844,8 +1597,7 @@
                         "terse"
                     ],
         "answer":  3,
-        "explanation":  "Magniloquent = pompous/grandiose in speech; opposite is terse (brief/plain). (Pompous, turgid, lofty are synonyms.)",
-        "note":  ""
+        "explanation":  "Magniloquent = pompous/grandiose in speech; opposite is terse (brief/plain). (Pompous, turgid, lofty are synonyms.)"
     },
     {
         "id":  "pyq-2022-c1-69",
@@ -1865,8 +1617,7 @@
                         "unknown"
                     ],
         "answer":  1,
-        "explanation":  "Clandestine = secret/hidden; opposite is conspicuous (obvious). (Covert, furtive are synonyms.)",
-        "note":  ""
+        "explanation":  "Clandestine = secret/hidden; opposite is conspicuous (obvious). (Covert, furtive are synonyms.)"
     },
     {
         "id":  "pyq-2022-c1-70",
@@ -1886,8 +1637,7 @@
                         "active"
                     ],
         "answer":  3,
-        "explanation":  "Dormant = inactive/asleep; opposite is active. (Latent, inert, sluggish are synonyms.)",
-        "note":  ""
+        "explanation":  "Dormant = inactive/asleep; opposite is active. (Latent, inert, sluggish are synonyms.)"
     },
     {
         "id":  "pyq-2022-c2-16",
@@ -1907,8 +1657,7 @@
                         "ancestor"
                     ],
         "answer":  1,
-        "explanation":  "A harbinger is a forerunner that announces or signals what is to come.",
-        "note":  ""
+        "explanation":  "A harbinger is a forerunner that announces or signals what is to come."
     },
     {
         "id":  "pyq-2022-c2-17",
@@ -1928,8 +1677,7 @@
                         "vitality"
                     ],
         "answer":  0,
-        "explanation":  "A vista is a wide, pleasing view/prospect = landscape.",
-        "note":  ""
+        "explanation":  "A vista is a wide, pleasing view/prospect = landscape."
     },
     {
         "id":  "pyq-2022-c2-18",
@@ -1949,8 +1697,7 @@
                         "deplorable"
                     ],
         "answer":  3,
-        "explanation":  "Lamentable = regrettable/deserving censure = deplorable. (Appreciable, acceptable are opposites.)",
-        "note":  ""
+        "explanation":  "Lamentable = regrettable/deserving censure = deplorable. (Appreciable, acceptable are opposites.)"
     },
     {
         "id":  "pyq-2022-c2-19",
@@ -1970,29 +1717,7 @@
                         "captivity"
                     ],
         "answer":  0,
-        "explanation":  "Endurance = the capacity to bear hardship patiently/perseverance.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2022-c2-20",
-        "type":  "synonym",
-        "year":  2022,
-        "cds":  2,
-        "paper":  "CDS 2",
-        "date":  "04 Sep 2022",
-        "tag":  "CDS 2 2022",
-        "qnum":  20,
-        "word":  "jaunt",
-        "stem":  "We are planning a jaunt for a while during the winter.",
-        "options":  [
-                        "deliberation",
-                        "intersection",
-                        "expedition",
-                        "association Word Usage - only one sentence uses the word correctly (Q71-80)  (10)"
-                    ],
-        "answer":  3,
-        "explanation":  "By the British convention tested here, ‘practise’ is the verb. The other sentences need the noun ‘practice’.",
-        "note":  "This is the trickiest of the set: (a), (b), (d) all misuse ‘climactic’ for ‘climatic’, leaving (c) as the only one not about weather. Worth confirming with the official key. 75. Affect"
+        "explanation":  "Endurance = the capacity to bear hardship patiently/perseverance."
     },
     {
         "id":  "pyq-2022-c2-91",
@@ -2012,8 +1737,7 @@
                         "Perspicacity means ability to discern and Perspicuity means tenacity"
                     ],
         "answer":  0,
-        "explanation":  "Perspicacity = keenness of insight; perspicuity = clearness/lucidity of what is expressed.",
-        "note":  ""
+        "explanation":  "Perspicacity = keenness of insight; perspicuity = clearness/lucidity of what is expressed."
     },
     {
         "id":  "pyq-2022-c2-92",
@@ -2033,8 +1757,7 @@
                         "Complaisant means overconfident and Complacent means eager to please"
                     ],
         "answer":  1,
-        "explanation":  "Complaisant = obliging/willing to please others; complacent = smugly self-satisfied.",
-        "note":  ""
+        "explanation":  "Complaisant = obliging/willing to please others; complacent = smugly self-satisfied."
     },
     {
         "id":  "pyq-2022-c2-93",
@@ -2054,8 +1777,7 @@
                         "Compliment means to enhance and Complement means to go well with"
                     ],
         "answer":  2,
-        "explanation":  "A compliment is an expression of praise; a complement completes or goes well with something.",
-        "note":  ""
+        "explanation":  "A compliment is an expression of praise; a complement completes or goes well with something."
     },
     {
         "id":  "pyq-2022-c2-94",
@@ -2075,8 +1797,7 @@
                         "To deify means to oppose and to defy means to deny"
                     ],
         "answer":  0,
-        "explanation":  "Deify = to worship as a god; defy = to openly resist/challenge.",
-        "note":  ""
+        "explanation":  "Deify = to worship as a god; defy = to openly resist/challenge."
     },
     {
         "id":  "pyq-2022-c2-95",
@@ -2096,8 +1817,7 @@
                         "Evoke means to elicit a response and Invoke means to call upon through an appeal"
                     ],
         "answer":  3,
-        "explanation":  "Evoke = to call forth (a feeling/memory); invoke = to appeal to/cite (an authority, law, deity).",
-        "note":  ""
+        "explanation":  "Evoke = to call forth (a feeling/memory); invoke = to appeal to/cite (an authority, law, deity)."
     },
     {
         "id":  "pyq-2022-c2-96",
@@ -2117,8 +1837,7 @@
                         "Sympathy means emphasising another\u0027s feelings and Empathy means pitying another\u0027s feelings"
                     ],
         "answer":  0,
-        "explanation":  "Sympathy is feeling for someone; empathy is understanding by imagining oneself in their position.",
-        "note":  ""
+        "explanation":  "Sympathy is feeling for someone; empathy is understanding by imagining oneself in their position."
     },
     {
         "id":  "pyq-2022-c2-97",
@@ -2138,8 +1857,7 @@
                         "Accept means to extend and Except means to agree"
                     ],
         "answer":  2,
-        "explanation":  "Accept (verb) = to receive/agree to; except = to leave out/exclude.",
-        "note":  ""
+        "explanation":  "Accept (verb) = to receive/agree to; except = to leave out/exclude."
     },
     {
         "id":  "pyq-2022-c2-98",
@@ -2159,8 +1877,7 @@
                         "Reward is gift from someone and Award is compensation for effort"
                     ],
         "answer":  0,
-        "explanation":  "A reward is given in return for effort/service; an award is a prize for recognition of merit.",
-        "note":  ""
+        "explanation":  "A reward is given in return for effort/service; an award is a prize for recognition of merit."
     },
     {
         "id":  "pyq-2022-c2-99",
@@ -2180,8 +1897,7 @@
                         "Emigrate means to leave for another country and Immigrate means to arrive at another country"
                     ],
         "answer":  3,
-        "explanation":  "You emigrate FROM your own country and immigrate TO another.",
-        "note":  ""
+        "explanation":  "You emigrate FROM your own country and immigrate TO another."
     },
     {
         "id":  "pyq-2022-c2-100",
@@ -2201,8 +1917,7 @@
                         "Immolate means to destroy and Emulate means to imitate"
                     ],
         "answer":  0,
-        "explanation":  "Immolate = to kill as a sacrifice (esp. by burning); emulate = to imitate someone admired, striving to match them.",
-        "note":  ""
+        "explanation":  "Immolate = to kill as a sacrifice (esp. by burning); emulate = to imitate someone admired, striving to match them."
     },
     {
         "id":  "pyq-2023-c1-31",
@@ -2222,8 +1937,7 @@
                         "to behave arrogantly"
                     ],
         "answer":  0,
-        "explanation":  "To have a private/self-interested reason for doing something.",
-        "note":  ""
+        "explanation":  "To have a private/self-interested reason for doing something."
     },
     {
         "id":  "pyq-2023-c1-32",
@@ -2243,8 +1957,7 @@
                         "to try to do more than you are able to do"
                     ],
         "answer":  2,
-        "explanation":  "To force yourself to endure something painful/unavoidable.",
-        "note":  ""
+        "explanation":  "To force yourself to endure something painful/unavoidable."
     },
     {
         "id":  "pyq-2023-c1-33",
@@ -2264,8 +1977,7 @@
                         "a jovial and respected person"
                     ],
         "answer":  0,
-        "explanation":  "A person who is ridiculed by everyone.",
-        "note":  ""
+        "explanation":  "A person who is ridiculed by everyone."
     },
     {
         "id":  "pyq-2023-c1-34",
@@ -2285,8 +1997,7 @@
                         "to pay more for something than it is worth"
                     ],
         "answer":  3,
-        "explanation":  "To pay an excessive/unreasonably high price.",
-        "note":  ""
+        "explanation":  "To pay an excessive/unreasonably high price."
     },
     {
         "id":  "pyq-2023-c1-35",
@@ -2306,8 +2017,7 @@
                         "to take big risks in business"
                     ],
         "answer":  1,
-        "explanation":  "To act in a showy way to win popular approval.",
-        "note":  ""
+        "explanation":  "To act in a showy way to win popular approval."
     },
     {
         "id":  "pyq-2023-c1-36",
@@ -2327,8 +2037,7 @@
                         "to be honest to people"
                     ],
         "answer":  0,
-        "explanation":  "To be in a difficult situation.",
-        "note":  ""
+        "explanation":  "To be in a difficult situation."
     },
     {
         "id":  "pyq-2023-c1-37",
@@ -2348,8 +2057,7 @@
                         "an action which makes a bad situation worse"
                     ],
         "answer":  3,
-        "explanation":  "An extra pressure applied to worsen an already difficult state.",
-        "note":  ""
+        "explanation":  "An extra pressure applied to worsen an already difficult state."
     },
     {
         "id":  "pyq-2023-c1-38",
@@ -2369,8 +2077,7 @@
                         "to make someone feel anxious"
                     ],
         "answer":  1,
-        "explanation":  "A costly possession that is useless or burdensome to maintain.",
-        "note":  ""
+        "explanation":  "A costly possession that is useless or burdensome to maintain."
     },
     {
         "id":  "pyq-2023-c1-39",
@@ -2390,29 +2097,7 @@
                         "to be unable to decide"
                     ],
         "answer":  1,
-        "explanation":  "A controversial/awkward issue that no one wants to handle.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2023-c1-40",
-        "type":  "idiom",
-        "year":  2023,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "16 Apr 2023",
-        "tag":  "CDS 1 2023",
-        "qnum":  40,
-        "word":  "(idiom stem unclear — likely ‘chalk and cheese’)",
-        "stem":  "(!) idiom stem unclear in scan",
-        "options":  [
-                        "people who are close to each other",
-                        "people who argue a lot",
-                        "people who are different and thus incomparable",
-                        "people who fight over minor issues"
-                    ],
-        "answer":  2,
-        "explanation":  "‘Like chalk and cheese’ describes two people/things that are completely different.",
-        "note":  "The idiom itself was unreadable in the scan; the option set matches ‘chalk and cheese’. Verify the stem against the original."
+        "explanation":  "A controversial/awkward issue that no one wants to handle."
     },
     {
         "id":  "pyq-2023-c1-51",
@@ -2432,8 +2117,7 @@
                         "prominent"
                     ],
         "answer":  1,
-        "explanation":  "Here ‘anxious for’ = keen/eager to have. (Composed, indifferent are opposites.)",
-        "note":  ""
+        "explanation":  "Here â€˜anxious forâ€™ = keen/eager to have. (Composed, indifferent are opposites.)"
     },
     {
         "id":  "pyq-2023-c1-52",
@@ -2453,8 +2137,7 @@
                         "notified"
                     ],
         "answer":  0,
-        "explanation":  "Circumscribe = to restrict/limit = constrain.",
-        "note":  ""
+        "explanation":  "Circumscribe = to restrict/limit = constrain."
     },
     {
         "id":  "pyq-2023-c1-53",
@@ -2474,8 +2157,7 @@
                         "reflecting calmly"
                     ],
         "answer":  2,
-        "explanation":  "To eavesdrop = to listen secretly to a private conversation.",
-        "note":  ""
+        "explanation":  "To eavesdrop = to listen secretly to a private conversation."
     },
     {
         "id":  "pyq-2023-c1-54",
@@ -2495,8 +2177,7 @@
                         "discouraged"
                     ],
         "answer":  1,
-        "explanation":  "Exhort = to strongly urge/encourage. (Discouraged is the opposite.)",
-        "note":  ""
+        "explanation":  "Exhort = to strongly urge/encourage. (Discouraged is the opposite.)"
     },
     {
         "id":  "pyq-2023-c1-55",
@@ -2516,8 +2197,7 @@
                         "cordial"
                     ],
         "answer":  3,
-        "explanation":  "Hospitable = friendly and welcoming = cordial. (Surly, distant, frosty are opposites.)",
-        "note":  ""
+        "explanation":  "Hospitable = friendly and welcoming = cordial. (Surly, distant, frosty are opposites.)"
     },
     {
         "id":  "pyq-2023-c1-56",
@@ -2537,8 +2217,7 @@
                         "inappropriate"
                     ],
         "answer":  3,
-        "explanation":  "Incongruous = out of place/unsuitable = inappropriate.",
-        "note":  ""
+        "explanation":  "Incongruous = out of place/unsuitable = inappropriate."
     },
     {
         "id":  "pyq-2023-c1-57",
@@ -2558,8 +2237,7 @@
                         "merciful"
                     ],
         "answer":  0,
-        "explanation":  "Mercurial = liable to sudden mood changes = volatile.",
-        "note":  ""
+        "explanation":  "Mercurial = liable to sudden mood changes = volatile."
     },
     {
         "id":  "pyq-2023-c1-58",
@@ -2579,8 +2257,7 @@
                         "essential"
                     ],
         "answer":  3,
-        "explanation":  "Obligatory = required/compulsory. (Voluntary, elective, optional are opposites.)",
-        "note":  ""
+        "explanation":  "Obligatory = required/compulsory. (Voluntary, elective, optional are opposites.)"
     },
     {
         "id":  "pyq-2023-c1-59",
@@ -2600,8 +2277,7 @@
                         "exemption"
                     ],
         "answer":  2,
-        "explanation":  "A genetic predisposition to disease = a susceptibility/vulnerability. (Resistance, immunity are opposites.)",
-        "note":  ""
+        "explanation":  "A genetic predisposition to disease = a susceptibility/vulnerability. (Resistance, immunity are opposites.)"
     },
     {
         "id":  "pyq-2023-c1-60",
@@ -2621,8 +2297,7 @@
                         "deferential"
                     ],
         "answer":  0,
-        "explanation":  "Sardonic = grimly mocking/scornful. (Respectful, reverential, deferential are opposites.)",
-        "note":  ""
+        "explanation":  "Sardonic = grimly mocking/scornful. (Respectful, reverential, deferential are opposites.)"
     },
     {
         "id":  "pyq-2023-c1-71",
@@ -2642,8 +2317,7 @@
                         "verbosity"
                     ],
         "answer":  3,
-        "explanation":  "Brevity = shortness; opposite is verbosity (wordiness). (Concision, economy, terseness are synonyms.)",
-        "note":  ""
+        "explanation":  "Brevity = shortness; opposite is verbosity (wordiness). (Concision, economy, terseness are synonyms.)"
     },
     {
         "id":  "pyq-2023-c1-72",
@@ -2663,8 +2337,7 @@
                         "amalgamate"
                     ],
         "answer":  0,
-        "explanation":  "Blend = to mix; opposite is separate. (Mingle, coalesce, amalgamate are synonyms.)",
-        "note":  ""
+        "explanation":  "Blend = to mix; opposite is separate. (Mingle, coalesce, amalgamate are synonyms.)"
     },
     {
         "id":  "pyq-2023-c1-73",
@@ -2684,8 +2357,7 @@
                         "abundant"
                     ],
         "answer":  1,
-        "explanation":  "Considerable = large/significant; opposite is trifling (tiny). (Substantial, plentiful, abundant are synonyms.)",
-        "note":  ""
+        "explanation":  "Considerable = large/significant; opposite is trifling (tiny). (Substantial, plentiful, abundant are synonyms.)"
     },
     {
         "id":  "pyq-2023-c1-74",
@@ -2705,8 +2377,7 @@
                         "respectful"
                     ],
         "answer":  3,
-        "explanation":  "Disdainful = scornful; opposite is respectful. (Contemptuous, dismissive, scornful are synonyms.)",
-        "note":  ""
+        "explanation":  "Disdainful = scornful; opposite is respectful. (Contemptuous, dismissive, scornful are synonyms.)"
     },
     {
         "id":  "pyq-2023-c1-75",
@@ -2726,8 +2397,7 @@
                         "delicious"
                     ],
         "answer":  1,
-        "explanation":  "Frugal = sparing/thrifty; opposite is extravagant. (Sparing, meagre are synonyms.)",
-        "note":  ""
+        "explanation":  "Frugal = sparing/thrifty; opposite is extravagant. (Sparing, meagre are synonyms.)"
     },
     {
         "id":  "pyq-2023-c1-76",
@@ -2747,8 +2417,7 @@
                         "nomadic"
                     ],
         "answer":  2,
-        "explanation":  "Itinerant = travelling from place to place; opposite is settled. (Vagrant, roving, nomadic are synonyms.)",
-        "note":  ""
+        "explanation":  "Itinerant = travelling from place to place; opposite is settled. (Vagrant, roving, nomadic are synonyms.)"
     },
     {
         "id":  "pyq-2023-c1-77",
@@ -2768,8 +2437,7 @@
                         "vindictive"
                     ],
         "answer":  2,
-        "explanation":  "Malicious = spiteful; opposite is benevolent (kindly). (Pernicious, spiteful, vindictive are synonyms.)",
-        "note":  ""
+        "explanation":  "Malicious = spiteful; opposite is benevolent (kindly). (Pernicious, spiteful, vindictive are synonyms.)"
     },
     {
         "id":  "pyq-2023-c1-78",
@@ -2789,8 +2457,7 @@
                         "maintain"
                     ],
         "answer":  2,
-        "explanation":  "Perpetuate = to make continue; opposite is abolish. (Sustain, conserve, maintain are synonyms.)",
-        "note":  ""
+        "explanation":  "Perpetuate = to make continue; opposite is abolish. (Sustain, conserve, maintain are synonyms.)"
     },
     {
         "id":  "pyq-2023-c1-79",
@@ -2810,8 +2477,7 @@
                         "unimpressive"
                     ],
         "answer":  3,
-        "explanation":  "Redoubtable = formidable/commanding respect; opposite is unimpressive. (Formidable, fearsome, awe-inspiring are synonyms.)",
-        "note":  ""
+        "explanation":  "Redoubtable = formidable/commanding respect; opposite is unimpressive. (Formidable, fearsome, awe-inspiring are synonyms.)"
     },
     {
         "id":  "pyq-2023-c1-80",
@@ -2831,8 +2497,7 @@
                         "blending"
                     ],
         "answer":  2,
-        "explanation":  "Fusion = merging; opposite is separation. (Joining, bonding, blending are synonyms.)",
-        "note":  ""
+        "explanation":  "Fusion = merging; opposite is separation. (Joining, bonding, blending are synonyms.)"
     },
     {
         "id":  "pyq-2023-c2-31",
@@ -2852,8 +2517,7 @@
                         "Doing things in a hurry"
                     ],
         "answer":  0,
-        "explanation":  "Used to say that something is an entirely different situation from the one just mentioned.",
-        "note":  ""
+        "explanation":  "Used to say that something is an entirely different situation from the one just mentioned."
     },
     {
         "id":  "pyq-2023-c2-32",
@@ -2873,8 +2537,7 @@
                         "Showing no respect to the Chair"
                     ],
         "answer":  2,
-        "explanation":  "To avoid committing to either side of a dispute or choice.",
-        "note":  ""
+        "explanation":  "To avoid committing to either side of a dispute or choice."
     },
     {
         "id":  "pyq-2023-c2-33",
@@ -2894,8 +2557,7 @@
                         "Raised questions"
                     ],
         "answer":  0,
-        "explanation":  "To make the greatest possible effort.",
-        "note":  ""
+        "explanation":  "To make the greatest possible effort."
     },
     {
         "id":  "pyq-2023-c2-34",
@@ -2915,29 +2577,7 @@
                         "Prepared"
                     ],
         "answer":  1,
-        "explanation":  "To be bewildered/lost, not knowing what to do.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2023-c2-35",
-        "type":  "idiom",
-        "year":  2023,
-        "cds":  2,
-        "paper":  "CDS 2",
-        "date":  "03 Sep 2023",
-        "tag":  "CDS 2 2023",
-        "qnum":  35,
-        "word":  "The gift of the gab",
-        "stem":  "The gift of the gab",
-        "options":  [
-                        "Ability to write creatively",
-                        "Ability to read fluently",
-                        "Ability to convince",
-                        "Ability to speak confidently"
-                    ],
-        "answer":  3,
-        "explanation":  "The talent for speaking fluently, confidently and persuasively.",
-        "note":  "Option (c) ‘ability to convince’ is closely related; the phrase primarily denotes fluent, confident speech, so (d)."
+        "explanation":  "To be bewildered/lost, not knowing what to do."
     },
     {
         "id":  "pyq-2023-c2-36",
@@ -2957,8 +2597,7 @@
                         "Change of machinery"
                     ],
         "answer":  0,
-        "explanation":  "To pass from one owner/possessor to another.",
-        "note":  ""
+        "explanation":  "To pass from one owner/possessor to another."
     },
     {
         "id":  "pyq-2023-c2-37",
@@ -2978,8 +2617,7 @@
                         "Having multiple tasks to complete"
                     ],
         "answer":  3,
-        "explanation":  "To be involved in too many activities at once.",
-        "note":  ""
+        "explanation":  "To be involved in too many activities at once."
     },
     {
         "id":  "pyq-2023-c2-38",
@@ -2999,8 +2637,7 @@
                         "Movement of professionals to another country for excursion"
                     ],
         "answer":  1,
-        "explanation":  "The emigration of skilled/qualified people in search of better opportunities.",
-        "note":  ""
+        "explanation":  "The emigration of skilled/qualified people in search of better opportunities."
     },
     {
         "id":  "pyq-2023-c2-39",
@@ -3020,8 +2657,7 @@
                         "To be able to work for long-hours"
                     ],
         "answer":  0,
-        "explanation":  "Perfectly fit and well.",
-        "note":  ""
+        "explanation":  "Perfectly fit and well."
     },
     {
         "id":  "pyq-2023-c2-40",
@@ -3041,8 +2677,7 @@
                         "Something which I don\u0027t understand"
                     ],
         "answer":  3,
-        "explanation":  "Something completely incomprehensible.",
-        "note":  ""
+        "explanation":  "Something completely incomprehensible."
     },
     {
         "id":  "pyq-2023-c2-51",
@@ -3062,8 +2697,7 @@
                         "materialistic"
                     ],
         "answer":  1,
-        "explanation":  "Utopian = idealistic/impossibly perfect. (Realistic, practicable are opposites.)",
-        "note":  ""
+        "explanation":  "Utopian = idealistic/impossibly perfect. (Realistic, practicable are opposites.)"
     },
     {
         "id":  "pyq-2023-c2-53",
@@ -3083,8 +2717,7 @@
                         "cried"
                     ],
         "answer":  0,
-        "explanation":  "Convulsed = shook violently; ‘shivered’ (shook) is nearest among the options.",
-        "note":  ""
+        "explanation":  "Convulsed = shook violently; â€˜shiveredâ€™ (shook) is nearest among the options."
     },
     {
         "id":  "pyq-2023-c2-54",
@@ -3104,50 +2737,7 @@
                         "unsure"
                     ],
         "answer":  1,
-        "explanation":  "Complacent = smugly self-satisfied/contented. (Discontented, unsure are opposites.)",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2023-c2-55",
-        "type":  "synonym",
-        "year":  2023,
-        "cds":  2,
-        "paper":  "CDS 2",
-        "date":  "03 Sep 2023",
-        "tag":  "CDS 2 2023",
-        "qnum":  55,
-        "word":  "derisory",
-        "stem":  "The employees rejected the derisory pay offer.",
-        "options":  [
-                        "partial",
-                        "full",
-                        "derogatory",
-                        "(!) option unclear in scan"
-                    ],
-        "answer":  2,
-        "explanation":  "‘Derisory’ carries the sense of derisive/contemptible; among the legible options ‘derogatory’ (disparaging) is nearest.",
-        "note":  "Option (d) was unreadable. Note ‘derisory’ can also mean ‘insultingly small/inadequate’ (fitting a poor pay offer); if the hidden option is ‘inadequate/insulting’, that would be the intended key. Verify against the original."
-    },
-    {
-        "id":  "pyq-2023-c2-56",
-        "type":  "synonym",
-        "year":  2023,
-        "cds":  2,
-        "paper":  "CDS 2",
-        "date":  "03 Sep 2023",
-        "tag":  "CDS 2 2023",
-        "qnum":  56,
-        "word":  "defused",
-        "stem":  "They successfully defused the situation.",
-        "options":  [
-                        "mitigated",
-                        "mediated",
-                        "activated",
-                        "neutralised"
-                    ],
-        "answer":  3,
-        "explanation":  "To defuse a situation is to remove its danger/tension — i.e., to neutralise it.",
-        "note":  "Option (d) was flagged (!) in the scan. ‘Mitigated’ (a) is a defensible alternative (to lessen); ‘neutralised’ is the closer synonym of ‘defuse’."
+        "explanation":  "Complacent = smugly self-satisfied/contented. (Discontented, unsure are opposites.)"
     },
     {
         "id":  "pyq-2023-c2-57",
@@ -3167,8 +2757,7 @@
                         "succeeded"
                     ],
         "answer":  0,
-        "explanation":  "To flounder = to struggle helplessly / be in serious difficulty. (Glided/floated/succeeded are opposites.)",
-        "note":  ""
+        "explanation":  "To flounder = to struggle helplessly / be in serious difficulty. (Glided/floated/succeeded are opposites.)"
     },
     {
         "id":  "pyq-2023-c2-58",
@@ -3188,8 +2777,7 @@
                         "exemplary"
                     ],
         "answer":  1,
-        "explanation":  "Brevity = shortness/conciseness of expression.",
-        "note":  ""
+        "explanation":  "Brevity = shortness/conciseness of expression."
     },
     {
         "id":  "pyq-2023-c2-59",
@@ -3209,8 +2797,7 @@
                         "dull"
                     ],
         "answer":  3,
-        "explanation":  "Obtuse (of a person) = slow to understand; dull-witted. (Sensitive, quick-witted are opposites.)",
-        "note":  ""
+        "explanation":  "Obtuse (of a person) = slow to understand; dull-witted. (Sensitive, quick-witted are opposites.)"
     },
     {
         "id":  "pyq-2023-c2-60",
@@ -3230,8 +2817,7 @@
                         "merged"
                     ],
         "answer":  0,
-        "explanation":  "Transpire = to happen / to come to light; ‘emerged’ (came to be known/occurred) is nearest.",
-        "note":  ""
+        "explanation":  "Transpire = to happen / to come to light; â€˜emergedâ€™ (came to be known/occurred) is nearest."
     },
     {
         "id":  "pyq-2023-c2-71",
@@ -3251,8 +2837,7 @@
                         "insurmountable"
                     ],
         "answer":  0,
-        "explanation":  "Invincible = unconquerable; opposite is vulnerable. (Impregnable, unbeatable, insurmountable are synonyms.)",
-        "note":  ""
+        "explanation":  "Invincible = unconquerable; opposite is vulnerable. (Impregnable, unbeatable, insurmountable are synonyms.)"
     },
     {
         "id":  "pyq-2023-c2-72",
@@ -3272,8 +2857,7 @@
                         "evaporation"
                     ],
         "answer":  3,
-        "explanation":  "Condensation (vapour→liquid) is the opposite of evaporation (liquid→vapour).",
-        "note":  ""
+        "explanation":  "Condensation (vapourâ†’liquid) is the opposite of evaporation (liquidâ†’vapour)."
     },
     {
         "id":  "pyq-2023-c2-73",
@@ -3293,8 +2877,7 @@
                         "directed"
                     ],
         "answer":  2,
-        "explanation":  "Ushered in = introduced/brought in; opposite is obstructed (blocked). (Led, conducted, directed are synonyms.)",
-        "note":  ""
+        "explanation":  "Ushered in = introduced/brought in; opposite is obstructed (blocked). (Led, conducted, directed are synonyms.)"
     },
     {
         "id":  "pyq-2023-c2-74",
@@ -3314,8 +2897,7 @@
                         "muddled"
                     ],
         "answer":  2,
-        "explanation":  "Obfuscate = to make obscure/confusing; opposite is illuminate (clarify). (Mystified, obscured, muddled are synonyms.)",
-        "note":  ""
+        "explanation":  "Obfuscate = to make obscure/confusing; opposite is illuminate (clarify). (Mystified, obscured, muddled are synonyms.)"
     },
     {
         "id":  "pyq-2023-c2-75",
@@ -3335,8 +2917,7 @@
                         "detestation"
                     ],
         "answer":  2,
-        "explanation":  "Abomination = intense loathing; opposite is adoration. (Abhorrence, detestation are synonyms.)",
-        "note":  ""
+        "explanation":  "Abomination = intense loathing; opposite is adoration. (Abhorrence, detestation are synonyms.)"
     },
     {
         "id":  "pyq-2023-c2-76",
@@ -3356,8 +2937,7 @@
                         "acceptance"
                     ],
         "answer":  1,
-        "explanation":  "Infraction = a breaking of a rule; opposite is observance (compliance). (Transgression, breach are synonyms.)",
-        "note":  ""
+        "explanation":  "Infraction = a breaking of a rule; opposite is observance (compliance). (Transgression, breach are synonyms.)"
     },
     {
         "id":  "pyq-2023-c2-77",
@@ -3377,8 +2957,7 @@
                         "appreciate"
                     ],
         "answer":  3,
-        "explanation":  "Denounce = to condemn publicly; opposite is appreciate. (Criticise, censure are synonyms.)",
-        "note":  ""
+        "explanation":  "Denounce = to condemn publicly; opposite is appreciate. (Criticise, censure are synonyms.)"
     },
     {
         "id":  "pyq-2023-c2-78",
@@ -3398,8 +2977,7 @@
                         "incubated"
                     ],
         "answer":  2,
-        "explanation":  "Foster = to encourage/nurture; opposite is suppress. (Cultivated, endorsed, incubated are synonyms.)",
-        "note":  ""
+        "explanation":  "Foster = to encourage/nurture; opposite is suppress. (Cultivated, endorsed, incubated are synonyms.)"
     },
     {
         "id":  "pyq-2023-c2-79",
@@ -3419,8 +2997,7 @@
                         "elevation"
                     ],
         "answer":  0,
-        "explanation":  "Self-aggrandisement = promoting one’s own importance; opposite is humility. (Exaggeration, elevation are related to it, not opposites.)",
-        "note":  ""
+        "explanation":  "Self-aggrandisement = promoting oneâ€™s own importance; opposite is humility. (Exaggeration, elevation are related to it, not opposites.)"
     },
     {
         "id":  "pyq-2023-c2-80",
@@ -3440,8 +3017,7 @@
                         "denial"
                     ],
         "answer":  3,
-        "explanation":  "Assertion = a positive/forceful statement; opposite is denial. (Insistence, averment, statement are synonyms.)",
-        "note":  ""
+        "explanation":  "Assertion = a positive/forceful statement; opposite is denial. (Insistence, averment, statement are synonyms.)"
     },
     {
         "id":  "pyq-2024-c1-1",
@@ -3461,8 +3037,7 @@
                         "placidity"
                     ],
         "answer":  1,
-        "explanation":  "Equanimity = calmness/composure; opposite is agitation. (Tranquillity, composure, placidity are synonyms.)",
-        "note":  ""
+        "explanation":  "Equanimity = calmness/composure; opposite is agitation. (Tranquillity, composure, placidity are synonyms.)"
     },
     {
         "id":  "pyq-2024-c1-2",
@@ -3482,8 +3057,7 @@
                         "impassioned"
                     ],
         "answer":  1,
-        "explanation":  "Vehement = forceful/intense; opposite is subdued (restrained). (Ardent, fervent, impassioned are synonyms.)",
-        "note":  ""
+        "explanation":  "Vehement = forceful/intense; opposite is subdued (restrained). (Ardent, fervent, impassioned are synonyms.)"
     },
     {
         "id":  "pyq-2024-c1-3",
@@ -3503,8 +3077,7 @@
                         "abominable"
                     ],
         "answer":  2,
-        "explanation":  "Nefarious = wicked/villainous; opposite is admirable. (Flagitious, execrable, abominable are synonyms.)",
-        "note":  ""
+        "explanation":  "Nefarious = wicked/villainous; opposite is admirable. (Flagitious, execrable, abominable are synonyms.)"
     },
     {
         "id":  "pyq-2024-c1-4",
@@ -3524,8 +3097,7 @@
                         "ruined"
                     ],
         "answer":  2,
-        "explanation":  "Indigent = very poor; opposite is affluent (wealthy). (Impecunious is a synonym; pretentious/ruined are not opposites.)",
-        "note":  ""
+        "explanation":  "Indigent = very poor; opposite is affluent (wealthy). (Impecunious is a synonym; pretentious/ruined are not opposites.)"
     },
     {
         "id":  "pyq-2024-c1-5",
@@ -3545,8 +3117,7 @@
                         "obstreperous"
                     ],
         "answer":  2,
-        "explanation":  "Turbulent = disturbed/stormy; opposite is tranquil (calm). (Capricious, desolate, obstreperous are not opposites.)",
-        "note":  ""
+        "explanation":  "Turbulent = disturbed/stormy; opposite is tranquil (calm). (Capricious, desolate, obstreperous are not opposites.)"
     },
     {
         "id":  "pyq-2024-c1-16",
@@ -3566,8 +3137,7 @@
                         "Undertaking an uncomfortable journey"
                     ],
         "answer":  0,
-        "explanation":  "To act very cautiously to avoid upsetting someone.",
-        "note":  ""
+        "explanation":  "To act very cautiously to avoid upsetting someone."
     },
     {
         "id":  "pyq-2024-c1-17",
@@ -3587,8 +3157,7 @@
                         "To make something more important than it really is"
                     ],
         "answer":  1,
-        "explanation":  "To enrich yourself, especially by abusing a position of trust.",
-        "note":  ""
+        "explanation":  "To enrich yourself, especially by abusing a position of trust."
     },
     {
         "id":  "pyq-2024-c1-18",
@@ -3608,29 +3177,7 @@
                         "Feel awkward because of unfamiliarity"
                     ],
         "answer":  0,
-        "explanation":  "Something that does not fit into any recognised category.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2024-c1-19",
-        "type":  "idiom",
-        "year":  2024,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "21 Apr 2024",
-        "tag":  "CDS 1 2024",
-        "qnum":  19,
-        "word":  "Elephant in the room",
-        "stem":  "Elephant in the room",
-        "options":  [
-                        "(!) option unclear in scan",
-                        "The unavoidable mind-set",
-                        "The obvious problem that is being avoided",
-                        "The prized possession in the room"
-                    ],
-        "answer":  2,
-        "explanation":  "A major issue everyone is aware of but no one wants to mention.",
-        "note":  "Option (a) was unreadable in the scan; (c) is the standard meaning."
+        "explanation":  "Something that does not fit into any recognised category."
     },
     {
         "id":  "pyq-2024-c1-20",
@@ -3650,8 +3197,7 @@
                         "Seeking new opportunities"
                     ],
         "answer":  2,
-        "explanation":  "It is now too late; the chance is gone.",
-        "note":  ""
+        "explanation":  "It is now too late; the chance is gone."
     },
     {
         "id":  "pyq-2024-c1-81",
@@ -3671,8 +3217,7 @@
                         "eager"
                     ],
         "answer":  2,
-        "explanation":  "Exhilarating = making one feel very happy/excited = thrilling.",
-        "note":  ""
+        "explanation":  "Exhilarating = making one feel very happy/excited = thrilling."
     },
     {
         "id":  "pyq-2024-c1-82",
@@ -3692,8 +3237,7 @@
                         "discharged"
                     ],
         "answer":  0,
-        "explanation":  "Decapitate = to cut off the head = beheaded.",
-        "note":  ""
+        "explanation":  "Decapitate = to cut off the head = beheaded."
     },
     {
         "id":  "pyq-2024-c1-83",
@@ -3713,8 +3257,7 @@
                         "cloudy"
                     ],
         "answer":  1,
-        "explanation":  "Dingy = gloomy and grimy = dark and dirty.",
-        "note":  ""
+        "explanation":  "Dingy = gloomy and grimy = dark and dirty."
     },
     {
         "id":  "pyq-2024-c1-84",
@@ -3734,8 +3277,7 @@
                         "uninteresting"
                     ],
         "answer":  2,
-        "explanation":  "Fastidious = very attentive to detail/hard to please = meticulous.",
-        "note":  ""
+        "explanation":  "Fastidious = very attentive to detail/hard to please = meticulous."
     },
     {
         "id":  "pyq-2024-c1-85",
@@ -3755,8 +3297,7 @@
                         "critical"
                     ],
         "answer":  0,
-        "explanation":  "Debilitating = severely weakening = crippling.",
-        "note":  ""
+        "explanation":  "Debilitating = severely weakening = crippling."
     },
     {
         "id":  "pyq-2024-c1-91",
@@ -3776,8 +3317,7 @@
                         "Compliment means to blend well with and complement means to praise"
                     ],
         "answer":  2,
-        "explanation":  "Compliment = an expression of praise; complement = something that completes/goes well with another.",
-        "note":  ""
+        "explanation":  "Compliment = an expression of praise; complement = something that completes/goes well with another."
     },
     {
         "id":  "pyq-2024-c1-92",
@@ -3797,8 +3337,7 @@
                         "Deify means to deny and defy means to oppose"
                     ],
         "answer":  0,
-        "explanation":  "Deify = to make a god of; defy = to resist/challenge openly.",
-        "note":  ""
+        "explanation":  "Deify = to make a god of; defy = to resist/challenge openly."
     },
     {
         "id":  "pyq-2024-c1-93",
@@ -3818,8 +3357,7 @@
                         "Stationery means standing still and stationary means writing and office material"
                     ],
         "answer":  2,
-        "explanation":  "Stationery (with -e-) = paper/office supplies; stationary (with -a-) = not moving.",
-        "note":  ""
+        "explanation":  "Stationery (with -e-) = paper/office supplies; stationary (with -a-) = not moving."
     },
     {
         "id":  "pyq-2024-c1-94",
@@ -3839,8 +3377,7 @@
                         "Complaisant means eager to please and complacent means overconfident"
                     ],
         "answer":  3,
-        "explanation":  "Complaisant = willing to please/obliging; complacent = smugly self-satisfied.",
-        "note":  ""
+        "explanation":  "Complaisant = willing to please/obliging; complacent = smugly self-satisfied."
     },
     {
         "id":  "pyq-2024-c1-95",
@@ -3860,8 +3397,7 @@
                         "Enquiry means act of investiture and inquiry means to investigate"
                     ],
         "answer":  0,
-        "explanation":  "By the common British distinction, ‘enquiry’ = a general request for information; ‘inquiry’ = a formal investigation.",
-        "note":  ""
+        "explanation":  "By the common British distinction, â€˜enquiryâ€™ = a general request for information; â€˜inquiryâ€™ = a formal investigation."
     },
     {
         "id":  "pyq-2024-c1-96",
@@ -3881,8 +3417,7 @@
                         "Masterful means imperious and masterly means highly skilful"
                     ],
         "answer":  3,
-        "explanation":  "Masterful = domineering/commanding; masterly = performed with great skill.",
-        "note":  ""
+        "explanation":  "Masterful = domineering/commanding; masterly = performed with great skill."
     },
     {
         "id":  "pyq-2024-c1-97",
@@ -3902,8 +3437,7 @@
                         "Boarder means wider and border means one who fits planks on the surfaces"
                     ],
         "answer":  0,
-        "explanation":  "A boarder is a lodger who receives meals; a border is a boundary/edge.",
-        "note":  ""
+        "explanation":  "A boarder is a lodger who receives meals; a border is a boundary/edge."
     },
     {
         "id":  "pyq-2024-c1-98",
@@ -3923,8 +3457,7 @@
                         "Concurrent means occurring thereafter and consecutive means occurring at the same time"
                     ],
         "answer":  0,
-        "explanation":  "Concurrent = simultaneous; consecutive = in unbroken succession.",
-        "note":  ""
+        "explanation":  "Concurrent = simultaneous; consecutive = in unbroken succession."
     },
     {
         "id":  "pyq-2024-c1-99",
@@ -3944,29 +3477,7 @@
                         "Epitaph means words written on a stone and epithet means an award"
                     ],
         "answer":  1,
-        "explanation":  "Epitaph = an inscription for the dead; epithet = a descriptive term/phrase attached to a name.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2024-c1-100",
-        "type":  "confusable",
-        "year":  2024,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "21 Apr 2024",
-        "tag":  "CDS 1 2024",
-        "qnum":  100,
-        "word":  "Discomfort and Discomfit",
-        "stem":  "Discomfort and Discomfit",
-        "options":  [
-                        "Discomfort means disturb and discomfit means unfit",
-                        "Discomfort means unease and discomfit means to embarrass",
-                        "Discomfort means to embarrass and discomfit means unfit",
-                        "Discomfort means unfit and discomfit means to make comfortable Match Lists - Loan Words to Meaning (Q101-105)  (5)"
-                    ],
-        "answer":  3,
-        "explanation":  "S1 ‘The teacher enquired whether…’ ✓ and S2 ‘He asked her whether…’ ✓ — both verbs are used correctly to report a question.",
-        "note":  "Code illegible; ‘liaison = diplomatic support staff’ (3) is a loose fit (liaison normally = a communication link), so verify against the original. Adaptation of Borrowed Words — meaning (Q106–110) 106. Aplomb"
+        "explanation":  "Epitaph = an inscription for the dead; epithet = a descriptive term/phrase attached to a name."
     },
     {
         "id":  "pyq-2024-c2-1",
@@ -3986,8 +3497,7 @@
                         "vague"
                     ],
         "answer":  2,
-        "explanation":  "Equivocal = ambiguous/open to two interpretations; opposite is clear. (Obscure, ambiguous, vague are synonyms.)",
-        "note":  ""
+        "explanation":  "Equivocal = ambiguous/open to two interpretations; opposite is clear. (Obscure, ambiguous, vague are synonyms.)"
     },
     {
         "id":  "pyq-2024-c2-2",
@@ -4007,8 +3517,7 @@
                         "obedient"
                     ],
         "answer":  3,
-        "explanation":  "Mutinous = rebellious/refusing to obey; opposite is obedient. (Unruly, contumacious, seditious are synonyms.)",
-        "note":  ""
+        "explanation":  "Mutinous = rebellious/refusing to obey; opposite is obedient. (Unruly, contumacious, seditious are synonyms.)"
     },
     {
         "id":  "pyq-2024-c2-3",
@@ -4028,8 +3537,7 @@
                         "amiable"
                     ],
         "answer":  3,
-        "explanation":  "Belligerent = hostile/aggressive; opposite is amiable (friendly). (Bellicose, antagonistic, combative are synonyms.)",
-        "note":  ""
+        "explanation":  "Belligerent = hostile/aggressive; opposite is amiable (friendly). (Bellicose, antagonistic, combative are synonyms.)"
     },
     {
         "id":  "pyq-2024-c2-5",
@@ -4049,8 +3557,7 @@
                         "revolting"
                     ],
         "answer":  2,
-        "explanation":  "Iniquitous = grossly unfair/wicked; opposite is virtuous. (Preposterous, execrable, revolting are not opposites.)",
-        "note":  ""
+        "explanation":  "Iniquitous = grossly unfair/wicked; opposite is virtuous. (Preposterous, execrable, revolting are not opposites.)"
     },
     {
         "id":  "pyq-2024-c2-16",
@@ -4070,8 +3577,7 @@
                         "Desperate anticipation makes time drag on"
                     ],
         "answer":  3,
-        "explanation":  "Anxiously waiting for something makes it seem to take far longer.",
-        "note":  ""
+        "explanation":  "Anxiously waiting for something makes it seem to take far longer."
     },
     {
         "id":  "pyq-2024-c2-17",
@@ -4091,8 +3597,7 @@
                         "To praise oneself"
                     ],
         "answer":  0,
-        "explanation":  "To be careful not to lose your position to rivals; guard your achievements by continued effort.",
-        "note":  ""
+        "explanation":  "To be careful not to lose your position to rivals; guard your achievements by continued effort."
     },
     {
         "id":  "pyq-2024-c2-18",
@@ -4112,8 +3617,7 @@
                         "To pretend to be against an idea in order to discuss it more carefully"
                     ],
         "answer":  3,
-        "explanation":  "To argue an opposing view for the sake of debate/testing an argument.",
-        "note":  ""
+        "explanation":  "To argue an opposing view for the sake of debate/testing an argument."
     },
     {
         "id":  "pyq-2024-c2-19",
@@ -4133,8 +3637,7 @@
                         "To pretend to be something that you are not"
                     ],
         "answer":  1,
-        "explanation":  "To share the same (usually difficult) circumstances as others.",
-        "note":  ""
+        "explanation":  "To share the same (usually difficult) circumstances as others."
     },
     {
         "id":  "pyq-2024-c2-20",
@@ -4154,29 +3657,7 @@
                         "To waste time dealing with enemies and problems that do not exist"
                     ],
         "answer":  3,
-        "explanation":  "From Don Quixote attacking windmills; to fight imaginary opponents.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2024-c2-81",
-        "type":  "synonym",
-        "year":  2024,
-        "cds":  2,
-        "paper":  "CDS 2",
-        "date":  "01 Sep 2024",
-        "tag":  "CDS 2 2024",
-        "qnum":  81,
-        "word":  "cantankerous",
-        "stem":  "The village headman was old and cantankerous.",
-        "options":  [
-                        "polite",
-                        "ill-tempered",
-                        "weak",
-                        "(!) option unclear in scan"
-                    ],
-        "answer":  1,
-        "explanation":  "Cantankerous = bad-tempered, quarrelsome.",
-        "note":  ""
+        "explanation":  "From Don Quixote attacking windmills; to fight imaginary opponents."
     },
     {
         "id":  "pyq-2024-c2-84",
@@ -4196,8 +3677,7 @@
                         "quivering"
                     ],
         "answer":  2,
-        "explanation":  "Resonant (of a voice) = deep, rich and full.",
-        "note":  ""
+        "explanation":  "Resonant (of a voice) = deep, rich and full."
     },
     {
         "id":  "pyq-2024-c2-85",
@@ -4217,8 +3697,7 @@
                         "precocious"
                     ],
         "answer":  1,
-        "explanation":  "Doltish = stupid/dull-witted; nearest synonym is imbecilic. (Wise, clever, precocious are opposites.)",
-        "note":  ""
+        "explanation":  "Doltish = stupid/dull-witted; nearest synonym is imbecilic. (Wise, clever, precocious are opposites.)"
     },
     {
         "id":  "pyq-2024-c2-86",
@@ -4238,8 +3717,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  0,
-        "explanation":  "Anarchism (the political doctrine) = absence of government/authority (meaning 1). ‘Chaos and disorder’ (meaning 2) is the loose, colloquial sense of ‘anarchy’, not of the doctrine.",
-        "note":  ""
+        "explanation":  "Anarchism (the political doctrine) = absence of government/authority (meaning 1). â€˜Chaos and disorderâ€™ (meaning 2) is the loose, colloquial sense of â€˜anarchyâ€™, not of the doctrine."
     },
     {
         "id":  "pyq-2024-c2-87",
@@ -4259,8 +3737,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  0,
-        "explanation":  "Pristine = in its original, unspoilt condition (1). ‘Extremely polluted/defiled’ (2) is the opposite.",
-        "note":  ""
+        "explanation":  "Pristine = in its original, unspoilt condition (1). â€˜Extremely polluted/defiledâ€™ (2) is the opposite."
     },
     {
         "id":  "pyq-2024-c2-88",
@@ -4280,8 +3757,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  2,
-        "explanation":  "Enormity = the fact of being extremely serious/grave (1) and also a monstrous crime or sin (2). Both are correct senses; it does NOT mean large size.",
-        "note":  ""
+        "explanation":  "Enormity = the fact of being extremely serious/grave (1) and also a monstrous crime or sin (2). Both are correct senses; it does NOT mean large size."
     },
     {
         "id":  "pyq-2024-c2-89",
@@ -4301,8 +3777,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  3,
-        "explanation":  "Quotidian = daily/ordinary/commonplace. Neither ‘to quote inaccurately’ nor ‘fond of quoting’ is correct.",
-        "note":  ""
+        "explanation":  "Quotidian = daily/ordinary/commonplace. Neither â€˜to quote inaccuratelyâ€™ nor â€˜fond of quotingâ€™ is correct."
     },
     {
         "id":  "pyq-2024-c2-90",
@@ -4322,8 +3797,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  2,
-        "explanation":  "Immolate = to kill (oneself/another) by burning (1) and, more broadly, to kill as a sacrifice (2). Both correct.",
-        "note":  ""
+        "explanation":  "Immolate = to kill (oneself/another) by burning (1) and, more broadly, to kill as a sacrifice (2). Both correct."
     },
     {
         "id":  "pyq-2024-c2-91",
@@ -4343,8 +3817,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  2,
-        "explanation":  "Minimise = reduce to the smallest possible degree (1) and reduce expenses/the degree of any activity (2). Both are valid senses.",
-        "note":  ""
+        "explanation":  "Minimise = reduce to the smallest possible degree (1) and reduce expenses/the degree of any activity (2). Both are valid senses."
     },
     {
         "id":  "pyq-2024-c2-92",
@@ -4364,8 +3837,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  1,
-        "explanation":  "Deify = to worship or treat someone as a god (2). Merely showing reverence to a high office (1) is not deification.",
-        "note":  ""
+        "explanation":  "Deify = to worship or treat someone as a god (2). Merely showing reverence to a high office (1) is not deification."
     },
     {
         "id":  "pyq-2024-c2-93",
@@ -4385,8 +3857,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  0,
-        "explanation":  "A raconteur = someone skilled at telling stories in an interesting way (1). It does not imply telling ‘tall tales’ (2).",
-        "note":  ""
+        "explanation":  "A raconteur = someone skilled at telling stories in an interesting way (1). It does not imply telling â€˜tall talesâ€™ (2)."
     },
     {
         "id":  "pyq-2024-c2-94",
@@ -4406,29 +3877,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  3,
-        "explanation":  "Emasculate = to weaken/deprive of force or effectiveness — the opposite of ‘making strong’ (1) or ‘increasing musculature’ (2).",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2024-c2-95",
-        "type":  "meaning",
-        "year":  2024,
-        "cds":  2,
-        "paper":  "CDS 2",
-        "date":  "01 Sep 2024",
-        "tag":  "CDS 2 2024",
-        "qnum":  95,
-        "word":  "Perturbation",
-        "stem":  "Perturbation  1. Mental anxiety and disturbance  2. Deviation of a system or moving object caused by an outside influence Which of the two suggested meanings is/are correct?",
-        "options":  [
-                        "1 only",
-                        "2 only",
-                        "Both 1 and 2",
-                        "Neither 1 nor 2 Correct Usage of Keywords - sentence pairs (Q96-100)  (5)"
-                    ],
-        "answer":  1,
-        "explanation":  "Defending himself as ‘merely a ___ participant’ means he claims he was impartial/had no stake = disinterested. ‘Uninterested’ (bored) misses the intended sense of neutrality.",
-        "note":  "Code text illegible in scan. Word / Usage Improvement (Q111–115) 111. continually happening →"
+        "explanation":  "Emasculate = to weaken/deprive of force or effectiveness â€” the opposite of â€˜making strongâ€™ (1) or â€˜increasing musculatureâ€™ (2)."
     },
     {
         "id":  "pyq-2025-c1-1",
@@ -4439,7 +3888,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  1,
-        "word":  "intimated →",
+        "word":  "intimated â†’",
         "stem":  "The officer under suspension felt intimated by the committee members during his interrogation regarding the allegations against him.",
         "options":  [
                         "inculcated",
@@ -4448,8 +3897,7 @@
                         "annulled"
                     ],
         "answer":  1,
-        "explanation":  "An officer under suspension who ‘felt ___ by the committee during interrogation’ was frightened/coerced = intimidated. ‘Intimated’ = hinted/announced, which is wrong.",
-        "note":  ""
+        "explanation":  "An officer under suspension who â€˜felt ___ by the committee during interrogationâ€™ was frightened/coerced = intimidated. â€˜Intimatedâ€™ = hinted/announced, which is wrong."
     },
     {
         "id":  "pyq-2025-c1-2",
@@ -4460,7 +3908,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  2,
-        "word":  "perquisite →",
+        "word":  "perquisite â†’",
         "stem":  "Amongst them all, she was the only one with the perquisite to understand the complexity of the situation.",
         "options":  [
                         "perspicacity",
@@ -4469,8 +3917,7 @@
                         "presumptuousness"
                     ],
         "answer":  0,
-        "explanation":  "Only she had the keen insight to grasp the complexity = perspicacity (sharp discernment). ‘Perquisite’ = a perk/benefit, which doesn’t fit.",
-        "note":  ""
+        "explanation":  "Only she had the keen insight to grasp the complexity = perspicacity (sharp discernment). â€˜Perquisiteâ€™ = a perk/benefit, which doesnâ€™t fit."
     },
     {
         "id":  "pyq-2025-c1-3",
@@ -4481,7 +3928,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  3,
-        "word":  "scrumptious →",
+        "word":  "scrumptious â†’",
         "stem":  "At the official function organised for the attending dignitaries, guests arrived in scrumptious attire for the banquet.",
         "options":  [
                         "synergistic",
@@ -4490,8 +3937,7 @@
                         "scrimpy"
                     ],
         "answer":  2,
-        "explanation":  "Guests arrived in lavish/splendid attire = sumptuous. ‘Scrumptious’ (delicious) applies to food, not clothes.",
-        "note":  ""
+        "explanation":  "Guests arrived in lavish/splendid attire = sumptuous. â€˜Scrumptiousâ€™ (delicious) applies to food, not clothes."
     },
     {
         "id":  "pyq-2025-c1-4",
@@ -4502,7 +3948,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  4,
-        "word":  "lyre →",
+        "word":  "lyre â†’",
         "stem":  "The lake atop the mountain has always been the lyre for intrepid hikers.",
         "options":  [
                         "link",
@@ -4511,8 +3957,7 @@
                         "lure"
                     ],
         "answer":  3,
-        "explanation":  "The lake has always been the ‘___ for intrepid hikers’ = a lure (an attraction). ‘Lyre’ (a musical instrument) is a sound-alike error.",
-        "note":  ""
+        "explanation":  "The lake has always been the â€˜___ for intrepid hikersâ€™ = a lure (an attraction). â€˜Lyreâ€™ (a musical instrument) is a sound-alike error."
     },
     {
         "id":  "pyq-2025-c1-5",
@@ -4523,7 +3968,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  5,
-        "word":  "absorption →",
+        "word":  "absorption â†’",
         "stem":  "The candidates went through an intensive instruction process before their absorption into the service.",
         "options":  [
                         "immersion",
@@ -4532,8 +3977,7 @@
                         "unction"
                     ],
         "answer":  2,
-        "explanation":  "Trainees go through instruction before their ‘___ into the service’ = induction (formal entry). ‘Absorption/immersion’ are less precise for joining a service.",
-        "note":  ""
+        "explanation":  "Trainees go through instruction before their â€˜___ into the serviceâ€™ = induction (formal entry). â€˜Absorption/immersionâ€™ are less precise for joining a service."
     },
     {
         "id":  "pyq-2025-c1-6",
@@ -4544,7 +3988,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  6,
-        "word":  "minimise →",
+        "word":  "minimise â†’",
         "stem":  "The office memorandum directed personnel to minimise their consumption of office stationery by up to twenty percent.",
         "options":  [
                         "supervise",
@@ -4553,8 +3997,7 @@
                         "reduce"
                     ],
         "answer":  3,
-        "explanation":  "You ‘reduce consumption by twenty percent’; ‘minimise’ means cut to the least possible, which doesn’t combine with a fixed percentage. (‘Lower’ also works, but ‘reduce’ is the standard correction.)",
-        "note":  ""
+        "explanation":  "You â€˜reduce consumption by twenty percentâ€™; â€˜minimiseâ€™ means cut to the least possible, which doesnâ€™t combine with a fixed percentage. (â€˜Lowerâ€™ also works, but â€˜reduceâ€™ is the standard correction.)"
     },
     {
         "id":  "pyq-2025-c1-7",
@@ -4565,7 +4008,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  7,
-        "word":  "tumult →",
+        "word":  "tumult â†’",
         "stem":  "The announcement of an unexpected bonus led to great tumult among the staff.",
         "options":  [
                         "merriment",
@@ -4574,8 +4017,7 @@
                         "uproar"
                     ],
         "answer":  0,
-        "explanation":  "An unexpected bonus is good news, so it produces joy = merriment. ‘Tumult/uproar/upheaval’ suggest disorder, wrong for a happy event.",
-        "note":  ""
+        "explanation":  "An unexpected bonus is good news, so it produces joy = merriment. â€˜Tumult/uproar/upheavalâ€™ suggest disorder, wrong for a happy event."
     },
     {
         "id":  "pyq-2025-c1-8",
@@ -4586,7 +4028,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  8,
-        "word":  "scurrilous →",
+        "word":  "scurrilous â†’",
         "stem":  "The scurrilous remarks in the article were met with great joy by the leadership of the company.",
         "options":  [
                         "laudatory",
@@ -4595,8 +4037,7 @@
                         "upbraiding"
                     ],
         "answer":  0,
-        "explanation":  "The remarks were ‘met with great joy by the leadership’, so they must be praising = laudatory. ‘Scurrilous’ (abusive) contradicts the joy.",
-        "note":  ""
+        "explanation":  "The remarks were â€˜met with great joy by the leadershipâ€™, so they must be praising = laudatory. â€˜Scurrilousâ€™ (abusive) contradicts the joy."
     },
     {
         "id":  "pyq-2025-c1-9",
@@ -4607,7 +4048,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  9,
-        "word":  "plaudits →",
+        "word":  "plaudits â†’",
         "stem":  "His inappropriate behaviour earned plaudits from his colleagues.",
         "options":  [
                         "sanctimoniousness",
@@ -4616,8 +4057,7 @@
                         "banter"
                     ],
         "answer":  2,
-        "explanation":  "‘Inappropriate behaviour’ would earn disgrace/harsh criticism = opprobrium. ‘Plaudits’ (praise) is the wrong direction.",
-        "note":  ""
+        "explanation":  "â€˜Inappropriate behaviourâ€™ would earn disgrace/harsh criticism = opprobrium. â€˜Plauditsâ€™ (praise) is the wrong direction."
     },
     {
         "id":  "pyq-2025-c1-10",
@@ -4628,7 +4068,7 @@
         "date":  "Apr 2025",
         "tag":  "CDS 1 2025",
         "qnum":  10,
-        "word":  "enormity →",
+        "word":  "enormity â†’",
         "stem":  "The enormity of the mountain range stunned the visitors to the hill station.",
         "options":  [
                         "eternity",
@@ -4637,8 +4077,7 @@
                         "simulacrum"
                     ],
         "answer":  1,
-        "explanation":  "To describe the vast size of a mountain range use ‘enormousness’. ‘Enormity’ properly means great wickedness, not great size.",
-        "note":  ""
+        "explanation":  "To describe the vast size of a mountain range use â€˜enormousnessâ€™. â€˜Enormityâ€™ properly means great wickedness, not great size."
     },
     {
         "id":  "pyq-2025-c1-26",
@@ -4658,8 +4097,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  3,
-        "explanation":  "1 ‘pare the branches’ ✓ (trim); 2 ‘the pair of trees’ ✓ (two); 3 ‘the pear tree … bounty’ ✓ (fruit). All correct.",
-        "note":  ""
+        "explanation":  "1 â€˜pare the branchesâ€™ âœ“ (trim); 2 â€˜the pair of treesâ€™ âœ“ (two); 3 â€˜the pear tree â€¦ bountyâ€™ âœ“ (fruit). All correct."
     },
     {
         "id":  "pyq-2025-c1-27",
@@ -4679,8 +4117,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  2,
-        "explanation":  "1 ‘participate in a seance’ ✓ (spiritualist sitting). 2 ‘eating the sconce’ ✗ (should be ‘scone’, the baked item); 3 ‘scone reading on the graph’ ✗ (neither word denotes a graph reading — a ‘sconce’ is a wall light-bracket).",
-        "note":  ""
+        "explanation":  "1 â€˜participate in a seanceâ€™ âœ“ (spiritualist sitting). 2 â€˜eating the sconceâ€™ âœ— (should be â€˜sconeâ€™, the baked item); 3 â€˜scone reading on the graphâ€™ âœ— (neither word denotes a graph reading â€” a â€˜sconceâ€™ is a wall light-bracket)."
     },
     {
         "id":  "pyq-2025-c1-28",
@@ -4700,8 +4137,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  0,
-        "explanation":  "1 ‘reap what one sows is a truism’ ✓ (an obvious truth). 2 ‘the altruism uttered by the seer’ ✗ — altruism = selflessness, not a statement that can be ‘uttered’ (a ‘truism/aphorism’ was meant).",
-        "note":  ""
+        "explanation":  "1 â€˜reap what one sows is a truismâ€™ âœ“ (an obvious truth). 2 â€˜the altruism uttered by the seerâ€™ âœ— â€” altruism = selflessness, not a statement that can be â€˜utteredâ€™ (a â€˜truism/aphorismâ€™ was meant)."
     },
     {
         "id":  "pyq-2025-c1-29",
@@ -4721,8 +4157,7 @@
                         "Neither 1 nor 2"
                     ],
         "answer":  2,
-        "explanation":  "1 ‘Consequent to the decisions … procedures were brought in’ ✓ (following as a result); 2 ‘the past is of little consequence’ ✓ (importance). Both correct.",
-        "note":  ""
+        "explanation":  "1 â€˜Consequent to the decisions â€¦ procedures were brought inâ€™ âœ“ (following as a result); 2 â€˜the past is of little consequenceâ€™ âœ“ (importance). Both correct."
     },
     {
         "id":  "pyq-2025-c1-30",
@@ -4742,8 +4177,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  3,
-        "explanation":  "1 ‘seize the contraband’ ✓ (confiscate); 2 ‘hostilities should cease’ ✓ (stop); 3 ‘a knife-edge-like crease’ ✓ (fold/line). All correct.",
-        "note":  ""
+        "explanation":  "1 â€˜seize the contrabandâ€™ âœ“ (confiscate); 2 â€˜hostilities should ceaseâ€™ âœ“ (stop); 3 â€˜a knife-edge-like creaseâ€™ âœ“ (fold/line). All correct."
     },
     {
         "id":  "pyq-2025-c1-31",
@@ -4763,8 +4197,7 @@
                         "Listening with ironic distaste"
                     ],
         "answer":  0,
-        "explanation":  "To listen only partly/inattentively.",
-        "note":  ""
+        "explanation":  "To listen only partly/inattentively."
     },
     {
         "id":  "pyq-2025-c1-32",
@@ -4784,8 +4217,7 @@
                         "Unchanging and firm in belief and conviction"
                     ],
         "answer":  3,
-        "explanation":  "Fixed in one’s views; thoroughgoing (from wool dyed before spinning, so the colour is permanent).",
-        "note":  ""
+        "explanation":  "Fixed in oneâ€™s views; thoroughgoing (from wool dyed before spinning, so the colour is permanent)."
     },
     {
         "id":  "pyq-2025-c1-33",
@@ -4805,8 +4237,7 @@
                         "Lie about the past"
                     ],
         "answer":  1,
-        "explanation":  "Leave a settled situation alone to avoid stirring up trouble.",
-        "note":  ""
+        "explanation":  "Leave a settled situation alone to avoid stirring up trouble."
     },
     {
         "id":  "pyq-2025-c1-34",
@@ -4826,29 +4257,7 @@
                         "Timely addressal of a problem prevents future exacerbation of the same"
                     ],
         "answer":  3,
-        "explanation":  "Prompt action prevents a small problem from becoming a big one.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2025-c1-35",
-        "type":  "idiom",
-        "year":  2025,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "Apr 2025",
-        "tag":  "CDS 1 2025",
-        "qnum":  35,
-        "word":  "Fight fire with fire",
-        "stem":  "Fight fire with fire (!)",
-        "options":  [
-                        "Use the same force or strategy of one\u0027s opponent to counter them",
-                        "(!) option unclear in scan",
-                        "Add fuel to further escalate a fiery situation",
-                        "Scorch one\u0027s opponent with a barrage of firing"
-                    ],
-        "answer":  0,
-        "explanation":  "To respond to an attack using the opponent’s own methods.",
-        "note":  "Option (b) was unreadable in the scan; (a) is the established meaning."
+        "explanation":  "Prompt action prevents a small problem from becoming a big one."
     },
     {
         "id":  "pyq-2025-c1-36",
@@ -4868,8 +4277,7 @@
                         "To not deviate from one\u0027s goal"
                     ],
         "answer":  1,
-        "explanation":  "To live honestly and morally (the ‘straight and narrow’ path).",
-        "note":  ""
+        "explanation":  "To live honestly and morally (the â€˜straight and narrowâ€™ path)."
     },
     {
         "id":  "pyq-2025-c1-37",
@@ -4889,8 +4297,7 @@
                         "Itching to enter into an argument"
                     ],
         "answer":  0,
-        "explanation":  "The sensation of suspecting you are being discussed in your absence.",
-        "note":  ""
+        "explanation":  "The sensation of suspecting you are being discussed in your absence."
     },
     {
         "id":  "pyq-2025-c1-38",
@@ -4910,8 +4317,7 @@
                         "Switch sides while asleep"
                     ],
         "answer":  0,
-        "explanation":  "To make one feel sick or disgusted.",
-        "note":  ""
+        "explanation":  "To make one feel sick or disgusted."
     },
     {
         "id":  "pyq-2025-c1-39",
@@ -4931,29 +4337,7 @@
                         "The world will dazzle you if you are not careful"
                     ],
         "answer":  0,
-        "explanation":  "You are free to enjoy every opportunity life offers.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2025-c1-40",
-        "type":  "idiom",
-        "year":  2025,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "Apr 2025",
-        "tag":  "CDS 1 2025",
-        "qnum":  40,
-        "word":  "Cast one\u0027s bread upon the waters",
-        "stem":  "Cast one\u0027s bread upon the waters",
-        "options":  [
-                        "To dilute one\u0027s intentions",
-                        "To do good without seeking reward",
-                        "To while away one\u0027s time in unfruitful activity",
-                        "To misdirect one\u0027s efforts in life Word to Meaning Match Lists (Q71-80)  (10)"
-                    ],
-        "answer":  2,
-        "explanation":  "‘Fecund(ity)’ = fertile/fertility, productive. S1 ‘fecundity … rich soil’ ✓; S2 ‘transform childlessness into fecundity’ ✓; S3 ‘landscape appear … fecund’ ✓. All three correct.",
-        "note":  "S2 is borderline; if audacity in court is accepted the count becomes 2 (option b). Confirm against the official key. 83. Quotidian"
+        "explanation":  "You are free to enjoy every opportunity life offers."
     },
     {
         "id":  "pyq-2025-c1-91",
@@ -4973,8 +4357,7 @@
                         "Elicit is an adverb meaning forbidden by law. Illicit is an adjective meaning to draw a reaction from someone."
                     ],
         "answer":  2,
-        "explanation":  "Elicit (verb) = to draw out (a response); illicit (adjective) = illegal/forbidden.",
-        "note":  ""
+        "explanation":  "Elicit (verb) = to draw out (a response); illicit (adjective) = illegal/forbidden."
     },
     {
         "id":  "pyq-2025-c1-92",
@@ -4994,8 +4377,7 @@
                         "Ensure is an adjective meaning to make certain by taking necessary precaution. Insure is a conjunction to make something certain."
                     ],
         "answer":  0,
-        "explanation":  "Ensure = to guarantee; insure = to protect against loss via insurance. Both are transitive verbs.",
-        "note":  ""
+        "explanation":  "Ensure = to guarantee; insure = to protect against loss via insurance. Both are transitive verbs."
     },
     {
         "id":  "pyq-2025-c1-93",
@@ -5015,8 +4397,7 @@
                         "Imitate is a verb meaning take or follow as a model. Intimate is an adjective meaning closely acquainted."
                     ],
         "answer":  3,
-        "explanation":  "Imitate (verb) = to copy; intimate (adjective) = close/familiar.",
-        "note":  ""
+        "explanation":  "Imitate (verb) = to copy; intimate (adjective) = close/familiar."
     },
     {
         "id":  "pyq-2025-c1-94",
@@ -5036,8 +4417,7 @@
                         "Compare is a conjunction and it means to estimate or measure something. Compere is an auxiliary verb and it refers to the person who introduces the performers."
                     ],
         "answer":  1,
-        "explanation":  "Compare (verb) = to assess similarity; compere (noun) = a master of ceremonies/host.",
-        "note":  ""
+        "explanation":  "Compare (verb) = to assess similarity; compere (noun) = a master of ceremonies/host."
     },
     {
         "id":  "pyq-2025-c1-95",
@@ -5057,8 +4437,7 @@
                         "Precept is a noun and it means an object of perception. Percept is a noun and it means a general rule intended to regulate behaviour. Word Usage - only one sentence uses the word correctly (Q96-100)  (5)"
                     ],
         "answer":  1,
-        "explanation":  "‘Emigrate’ = to leave one’s own country to settle in another. Animals ‘migrate’ (a), workers moving between provinces are internal ‘migration’ (c), and entry into a country is ‘immigration’ (d).",
-        "note":  ""
+        "explanation":  "â€˜Emigrateâ€™ = to leave oneâ€™s own country to settle in another. Animals â€˜migrateâ€™ (a), workers moving between provinces are internal â€˜migrationâ€™ (c), and entry into a country is â€˜immigrationâ€™ (d)."
     },
     {
         "id":  "pyq-2025-c2-31",
@@ -5078,8 +4457,7 @@
                         "Lose is a verb meaning slack or movable and loose is an adjective meaning to misplace."
                     ],
         "answer":  0,
-        "explanation":  "Lose (verb) = to be deprived of / misplace; loose (adjective) = not tight, slack.",
-        "note":  ""
+        "explanation":  "Lose (verb) = to be deprived of / misplace; loose (adjective) = not tight, slack."
     },
     {
         "id":  "pyq-2025-c2-32",
@@ -5099,8 +4477,7 @@
                         "Anyway is a phrase meaning regardless. Any way is an adverb meaning any manner or method."
                     ],
         "answer":  2,
-        "explanation":  "‘Anyway’ (one word) = in any case/regardless; ‘any way’ (two words) = by any method.",
-        "note":  ""
+        "explanation":  "â€˜Anywayâ€™ (one word) = in any case/regardless; â€˜any wayâ€™ (two words) = by any method."
     },
     {
         "id":  "pyq-2025-c2-33",
@@ -5120,8 +4497,7 @@
                         "Illusion is an adverb that refers to an implied reference to something. Allusion is an adjective that refers to a false idea."
                     ],
         "answer":  0,
-        "explanation":  "Allusion = an indirect reference; illusion = a false impression or belief.",
-        "note":  ""
+        "explanation":  "Allusion = an indirect reference; illusion = a false impression or belief."
     },
     {
         "id":  "pyq-2025-c2-34",
@@ -5141,8 +4517,7 @@
                         "Appraise is an adverb meaning to examine and form an opinion about something. Apprise is a verb meaning to inform about something."
                     ],
         "answer":  1,
-        "explanation":  "To appraise is to evaluate/assess; to apprise is to notify/inform someone.",
-        "note":  ""
+        "explanation":  "To appraise is to evaluate/assess; to apprise is to notify/inform someone."
     },
     {
         "id":  "pyq-2025-c2-86",
@@ -5162,8 +4537,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  1,
-        "explanation":  "2 ‘proceedings were quite dreary’ ✓ (dull). 1 ‘memories in her private dairy’ ✗ (should be ‘diary’); 3 ‘milk products from the local diary’ ✗ (should be ‘dairy’).",
-        "note":  ""
+        "explanation":  "2 â€˜proceedings were quite drearyâ€™ âœ“ (dull). 1 â€˜memories in her private dairyâ€™ âœ— (should be â€˜diaryâ€™); 3 â€˜milk products from the local diaryâ€™ âœ— (should be â€˜dairyâ€™)."
     },
     {
         "id":  "pyq-2025-c2-87",
@@ -5183,8 +4557,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  1,
-        "explanation":  "2 ‘sport a beard’ ✓; 3 ‘males brood the eggs’ ✓ (incubate). 1 ‘braid the river by converting it into a single body’ ✗ — braiding a river means splitting it into many channels, the opposite of a single body.",
-        "note":  ""
+        "explanation":  "2 â€˜sport a beardâ€™ âœ“; 3 â€˜males brood the eggsâ€™ âœ“ (incubate). 1 â€˜braid the river by converting it into a single bodyâ€™ âœ— â€” braiding a river means splitting it into many channels, the opposite of a single body."
     },
     {
         "id":  "pyq-2025-c2-88",
@@ -5204,8 +4577,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  0,
-        "explanation":  "1 ‘life-threatening lesion’ ✓ (injury/abnormal tissue); 2 ‘a legion of followers’ ✓ (a great number). 3 ‘to lesson the burden’ ✗ (should be ‘lessen’ = reduce).",
-        "note":  ""
+        "explanation":  "1 â€˜life-threatening lesionâ€™ âœ“ (injury/abnormal tissue); 2 â€˜a legion of followersâ€™ âœ“ (a great number). 3 â€˜to lesson the burdenâ€™ âœ— (should be â€˜lessenâ€™ = reduce)."
     },
     {
         "id":  "pyq-2025-c2-89",
@@ -5225,8 +4597,7 @@
                         "3 only"
                     ],
         "answer":  3,
-        "explanation":  "3 ‘the government can deport someone’ ✓ (expel from a country). 1 ‘depose himself and act naturally’ ✗ (depose = remove from office / testify); 2 ‘enthusiastically … deplore the salutary impact’ ✗ — deplore = strongly disapprove, which contradicts ‘enthusiastically’ and a ‘salutary (beneficial) impact’.",
-        "note":  ""
+        "explanation":  "3 â€˜the government can deport someoneâ€™ âœ“ (expel from a country). 1 â€˜depose himself and act naturallyâ€™ âœ— (depose = remove from office / testify); 2 â€˜enthusiastically â€¦ deplore the salutary impactâ€™ âœ— â€” deplore = strongly disapprove, which contradicts â€˜enthusiasticallyâ€™ and a â€˜salutary (beneficial) impactâ€™."
     },
     {
         "id":  "pyq-2025-c2-90",
@@ -5246,8 +4617,7 @@
                         "2 only"
                     ],
         "answer":  1,
-        "explanation":  "2 ‘set the bait to capture the leopard’ ✓; 3 ‘bade goodbye’ ✓ (past tense of bid). 1 ‘asked to bate their curiosity’ ✗ — ‘bate’ (to lessen/restrain) collocates with ‘bated breath’, not ‘curiosity’, so the usage is treated as incorrect.",
-        "note":  ""
+        "explanation":  "2 â€˜set the bait to capture the leopardâ€™ âœ“; 3 â€˜bade goodbyeâ€™ âœ“ (past tense of bid). 1 â€˜asked to bate their curiosityâ€™ âœ— â€” â€˜bateâ€™ (to lessen/restrain) collocates with â€˜bated breathâ€™, not â€˜curiosityâ€™, so the usage is treated as incorrect."
     },
     {
         "id":  "pyq-2025-c2-91",
@@ -5267,8 +4637,7 @@
                         "Someone embarrassed at being caught in the act of lying"
                     ],
         "answer":  2,
-        "explanation":  "Describes someone straining to listen in on others’ talk.",
-        "note":  ""
+        "explanation":  "Describes someone straining to listen in on othersâ€™ talk."
     },
     {
         "id":  "pyq-2025-c2-92",
@@ -5288,8 +4657,7 @@
                         "To make someone who is already feeling bad, feel worse with one\u0027s words or actions"
                     ],
         "answer":  3,
-        "explanation":  "To deliberately worsen another’s pain or difficulty.",
-        "note":  ""
+        "explanation":  "To deliberately worsen anotherâ€™s pain or difficulty."
     },
     {
         "id":  "pyq-2025-c2-93",
@@ -5309,8 +4677,7 @@
                         "Be scathing in one\u0027s criticism of others"
                     ],
         "answer":  2,
-        "explanation":  "To boast about one’s own successes.",
-        "note":  ""
+        "explanation":  "To boast about oneâ€™s own successes."
     },
     {
         "id":  "pyq-2025-c2-94",
@@ -5330,8 +4697,7 @@
                         "To annoy or irritate someone intensely"
                     ],
         "answer":  3,
-        "explanation":  "In this sense it means to irritate persistently. (It can also mean to fascinate, but among the options ‘annoy/irritate’ is intended.)",
-        "note":  ""
+        "explanation":  "In this sense it means to irritate persistently. (It can also mean to fascinate, but among the options â€˜annoy/irritateâ€™ is intended.)"
     },
     {
         "id":  "pyq-2025-c2-95",
@@ -5351,8 +4717,7 @@
                         "Do a quick clean up job"
                     ],
         "answer":  2,
-        "explanation":  "To conceal something embarrassing or inconvenient and hope it is ignored.",
-        "note":  ""
+        "explanation":  "To conceal something embarrassing or inconvenient and hope it is ignored."
     },
     {
         "id":  "pyq-2025-c2-96",
@@ -5372,8 +4737,7 @@
                         "Workers light up the work they undertake"
                     ],
         "answer":  1,
-        "explanation":  "A shared task is done faster and more easily when many contribute.",
-        "note":  ""
+        "explanation":  "A shared task is done faster and more easily when many contribute."
     },
     {
         "id":  "pyq-2025-c2-97",
@@ -5393,8 +4757,7 @@
                         "To pollute the atmosphere"
                     ],
         "answer":  2,
-        "explanation":  "To make a task seem more difficult or laborious than it really is.",
-        "note":  ""
+        "explanation":  "To make a task seem more difficult or laborious than it really is."
     },
     {
         "id":  "pyq-2025-c2-98",
@@ -5414,8 +4777,7 @@
                         "What can happen is always better than what has happened"
                     ],
         "answer":  1,
-        "explanation":  "A certain, smaller gain is better than a larger but uncertain one.",
-        "note":  ""
+        "explanation":  "A certain, smaller gain is better than a larger but uncertain one."
     },
     {
         "id":  "pyq-2025-c2-99",
@@ -5435,8 +4797,7 @@
                         "A bodily discolouration related to heredity"
                     ],
         "answer":  2,
-        "explanation":  "A period of notable success or good fortune.",
-        "note":  ""
+        "explanation":  "A period of notable success or good fortune."
     },
     {
         "id":  "pyq-2025-c2-100",
@@ -5456,8 +4817,7 @@
                         "To incubate"
                     ],
         "answer":  0,
-        "explanation":  "From retiring old animals to graze; to force someone to retire or set them aside as no longer useful.",
-        "note":  ""
+        "explanation":  "From retiring old animals to graze; to force someone to retire or set them aside as no longer useful."
     },
     {
         "id":  "pyq-2025-c2-101",
@@ -5468,7 +4828,7 @@
         "date":  "14 Sep 2025",
         "tag":  "CDS 2 2025",
         "qnum":  101,
-        "word":  "bilateral →",
+        "word":  "bilateral â†’",
         "stem":  "The opposing political parties nevertheless took a bilateral position in the national interest.",
         "options":  [
                         "impartial",
@@ -5477,8 +4837,7 @@
                         "bipartisan"
                     ],
         "answer":  3,
-        "explanation":  "Two opposing political parties taking a common position = bipartisan. ‘Bilateral’ (between two states/parties) does not fit party politics as neatly.",
-        "note":  ""
+        "explanation":  "Two opposing political parties taking a common position = bipartisan. â€˜Bilateralâ€™ (between two states/parties) does not fit party politics as neatly."
     },
     {
         "id":  "pyq-2025-c2-102",
@@ -5489,7 +4848,7 @@
         "date":  "14 Sep 2025",
         "tag":  "CDS 2 2025",
         "qnum":  102,
-        "word":  "indefinite →",
+        "word":  "indefinite â†’",
         "stem":  "Although she had sampled food from all the restaurants in the food court, she remained indefinite towards the culinary fare on offer.",
         "options":  [
                         "imperious",
@@ -5498,29 +4857,7 @@
                         "disinvested"
                     ],
         "answer":  1,
-        "explanation":  "Having sampled all the food, she was unmoved/uninterested toward it = indifferent.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2025-c2-103",
-        "type":  "usage",
-        "year":  2025,
-        "cds":  2,
-        "paper":  "CDS 2",
-        "date":  "14 Sep 2025",
-        "tag":  "CDS 2 2025",
-        "qnum":  103,
-        "word":  "antipathy →",
-        "stem":  "The attitude of the whalers was marked by antipathy towards the marine life they had to encounter.",
-        "options":  [
-                        "sympathy",
-                        "empathy",
-                        "indifference",
-                        "animus"
-                    ],
-        "answer":  3,
-        "explanation":  "The whalers’ hostile attitude toward marine life is best sharpened to ‘animus’ (active hostility). (Sympathy/empathy/indifference are the wrong direction.)",
-        "note":  "Option (b) ‘empathy’ was flagged (!). ‘Antipathy’ itself already means dislike; the intended improvement is the near-synonym ‘animus’."
+        "explanation":  "Having sampled all the food, she was unmoved/uninterested toward it = indifferent."
     },
     {
         "id":  "pyq-2025-c2-104",
@@ -5531,7 +4868,7 @@
         "date":  "14 Sep 2025",
         "tag":  "CDS 2 2025",
         "qnum":  104,
-        "word":  "diligent →",
+        "word":  "diligent â†’",
         "stem":  "Humanity was rendered diligent due to the crash in the share market.",
         "options":  [
                         "indigent",
@@ -5540,29 +4877,7 @@
                         "apathetic"
                     ],
         "answer":  0,
-        "explanation":  "A stock-market crash would leave people poor = indigent. ‘Diligent’ (hardworking) makes no sense here.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2025-c2-105",
-        "type":  "usage",
-        "year":  2025,
-        "cds":  2,
-        "paper":  "CDS 2",
-        "date":  "14 Sep 2025",
-        "tag":  "CDS 2 2025",
-        "qnum":  105,
-        "word":  "impassioned →",
-        "stem":  "He had cultivated such great temperance in his personality that he was impassioned in his dealing with the vicissitudes of life.",
-        "options":  [
-                        "dispassionate",
-                        "(!) option unclear in scan",
-                        "devolved",
-                        "disambiguated"
-                    ],
-        "answer":  0,
-        "explanation":  "He had cultivated great ‘temperance’ (self-restraint), so he must be calm/unemotional = dispassionate, not impassioned.",
-        "note":  "Option (b) was unreadable in the scan; (a) is the logical fit."
+        "explanation":  "A stock-market crash would leave people poor = indigent. â€˜Diligentâ€™ (hardworking) makes no sense here."
     },
     {
         "id":  "pyq-2025-c2-106",
@@ -5573,7 +4888,7 @@
         "date":  "14 Sep 2025",
         "tag":  "CDS 2 2025",
         "qnum":  106,
-        "word":  "postscript →",
+        "word":  "postscript â†’",
         "stem":  "The document was discerned to be a postscript where clearly an earlier manuscript had been replaced by a new one.",
         "options":  [
                         "parchment",
@@ -5582,8 +4897,7 @@
                         "montage"
                     ],
         "answer":  1,
-        "explanation":  "A manuscript where an earlier text has been erased/overwritten by a new one is a palimpsest.",
-        "note":  ""
+        "explanation":  "A manuscript where an earlier text has been erased/overwritten by a new one is a palimpsest."
     },
     {
         "id":  "pyq-2025-c2-107",
@@ -5594,7 +4908,7 @@
         "date":  "14 Sep 2025",
         "tag":  "CDS 2 2025",
         "qnum":  107,
-        "word":  "simulism →",
+        "word":  "simulism â†’",
         "stem":  "He was accused of simulism for having copied without due acknowledgement.",
         "options":  [
                         "sensationalism",
@@ -5603,50 +4917,7 @@
                         "spoonerism"
                     ],
         "answer":  2,
-        "explanation":  "Copying without acknowledgement = plagiarism.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2025-c2-108",
-        "type":  "usage",
-        "year":  2025,
-        "cds":  2,
-        "paper":  "CDS 2",
-        "date":  "14 Sep 2025",
-        "tag":  "CDS 2 2025",
-        "qnum":  108,
-        "word":  "paternal →",
-        "stem":  "The domineering manager behaved in a paternal manner with his subordinates, not allowing them to decide for themselves.",
-        "options":  [
-                        "prim",
-                        "petulant",
-                        "(!) option unclear in scan",
-                        "paternalistic"
-                    ],
-        "answer":  3,
-        "explanation":  "A domineering manager who won’t let subordinates decide behaves in a ‘paternalistic’ way (controlling ‘for their own good’). ‘Paternal’ (fatherly/affectionate) is too benign.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2025-c2-109",
-        "type":  "usage",
-        "year":  2025,
-        "cds":  2,
-        "paper":  "CDS 2",
-        "date":  "14 Sep 2025",
-        "tag":  "CDS 2 2025",
-        "qnum":  109,
-        "word":  "perfunctory",
-        "stem":  "Much to their disappointment, the team leader remained perfunctory at the draft plan drawn up by his team.",
-        "options":  [
-                        "perfunctory",
-                        "precise",
-                        "engaging",
-                        "egregious"
-                    ],
-        "answer":  0,
-        "explanation":  "A leader who is ‘perfunctory’ (offhand/half-hearted) about the team’s draft plan would disappoint them. ‘Engaging/precise’ would please, not disappoint.",
-        "note":  "The underlined word/phrasing was partly unclear in the scan; if the underlined word is something other than ‘perfunctory’, re-check against the original."
+        "explanation":  "Copying without acknowledgement = plagiarism."
     },
     {
         "id":  "pyq-2025-c2-110",
@@ -5657,7 +4928,7 @@
         "date":  "14 Sep 2025",
         "tag":  "CDS 2 2025",
         "qnum":  110,
-        "word":  "salutary →",
+        "word":  "salutary â†’",
         "stem":  "Her actions were considered salutary because they were done without good reason or cause.",
         "options":  [
                         "ingratiated",
@@ -5666,8 +4937,7 @@
                         "gargantuan"
                     ],
         "answer":  1,
-        "explanation":  "Actions ‘done without good reason or cause’ = gratuitous (uncalled-for). ‘Salutary’ means beneficial, which contradicts the clause.",
-        "note":  ""
+        "explanation":  "Actions â€˜done without good reason or causeâ€™ = gratuitous (uncalled-for). â€˜Salutaryâ€™ means beneficial, which contradicts the clause."
     },
     {
         "id":  "pyq-2026-c1-1",
@@ -5687,8 +4957,7 @@
                         "Pontoon means a group of people and Platoon means a temporary bridge"
                     ],
         "answer":  2,
-        "explanation":  "A pontoon is a float/flat-bottomed boat used to support a temporary (floating) bridge; a platoon is a small body of soldiers, a sub-unit of a company.",
-        "note":  ""
+        "explanation":  "A pontoon is a float/flat-bottomed boat used to support a temporary (floating) bridge; a platoon is a small body of soldiers, a sub-unit of a company."
     },
     {
         "id":  "pyq-2026-c1-2",
@@ -5708,8 +4977,7 @@
                         "Invoke means to usher newness and Revoke means to stick to tradition"
                     ],
         "answer":  1,
-        "explanation":  "To invoke is to call upon or cite (a law, right, authority); to revoke is to withdraw or annul something previously granted.",
-        "note":  ""
+        "explanation":  "To invoke is to call upon or cite (a law, right, authority); to revoke is to withdraw or annul something previously granted."
     },
     {
         "id":  "pyq-2026-c1-3",
@@ -5729,8 +4997,7 @@
                         "Imminent means happening soon and Eminent means famous and respected"
                     ],
         "answer":  3,
-        "explanation":  "Imminent = about to occur (impending); eminent = distinguished/prominent. (A third look-alike, ‘immanent’, means inherent.)",
-        "note":  ""
+        "explanation":  "Imminent = about to occur (impending); eminent = distinguished/prominent. (A third look-alike, â€˜immanentâ€™, means inherent.)"
     },
     {
         "id":  "pyq-2026-c1-4",
@@ -5750,8 +5017,7 @@
                         "Liable means being generous and Libel means the willingness to understand"
                     ],
         "answer":  0,
-        "explanation":  "Liable (adj.) = legally answerable; libel (noun/verb) = a published false statement that damages reputation (defamation in permanent form).",
-        "note":  ""
+        "explanation":  "Liable (adj.) = legally answerable; libel (noun/verb) = a published false statement that damages reputation (defamation in permanent form)."
     },
     {
         "id":  "pyq-2026-c1-5",
@@ -5771,8 +5037,7 @@
                         "Incredible means extremely grateful and Incredulous means impossible to understand something"
                     ],
         "answer":  1,
-        "explanation":  "Incredible describes the thing (unbelievable); incredulous describes the person (disbelieving/sceptical).",
-        "note":  ""
+        "explanation":  "Incredible describes the thing (unbelievable); incredulous describes the person (disbelieving/sceptical)."
     },
     {
         "id":  "pyq-2026-c1-6",
@@ -5792,8 +5057,7 @@
                         "Climatic means climbing to the top of something and Climactic means the scientific study of climate"
                     ],
         "answer":  0,
-        "explanation":  "Climatic derives from ‘climate’; climactic derives from ‘climax’ (the high point).",
-        "note":  ""
+        "explanation":  "Climatic derives from â€˜climateâ€™; climactic derives from â€˜climaxâ€™ (the high point)."
     },
     {
         "id":  "pyq-2026-c1-7",
@@ -5813,8 +5077,7 @@
                         "Cursor means a pointer and Cursory means something done in haste"
                     ],
         "answer":  3,
-        "explanation":  "A cursor is the movable indicator on a screen; cursory means hasty and superficial (a cursory glance).",
-        "note":  ""
+        "explanation":  "A cursor is the movable indicator on a screen; cursory means hasty and superficial (a cursory glance)."
     },
     {
         "id":  "pyq-2026-c1-8",
@@ -5834,8 +5097,7 @@
                         "Affect means the consequence of something and Effect means to influence something"
                     ],
         "answer":  1,
-        "explanation":  "Affect is normally a verb (to influence); effect is normally a noun (the result). Both fit the sentence best in these roles.",
-        "note":  ""
+        "explanation":  "Affect is normally a verb (to influence); effect is normally a noun (the result). Both fit the sentence best in these roles."
     },
     {
         "id":  "pyq-2026-c1-9",
@@ -5855,8 +5117,7 @@
                         "Hard means to a great degree and Hardly means never"
                     ],
         "answer":  0,
-        "explanation":  "‘Hard’ can be an adjective/adverb meaning difficult or forceful; ‘hardly’ means barely/scarcely — not simply the adverb form of hard.",
-        "note":  ""
+        "explanation":  "â€˜Hardâ€™ can be an adjective/adverb meaning difficult or forceful; â€˜hardlyâ€™ means barely/scarcely â€” not simply the adverb form of hard."
     },
     {
         "id":  "pyq-2026-c1-10",
@@ -5876,8 +5137,7 @@
                         "Conscious means clarity of purpose and Conscience means perception"
                     ],
         "answer":  2,
-        "explanation":  "Conscious relates to awareness/perception; conscience is the moral faculty distinguishing right from wrong.",
-        "note":  ""
+        "explanation":  "Conscious relates to awareness/perception; conscience is the moral faculty distinguishing right from wrong."
     },
     {
         "id":  "pyq-2026-c1-11",
@@ -5888,7 +5148,7 @@
         "date":  "13 Apr 2026",
         "tag":  "CDS 1 2026",
         "qnum":  11,
-        "word":  "understatement (‘pandemic done and dusted would be an understatement’)",
+        "word":  "understatement (â€˜pandemic done and dusted would be an understatementâ€™)",
         "stem":  "To say that the pandemic is done and dusted with would be an understatement.",
         "options":  [
                         "affecting politeness",
@@ -5897,8 +5157,7 @@
                         "practising subterfuge"
                     ],
         "answer":  1,
-        "explanation":  "An understatement deliberately presents something as smaller/less important than it is — i.e., underplaying its significance.",
-        "note":  ""
+        "explanation":  "An understatement deliberately presents something as smaller/less important than it is â€” i.e., underplaying its significance."
     },
     {
         "id":  "pyq-2026-c1-12",
@@ -5918,8 +5177,7 @@
                         "mean state"
                     ],
         "answer":  0,
-        "explanation":  "Nadir = the lowest point (opposite of zenith/peak).",
-        "note":  ""
+        "explanation":  "Nadir = the lowest point (opposite of zenith/peak)."
     },
     {
         "id":  "pyq-2026-c1-13",
@@ -5939,8 +5197,7 @@
                         "passive"
                     ],
         "answer":  1,
-        "explanation":  "To be stranded is to be left helpless/abandoned, exactly like being marooned.",
-        "note":  ""
+        "explanation":  "To be stranded is to be left helpless/abandoned, exactly like being marooned."
     },
     {
         "id":  "pyq-2026-c1-14",
@@ -5960,8 +5217,7 @@
                         "supplied"
                     ],
         "answer":  2,
-        "explanation":  "Interspersed = scattered/mixed in among other things; ‘combined’ (with practical demos) is nearest.",
-        "note":  ""
+        "explanation":  "Interspersed = scattered/mixed in among other things; â€˜combinedâ€™ (with practical demos) is nearest."
     },
     {
         "id":  "pyq-2026-c1-15",
@@ -5981,8 +5237,7 @@
                         "soothing and encouraging"
                     ],
         "answer":  0,
-        "explanation":  "Effusive = gushing, expressing feelings in an unrestrained, wholehearted way.",
-        "note":  ""
+        "explanation":  "Effusive = gushing, expressing feelings in an unrestrained, wholehearted way."
     },
     {
         "id":  "pyq-2026-c1-16",
@@ -6002,8 +5257,7 @@
                         "probing"
                     ],
         "answer":  0,
-        "explanation":  "Ingenuous = innocent, unsuspecting, naive (not to be confused with ‘ingenious’ = clever).",
-        "note":  ""
+        "explanation":  "Ingenuous = innocent, unsuspecting, naive (not to be confused with â€˜ingeniousâ€™ = clever)."
     },
     {
         "id":  "pyq-2026-c1-17",
@@ -6023,8 +5277,7 @@
                         "available"
                     ],
         "answer":  2,
-        "explanation":  "Conspicuous = clearly visible, attracting attention.",
-        "note":  ""
+        "explanation":  "Conspicuous = clearly visible, attracting attention."
     },
     {
         "id":  "pyq-2026-c1-18",
@@ -6044,8 +5297,7 @@
                         "special"
                     ],
         "answer":  0,
-        "explanation":  "Rudimentary = basic, undeveloped, elementary.",
-        "note":  ""
+        "explanation":  "Rudimentary = basic, undeveloped, elementary."
     },
     {
         "id":  "pyq-2026-c1-19",
@@ -6065,8 +5317,7 @@
                         "demonstration"
                     ],
         "answer":  0,
-        "explanation":  "A travesty is a grotesque, absurd imitation — a mockery of the original.",
-        "note":  ""
+        "explanation":  "A travesty is a grotesque, absurd imitation â€” a mockery of the original."
     },
     {
         "id":  "pyq-2026-c1-20",
@@ -6086,8 +5337,7 @@
                         "recondite"
                     ],
         "answer":  3,
-        "explanation":  "Abstruse = hard to understand/obscure; recondite is its closest synonym (deep, obscure).",
-        "note":  ""
+        "explanation":  "Abstruse = hard to understand/obscure; recondite is its closest synonym (deep, obscure)."
     },
     {
         "id":  "pyq-2026-c1-21",
@@ -6107,8 +5357,7 @@
                         "Person who negates his own positions"
                     ],
         "answer":  2,
-        "explanation":  "Literally ‘image-breaker’; one who attacks or rejects cherished beliefs and established conventions.",
-        "note":  ""
+        "explanation":  "Literally â€˜image-breakerâ€™; one who attacks or rejects cherished beliefs and established conventions."
     },
     {
         "id":  "pyq-2026-c1-22",
@@ -6128,8 +5377,7 @@
                         "The mathematical principle of being exactly equal"
                     ],
         "answer":  1,
-        "explanation":  "An axiom is a self-evident, generally accepted truth or principle.",
-        "note":  ""
+        "explanation":  "An axiom is a self-evident, generally accepted truth or principle."
     },
     {
         "id":  "pyq-2026-c1-23",
@@ -6149,8 +5397,7 @@
                         "Related to holy rituals"
                     ],
         "answer":  0,
-        "explanation":  "Holistic considers the whole system rather than isolated components.",
-        "note":  ""
+        "explanation":  "Holistic considers the whole system rather than isolated components."
     },
     {
         "id":  "pyq-2026-c1-24",
@@ -6170,8 +5417,7 @@
                         "Far too important and respected to be criticised"
                     ],
         "answer":  1,
-        "explanation":  "Obsequious = servile, fawning, excessively obedient/attentive to please.",
-        "note":  ""
+        "explanation":  "Obsequious = servile, fawning, excessively obedient/attentive to please."
     },
     {
         "id":  "pyq-2026-c1-25",
@@ -6191,8 +5437,7 @@
                         "Patchy skin"
                     ],
         "answer":  0,
-        "explanation":  "Pachyderm (e.g., elephant, rhino) literally means ‘thick-skinned’.",
-        "note":  ""
+        "explanation":  "Pachyderm (e.g., elephant, rhino) literally means â€˜thick-skinnedâ€™."
     },
     {
         "id":  "pyq-2026-c1-26",
@@ -6212,8 +5457,7 @@
                         "Something with selective presence"
                     ],
         "answer":  2,
-        "explanation":  "Ubiquitous = present everywhere at once; widespread.",
-        "note":  ""
+        "explanation":  "Ubiquitous = present everywhere at once; widespread."
     },
     {
         "id":  "pyq-2026-c1-27",
@@ -6233,29 +5477,7 @@
                         "To slice vegetables thinly"
                     ],
         "answer":  2,
-        "explanation":  "Desiccate = to dry thoroughly / remove moisture (e.g., desiccated coconut).",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2026-c1-28",
-        "type":  "meaning",
-        "year":  2026,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "13 Apr 2026",
-        "tag":  "CDS 1 2026",
-        "qnum":  28,
-        "word":  "Deleterious",
-        "stem":  "Deleterious:",
-        "options":  [
-                        "Effecting a deletion",
-                        "An untrue proposition",
-                        "Causing harm to living things",
-                        "The process of deletion"
-                    ],
-        "answer":  2,
-        "explanation":  "Deleterious = harmful/injurious (esp. to health).",
-        "note":  "Scan flagged (!) on this option, but the meaning is unambiguous."
+        "explanation":  "Desiccate = to dry thoroughly / remove moisture (e.g., desiccated coconut)."
     },
     {
         "id":  "pyq-2026-c1-29",
@@ -6275,8 +5497,7 @@
                         "To use vague language to conceal the truth"
                     ],
         "answer":  3,
-        "explanation":  "To equivocate is to be deliberately ambiguous/evasive to mislead or avoid commitment.",
-        "note":  ""
+        "explanation":  "To equivocate is to be deliberately ambiguous/evasive to mislead or avoid commitment."
     },
     {
         "id":  "pyq-2026-c1-30",
@@ -6296,8 +5517,7 @@
                         "Poverty-stricken"
                     ],
         "answer":  0,
-        "explanation":  "Indolent = habitually idle, averse to activity.",
-        "note":  ""
+        "explanation":  "Indolent = habitually idle, averse to activity."
     },
     {
         "id":  "pyq-2026-c1-41",
@@ -6317,8 +5537,7 @@
                         "Exhibiting tendency for gluttony"
                     ],
         "answer":  2,
-        "explanation":  "Mealy-mouthed = afraid to speak plainly/directly; evasively polite.",
-        "note":  ""
+        "explanation":  "Mealy-mouthed = afraid to speak plainly/directly; evasively polite."
     },
     {
         "id":  "pyq-2026-c1-42",
@@ -6338,8 +5557,7 @@
                         "To spend too much time together"
                     ],
         "answer":  3,
-        "explanation":  "Describes two people who are constantly together / excessively close.",
-        "note":  ""
+        "explanation":  "Describes two people who are constantly together / excessively close."
     },
     {
         "id":  "pyq-2026-c1-43",
@@ -6359,29 +5577,7 @@
                         "Be excessively happy"
                     ],
         "answer":  0,
-        "explanation":  "From the opossum’s habit of feigning death; to pretend to be dead or asleep/unaware.",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2026-c1-44",
-        "type":  "idiom",
-        "year":  2026,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "13 Apr 2026",
-        "tag":  "CDS 1 2026",
-        "qnum":  44,
-        "word":  "Work like a dog",
-        "stem":  "Work like a dog",
-        "options":  [
-                        "To work in the hope of reward",
-                        "To work faithfully",
-                        "To work very hard",
-                        "(!) [option unclear in scan - verify]"
-                    ],
-        "answer":  2,
-        "explanation":  "To labour extremely hard.",
-        "note":  "Option (d) was unreadable in the scan; (c) is the established meaning."
+        "explanation":  "From the opossumâ€™s habit of feigning death; to pretend to be dead or asleep/unaware."
     },
     {
         "id":  "pyq-2026-c1-45",
@@ -6401,8 +5597,7 @@
                         "To create something without anyone knowing about it"
                     ],
         "answer":  1,
-        "explanation":  "To start something that leads to many new, unforeseen problems.",
-        "note":  ""
+        "explanation":  "To start something that leads to many new, unforeseen problems."
     },
     {
         "id":  "pyq-2026-c1-46",
@@ -6422,8 +5617,7 @@
                         "A pair of beautiful eyes"
                     ],
         "answer":  2,
-        "explanation":  "Means there is a hidden aspect not immediately apparent.",
-        "note":  ""
+        "explanation":  "Means there is a hidden aspect not immediately apparent."
     },
     {
         "id":  "pyq-2026-c1-47",
@@ -6443,8 +5637,7 @@
                         "Be responsible on behalf of someone who is absent"
                     ],
         "answer":  3,
-        "explanation":  "To take charge / keep things running while others are away.",
-        "note":  ""
+        "explanation":  "To take charge / keep things running while others are away."
     },
     {
         "id":  "pyq-2026-c1-48",
@@ -6464,8 +5657,7 @@
                         "It\u0027s frustrating because it is unfamiliar"
                     ],
         "answer":  2,
-        "explanation":  "Means something is completely incomprehensible.",
-        "note":  ""
+        "explanation":  "Means something is completely incomprehensible."
     },
     {
         "id":  "pyq-2026-c1-49",
@@ -6485,8 +5677,7 @@
                         "To unite in order to defend a common interest"
                     ],
         "answer":  3,
-        "explanation":  "From military drill; to join together solidly, especially to resist criticism/attack.",
-        "note":  ""
+        "explanation":  "From military drill; to join together solidly, especially to resist criticism/attack."
     },
     {
         "id":  "pyq-2026-c1-50",
@@ -6506,8 +5697,7 @@
                         "To hide one\u0027s misdeeds"
                     ],
         "answer":  0,
-        "explanation":  "To be under suspicion or in disgrace.",
-        "note":  ""
+        "explanation":  "To be under suspicion or in disgrace."
     },
     {
         "id":  "pyq-2026-c1-51",
@@ -6527,8 +5717,7 @@
                         "reverential"
                     ],
         "answer":  3,
-        "explanation":  "Contemptuous = scornful/disdainful; its opposite is reverential (respectful). (Condescending, patronising, arrogant are near-synonyms, not opposites.)",
-        "note":  ""
+        "explanation":  "Contemptuous = scornful/disdainful; its opposite is reverential (respectful). (Condescending, patronising, arrogant are near-synonyms, not opposites.)"
     },
     {
         "id":  "pyq-2026-c1-52",
@@ -6548,8 +5737,7 @@
                         "fleeting"
                     ],
         "answer":  0,
-        "explanation":  "Ephemeral = short-lived; opposite is everlasting. (Evanescent, transient, fleeting are synonyms.)",
-        "note":  ""
+        "explanation":  "Ephemeral = short-lived; opposite is everlasting. (Evanescent, transient, fleeting are synonyms.)"
     },
     {
         "id":  "pyq-2026-c1-53",
@@ -6569,8 +5757,7 @@
                         "extravagant"
                     ],
         "answer":  3,
-        "explanation":  "Parsimonious = stingy/frugal; opposite is extravagant. (Frugal, sparing are synonyms.)",
-        "note":  ""
+        "explanation":  "Parsimonious = stingy/frugal; opposite is extravagant. (Frugal, sparing are synonyms.)"
     },
     {
         "id":  "pyq-2026-c1-54",
@@ -6590,8 +5777,7 @@
                         "riotous"
                     ],
         "answer":  2,
-        "explanation":  "Tempestuous = stormy/turbulent; opposite is tranquil. (Tumultuous, belligerent, riotous are synonyms.)",
-        "note":  ""
+        "explanation":  "Tempestuous = stormy/turbulent; opposite is tranquil. (Tumultuous, belligerent, riotous are synonyms.)"
     },
     {
         "id":  "pyq-2026-c1-55",
@@ -6611,8 +5797,7 @@
                         "easy and effortless"
                     ],
         "answer":  3,
-        "explanation":  "Arduous = difficult and demanding; opposite is easy and effortless.",
-        "note":  ""
+        "explanation":  "Arduous = difficult and demanding; opposite is easy and effortless."
     },
     {
         "id":  "pyq-2026-c1-56",
@@ -6632,8 +5817,7 @@
                         "unceasing"
                     ],
         "answer":  1,
-        "explanation":  "Perpetual = never-ending; opposite is transitory (short-lived). (Eternal, continuous, unceasing are synonyms.)",
-        "note":  ""
+        "explanation":  "Perpetual = never-ending; opposite is transitory (short-lived). (Eternal, continuous, unceasing are synonyms.)"
     },
     {
         "id":  "pyq-2026-c1-57",
@@ -6653,8 +5837,7 @@
                         "perturbed"
                     ],
         "answer":  1,
-        "explanation":  "Distraught = deeply agitated/upset; opposite is composed/calm. (Flustered, rattled, perturbed are synonyms.)",
-        "note":  ""
+        "explanation":  "Distraught = deeply agitated/upset; opposite is composed/calm. (Flustered, rattled, perturbed are synonyms.)"
     },
     {
         "id":  "pyq-2026-c1-58",
@@ -6674,8 +5857,7 @@
                         "solemn"
                     ],
         "answer":  2,
-        "explanation":  "Demure = modest and reserved; opposite is brazen (bold, shameless). (Sedate, modest, solemn are near-synonyms.)",
-        "note":  ""
+        "explanation":  "Demure = modest and reserved; opposite is brazen (bold, shameless). (Sedate, modest, solemn are near-synonyms.)"
     },
     {
         "id":  "pyq-2026-c1-59",
@@ -6695,8 +5877,7 @@
                         "miniscule amount"
                     ],
         "answer":  0,
-        "explanation":  "A pittance is a very small amount; opposite is a bonanza (large windfall). (Petty/miniscule amount are synonyms.)",
-        "note":  ""
+        "explanation":  "A pittance is a very small amount; opposite is a bonanza (large windfall). (Petty/miniscule amount are synonyms.)"
     },
     {
         "id":  "pyq-2026-c1-60",
@@ -6716,8 +5897,7 @@
                         "informative"
                     ],
         "answer":  2,
-        "explanation":  "Ponderous (of writing/style) = heavy, laboured, dull; opposite is elegant (graceful, fluent).",
-        "note":  ""
+        "explanation":  "Ponderous (of writing/style) = heavy, laboured, dull; opposite is elegant (graceful, fluent)."
     },
     {
         "id":  "pyq-2026-c1-81",
@@ -6737,8 +5917,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  3,
-        "explanation":  "1 ‘GM crops’ ✓ (cultivated plants); 2 ‘volunteer corps’ ✓ (an organised group); 3 ‘sleeping like a corpse’ ✓ (motionless as a dead body). All three words are used correctly.",
-        "note":  ""
+        "explanation":  "1 â€˜GM cropsâ€™ âœ“ (cultivated plants); 2 â€˜volunteer corpsâ€™ âœ“ (an organised group); 3 â€˜sleeping like a corpseâ€™ âœ“ (motionless as a dead body). All three words are used correctly."
     },
     {
         "id":  "pyq-2026-c1-82",
@@ -6758,50 +5937,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  2,
-        "explanation":  "1 ‘reports censored’ ✓ (suppress content); 3 ‘incense out of the censer’ ✓ (incense holder); 2 ‘censure board must regulate cinematic content’ ✗ — should be ‘censor board’ (censure = to criticise/blame).",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2026-c1-83",
-        "type":  "similar",
-        "year":  2026,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "13 Apr 2026",
-        "tag":  "CDS 1 2026",
-        "qnum":  83,
-        "word":  "pair / pear / pare",
-        "stem":  "pair, pear, pare  1. My last pair of jeans don\u0027t fit any more.  2. Dessert was a delicious pear custard.  3. They had to pare the novel down to make it into a two-hour film. In which of the sentences given above has / have the word(s) been used correctly?",
-        "options":  [
-                        "1 and 2 only",
-                        "2 and 3 only",
-                        "1 and 3 only",
-                        "1, 2 and 3"
-                    ],
-        "answer":  3,
-        "explanation":  "1 ‘pair of jeans’ ✓; 2 ‘pear custard’ ✓ (the fruit); 3 ‘pare the novel down’ ✓ (trim/reduce). All correct.",
-        "note":  "Options (b) and (c) were flagged (!) in the scan; by meaning all three sentences use the words correctly, so (d)."
-    },
-    {
-        "id":  "pyq-2026-c1-84",
-        "type":  "similar",
-        "year":  2026,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "13 Apr 2026",
-        "tag":  "CDS 1 2026",
-        "qnum":  84,
-        "word":  "fate / fete / faith",
-        "stem":  "fate, fete, faith  1. The working committee will meet to discuss the fete of the erring employee.  2. The students organized a fate to felicitate the winners.  3. The accused person has lost faith in the fairness of the judgement. In which of the sentences given above has / have the word(s) been used correctly?",
-        "options":  [
-                        "2 and 3 only",
-                        "1 and 3 only",
-                        "2 only",
-                        "1, 2 and 3"
-                    ],
-        "answer":  3,
-        "explanation":  "Sentence 3 ‘lost faith in the fairness of the judgement’ ✓. In the intended paper, 1 ‘fate of the erring employee’ (destiny) and 2 ‘organised a fete to felicitate’ (a celebration) are also correct, giving all three.",
-        "note":  "OCR issue: as printed, sentence 1 shows ‘fete’ and sentence 2 shows ‘fate’ — the two words appear transposed. Read literally, only sentence 3 is correct (and no ‘3 only’ option exists), which confirms a scan error. Verify sentences 1 \u0026 2 against the original; if the words are correctly placed, the answer is (d)."
+        "explanation":  "1 â€˜reports censoredâ€™ âœ“ (suppress content); 3 â€˜incense out of the censerâ€™ âœ“ (incense holder); 2 â€˜censure board must regulate cinematic contentâ€™ âœ— â€” should be â€˜censor boardâ€™ (censure = to criticise/blame)."
     },
     {
         "id":  "pyq-2026-c1-85",
@@ -6821,8 +5957,7 @@
                         "3 only"
                     ],
         "answer":  3,
-        "explanation":  "3 ‘body placed on a bier’ ✓ (funeral stand). 1 ‘could not bare the heat’ ✗ (should be ‘bear’ = endure); 2 ‘walls looked bear’ ✗ (should be ‘bare’ = empty).",
-        "note":  ""
+        "explanation":  "3 â€˜body placed on a bierâ€™ âœ“ (funeral stand). 1 â€˜could not bare the heatâ€™ âœ— (should be â€˜bearâ€™ = endure); 2 â€˜walls looked bearâ€™ âœ— (should be â€˜bareâ€™ = empty)."
     },
     {
         "id":  "pyq-2026-c1-86",
@@ -6842,8 +5977,7 @@
                         "1, 2 and 3"
                     ],
         "answer":  0,
-        "explanation":  "2 ‘car developed a flat tyre’ ✓. 1 ‘tier the building with graffiti’ ✗ (nonsensical; deface would be ‘tar/mar’); 3 ‘third tire of the building’ ✗ (should be ‘tier’ = level).",
-        "note":  ""
+        "explanation":  "2 â€˜car developed a flat tyreâ€™ âœ“. 1 â€˜tier the building with graffitiâ€™ âœ— (nonsensical; deface would be â€˜tar/marâ€™); 3 â€˜third tire of the buildingâ€™ âœ— (should be â€˜tierâ€™ = level)."
     },
     {
         "id":  "pyq-2026-c1-87",
@@ -6863,49 +5997,6 @@
                         "1, 2 and 3"
                     ],
         "answer":  1,
-        "explanation":  "2 ‘a pleasant sight’ ✓. 1 ‘inspection of the cite’ ✗ (should be ‘site’ = location); 3 ‘site their sources’ ✗ (should be ‘cite’ = quote).",
-        "note":  ""
-    },
-    {
-        "id":  "pyq-2026-c1-88",
-        "type":  "similar",
-        "year":  2026,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "13 Apr 2026",
-        "tag":  "CDS 1 2026",
-        "qnum":  88,
-        "word":  "raise / raze / rays",
-        "stem":  "raise, raze, rays  1. It is expected that the young executives will ask for a raze pretty soon. (!)  2. The plan proposes to raise the colonial building and construct a new memorial.  3. The heat rays emanated from the infrared device. In which of the sentences given above has / have the word(s) been used correctly?",
-        "options":  [
-                        "1 and 2 only",
-                        "3 only",
-                        "2 and 3 only",
-                        "1, 2 and 3"
-                    ],
-        "answer":  1,
-        "explanation":  "3 ‘heat rays’ ✓. 1 ‘ask for a raze’ ✗ (should be ‘raise’ = pay rise); 2 ‘raise the colonial building and construct a new memorial’ ✗ — to build anew you would ‘raze’ (demolish) the old building.",
-        "note":  "Sentence 1 was flagged (!) in the scan; the reasoning holds regardless."
-    },
-    {
-        "id":  "pyq-2026-c1-89",
-        "type":  "similar",
-        "year":  2026,
-        "cds":  1,
-        "paper":  "CDS 1",
-        "date":  "13 Apr 2026",
-        "tag":  "CDS 1 2026",
-        "qnum":  89,
-        "word":  "idyll / idle / idol",
-        "stem":  "idyll, idle, idol  1. The writer\u0027s words conjure up the idol of a bountiful and peaceful land.  2. An idle mind is the Devil\u0027s workshop.  3. An immense idyll was found at the archaeological site yesterday. In which of the sentences given above has / have the word(s) been used correctly?",
-        "options":  [
-                        "1 and 2 only",
-                        "1 and 3 only",
-                        "2 and 3 only",
-                        "1, 2 and 3"
-                    ],
-        "answer":  3,
-        "explanation":  "Sentence 2 ‘An idle mind is the Devil’s workshop’ ✓. In the intended paper, 1 refers to the ‘idyll’ of a peaceful land (a picturesque scene) and 3 to an ‘idol’ found at a dig (a statue) — both correct — giving all three.",
-        "note":  "OCR issue: as printed, sentence 1 shows ‘idol’ and sentence 3 shows ‘idyll’ — again transposed, and no ‘2 only’ option exists. Verify against the original; with the words correctly placed the answer is (d)."
+        "explanation":  "2 â€˜a pleasant sightâ€™ âœ“. 1 â€˜inspection of the citeâ€™ âœ— (should be â€˜siteâ€™ = location); 3 â€˜site their sourcesâ€™ âœ— (should be â€˜citeâ€™ = quote)."
     }
 ]
