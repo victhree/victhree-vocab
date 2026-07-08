@@ -84,9 +84,11 @@
         '<div class="opt clickable" data-i="'+i+'" data-oi="'+oi+'"><span class="lt">'+VV.letter(oi)+'</span><span>'+VV.esc(o)+'</span></div>'
       ).join('');
       const tag = q._pyq ? ' <span class="pyqtag">PYQ · '+VV.esc(q.paper)+' · '+q.year+'</span>' : '';
+      const dir = q._pyq ? VV.pyqDirections(q.type) : '';
       return '<div class="qcard" data-qi="'+i+'">'+
         '<div class="qhead"><span class="qnum">Q'+(i+1)+'</span>'+tag+
           '<span class="qtype">'+VV.esc(typeLabel(q))+'</span></div>'+
+        (dir?'<p class="pyq-directions">'+VV.esc(dir)+'</p>':'')+
         '<div class="stem">'+(q._pyq?pyqStemHTML(q):highlightCap(q.stem))+'</div>'+
         '<div class="opts">'+opts+'</div>'+
         '<div class="detail" id="d'+i+'"></div>'+

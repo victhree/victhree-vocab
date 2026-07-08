@@ -56,9 +56,11 @@
       const opts=q.options.map((o,oi)=>
         '<div class="opt clickable" data-i="'+i+'" data-oi="'+oi+'"><span class="lt">'+VV.letter(oi)+'</span><span>'+VV.esc(o)+'</span></div>'
       ).join('');
+      const dir=VV.pyqDirections(q.type);
       return '<div class="qcard" data-qi="'+i+'">'+
         '<div class="qhead"><span class="pyqtag">PYQ · '+VV.esc(q.paper)+' · '+q.year+'</span>'+
           '<span class="qtype">'+VV.esc(VV.pyqTypeLabel(q.type))+'</span></div>'+
+        (dir?'<p class="pyq-directions">'+VV.esc(dir)+'</p>':'')+
         '<div class="stem">'+stemHTML(q)+'</div>'+
         '<div class="opts">'+opts+'</div>'+
         '<div class="detail" id="pd'+i+'"></div>'+

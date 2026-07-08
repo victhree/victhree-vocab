@@ -151,6 +151,7 @@
       '<div class="qcard">'+
         '<div class="qhead"><span class="pyqtag">PYQ · '+VV.esc(q.paper)+' · '+q.year+'</span>'+
           '<span class="qtype">'+VV.esc(VV.pyqTypeLabel(q.type))+'</span></div>'+
+        (VV.pyqDirections(q.type)?'<p class="pyq-directions">'+VV.esc(VV.pyqDirections(q.type))+'</p>':'')+
         '<div class="stem">'+pyqStem(q)+'</div>'+
         '<div class="opts">'+opts+'</div>'+
         '<div class="detail" id="detail"></div>'+

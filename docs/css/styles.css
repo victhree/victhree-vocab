@@ -458,3 +458,6 @@ body.home .foot{color:var(--hud-dim);font-family:var(--mono);letter-spacing:.5px
   .wotd-dateline{font-size:24px;letter-spacing:.8px}
   .wotd-dayfilter{position:static;transform:none;display:block;margin:12px auto 0}
 }
+
+/* PYQ directions/task line */
+.pyq-directions{font-size:12.5px;color:var(--muted);font-style:italic;margin:2px 0 10px;line-height:1.4}
