@@ -1,11 +1,11 @@
 /* VicThree Vocab service worker */
-const CACHE = 'vv-v59';
+const CACHE = 'vv-v60';
 const SHELL = [
   './','./index.html','./quiz.html','./learn.html','./browse.html','./reference.html','./pyq.html','./wotd.html',
-  './css/styles.css?v=59',
-  './js/data.js?v=59','./js/quiz.js?v=59','./js/learn.js?v=59','./js/browse.js?v=59','./js/reference.js?v=59','./js/pyq.js?v=59','./js/wotd.js?v=59',
+  './css/styles.css?v=60',
+  './js/data.js?v=60','./js/quiz.js?v=60','./js/learn.js?v=60','./js/browse.js?v=60','./js/reference.js?v=60','./js/pyq.js?v=60','./js/wotd.js?v=60',
   './manifest.webmanifest',
-  './assets/banner.png?v=59',
+  './assets/banner.png?v=60',
   './assets/DSEG7Classic-Bold.woff2',
   './assets/shield-192.png','./assets/shield-512.png','./assets/shield-180.png'
 ];
