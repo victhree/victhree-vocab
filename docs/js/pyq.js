@@ -13,18 +13,14 @@
 
   function typeCount(k){ return k==='all' ? pyq.length : pyq.filter(q=>q.type===k).length; }
 
-  function renderTypeChips(){
-    const items = [{key:'all',label:'All topics'}].concat(VV.PYQ_TYPES);
-    $('#type-chips').innerHTML = items
-      .filter(t=>t.key==='all'||typeCount(t.key)>0)
-      .map(t=>'<button class="chip'+(t.key===type?' on':'')+'" data-type="'+t.key+'">'+t.label+' <span class="chipn">'+typeCount(t.key)+'</span></button>').join('');
-    $('#type-chips').querySelectorAll('.chip').forEach(c=>c.addEventListener('click',()=>{ type=c.dataset.type; syncUrl(); renderTypeChips(); renderList(); }));
-  }
-  function renderYearChips(){
-    const items = [{v:'all',t:'All years'}].concat(years.map(y=>({v:String(y),t:String(y)})));
-    $('#year-chips').innerHTML = items
-      .map(it=>'<button class="chip'+(it.v===year?' on':'')+'" data-year="'+it.v+'">'+it.t+'</button>').join('');
-    $('#year-chips').querySelectorAll('.chip').forEach(c=>c.addEventListener('click',()=>{ year=c.dataset.year; syncUrl(); renderYearChips(); renderList(); }));
+  function buildFilters(){
+    const ft=$('#f-type'), fy=$('#f-year');
+    const types=[{key:'all',label:'All topics'}].concat(VV.PYQ_TYPES).filter(t=>t.key==='all'||typeCount(t.key)>0);
+    ft.innerHTML = types.map(t=>'<option value="'+t.key+'"'+(t.key===type?' selected':'')+'>'+t.label+' ('+typeCount(t.key)+')</option>').join('');
+    fy.innerHTML = ['<option value="all"'+(year==='all'?' selected':'')+'>All years</option>']
+      .concat(years.map(y=>'<option value="'+y+'"'+(String(y)===year?' selected':'')+'>'+y+'</option>')).join('');
+    ft.addEventListener('change',()=>{ type=ft.value; syncUrl(); renderList(); });
+    fy.addEventListener('change',()=>{ year=fy.value; syncUrl(); renderList(); });
   }
   function syncUrl(){
     const p=new URLSearchParams();
@@ -91,7 +87,6 @@
     d.innerHTML=h; d.classList.add('show');
   }
 
-  renderTypeChips();
-  renderYearChips();
+  buildFilters();
   renderList();
 })();
