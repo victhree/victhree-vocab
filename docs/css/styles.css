@@ -76,7 +76,7 @@ img{max-width:100%}
 .topic-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:14px 0}
 .topic-grid.one{grid-template-columns:minmax(0,340px);justify-content:center;margin:18px auto}
 .topic-grid .tile{align-items:center;justify-content:center;text-align:center;padding:22px 14px;gap:10px}
-.topic-grid .tile .ic{font-size:30px}
+.topic-grid .tile .ic{font-size:30px;height:34px;line-height:1;display:flex;align-items:center;justify-content:center}
 @media(max-width:600px){.topic-grid{grid-template-columns:repeat(2,1fr)}}
 .widecard{display:flex;align-items:center;gap:16px;background:var(--card);border:1px solid var(--line);
   border-radius:14px;padding:18px 22px;box-shadow:var(--shadow);margin:14px 0;cursor:pointer;
@@ -463,4 +463,4 @@ body.home .foot{color:var(--hud-dim);font-family:var(--mono);letter-spacing:.5px
 .pyq-directions{font-size:12.5px;color:var(--muted);font-style:italic;margin:2px 0 10px;line-height:1.4}
 
 /* date under the Vocabulary of the Day home tile */
-.tile-date{display:block;font-family:var(--mono);font-size:14px;letter-spacing:.5px;color:var(--gold-2);margin:0;font-weight:700}
+.tile-date{display:flex;align-items:center;justify-content:center;height:34px;font-family:var(--mono);font-size:14px;letter-spacing:.5px;color:var(--gold-2);margin:0;font-weight:700}
