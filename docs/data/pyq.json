@@ -1,5 +1,365 @@
 [
     {
+        "id":  "pyq-2016-c1-113",
+        "type":  "synonym",
+        "year":  2016,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "14 Feb 2016",
+        "tag":  "CDS 1 2016",
+        "qnum":  113,
+        "word":  "ELUCIDATE",
+        "stem":  "ELUCIDATE",
+        "options":  [
+                        "clarify",
+                        "calculate",
+                        "summarise",
+                        "update"
+                    ],
+        "answer":  0,
+        "explanation":  "Elucidate = to make clear/explain = clarify. (Calculate, summarise, update are distractors.)"
+    },
+    {
+        "id":  "pyq-2016-c1-114",
+        "type":  "synonym",
+        "year":  2016,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "14 Feb 2016",
+        "tag":  "CDS 1 2016",
+        "qnum":  114,
+        "word":  "MONOTONOUS",
+        "stem":  "MONOTONOUS",
+        "options":  [
+                        "dreary",
+                        "dreadful",
+                        "single-minded",
+                        "monologue"
+                    ],
+        "answer":  0,
+        "explanation":  "Monotonous = dull and unvarying = dreary. (‘Single-minded’, ‘monologue’ play on the ‘mono-’ prefix.)"
+    },
+    {
+        "id":  "pyq-2016-c1-115",
+        "type":  "synonym",
+        "year":  2016,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "14 Feb 2016",
+        "tag":  "CDS 1 2016",
+        "qnum":  115,
+        "word":  "KINDLE",
+        "stem":  "KINDLE",
+        "options":  [
+                        "make fun of",
+                        "excite",
+                        "very kind",
+                        "kind-hearted"
+                    ],
+        "answer":  1,
+        "explanation":  "Kindle = to arouse/stir up (a feeling) = excite. (‘Very kind’, ‘kind-hearted’ play on the word’s look.)"
+    },
+    {
+        "id":  "pyq-2016-c1-116",
+        "type":  "synonym",
+        "year":  2016,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "14 Feb 2016",
+        "tag":  "CDS 1 2016",
+        "qnum":  116,
+        "word":  "PALATIAL",
+        "stem":  "PALATIAL",
+        "options":  [
+                        "very clean",
+                        "very special",
+                        "sense of taste",
+                        "magnificent"
+                    ],
+        "answer":  3,
+        "explanation":  "Palatial = grand/spacious like a palace = magnificent. (‘Sense of taste’ confuses it with ‘palate’.)"
+    },
+    {
+        "id":  "pyq-2016-c1-118",
+        "type":  "synonym",
+        "year":  2016,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "14 Feb 2016",
+        "tag":  "CDS 1 2016",
+        "qnum":  118,
+        "word":  "VORACIOUS",
+        "stem":  "VORACIOUS",
+        "options":  [
+                        "very bad",
+                        "insatiable",
+                        "stingy",
+                        "malicious"
+                    ],
+        "answer":  1,
+        "explanation":  "Voracious = having a huge/greedy appetite = insatiable. (Stingy, malicious are distractors.)"
+    },
+    {
+        "id":  "pyq-2016-c1-120",
+        "type":  "synonym",
+        "year":  2016,
+        "cds":  1,
+        "paper":  "CDS 1",
+        "date":  "14 Feb 2016",
+        "tag":  "CDS 1 2016",
+        "qnum":  120,
+        "word":  "OBEISANCE",
+        "stem":  "OBEISANCE",
+        "options":  [
+                        "homage",
+                        "pilgrimage",
+                        "subjugation",
+                        "obligation"
+                    ],
+        "answer":  0,
+        "explanation":  "Obeisance = a gesture/attitude of deep respect or deference = homage. (Subjugation, obligation are distractors.)"
+    },
+    {
+        "id":  "pyq-2017-c2-107",
+        "type":  "idiom",
+        "year":  2017,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "19 Nov 2017",
+        "tag":  "CDS 2 2017",
+        "qnum":  107,
+        "word":  "died in harness",
+        "stem":  "The institution decided to give Mrs. Roy\u0027s job to her son ... because she had died in harness.",
+        "options":  [
+                        "died after retirement",
+                        "died before retirement",
+                        "died while riding a horse",
+                        "died for a great cause"
+                    ],
+        "answer":  1,
+        "explanation":  "To ‘die in harness’ = to die while still working/in active service (before retiring)."
+    },
+    {
+        "id":  "pyq-2017-c2-109",
+        "type":  "idiom",
+        "year":  2017,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "19 Nov 2017",
+        "tag":  "CDS 2 2017",
+        "qnum":  109,
+        "word":  "for want of",
+        "stem":  "I could not go up in life for want of proper guidance.",
+        "options":  [
+                        "for lack of",
+                        "for need of",
+                        "for the desire of",
+                        "for the necessity of"
+                    ],
+        "answer":  0,
+        "explanation":  "‘For want of’ = through lack/absence of. (‘Want’ here means lack, not desire.)"
+    },
+    {
+        "id":  "pyq-2017-c2-110",
+        "type":  "idiom",
+        "year":  2017,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "19 Nov 2017",
+        "tag":  "CDS 2 2017",
+        "qnum":  110,
+        "word":  "dispense with",
+        "stem":  "Though he was arrogant, I could not dispense with his services.",
+        "options":  [
+                        "terminate",
+                        "do without",
+                        "claim",
+                        "disregard with"
+                    ],
+        "answer":  1,
+        "explanation":  "To ‘dispense with’ = to manage without / get rid of the need for."
+    },
+    {
+        "id":  "pyq-2017-c2-111",
+        "type":  "idiom",
+        "year":  2017,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "19 Nov 2017",
+        "tag":  "CDS 2 2017",
+        "qnum":  111,
+        "word":  "made a scapegoat",
+        "stem":  "In spite of his hard work, he was made a scapegoat for the failure of the project.",
+        "options":  [
+                        "freed from any responsibility for",
+                        "suspected of causing",
+                        "blamed without reason for",
+                        "was severely punished for"
+                    ],
+        "answer":  2,
+        "explanation":  "A scapegoat is someone unfairly blamed for others’ faults."
+    },
+    {
+        "id":  "pyq-2017-c2-113",
+        "type":  "antonym",
+        "year":  2017,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "19 Nov 2017",
+        "tag":  "CDS 2 2017",
+        "qnum":  113,
+        "word":  "commensurate",
+        "stem":  "Whether the rewards are in commensurate with the efforts or not, a society will always have workaholics and the shirk work groups.",
+        "options":  [
+                        "disproportionate",
+                        "equal to",
+                        "matched",
+                        "unparalleled"
+                    ],
+        "answer":  0,
+        "explanation":  "Commensurate = proportionate/corresponding in size; opposite is disproportionate. (Equal to, matched are synonyms.)"
+    },
+    {
+        "id":  "pyq-2017-c2-114",
+        "type":  "antonym",
+        "year":  2017,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "19 Nov 2017",
+        "tag":  "CDS 2 2017",
+        "qnum":  114,
+        "word":  "emaciated",
+        "stem":  "Wars leave behind a large number of emaciated soldiers in the camps of both the victorious and the vanquished.",
+        "options":  [
+                        "hefty",
+                        "thin",
+                        "disillusioned",
+                        "determined"
+                    ],
+        "answer":  0,
+        "explanation":  "Emaciated = abnormally thin/wasted; opposite is hefty (sturdy, well-built). (Thin is a synonym.)"
+    },
+    {
+        "id":  "pyq-2017-c2-115",
+        "type":  "antonym",
+        "year":  2017,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "19 Nov 2017",
+        "tag":  "CDS 2 2017",
+        "qnum":  115,
+        "word":  "meagre",
+        "stem":  "There was a meagre gathering to listen to the leader.",
+        "options":  [
+                        "negligible",
+                        "tiny",
+                        "poor",
+                        "large"
+                    ],
+        "answer":  3,
+        "explanation":  "Meagre = scanty/small in amount; opposite is large. (Negligible, tiny, poor are synonyms.)"
+    },
+    {
+        "id":  "pyq-2017-c2-116",
+        "type":  "antonym",
+        "year":  2017,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "19 Nov 2017",
+        "tag":  "CDS 2 2017",
+        "qnum":  116,
+        "word":  "hilarious",
+        "stem":  "The audience thoroughly enjoyed the hilarious drama.",
+        "options":  [
+                        "amusing",
+                        "delightful",
+                        "serious",
+                        "momentous"
+                    ],
+        "answer":  2,
+        "explanation":  "Hilarious = very funny; opposite is serious. (Amusing, delightful are synonyms; momentous is a distractor.)"
+    },
+    {
+        "id":  "pyq-2017-c2-117",
+        "type":  "antonym",
+        "year":  2017,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "19 Nov 2017",
+        "tag":  "CDS 2 2017",
+        "qnum":  117,
+        "word":  "erudition",
+        "stem":  "The writer\u0027s erudition in science is revealed in every page of the book.",
+        "options":  [
+                        "unenlightened",
+                        "ignorance",
+                        "intelligence",
+                        "hollowness"
+                    ],
+        "answer":  1,
+        "explanation":  "Erudition = deep learning/knowledge; opposite is ignorance. (‘Unenlightened’ is an adjective, not the noun antonym.)"
+    },
+    {
+        "id":  "pyq-2017-c2-118",
+        "type":  "antonym",
+        "year":  2017,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "19 Nov 2017",
+        "tag":  "CDS 2 2017",
+        "qnum":  118,
+        "word":  "momentous",
+        "stem":  "The seminar which Ravi organised proved to be a momentous event.",
+        "options":  [
+                        "trivial",
+                        "futile",
+                        "vain",
+                        "useless"
+                    ],
+        "answer":  0,
+        "explanation":  "Momentous = of great importance; opposite is trivial. (Futile, vain, useless concern worth, not importance.)"
+    },
+    {
+        "id":  "pyq-2017-c2-119",
+        "type":  "antonym",
+        "year":  2017,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "19 Nov 2017",
+        "tag":  "CDS 2 2017",
+        "qnum":  119,
+        "word":  "vindicates",
+        "stem":  "The question is not whether the court vindicates him with regard to his involvement in the case, but how he feels about it.",
+        "options":  [
+                        "reprieves",
+                        "absolves",
+                        "indicts",
+                        "summons"
+                    ],
+        "answer":  2,
+        "explanation":  "Vindicate = to clear of blame/absolve; opposite is indict (to charge/accuse). (Reprieves, absolves are synonyms.)"
+    },
+    {
+        "id":  "pyq-2017-c2-120",
+        "type":  "antonym",
+        "year":  2017,
+        "cds":  2,
+        "paper":  "CDS 2",
+        "date":  "19 Nov 2017",
+        "tag":  "CDS 2 2017",
+        "qnum":  120,
+        "word":  "ecclesiastical",
+        "stem":  "In those days many monarchs enjoyed vast ecclesiastical powers.",
+        "options":  [
+                        "permanent",
+                        "temporal",
+                        "contemporary",
+                        "constitutional"
+                    ],
+        "answer":  1,
+        "explanation":  "Ecclesiastical = relating to the church/religious; opposite is temporal (secular, worldly). (Permanent, contemporary, constitutional are distractors.) 2017 — CDS 1  and  2016 — CDS 2 No in-scope vocabulary questions. Per the source compilation, CDS 1 2017 and CDS 2 2016 contained only word-ordering, spotting-errors, sentence-improvement, cloze and comprehension sections — no dedicated Synonyms, Antonyms, Idioms/Phrases or Word-Meaning items — so there is nothing to answer here."
+    },
+    {
         "id":  "pyq-2018-c1-1",
         "type":  "synonym",
         "year":  2018,
