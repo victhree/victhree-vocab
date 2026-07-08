@@ -442,3 +442,15 @@ body.home .foot{color:var(--hud-dim);font-family:var(--mono);letter-spacing:.5px
 .wotd-src .wotd-hl{font-weight:500;color:#7a889c}
 .topic-grid.duo{grid-template-columns:repeat(2,minmax(0,300px));justify-content:center;margin:18px auto}
 @media(max-width:600px){.topic-grid.duo{grid-template-columns:1fr;max-width:340px}}
+
+/* Vocabulary of the Day — newspaper masthead dateline + day filter */
+.wotd-masthead{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;
+  border-top:2px solid var(--navy);border-bottom:1px solid var(--line);padding:8px 0;margin:6px 0 14px}
+.wotd-dateline{font-family:Georgia,"Times New Roman",serif;font-weight:800;font-size:18px;
+  letter-spacing:1px;text-transform:uppercase;color:var(--navy)}
+.wotd-dayfilter{padding:8px 12px;border:1px solid var(--line);border-radius:9px;font-size:13.5px;
+  font-weight:600;background:#fff;color:var(--ink);cursor:pointer}
+.wotd-dayfilter:focus{outline:2px solid var(--gold);border-color:var(--gold)}
+.wotd-daysep{font-family:Georgia,"Times New Roman",serif;font-weight:800;font-size:15px;letter-spacing:.6px;
+  text-transform:uppercase;color:var(--navy);border-bottom:1px solid var(--line);margin:22px 0 12px;padding-bottom:5px}
+@media(max-width:560px){.wotd-dateline{font-size:15px;letter-spacing:.6px}}
