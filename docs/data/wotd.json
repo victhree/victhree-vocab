@@ -3,272 +3,32 @@
     "date": "2026-07-09",
     "label": "9 July 2026",
     "words": [
-      {
-        "word": "ACCORD",
-        "pos": "verb",
-        "meaning": "To grant or give (power, status, or recognition) to someone.",
-        "synonyms": [
-          "grant",
-          "bestow",
-          "confer"
-        ],
-        "example": "The delegates were accorded a grand reception upon their arrival.",
-        "source": "The Hindu",
-        "headline": "PM Modi in Australia LIVE: Australia can help India achieve 500 GW renewable energy target by 2030, says PM. The Prime Minister, who landed in Australia on Wednesday (July 8) after concluding his visit to Indonesia, was accorded a grand reception by the Indian diaspora in Melbourne."
-      },
-      {
-        "word": "YIELD",
-        "pos": "verb",
-        "meaning": "To produce or provide (a natural, agricultural, or industrial product, a result or profit).",
-        "synonyms": [
-          "produce",
-          "generate",
-          "provide"
-        ],
-        "example": "An open-ended method of counting caste may not yield usable data.",
-        "source": "The Hindu",
-        "headline": "Checkbox caste: On the counting of caste, Census 2027. An open-ended method of counting caste may not yield usable data"
-      },
-      {
-        "word": "INTERVENTION",
-        "pos": "noun",
-        "meaning": "The action or process of intervening, especially to improve a situation.",
-        "synonyms": [
-          "intercession",
-          "mediation",
-          "involvement"
-        ],
-        "example": "The commission called for urgent intervention to resolve the issue.",
-        "source": "The Hindu",
-        "headline": "Delay in migrating to online mode impacting timely RTI replies. Tamil Nadu Information Commission writes to State government calling for “urgent” intervention"
-      },
-      {
-        "word": "PROSPECTS",
-        "pos": "noun",
-        "meaning": "The possibility or likelihood of some future event occurring.",
-        "synonyms": [
-          "outlook",
-          "chances",
-          "potential"
-        ],
-        "example": "Patients suffering from severe illness had no prospects of recovery.",
-        "source": "The Hindu",
-        "headline": "Nod for guidelines ensuring dignified natural death for terminally-ill patients in A.P.. The State government has taken a significant decision to provide relief to patients suffering from severe illness with no prospects of recovery"
-      },
-      {
-        "word": "STRATEGIC",
-        "pos": "adjective",
-        "meaning": "Relating to the identification of long-term or overall aims and interests and the means of achieving them.",
-        "synonyms": [
-          "tactical",
-          "planned",
-          "calculated"
-        ],
-        "example": "The leaders called for deeper strategic ties amid global uncertainty.",
-        "source": "The Hindu",
-        "headline": "PM Modi calls for deeper India-Australia strategic ties amid global uncertainty."
-      },
-      {
-        "word": "CONFER",
-        "pos": "verb",
-        "meaning": "To grant or bestow (a title, degree, benefit, or right).",
-        "synonyms": [
-          "award",
-          "bestow",
-          "grant"
-        ],
-        "example": "The Prime Minister was conferred with the country's highest honour.",
-        "source": "The Hindu",
-        "headline": "PM in Indonesia highlights: Modi addresses Indian diaspora, says country moving forward with mantra of 'reform, perform and transform'. PM Modi conferred with Indonesia's highest honour ’Bintang Adipurna of the Republic of Indonesia’ medal"
-      },
-      {
-        "word": "GRAPPLE",
-        "pos": "verb",
-        "meaning": "To struggle with or deal with (a difficulty or problem).",
-        "synonyms": [
-          "wrestle",
-          "contend",
-          "tackle"
-        ],
-        "example": "The city planning body grapples with outstanding liabilities up to ₹3,500 crore.",
-        "source": "The Hindu",
-        "headline": "CMDA plans to shelve projects as it grapples with outstanding liabilities up to ₹3,500 cr.."
-      },
-      {
-        "word": "PROACTIVE",
-        "pos": "adjective",
-        "meaning": "(Of a person or action) creating or controlling a situation rather than just responding to it after it has happened.",
-        "synonyms": [
-          "anticipatory",
-          "forward-looking",
-          "preemptive"
-        ],
-        "example": "The police launched a drive focused on proactive and preventive policing.",
-        "source": "The Hindu",
-        "headline": "2,385 non-bailable warrants executed across Tamil Nadu. State police launch drive focused on proactive and preventive policing"
-      },
-      {
-        "word": "RETRIBUTION",
-        "pos": "noun",
-        "meaning": "Punishment inflicted in return for an injury or offense.",
-        "synonyms": [
-          "vengeance",
-          "retaliation",
-          "reprisal"
-        ],
-        "example": "The fresh strikes were seen as retribution for previous attacks.",
-        "source": "The Hindu",
-        "headline": "West Asia War highlights: Trump says fresh strikes on Iran retribution for attacks on ships."
-      },
-      {
-        "word": "STALLED",
-        "pos": "adjective",
-        "meaning": "(Of a process or activity) having stopped or made no progress for a long time.",
-        "synonyms": [
-          "halted",
-          "delayed",
-          "stuck"
-        ],
-        "example": "The organization pressed for Israel to honor parts of the stalled peace plan.",
-        "source": "The Hindu",
-        "headline": "Trump's Board of Peace planning pilot humanitarian zone in Gaza, official says. On Monday (July 6, 2026), Hamas ⁠said it had dissolved its de facto government in Gaza and signalled it was ready to hand over to NCAG, as it presses Israel to honour other parts ‌of the stalled peace plan"
-      }
+      { "word": "Partisan", "pos": "adjective", "meaning": "Strongly supporting a particular party, cause, or person, often without fair judgement.", "synonyms": ["biased", "one-sided", "factional"], "example": "The opposition accused the police of partisan conduct during the protest.", "source": "Hindustan Times", "headline": "'Police acting as BJP arm': Mamata accuses ruling party of blocking TMC protest" },
+      { "word": "Reprisal", "pos": "noun", "meaning": "An act of retaliation for a wrong or injury suffered.", "synonyms": ["retaliation", "vengeance", "counterattack"], "example": "The fresh strikes were launched as a reprisal for attacks on the ships.", "source": "The Hindu", "headline": "Trump says fresh strikes on Iran retribution for attacks on ships" },
+      { "word": "Precarious", "pos": "adjective", "meaning": "Not securely held or in position; dangerously uncertain or unstable.", "synonyms": ["unstable", "insecure", "perilous"], "example": "The ceasefire in the region remained precarious after fresh attacks.", "source": "Hindustan Times", "headline": "India flags concerns over targeting of commercial ships, escalating Iran-US tensions" },
+      { "word": "Clandestine", "pos": "adjective", "meaning": "Kept secret or done secretively, especially because it is illicit.", "synonyms": ["covert", "secret", "surreptitious"], "example": "A clandestine operation led to the arrest of the smugglers.", "source": "Hindustan Times", "headline": "How undercover ops led to Operation Hard Ball arrests" },
+      { "word": "Illicit", "pos": "adjective", "meaning": "Forbidden by law, rules, or custom; illegal.", "synonyms": ["illegal", "unlawful", "illegitimate"], "example": "Police dismantled a network involved in the illicit drug trade.", "source": "The Hindu", "headline": "Chandigarh police bust Pakistan-linked narco terror network after border raids" },
+      { "word": "Contentious", "pos": "adjective", "meaning": "Likely to cause an argument or disagreement; controversial.", "synonyms": ["controversial", "disputed", "divisive"], "example": "The donation row soon grew into a contentious issue between the parties.", "source": "Hindustan Times", "headline": "Police question three accused in Ram Temple donation row, SIT to visit Ayodhya" },
+      { "word": "Deluge", "pos": "noun", "meaning": "A severe flood or heavy downpour; an overwhelming quantity of something.", "synonyms": ["flood", "torrent", "inundation"], "example": "The deluge left homes and markets submerged for days.", "source": "Times of India", "headline": "13 killed in Surat rains: Floodwaters continue to inundate homes and roads" },
+      { "word": "Belligerent", "pos": "adjective", "meaning": "Hostile and aggressive; engaged in or eager for war.", "synonyms": ["aggressive", "hostile", "combative"], "example": "The two sides exchanged belligerent threats after the strikes.", "source": "The Hindu", "headline": "U.S. launches new strikes on Iran after Trump vows to hit 'hard'" },
+      { "word": "Precocious", "pos": "adjective", "meaning": "Having developed abilities or maturity at an earlier age than usual.", "synonyms": ["advanced", "gifted", "ahead of one's years"], "example": "The study questioned whether precocious children become successful adults.", "source": "Hindustan Times", "headline": "Scientifically Speaking: Do early winners become winning adults?" },
+      { "word": "Ironclad", "pos": "adjective", "meaning": "So firm or strong as to allow no doubt, change, or exception.", "synonyms": ["unbreakable", "rigid", "firm"], "example": "The allies reaffirmed their ironclad commitment to mutual defence.", "source": "The Hindu", "headline": "NATO allies reaffirm 'ironclad commitment' to collective defence" }
     ]
   },
   {
     "date": "2026-07-08",
     "label": "8 July 2026",
     "words": [
-      {
-        "word": "Exacerbate",
-        "pos": "verb",
-        "meaning": "To make a problem or bad situation worse.",
-        "synonyms": [
-          "aggravate",
-          "worsen",
-          "intensify"
-        ],
-        "example": "The spread of misinformation is exacerbating real-world harm to refugees.",
-        "source": "The Hindu",
-        "headline": "AI-powered misinformation inciting harm to refugees, says UN"
-      },
-      {
-        "word": "Contingency",
-        "pos": "noun",
-        "meaning": "A future event that is possible but cannot be predicted with certainty; a plan made for such an event.",
-        "synonyms": [
-          "eventuality",
-          "emergency",
-          "possibility"
-        ],
-        "example": "The district was asked to draw up contingency plans for a possible drought.",
-        "source": "The Hindu",
-        "headline": "Prepare for possible drought, drinking water crisis, Minister tells officials"
-      },
-      {
-        "word": "Wither",
-        "pos": "verb",
-        "meaning": "To become dry and shrivelled; to fade or decline.",
-        "synonyms": [
-          "shrivel",
-          "wilt",
-          "fade"
-        ],
-        "example": "The red gram saplings began to wither as the rains failed.",
-        "source": "The Hindu",
-        "headline": "Red gram farmers watch saplings wilt, hope wither as Karnataka awaits rains"
-      },
-      {
-        "word": "Indict",
-        "pos": "verb",
-        "meaning": "To formally accuse or charge someone with a serious crime.",
-        "synonyms": [
-          "charge",
-          "accuse",
-          "arraign"
-        ],
-        "example": "US authorities indicted 37 gangsters in connection with the case.",
-        "source": "Hindustan Times",
-        "headline": "Op Hard Ball: 1,000kg cocaine, murder and extortion charges, Bishnoi among 37 gangsters indicted by US"
-      },
-      {
-        "word": "Extortion",
-        "pos": "noun",
-        "meaning": "The act of obtaining something, especially money, through force or threats.",
-        "synonyms": [
-          "blackmail",
-          "coercion",
-          "shakedown"
-        ],
-        "example": "The gang faced charges of murder and extortion.",
-        "source": "Hindustan Times",
-        "headline": "Op Hard Ball: 1,000kg cocaine, murder and extortion charges, Bishnoi among 37 gangsters indicted by US"
-      },
-      {
-        "word": "Assassination",
-        "pos": "noun",
-        "meaning": "The murder of a prominent person, often for political or ideological reasons.",
-        "synonyms": [
-          "murder",
-          "killing",
-          "slaying"
-        ],
-        "example": "The accused were charged with ordering the assassination of a community leader.",
-        "source": "Hindustan Times",
-        "headline": "FBI $50,000 reward for Goldy Brar, fresh raids: Why Lawrence Bishnoi gang is back in focus"
-      },
-      {
-        "word": "Adulterated",
-        "pos": "adjective",
-        "meaning": "Made impure or lower in quality by adding an inferior or harmful substance.",
-        "synonyms": [
-          "contaminated",
-          "tainted",
-          "impure"
-        ],
-        "example": "He called paneer the most adulterated food on the market.",
-        "source": "Indian Express",
-        "headline": "Former BCCI chef calls paneer most adulterated food"
-      },
-      {
-        "word": "Syndicate",
-        "pos": "noun",
-        "meaning": "A group of people or organisations combined to promote a common, often illicit, interest.",
-        "synonyms": [
-          "cartel",
-          "network",
-          "ring"
-        ],
-        "example": "The police cracked down on the smuggling syndicate.",
-        "source": "Indian Express",
-        "headline": "'Corrupt Punjab cop' at heart of US crackdown on Jaggu Bhagwanpuria syndicate"
-      },
-      {
-        "word": "Avert",
-        "pos": "verb",
-        "meaning": "To prevent something bad from happening; to turn away.",
-        "synonyms": [
-          "prevent",
-          "avoid",
-          "forestall"
-        ],
-        "example": "A potential runway collision was averted at the airport.",
-        "source": "Times of India",
-        "headline": "Close call: Air India, AI Express planes come face-to-face at Mumbai airport"
-      },
-      {
-        "word": "Speculation",
-        "pos": "noun",
-        "meaning": "The forming of a theory or opinion without firm evidence; conjecture.",
-        "synonyms": [
-          "conjecture",
-          "guesswork",
-          "surmise"
-        ],
-        "example": "The meeting sparked speculation about a new political alliance.",
-        "source": "Times of India",
-        "headline": "Another split brewing? Sharad NCP's Jayant Patil meets BJP leader Vinod Tawde"
-      }
+      { "word": "Exacerbate", "pos": "verb", "meaning": "To make a problem or bad situation worse.", "synonyms": ["aggravate", "worsen", "intensify"], "example": "The spread of misinformation is exacerbating real-world harm to refugees.", "source": "The Hindu", "headline": "AI-powered misinformation inciting harm to refugees, says UN" },
+      { "word": "Contingency", "pos": "noun", "meaning": "A future event that is possible but cannot be predicted with certainty; a plan made for such an event.", "synonyms": ["eventuality", "emergency", "possibility"], "example": "The district was asked to draw up contingency plans for a possible drought.", "source": "The Hindu", "headline": "Prepare for possible drought, drinking water crisis, Minister tells officials" },
+      { "word": "Wither", "pos": "verb", "meaning": "To become dry and shrivelled; to fade or decline.", "synonyms": ["shrivel", "wilt", "fade"], "example": "The red gram saplings began to wither as the rains failed.", "source": "The Hindu", "headline": "Red gram farmers watch saplings wilt, hope wither as Karnataka awaits rains" },
+      { "word": "Indict", "pos": "verb", "meaning": "To formally accuse or charge someone with a serious crime.", "synonyms": ["charge", "accuse", "arraign"], "example": "US authorities indicted 37 gangsters in connection with the case.", "source": "Hindustan Times", "headline": "Op Hard Ball: 1,000kg cocaine, murder and extortion charges, Bishnoi among 37 gangsters indicted by US" },
+      { "word": "Extortion", "pos": "noun", "meaning": "The act of obtaining something, especially money, through force or threats.", "synonyms": ["blackmail", "coercion", "shakedown"], "example": "The gang faced charges of murder and extortion.", "source": "Hindustan Times", "headline": "Op Hard Ball: 1,000kg cocaine, murder and extortion charges, Bishnoi among 37 gangsters indicted by US" },
+      { "word": "Assassination", "pos": "noun", "meaning": "The murder of a prominent person, often for political or ideological reasons.", "synonyms": ["murder", "killing", "slaying"], "example": "The accused were charged with ordering the assassination of a community leader.", "source": "Hindustan Times", "headline": "FBI $50,000 reward for Goldy Brar, fresh raids: Why Lawrence Bishnoi gang is back in focus" },
+      { "word": "Adulterated", "pos": "adjective", "meaning": "Made impure or lower in quality by adding an inferior or harmful substance.", "synonyms": ["contaminated", "tainted", "impure"], "example": "He called paneer the most adulterated food on the market.", "source": "Indian Express", "headline": "Former BCCI chef calls paneer most adulterated food" },
+      { "word": "Syndicate", "pos": "noun", "meaning": "A group of people or organisations combined to promote a common, often illicit, interest.", "synonyms": ["cartel", "network", "ring"], "example": "The police cracked down on the smuggling syndicate.", "source": "Indian Express", "headline": "'Corrupt Punjab cop' at heart of US crackdown on Jaggu Bhagwanpuria syndicate" },
+      { "word": "Avert", "pos": "verb", "meaning": "To prevent something bad from happening; to turn away.", "synonyms": ["prevent", "avoid", "forestall"], "example": "A potential runway collision was averted at the airport.", "source": "Times of India", "headline": "Close call: Air India, AI Express planes come face-to-face at Mumbai airport" },
+      { "word": "Speculation", "pos": "noun", "meaning": "The forming of a theory or opinion without firm evidence; conjecture.", "synonyms": ["conjecture", "guesswork", "surmise"], "example": "The meeting sparked speculation about a new political alliance.", "source": "Times of India", "headline": "Another split brewing? Sharad NCP's Jayant Patil meets BJP leader Vinod Tawde" }
     ]
   }
 ]
