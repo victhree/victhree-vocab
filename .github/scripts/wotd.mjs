@@ -173,6 +173,19 @@ function oneLineHeadline(w) {
 async function main() {
   if (!API_KEY) { console.error('GEMINI_API_KEY not set'); process.exit(1); }
 
+  const { iso, label } = istDate();
+
+  // Load existing archive up front. On scheduled runs, if today is already done,
+  // no-op — this makes the morning's multiple retry attempts safe/idempotent.
+  let archive = [];
+  if (existsSync(OUT)) { try { archive = JSON.parse(readFileSync(OUT, 'utf8')); } catch {} }
+  if (!Array.isArray(archive)) archive = [];
+  const force = String(process.env.FORCE || '').toLowerCase() === 'true';
+  if (!force && archive.some(b => b && b.date === iso)) {
+    console.log(`Today (${iso}) already generated — skipping. (set FORCE=true to regenerate)`);
+    return;
+  }
+
   const all = (await Promise.all(FEEDS.map(fetchFeed))).flat();
   if (all.length < 8) { console.error('Too few news items fetched; aborting (keeping existing data).'); process.exit(0); }
 
@@ -187,12 +200,7 @@ async function main() {
   const words = await askGemini(blob);
   if (words.length < 5) { console.error(`Only ${words.length} words returned; aborting (keeping existing data).`); process.exit(0); }
 
-  const { iso, label } = istDate();
   const todayBatch = { date: iso, label, words };
-
-  let archive = [];
-  if (existsSync(OUT)) { try { archive = JSON.parse(readFileSync(OUT, 'utf8')); } catch {} }
-  if (!Array.isArray(archive)) archive = [];
   archive = archive.filter(b => b && b.date !== iso);          // replace today if re-run
   archive.unshift(todayBatch);                                  // newest first
   archive = archive.slice(0, KEEP_DAYS);
