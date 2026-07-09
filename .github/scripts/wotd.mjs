@@ -6,7 +6,8 @@
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 
 const API_KEY = process.env.GEMINI_API_KEY;
-const MODEL = 'gemini-2.5-flash';   // free-tier model; swap to gemini-2.0-flash if needed
+// Tried in order; first one that works wins. Guards against Google renaming models.
+const MODELS = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-flash-latest', 'gemini-1.5-flash'];
 const OUT = 'docs/data/wotd.json';
 const KEEP_DAYS = 30;
 
@@ -88,25 +89,33 @@ Return ONLY a JSON object of the form {"words":[ ... 10 objects ... ]}. No markd
 NEWS:
 ${headlines}`;
 
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
-  const r = await fetch(url, {
-    method: 'POST',
-    headers: {
-      'content-type': 'application/json',
-      'x-goog-api-key': API_KEY,
+  const body = JSON.stringify({
+    contents: [{ parts: [{ text: prompt }] }],
+    generationConfig: {
+      temperature: 0.7,
+      maxOutputTokens: 8000,
+      responseMimeType: 'application/json',
     },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: {
-        temperature: 0.7,
-        maxOutputTokens: 8000,
-        responseMimeType: 'application/json',
-      },
-    }),
-    signal: AbortSignal.timeout(180000),
   });
-  if (!r.ok) throw new Error(`Gemini API HTTP ${r.status}: ${await r.text()}`);
-  const data = await r.json();
+
+  let data = null, lastErr = '';
+  for (const model of MODELS) {
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
+    try {
+      const r = await fetch(url, {
+        method: 'POST',
+        headers: { 'content-type': 'application/json', 'x-goog-api-key': API_KEY },
+        body,
+        signal: AbortSignal.timeout(180000),
+      });
+      if (r.ok) { data = await r.json(); console.log(`ok model ${model}`); break; }
+      lastErr = `HTTP ${r.status}: ${(await r.text()).slice(0, 300)}`;
+      console.log(`model ${model} failed -> ${lastErr}`);
+      if (r.status === 401 || r.status === 403) break;   // bad/again-unauthorized key: no point trying others
+    } catch (e) { lastErr = e.message; console.log(`model ${model} error -> ${lastErr}`); }
+  }
+  if (!data) throw new Error(`All Gemini models failed. Last error: ${lastErr}`);
+
   const cand = (data.candidates || [])[0];
   if (!cand) throw new Error(`no candidate returned: ${JSON.stringify(data).slice(0, 400)}`);
   if (cand.finishReason && cand.finishReason !== 'STOP' && cand.finishReason !== 'MAX_TOKENS') {
