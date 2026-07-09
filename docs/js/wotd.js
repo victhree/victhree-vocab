@@ -32,10 +32,15 @@
     (days.length>1 ? '<option value="all"'+(sel==='all'?' selected':'')+'>All days</option>' : '');
   $('#f-day').addEventListener('change',()=>{ sel=$('#f-day').value; render(); });
 
+  // Display the word in tidy Title Case (Gemini sometimes returns ALL CAPS).
+  function tidyWord(s){
+    return (s||'').trim().replace(/\S+/g, t => t.charAt(0).toUpperCase() + t.slice(1).toLowerCase());
+  }
+
   function card(w){
     const syn = Array.isArray(w.synonyms) ? w.synonyms.join(', ') : (w.synonyms||'');
     let h='<div class="wcard">';
-    h+='<div class="dtop"><h3 class="dword" style="margin:0">'+VV.esc(w.word)+'</h3>'+
+    h+='<div class="dtop"><h3 class="dword" style="margin:0">'+VV.esc(tidyWord(w.word))+'</h3>'+
        (w.pos?'<span class="qtype">'+VV.esc(w.pos)+'</span>':'')+'</div>';
     h+='<p class="dmeaning">'+VV.esc(w.meaning)+'</p>';
     if(syn) h+='<p class="dline dsyn"><span class="dk">Synonyms</span> '+VV.esc(syn)+'</p>';
