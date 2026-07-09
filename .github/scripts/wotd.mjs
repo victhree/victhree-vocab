@@ -59,9 +59,13 @@ async function fetchFeed(feed) {
 }
 
 function extractJSON(s) {
+  try { return JSON.parse(s); } catch {}                 // schema mode returns pure JSON
   const a = s.indexOf('{'), b = s.lastIndexOf('}');
   if (a < 0 || b < 0) throw new Error('no JSON found in model output');
-  return JSON.parse(s.slice(a, b + 1));
+  const slice = s.slice(a, b + 1);
+  try { return JSON.parse(slice); } catch {}
+  // last resort: strip trailing commas before } or ]
+  return JSON.parse(slice.replace(/,\s*([}\]])/g, '$1'));
 }
 
 async function askGemini(headlines) {
@@ -90,12 +94,32 @@ Return ONLY a JSON object of the form {"words":[ ... 10 objects ... ]}. No markd
 NEWS:
 ${headlines}`;
 
+  // A strict response schema forces Gemini to emit well-formed, correctly-typed JSON
+  // (fixes intermittent "SyntaxError ... in JSON" from free-form JSON mode).
+  const wordSchema = {
+    type: 'object',
+    properties: {
+      word: { type: 'string' },
+      pos: { type: 'string' },
+      meaning: { type: 'string' },
+      synonyms: { type: 'array', items: { type: 'string' } },
+      example: { type: 'string' },
+      source: { type: 'string' },
+      headline: { type: 'string' },
+    },
+    required: ['word', 'pos', 'meaning', 'synonyms', 'example', 'source', 'headline'],
+  };
   const body = JSON.stringify({
     contents: [{ parts: [{ text: prompt }] }],
     generationConfig: {
       temperature: 0.7,
       maxOutputTokens: 8000,
       responseMimeType: 'application/json',
+      responseSchema: {
+        type: 'object',
+        properties: { words: { type: 'array', items: wordSchema } },
+        required: ['words'],
+      },
     },
   });
 
