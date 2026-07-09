@@ -99,7 +99,7 @@ ${headlines}`;
     },
   });
 
-  let data = null, lastErr = '';
+  let lastErr = '';
   for (const model of MODELS) {
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
     try {
@@ -109,23 +109,29 @@ ${headlines}`;
         body,
         signal: AbortSignal.timeout(180000),
       });
-      if (r.ok) { data = await r.json(); console.log(`ok model ${model}`); break; }
-      lastErr = `HTTP ${r.status}: ${(await r.text()).slice(0, 300)}`;
-      console.log(`model ${model} failed -> ${lastErr}`);
-      if (r.status === 401 || r.status === 403) break;   // bad/again-unauthorized key: no point trying others
+      if (!r.ok) {
+        lastErr = `HTTP ${r.status}: ${(await r.text()).slice(0, 300)}`;
+        console.log(`model ${model} failed -> ${lastErr}`);
+        if (r.status === 401 || r.status === 403) break;   // bad key: no point trying others
+        continue;
+      }
+      const data = await r.json();
+      const cand = (data.candidates || [])[0];
+      if (!cand) { lastErr = `no candidate: ${JSON.stringify(data).slice(0, 200)}`; console.log(`model ${model} -> ${lastErr}`); continue; }
+      const fr = cand.finishReason;
+      if (fr && fr !== 'STOP' && fr !== 'MAX_TOKENS') { lastErr = `finishReason ${fr}`; console.log(`model ${model} -> ${lastErr}`); continue; }
+      const text = (cand.content?.parts || []).map(p => p.text || '').join('');
+      let parsed;
+      try { parsed = extractJSON(text); }
+      catch (e) { lastErr = `parse fail (${e.message}); raw: ${text.slice(0, 200)}`; console.log(`model ${model} -> ${lastErr}`); continue; }
+      const words = (Array.isArray(parsed.words) ? parsed.words : [])
+        .filter(w => w && w.word && w.meaning).slice(0, 10).map(oneLineHeadline);
+      if (words.length < 5) { lastErr = `only ${words.length} words`; console.log(`model ${model} -> ${lastErr}`); continue; }
+      console.log(`ok model ${model} -> ${words.length} words`);
+      return words;
     } catch (e) { lastErr = e.message; console.log(`model ${model} error -> ${lastErr}`); }
   }
-  if (!data) throw new Error(`All Gemini models failed. Last error: ${lastErr}`);
-
-  const cand = (data.candidates || [])[0];
-  if (!cand) throw new Error(`no candidate returned: ${JSON.stringify(data).slice(0, 400)}`);
-  if (cand.finishReason && cand.finishReason !== 'STOP' && cand.finishReason !== 'MAX_TOKENS') {
-    throw new Error(`generation stopped: ${cand.finishReason}`);
-  }
-  const text = (cand.content?.parts || []).map(p => p.text || '').join('');
-  const parsed = extractJSON(text);
-  const words = Array.isArray(parsed.words) ? parsed.words : [];
-  return words.filter(w => w && w.word && w.meaning).slice(0, 10).map(oneLineHeadline);
+  throw new Error(`All Gemini models failed. Last error: ${lastErr}`);
 }
 
 // Defensive: keep only the first single line/sentence of the headline, capped.
