@@ -1,17 +1,19 @@
 /* Vocabulary of the Day generator — runs in GitHub Actions (Node 20+).
-   Fetches Indian newspaper RSS, asks Claude for 10 exam-relevant vocab words,
-   writes docs/data/wotd.json (newest day first, last 30 days kept). */
+   Fetches Indian newspaper RSS, asks Google Gemini (free tier) for 10
+   exam-relevant vocab words, writes docs/data/wotd.json
+   (newest day first, last 30 days kept).
+   Requires repo secret GEMINI_API_KEY (free from https://aistudio.google.com/apikey). */
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 
-const API_KEY = process.env.ANTHROPIC_API_KEY;
-const MODEL = 'claude-opus-4-8';
+const API_KEY = process.env.GEMINI_API_KEY;
+const MODEL = 'gemini-2.5-flash';   // free-tier model; swap to gemini-2.0-flash if needed
 const OUT = 'docs/data/wotd.json';
 const KEEP_DAYS = 30;
 
 // Newspaper RSS feeds. If one is down or blocked, it's skipped.
 const FEEDS = [
   { source: 'The Hindu',        url: 'https://www.thehindu.com/news/national/feeder/default.rss' },
-  { source: 'The Hindu',        url: 'https://www.thehindu.com/feeder/default.rss' },
+  { source: 'The Hindu',        url: 'https://www.thehindu.com/news/international/feeder/default.rss' },
   { source: 'Times of India',   url: 'https://timesofindia.indiatimes.com/rssfeedstopstories.cms' },
   { source: 'Indian Express',   url: 'https://indianexpress.com/feed/' },
   { source: 'Hindustan Times',  url: 'https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml' },
@@ -31,6 +33,7 @@ function strip(s) {
     .replace(/<[^>]+>/g, ' ')
     .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&nbsp;/g, ' ')
+    .replace(/&#8217;|&#8216;/g, "'").replace(/&#8220;|&#8221;/g, '"')
     .replace(/\s+/g, ' ').trim();
 }
 
@@ -61,7 +64,7 @@ function extractJSON(s) {
   return JSON.parse(s.slice(a, b + 1));
 }
 
-async function askClaude(headlines) {
+async function askGemini(headlines) {
   const prompt =
 `You are building "Vocabulary of the Day" for Indian defence-exam aspirants (UPSC CDS & AFCAT).
 
@@ -85,31 +88,38 @@ Return ONLY a JSON object of the form {"words":[ ... 10 objects ... ]}. No markd
 NEWS:
 ${headlines}`;
 
-  const r = await fetch('https://api.anthropic.com/v1/messages', {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
+  const r = await fetch(url, {
     method: 'POST',
     headers: {
       'content-type': 'application/json',
-      'x-api-key': API_KEY,
-      'anthropic-version': '2023-06-01',
+      'x-goog-api-key': API_KEY,
     },
     body: JSON.stringify({
-      model: MODEL,
-      max_tokens: 6000,
-      messages: [{ role: 'user', content: prompt }],
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: {
+        temperature: 0.7,
+        maxOutputTokens: 8000,
+        responseMimeType: 'application/json',
+      },
     }),
     signal: AbortSignal.timeout(180000),
   });
-  if (!r.ok) throw new Error(`Claude API HTTP ${r.status}: ${await r.text()}`);
+  if (!r.ok) throw new Error(`Gemini API HTTP ${r.status}: ${await r.text()}`);
   const data = await r.json();
-  if (data.stop_reason === 'refusal') throw new Error('model refused');
-  const text = (data.content || []).filter(b => b.type === 'text').map(b => b.text).join('');
+  const cand = (data.candidates || [])[0];
+  if (!cand) throw new Error(`no candidate returned: ${JSON.stringify(data).slice(0, 400)}`);
+  if (cand.finishReason && cand.finishReason !== 'STOP' && cand.finishReason !== 'MAX_TOKENS') {
+    throw new Error(`generation stopped: ${cand.finishReason}`);
+  }
+  const text = (cand.content?.parts || []).map(p => p.text || '').join('');
   const parsed = extractJSON(text);
   const words = Array.isArray(parsed.words) ? parsed.words : [];
   return words.filter(w => w && w.word && w.meaning).slice(0, 10);
 }
 
 async function main() {
-  if (!API_KEY) { console.error('ANTHROPIC_API_KEY not set'); process.exit(1); }
+  if (!API_KEY) { console.error('GEMINI_API_KEY not set'); process.exit(1); }
 
   const all = (await Promise.all(FEEDS.map(fetchFeed))).flat();
   if (all.length < 8) { console.error('Too few news items fetched; aborting (keeping existing data).'); process.exit(0); }
@@ -120,7 +130,7 @@ async function main() {
   for (const it of all) { const k = it.headline.toLowerCase(); if (!seen.has(k)) { seen.add(k); picked.push(it); } }
   const blob = picked.slice(0, 60).map(it => `[${it.source}] ${it.text}`).join('\n');
 
-  const words = await askClaude(blob);
+  const words = await askGemini(blob);
   if (words.length < 5) { console.error(`Only ${words.length} words returned; aborting (keeping existing data).`); process.exit(0); }
 
   const { iso, label } = istDate();
