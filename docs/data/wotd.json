@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-09",
+    "label": "9 July 2026",
+    "words": [
+      { "word": "Impartial", "pos": "adjective", "meaning": "Treating all sides equally; fair and not favouring anyone.", "synonyms": ["unbiased", "neutral", "even-handed"], "example": "The opposition demanded an impartial inquiry into the incident.", "source": "Hindustan Times", "headline": "'Police acting as BJP arm': Mamata accuses ruling party of blocking TMC protest" },
+      { "word": "Retribution", "pos": "noun", "meaning": "Punishment inflicted in return for a wrong or injury.", "synonyms": ["revenge", "vengeance", "reprisal"], "example": "He described the fresh strikes as retribution for the attacks on the ships.", "source": "The Hindu", "headline": "Trump says fresh strikes on Iran retribution for attacks on ships" },
+      { "word": "Reclaim", "pos": "verb", "meaning": "To get back or recover possession of something.", "synonyms": ["recover", "regain", "repossess"], "example": "The court ruled that parents may reclaim property gifted to their children.", "source": "Hindustan Times", "headline": "Parents can reclaim property gifted to children if they don't take care of them: Bombay High Court" },
+      { "word": "Inundate", "pos": "verb", "meaning": "To flood or overwhelm with a large amount of water or things.", "synonyms": ["flood", "submerge", "swamp"], "example": "Floodwaters continued to inundate homes and markets across the city.", "source": "Times of India", "headline": "13 killed in Surat rains: Floodwaters continue to inundate homes, markets and roads" },
+      { "word": "Escalate", "pos": "verb", "meaning": "To increase rapidly in intensity or seriousness.", "synonyms": ["intensify", "heighten", "mount"], "example": "India flagged concern over the escalating tensions in the region.", "source": "Hindustan Times", "headline": "India flags concerns over targeting of commercial ships, escalating Iran-US tensions" },
+      { "word": "Restraint", "pos": "noun", "meaning": "Self-control; moderation in one's actions or reactions.", "synonyms": ["self-control", "moderation", "composure"], "example": "India urged all parties to exercise restraint and return to dialogue.", "source": "Hindustan Times", "headline": "India flags concerns over targeting of commercial ships, escalating Iran-US tensions" },
+      { "word": "Denounce", "pos": "verb", "meaning": "To publicly declare something to be wrong or condemn it.", "synonyms": ["condemn", "censure", "criticise"], "example": "Russia denounced the summit's decisions on military aid.", "source": "The Hindu", "headline": "Russia denounces NATO summit decisions on aid for Ukraine, defence" },
+      { "word": "Fragile", "pos": "adjective", "meaning": "Easily broken, damaged, or destroyed; delicate.", "synonyms": ["delicate", "precarious", "unstable"], "example": "Fresh attacks threatened the fragile ceasefire in West Asia.", "source": "Hindustan Times", "headline": "India flags concerns over targeting of commercial ships, escalating Iran-US tensions" },
+      { "word": "Diaspora", "pos": "noun", "meaning": "A community of people settled far from their ancestral homeland.", "synonyms": ["expatriates", "emigrants", "dispersion"], "example": "The Prime Minister addressed the Indian diaspora during his visit.", "source": "The Hindu", "headline": "Modi addresses Indian diaspora, says country moving forward with mantra of 'reform, perform and transform'" },
+      { "word": "Prodigy", "pos": "noun", "meaning": "A person, especially a young one, with exceptional talents or abilities.", "synonyms": ["genius", "talent", "wunderkind"], "example": "A new study questioned whether child prodigies become the most successful adults.", "source": "Hindustan Times", "headline": "Scientifically Speaking: Do early winners become winning adults?" }
+    ]
+  },
+  {
     "date": "2026-07-08",
     "label": "8 July 2026",
     "words": [
