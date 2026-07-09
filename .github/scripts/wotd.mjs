@@ -51,8 +51,7 @@ async function fetchFeed(feed) {
     for (const b of blocks.slice(0, 25)) {
       const title = strip((b.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [])[1]);
       const desc = strip((b.match(/<description[^>]*>([\s\S]*?)<\/description>/i) || [])[1]);
-      const text = (title + '. ' + desc).trim();
-      if (title && title.length > 8) items.push({ source: feed.source, headline: title, text: text.slice(0, 300) });
+      if (title && title.length > 8) items.push({ source: feed.source, headline: title.slice(0, 160), context: desc.slice(0, 220) });
     }
     console.log(`ok ${feed.url} -> ${items.length} items`);
     return items;
@@ -67,22 +66,24 @@ function extractJSON(s) {
 
 async function askGemini(headlines) {
   const prompt =
-`You are building "Vocabulary of the Day" for Indian defence-exam aspirants (UPSC CDS & AFCAT).
+`You are building "Vocabulary of the Day" for serious Indian defence-exam aspirants (UPSC CDS & AFCAT).
 
-Below are today's news headlines and summaries from Indian newspapers, each tagged [SOURCE].
+Below are today's news items from Indian newspapers. Each line is tagged [SOURCE] and has a one-line HEADLINE plus some CONTEXT.
 
-Pick EXACTLY 10 genuinely useful English vocabulary words that ACTUALLY APPEAR in these headlines/summaries and are the kind CDS/AFCAT test: moderately advanced (not trivial words like "government" or "said"; not obscure technical jargon or names). Prefer words a serious aspirant should learn.
+Pick EXACTLY 10 English vocabulary words that ACTUALLY APPEAR in these headlines/context and are worth learning for CDS/AFCAT. Aim HIGH on difficulty:
+- Choose harder, exam-level words — the kind that appear in CDS synonym/antonym and cloze questions (e.g. words like "reticent", "exacerbate", "capitulate", "ostensible", "belligerent", "assuage", "precarious", "vociferous").
+- STRICTLY AVOID easy/common words (e.g. "strategic", "prospects", "yield", "intervention", "accord", "confer", "proactive", "stalled", "produce", "meeting"). If a word would be understood by a class-8 student, do NOT pick it.
+- No proper nouns, place names, or names of people/organisations. No obscure technical jargon. No duplicates.
+- Prefer variety of parts of speech.
 
 For each word return:
-- "word": the base/dictionary form (lemma), capitalised
-- "pos": part of speech (e.g. noun, verb, adjective, adverb)
+- "word": the base/dictionary form (lemma), in Title Case (e.g. "Reticent")
+- "pos": part of speech (noun, verb, adjective, adverb)
 - "meaning": one concise definition
-- "synonyms": array of 2-3 common synonyms
+- "synonyms": array of 2-3 synonyms
 - "example": one short example sentence (you may adapt the news sentence)
-- "source": the newspaper it appeared in (from the [SOURCE] tag)
-- "headline": the exact headline the word appeared in
-
-Avoid proper nouns, place names, and names of people/organisations. No duplicates.
+- "source": the newspaper name only (from the [SOURCE] tag)
+- "headline": the single HEADLINE line the word (or its topic) came from — ONE short line only, verbatim from HEADLINE. Do NOT include the CONTEXT text, and never return more than one sentence.
 
 Return ONLY a JSON object of the form {"words":[ ... 10 objects ... ]}. No markdown, no commentary.
 
@@ -124,7 +125,19 @@ ${headlines}`;
   const text = (cand.content?.parts || []).map(p => p.text || '').join('');
   const parsed = extractJSON(text);
   const words = Array.isArray(parsed.words) ? parsed.words : [];
-  return words.filter(w => w && w.word && w.meaning).slice(0, 10);
+  return words.filter(w => w && w.word && w.meaning).slice(0, 10).map(oneLineHeadline);
+}
+
+// Defensive: keep only the first single line/sentence of the headline, capped.
+function oneLineHeadline(w) {
+  let h = String(w.headline || '').replace(/\s+/g, ' ').trim();
+  h = h.split(/\s*\|\|\s*/)[0];                 // drop any "|| CONTEXT" that leaked through
+  h = h.replace(/\s+CONTEXT:.*$/i, '').trim();
+  if (h.length > 130) {                          // cut long dumps at a sentence/word boundary
+    const dot = h.slice(0, 130).lastIndexOf('. ');
+    h = dot > 40 ? h.slice(0, dot) : h.slice(0, 127).replace(/\s+\S*$/, '') + '…';
+  }
+  return { ...w, headline: h };
 }
 
 async function main() {
@@ -137,7 +150,9 @@ async function main() {
   const seen = new Set();
   const picked = [];
   for (const it of all) { const k = it.headline.toLowerCase(); if (!seen.has(k)) { seen.add(k); picked.push(it); } }
-  const blob = picked.slice(0, 60).map(it => `[${it.source}] ${it.text}`).join('\n');
+  const blob = picked.slice(0, 60)
+    .map(it => `[${it.source}] HEADLINE: ${it.headline}` + (it.context ? ` || CONTEXT: ${it.context}` : ''))
+    .join('\n');
 
   const words = await askGemini(blob);
   if (words.length < 5) { console.error(`Only ${words.length} words returned; aborting (keeping existing data).`); process.exit(0); }
