@@ -3,48 +3,408 @@
     "date": "2026-07-10",
     "label": "10 July 2026",
     "words": [
-      { "word": "Culpable", "pos": "adjective", "meaning": "Deserving blame; responsible for a fault or wrong.", "synonyms": ["blameworthy", "guilty", "at fault"], "example": "The builders were booked for culpable homicide after the collapse.", "source": "Hindustan Times", "headline": "Rohini building collapse: Death toll rises to 3 as 14-hour rescue operation ends" },
-      { "word": "Impersonation", "pos": "noun", "meaning": "The act of pretending to be another person in order to deceive.", "synonyms": ["imitation", "masquerade", "spoofing"], "example": "The new username feature raised fears of impersonation and fraud.", "source": "Hindustan Times", "headline": "WhatsApp, Telegram respond to MeitY notices over username feature" },
-      { "word": "Marginalised", "pos": "adjective", "meaning": "Treated as insignificant and pushed to the edges of society.", "synonyms": ["sidelined", "excluded", "disadvantaged"], "example": "The tragedy exposed the struggles of marginalised tribal communities.", "source": "The Hindu", "headline": "Death of 14 Juang girls from Odisha in ammonia gas leak exposes tribe's struggle" },
-      { "word": "Expeditiously", "pos": "adverb", "meaning": "In a speedy and efficient manner.", "synonyms": ["promptly", "swiftly", "speedily"], "example": "The two nations agreed to work expeditiously to finalise the pact.", "source": "The Hindu", "headline": "India, Australia seal landmark pacts on nuclear energy and defence" },
-      { "word": "Thwart", "pos": "verb", "meaning": "To prevent someone from achieving something; to foil a plan.", "synonyms": ["foil", "frustrate", "obstruct"], "example": "Investigators thwarted a planned attack on the event.", "source": "The Hindu", "headline": "8 men indicted in planned drone and sniper attack on White House UFC show" },
-      { "word": "Jurisdiction", "pos": "noun", "meaning": "The official authority to make legal decisions, or the area over which it extends.", "synonyms": ["authority", "control", "dominion"], "example": "Beijing asserted jurisdiction over the disputed waters.", "source": "The Hindu", "headline": "China signals 'new normal' with coast guard patrols off Taiwan's east" },
-      { "word": "Dwindle", "pos": "verb", "meaning": "To gradually diminish in size, amount, or strength.", "synonyms": ["diminish", "shrink", "decline"], "example": "The fortunes of small shops dwindled as large retailers moved in.", "source": "The Hindu", "headline": "Quick-commerce platforms, large retailers threaten small businesses in Kerala" },
-      { "word": "Languish", "pos": "verb", "meaning": "To suffer neglect or be forced to endure an unpleasant situation; to grow weak.", "synonyms": ["suffer", "waste away", "deteriorate"], "example": "The four nationals languished abroad for over a year before returning.", "source": "The Hindu", "headline": "Four Indian nationals pushed into Bangladesh return home after one-year legal battle" },
-      { "word": "Curb", "pos": "noun", "meaning": "A restraint or check placed on something.", "synonyms": ["restraint", "check", "limit"], "example": "The court placed curbs on the withdrawal of the cases.", "source": "Indian Express", "headline": "Communal rows to Kannada stirs: 52 cases dropped by Siddaramaiah face court curbs" },
-      { "word": "Strained", "pos": "adjective", "meaning": "(Of a relationship or atmosphere) marked by tension; not relaxed or friendly.", "synonyms": ["tense", "uneasy", "fraught"], "example": "The two sides sought to repair their strained relationship.", "source": "Times of India", "headline": "King Charles hopes to meet Prince Harry and see Archie, Lilibet" }
+      {
+        "word": "Inaugural",
+        "pos": "adjective",
+        "meaning": "Marking the beginning of an institution, activity, or series.",
+        "synonyms": [
+          "initial",
+          "first",
+          "pioneering"
+        ],
+        "example": "The inaugural TG20, its first franchise-based T20 league, is beginning to change that.",
+        "source": "The Hindu",
+        "headline": "Redrawing Telangana’s cricket map"
+      },
+      {
+        "word": "Dwindle",
+        "pos": "verb",
+        "meaning": "Diminish gradually in size, amount, or strength.",
+        "synonyms": [
+          "decrease",
+          "shrink",
+          "decline"
+        ],
+        "example": "Neighbourhood shops are finding their fortunes dwindling with the rise of e-commerce platforms.",
+        "source": "The Hindu",
+        "headline": "Dwindling Fortunes: Quick-commerce platforms, large retailers threaten small businesses and neighbourhood shops in Kerala"
+      },
+      {
+        "word": "Marginalise",
+        "pos": "verb",
+        "meaning": "Treat (a person, group, or concept) as insignificant or peripheral.",
+        "synonyms": [
+          "ostracize",
+          "sideline",
+          "relegate"
+        ],
+        "example": "The gas leak exposed the socio-economic realities of a marginalised tribal community.",
+        "source": "The Hindu",
+        "headline": "Gone girls | Death of 14 Juang girls from Odisha in Tiruvallur ammonia gas leak exposes tribe’s socio-economic struggle"
+      },
+      {
+        "word": "Fray",
+        "pos": "noun",
+        "meaning": "A situation of intense activity, conflict, or competition.",
+        "synonyms": [
+          "conflict",
+          "battle",
+          "contest"
+        ],
+        "example": "Jan Suraaj Party founder Prashant Kishor, who is in the fray, has been busy campaigning.",
+        "source": "The Hindu",
+        "headline": "Bankipur bypoll: voters say the battle will be between BJP and JSP"
+      },
+      {
+        "word": "Languish",
+        "pos": "verb",
+        "meaning": "Suffer from being forced to remain in an unpleasant or restrictive place or situation.",
+        "synonyms": [
+          "suffer",
+          "deteriorate",
+          "pine"
+        ],
+        "example": "The group of nationals languished in Bangladesh for over a year before returning home.",
+        "source": "The Hindu",
+        "headline": "Four Indian nationals pushed into Bangladesh return home after one-year legal battle"
+      },
+      {
+        "word": "Slackness",
+        "pos": "noun",
+        "meaning": "The state of being negligent or lacking care or attention.",
+        "synonyms": [
+          "negligence",
+          "laxity",
+          "carelessness"
+        ],
+        "example": "The bench said slackness by civic authorities against unauthorised constructions will not be tolerated.",
+        "source": "The Hindu",
+        "headline": "Supreme Court cites blazes in Delhi, Lucknow; questions civic bodies on unauthorised buildings"
+      },
+      {
+        "word": "Vigilantism",
+        "pos": "noun",
+        "meaning": "The actions of a vigilante, especially taking the law into one's own hands.",
+        "synonyms": [
+          "lawlessness",
+          "mob rule",
+          "self-justice"
+        ],
+        "example": "Assault on youths highlights growing vigilantism amid anti-drug crackdown.",
+        "source": "The Hindu",
+        "headline": "Assault on youths highlights growing vigilantism in Perumbavoor amid anti-drug crackdown"
+      },
+      {
+        "word": "Blacklist",
+        "pos": "verb",
+        "meaning": "Put (a person or organization) on a list of those who are disapproved of or are to be punished or excluded.",
+        "synonyms": [
+          "ban",
+          "exclude",
+          "prohibit"
+        ],
+        "example": "The protesters seek legal action against the company, demanding its blacklisting from future projects.",
+        "source": "The Hindu",
+        "headline": "Greens demand immediate cancellation of Wayanad tunnel project"
+      },
+      {
+        "word": "Indict",
+        "pos": "verb",
+        "meaning": "Formally accuse of or charge with a serious crime.",
+        "synonyms": [
+          "accuse",
+          "charge",
+          "prosecute"
+        ],
+        "example": "Eight men were indicted on murder and terrorism conspiracy charges.",
+        "source": "The Hindu",
+        "headline": "8 men indicted in planned drone and sniper attack on White House UFC cage-fighting show"
+      },
+      {
+        "word": "Thwart",
+        "pos": "verb",
+        "meaning": "Prevent (someone) from accomplishing something.",
+        "synonyms": [
+          "hinder",
+          "impede",
+          "frustrate"
+        ],
+        "example": "The men were indicted for their alleged roles in a thwarted drone and sniper attack.",
+        "source": "The Hindu",
+        "headline": "8 men indicted in planned drone and sniper attack on White House UFC cage-fighting show"
+      }
     ]
   },
   {
     "date": "2026-07-09",
     "label": "9 July 2026",
     "words": [
-      { "word": "Partisan", "pos": "adjective", "meaning": "Strongly supporting a particular party, cause, or person, often without fair judgement.", "synonyms": ["biased", "one-sided", "factional"], "example": "The opposition accused the police of partisan conduct during the protest.", "source": "Hindustan Times", "headline": "'Police acting as BJP arm': Mamata accuses ruling party of blocking TMC protest" },
-      { "word": "Reprisal", "pos": "noun", "meaning": "An act of retaliation for a wrong or injury suffered.", "synonyms": ["retaliation", "vengeance", "counterattack"], "example": "The fresh strikes were launched as a reprisal for attacks on the ships.", "source": "The Hindu", "headline": "Trump says fresh strikes on Iran retribution for attacks on ships" },
-      { "word": "Precarious", "pos": "adjective", "meaning": "Not securely held or in position; dangerously uncertain or unstable.", "synonyms": ["unstable", "insecure", "perilous"], "example": "The ceasefire in the region remained precarious after fresh attacks.", "source": "Hindustan Times", "headline": "India flags concerns over targeting of commercial ships, escalating Iran-US tensions" },
-      { "word": "Clandestine", "pos": "adjective", "meaning": "Kept secret or done secretively, especially because it is illicit.", "synonyms": ["covert", "secret", "surreptitious"], "example": "A clandestine operation led to the arrest of the smugglers.", "source": "Hindustan Times", "headline": "How undercover ops led to Operation Hard Ball arrests" },
-      { "word": "Illicit", "pos": "adjective", "meaning": "Forbidden by law, rules, or custom; illegal.", "synonyms": ["illegal", "unlawful", "illegitimate"], "example": "Police dismantled a network involved in the illicit drug trade.", "source": "The Hindu", "headline": "Chandigarh police bust Pakistan-linked narco terror network after border raids" },
-      { "word": "Contentious", "pos": "adjective", "meaning": "Likely to cause an argument or disagreement; controversial.", "synonyms": ["controversial", "disputed", "divisive"], "example": "The donation row soon grew into a contentious issue between the parties.", "source": "Hindustan Times", "headline": "Police question three accused in Ram Temple donation row, SIT to visit Ayodhya" },
-      { "word": "Deluge", "pos": "noun", "meaning": "A severe flood or heavy downpour; an overwhelming quantity of something.", "synonyms": ["flood", "torrent", "inundation"], "example": "The deluge left homes and markets submerged for days.", "source": "Times of India", "headline": "13 killed in Surat rains: Floodwaters continue to inundate homes and roads" },
-      { "word": "Belligerent", "pos": "adjective", "meaning": "Hostile and aggressive; engaged in or eager for war.", "synonyms": ["aggressive", "hostile", "combative"], "example": "The two sides exchanged belligerent threats after the strikes.", "source": "The Hindu", "headline": "U.S. launches new strikes on Iran after Trump vows to hit 'hard'" },
-      { "word": "Precocious", "pos": "adjective", "meaning": "Having developed abilities or maturity at an earlier age than usual.", "synonyms": ["advanced", "gifted", "ahead of one's years"], "example": "The study questioned whether precocious children become successful adults.", "source": "Hindustan Times", "headline": "Scientifically Speaking: Do early winners become winning adults?" },
-      { "word": "Ironclad", "pos": "adjective", "meaning": "So firm or strong as to allow no doubt, change, or exception.", "synonyms": ["unbreakable", "rigid", "firm"], "example": "The allies reaffirmed their ironclad commitment to mutual defence.", "source": "The Hindu", "headline": "NATO allies reaffirm 'ironclad commitment' to collective defence" }
+      {
+        "word": "Partisan",
+        "pos": "adjective",
+        "meaning": "Strongly supporting a particular party, cause, or person, often without fair judgement.",
+        "synonyms": [
+          "biased",
+          "one-sided",
+          "factional"
+        ],
+        "example": "The opposition accused the police of partisan conduct during the protest.",
+        "source": "Hindustan Times",
+        "headline": "'Police acting as BJP arm': Mamata accuses ruling party of blocking TMC protest"
+      },
+      {
+        "word": "Reprisal",
+        "pos": "noun",
+        "meaning": "An act of retaliation for a wrong or injury suffered.",
+        "synonyms": [
+          "retaliation",
+          "vengeance",
+          "counterattack"
+        ],
+        "example": "The fresh strikes were launched as a reprisal for attacks on the ships.",
+        "source": "The Hindu",
+        "headline": "Trump says fresh strikes on Iran retribution for attacks on ships"
+      },
+      {
+        "word": "Precarious",
+        "pos": "adjective",
+        "meaning": "Not securely held or in position; dangerously uncertain or unstable.",
+        "synonyms": [
+          "unstable",
+          "insecure",
+          "perilous"
+        ],
+        "example": "The ceasefire in the region remained precarious after fresh attacks.",
+        "source": "Hindustan Times",
+        "headline": "India flags concerns over targeting of commercial ships, escalating Iran-US tensions"
+      },
+      {
+        "word": "Clandestine",
+        "pos": "adjective",
+        "meaning": "Kept secret or done secretively, especially because it is illicit.",
+        "synonyms": [
+          "covert",
+          "secret",
+          "surreptitious"
+        ],
+        "example": "A clandestine operation led to the arrest of the smugglers.",
+        "source": "Hindustan Times",
+        "headline": "How undercover ops led to Operation Hard Ball arrests"
+      },
+      {
+        "word": "Illicit",
+        "pos": "adjective",
+        "meaning": "Forbidden by law, rules, or custom; illegal.",
+        "synonyms": [
+          "illegal",
+          "unlawful",
+          "illegitimate"
+        ],
+        "example": "Police dismantled a network involved in the illicit drug trade.",
+        "source": "The Hindu",
+        "headline": "Chandigarh police bust Pakistan-linked narco terror network after border raids"
+      },
+      {
+        "word": "Contentious",
+        "pos": "adjective",
+        "meaning": "Likely to cause an argument or disagreement; controversial.",
+        "synonyms": [
+          "controversial",
+          "disputed",
+          "divisive"
+        ],
+        "example": "The donation row soon grew into a contentious issue between the parties.",
+        "source": "Hindustan Times",
+        "headline": "Police question three accused in Ram Temple donation row, SIT to visit Ayodhya"
+      },
+      {
+        "word": "Deluge",
+        "pos": "noun",
+        "meaning": "A severe flood or heavy downpour; an overwhelming quantity of something.",
+        "synonyms": [
+          "flood",
+          "torrent",
+          "inundation"
+        ],
+        "example": "The deluge left homes and markets submerged for days.",
+        "source": "Times of India",
+        "headline": "13 killed in Surat rains: Floodwaters continue to inundate homes and roads"
+      },
+      {
+        "word": "Belligerent",
+        "pos": "adjective",
+        "meaning": "Hostile and aggressive; engaged in or eager for war.",
+        "synonyms": [
+          "aggressive",
+          "hostile",
+          "combative"
+        ],
+        "example": "The two sides exchanged belligerent threats after the strikes.",
+        "source": "The Hindu",
+        "headline": "U.S. launches new strikes on Iran after Trump vows to hit 'hard'"
+      },
+      {
+        "word": "Precocious",
+        "pos": "adjective",
+        "meaning": "Having developed abilities or maturity at an earlier age than usual.",
+        "synonyms": [
+          "advanced",
+          "gifted",
+          "ahead of one's years"
+        ],
+        "example": "The study questioned whether precocious children become successful adults.",
+        "source": "Hindustan Times",
+        "headline": "Scientifically Speaking: Do early winners become winning adults?"
+      },
+      {
+        "word": "Ironclad",
+        "pos": "adjective",
+        "meaning": "So firm or strong as to allow no doubt, change, or exception.",
+        "synonyms": [
+          "unbreakable",
+          "rigid",
+          "firm"
+        ],
+        "example": "The allies reaffirmed their ironclad commitment to mutual defence.",
+        "source": "The Hindu",
+        "headline": "NATO allies reaffirm 'ironclad commitment' to collective defence"
+      }
     ]
   },
   {
     "date": "2026-07-08",
     "label": "8 July 2026",
     "words": [
-      { "word": "Exacerbate", "pos": "verb", "meaning": "To make a problem or bad situation worse.", "synonyms": ["aggravate", "worsen", "intensify"], "example": "The spread of misinformation is exacerbating real-world harm to refugees.", "source": "The Hindu", "headline": "AI-powered misinformation inciting harm to refugees, says UN" },
-      { "word": "Contingency", "pos": "noun", "meaning": "A future event that is possible but cannot be predicted with certainty; a plan made for such an event.", "synonyms": ["eventuality", "emergency", "possibility"], "example": "The district was asked to draw up contingency plans for a possible drought.", "source": "The Hindu", "headline": "Prepare for possible drought, drinking water crisis, Minister tells officials" },
-      { "word": "Wither", "pos": "verb", "meaning": "To become dry and shrivelled; to fade or decline.", "synonyms": ["shrivel", "wilt", "fade"], "example": "The red gram saplings began to wither as the rains failed.", "source": "The Hindu", "headline": "Red gram farmers watch saplings wilt, hope wither as Karnataka awaits rains" },
-      { "word": "Indict", "pos": "verb", "meaning": "To formally accuse or charge someone with a serious crime.", "synonyms": ["charge", "accuse", "arraign"], "example": "US authorities indicted 37 gangsters in connection with the case.", "source": "Hindustan Times", "headline": "Op Hard Ball: 1,000kg cocaine, murder and extortion charges, Bishnoi among 37 gangsters indicted by US" },
-      { "word": "Extortion", "pos": "noun", "meaning": "The act of obtaining something, especially money, through force or threats.", "synonyms": ["blackmail", "coercion", "shakedown"], "example": "The gang faced charges of murder and extortion.", "source": "Hindustan Times", "headline": "Op Hard Ball: 1,000kg cocaine, murder and extortion charges, Bishnoi among 37 gangsters indicted by US" },
-      { "word": "Assassination", "pos": "noun", "meaning": "The murder of a prominent person, often for political or ideological reasons.", "synonyms": ["murder", "killing", "slaying"], "example": "The accused were charged with ordering the assassination of a community leader.", "source": "Hindustan Times", "headline": "FBI $50,000 reward for Goldy Brar, fresh raids: Why Lawrence Bishnoi gang is back in focus" },
-      { "word": "Adulterated", "pos": "adjective", "meaning": "Made impure or lower in quality by adding an inferior or harmful substance.", "synonyms": ["contaminated", "tainted", "impure"], "example": "He called paneer the most adulterated food on the market.", "source": "Indian Express", "headline": "Former BCCI chef calls paneer most adulterated food" },
-      { "word": "Syndicate", "pos": "noun", "meaning": "A group of people or organisations combined to promote a common, often illicit, interest.", "synonyms": ["cartel", "network", "ring"], "example": "The police cracked down on the smuggling syndicate.", "source": "Indian Express", "headline": "'Corrupt Punjab cop' at heart of US crackdown on Jaggu Bhagwanpuria syndicate" },
-      { "word": "Avert", "pos": "verb", "meaning": "To prevent something bad from happening; to turn away.", "synonyms": ["prevent", "avoid", "forestall"], "example": "A potential runway collision was averted at the airport.", "source": "Times of India", "headline": "Close call: Air India, AI Express planes come face-to-face at Mumbai airport" },
-      { "word": "Speculation", "pos": "noun", "meaning": "The forming of a theory or opinion without firm evidence; conjecture.", "synonyms": ["conjecture", "guesswork", "surmise"], "example": "The meeting sparked speculation about a new political alliance.", "source": "Times of India", "headline": "Another split brewing? Sharad NCP's Jayant Patil meets BJP leader Vinod Tawde" }
+      {
+        "word": "Exacerbate",
+        "pos": "verb",
+        "meaning": "To make a problem or bad situation worse.",
+        "synonyms": [
+          "aggravate",
+          "worsen",
+          "intensify"
+        ],
+        "example": "The spread of misinformation is exacerbating real-world harm to refugees.",
+        "source": "The Hindu",
+        "headline": "AI-powered misinformation inciting harm to refugees, says UN"
+      },
+      {
+        "word": "Contingency",
+        "pos": "noun",
+        "meaning": "A future event that is possible but cannot be predicted with certainty; a plan made for such an event.",
+        "synonyms": [
+          "eventuality",
+          "emergency",
+          "possibility"
+        ],
+        "example": "The district was asked to draw up contingency plans for a possible drought.",
+        "source": "The Hindu",
+        "headline": "Prepare for possible drought, drinking water crisis, Minister tells officials"
+      },
+      {
+        "word": "Wither",
+        "pos": "verb",
+        "meaning": "To become dry and shrivelled; to fade or decline.",
+        "synonyms": [
+          "shrivel",
+          "wilt",
+          "fade"
+        ],
+        "example": "The red gram saplings began to wither as the rains failed.",
+        "source": "The Hindu",
+        "headline": "Red gram farmers watch saplings wilt, hope wither as Karnataka awaits rains"
+      },
+      {
+        "word": "Indict",
+        "pos": "verb",
+        "meaning": "To formally accuse or charge someone with a serious crime.",
+        "synonyms": [
+          "charge",
+          "accuse",
+          "arraign"
+        ],
+        "example": "US authorities indicted 37 gangsters in connection with the case.",
+        "source": "Hindustan Times",
+        "headline": "Op Hard Ball: 1,000kg cocaine, murder and extortion charges, Bishnoi among 37 gangsters indicted by US"
+      },
+      {
+        "word": "Extortion",
+        "pos": "noun",
+        "meaning": "The act of obtaining something, especially money, through force or threats.",
+        "synonyms": [
+          "blackmail",
+          "coercion",
+          "shakedown"
+        ],
+        "example": "The gang faced charges of murder and extortion.",
+        "source": "Hindustan Times",
+        "headline": "Op Hard Ball: 1,000kg cocaine, murder and extortion charges, Bishnoi among 37 gangsters indicted by US"
+      },
+      {
+        "word": "Assassination",
+        "pos": "noun",
+        "meaning": "The murder of a prominent person, often for political or ideological reasons.",
+        "synonyms": [
+          "murder",
+          "killing",
+          "slaying"
+        ],
+        "example": "The accused were charged with ordering the assassination of a community leader.",
+        "source": "Hindustan Times",
+        "headline": "FBI $50,000 reward for Goldy Brar, fresh raids: Why Lawrence Bishnoi gang is back in focus"
+      },
+      {
+        "word": "Adulterated",
+        "pos": "adjective",
+        "meaning": "Made impure or lower in quality by adding an inferior or harmful substance.",
+        "synonyms": [
+          "contaminated",
+          "tainted",
+          "impure"
+        ],
+        "example": "He called paneer the most adulterated food on the market.",
+        "source": "Indian Express",
+        "headline": "Former BCCI chef calls paneer most adulterated food"
+      },
+      {
+        "word": "Syndicate",
+        "pos": "noun",
+        "meaning": "A group of people or organisations combined to promote a common, often illicit, interest.",
+        "synonyms": [
+          "cartel",
+          "network",
+          "ring"
+        ],
+        "example": "The police cracked down on the smuggling syndicate.",
+        "source": "Indian Express",
+        "headline": "'Corrupt Punjab cop' at heart of US crackdown on Jaggu Bhagwanpuria syndicate"
+      },
+      {
+        "word": "Avert",
+        "pos": "verb",
+        "meaning": "To prevent something bad from happening; to turn away.",
+        "synonyms": [
+          "prevent",
+          "avoid",
+          "forestall"
+        ],
+        "example": "A potential runway collision was averted at the airport.",
+        "source": "Times of India",
+        "headline": "Close call: Air India, AI Express planes come face-to-face at Mumbai airport"
+      },
+      {
+        "word": "Speculation",
+        "pos": "noun",
+        "meaning": "The forming of a theory or opinion without firm evidence; conjecture.",
+        "synonyms": [
+          "conjecture",
+          "guesswork",
+          "surmise"
+        ],
+        "example": "The meeting sparked speculation about a new political alliance.",
+        "source": "Times of India",
+        "headline": "Another split brewing? Sharad NCP's Jayant Patil meets BJP leader Vinod Tawde"
+      }
     ]
   }
 ]
