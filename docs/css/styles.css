@@ -348,6 +348,17 @@ body.home{
   background-attachment:scroll, scroll, fixed, fixed;
   color:var(--hud-white);
 }
+/* On wider screens `cover` reveals lighter regions of the camo, so deepen the
+   veil there to match the darker, more readable look mobile already has. */
+@media(min-width:601px){
+  body.home{
+    background-image:
+      linear-gradient(rgba(201,162,75,.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(201,162,75,.05) 1px, transparent 1px),
+      linear-gradient(rgba(13,17,12,.86), rgba(11,14,10,.91)),
+      url('../assets/camo.jpg');
+  }
+}
 body.home .vbanner{background:transparent}
 body.home .titlebar{background:transparent;border-bottom:1px solid var(--hud-line)}
 body.home .titlebar h1{color:var(--hud-white)}
