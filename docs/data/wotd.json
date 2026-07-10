@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-10",
+    "label": "10 July 2026",
+    "words": [
+      { "word": "Culpable", "pos": "adjective", "meaning": "Deserving blame; responsible for a fault or wrong.", "synonyms": ["blameworthy", "guilty", "at fault"], "example": "The builders were booked for culpable homicide after the collapse.", "source": "Hindustan Times", "headline": "Rohini building collapse: Death toll rises to 3 as 14-hour rescue operation ends" },
+      { "word": "Impersonation", "pos": "noun", "meaning": "The act of pretending to be another person in order to deceive.", "synonyms": ["imitation", "masquerade", "spoofing"], "example": "The new username feature raised fears of impersonation and fraud.", "source": "Hindustan Times", "headline": "WhatsApp, Telegram respond to MeitY notices over username feature" },
+      { "word": "Marginalised", "pos": "adjective", "meaning": "Treated as insignificant and pushed to the edges of society.", "synonyms": ["sidelined", "excluded", "disadvantaged"], "example": "The tragedy exposed the struggles of marginalised tribal communities.", "source": "The Hindu", "headline": "Death of 14 Juang girls from Odisha in ammonia gas leak exposes tribe's struggle" },
+      { "word": "Expeditiously", "pos": "adverb", "meaning": "In a speedy and efficient manner.", "synonyms": ["promptly", "swiftly", "speedily"], "example": "The two nations agreed to work expeditiously to finalise the pact.", "source": "The Hindu", "headline": "India, Australia seal landmark pacts on nuclear energy and defence" },
+      { "word": "Thwart", "pos": "verb", "meaning": "To prevent someone from achieving something; to foil a plan.", "synonyms": ["foil", "frustrate", "obstruct"], "example": "Investigators thwarted a planned attack on the event.", "source": "The Hindu", "headline": "8 men indicted in planned drone and sniper attack on White House UFC show" },
+      { "word": "Jurisdiction", "pos": "noun", "meaning": "The official authority to make legal decisions, or the area over which it extends.", "synonyms": ["authority", "control", "dominion"], "example": "Beijing asserted jurisdiction over the disputed waters.", "source": "The Hindu", "headline": "China signals 'new normal' with coast guard patrols off Taiwan's east" },
+      { "word": "Dwindle", "pos": "verb", "meaning": "To gradually diminish in size, amount, or strength.", "synonyms": ["diminish", "shrink", "decline"], "example": "The fortunes of small shops dwindled as large retailers moved in.", "source": "The Hindu", "headline": "Quick-commerce platforms, large retailers threaten small businesses in Kerala" },
+      { "word": "Languish", "pos": "verb", "meaning": "To suffer neglect or be forced to endure an unpleasant situation; to grow weak.", "synonyms": ["suffer", "waste away", "deteriorate"], "example": "The four nationals languished abroad for over a year before returning.", "source": "The Hindu", "headline": "Four Indian nationals pushed into Bangladesh return home after one-year legal battle" },
+      { "word": "Curb", "pos": "noun", "meaning": "A restraint or check placed on something.", "synonyms": ["restraint", "check", "limit"], "example": "The court placed curbs on the withdrawal of the cases.", "source": "Indian Express", "headline": "Communal rows to Kannada stirs: 52 cases dropped by Siddaramaiah face court curbs" },
+      { "word": "Strained", "pos": "adjective", "meaning": "(Of a relationship or atmosphere) marked by tension; not relaxed or friendly.", "synonyms": ["tense", "uneasy", "fraught"], "example": "The two sides sought to repair their strained relationship.", "source": "Times of India", "headline": "King Charles hopes to meet Prince Harry and see Archie, Lilibet" }
+    ]
+  },
+  {
     "date": "2026-07-09",
     "label": "9 July 2026",
     "words": [
