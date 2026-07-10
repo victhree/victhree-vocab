@@ -338,11 +338,14 @@ body.home{
   overflow-x:clip;
   background-color:#262c31;
   background-image:
-    linear-gradient(rgba(201,162,75,.055) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(201,162,75,.055) 1px, transparent 1px),
-    radial-gradient(120% 85% at 16% 6%, rgba(128,112,70,.24), transparent 55%),
-    radial-gradient(120% 90% at 88% 42%, rgba(76,102,118,.18), transparent 55%);
-  background-size:30px 30px, 30px 30px, auto, auto;
+    linear-gradient(rgba(201,162,75,.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(201,162,75,.05) 1px, transparent 1px),
+    linear-gradient(rgba(15,20,14,.70), rgba(13,17,12,.80)),
+    url('../assets/camo.jpg');
+  background-size:30px 30px, 30px 30px, auto, cover;
+  background-position:center, center, center, center;
+  background-repeat:repeat, repeat, no-repeat, no-repeat;
+  background-attachment:scroll, scroll, fixed, fixed;
   color:var(--hud-white);
 }
 body.home .vbanner{background:transparent}
