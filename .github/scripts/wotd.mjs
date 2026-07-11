@@ -6,8 +6,9 @@
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 
 const API_KEY = process.env.GEMINI_API_KEY;
-// Tried in order; first one that works wins. Guards against Google renaming models.
-const MODELS = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-flash-latest', 'gemini-1.5-flash'];
+// Tried in order; first one that works wins. Guards against a model being renamed,
+// rate-limited (429), or overloaded (503). (gemini-1.5-flash was removed — 404 on v1beta.)
+const MODELS = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-2.5-flash-lite', 'gemini-2.0-flash-lite'];
 const OUT = 'docs/data/wotd.json';
 const KEEP_DAYS = 30;
 
@@ -109,23 +110,26 @@ ${headlines}`;
     },
     required: ['word', 'pos', 'meaning', 'synonyms', 'example', 'source', 'headline'],
   };
-  const body = JSON.stringify({
-    contents: [{ parts: [{ text: prompt }] }],
-    generationConfig: {
-      temperature: 0.7,
-      maxOutputTokens: 8000,
-      responseMimeType: 'application/json',
-      responseSchema: {
-        type: 'object',
-        properties: { words: { type: 'array', items: wordSchema } },
-        required: ['words'],
-      },
+  const genConfig = {
+    temperature: 0.7,
+    maxOutputTokens: 8000,
+    responseMimeType: 'application/json',
+    responseSchema: {
+      type: 'object',
+      properties: { words: { type: 'array', items: wordSchema } },
+      required: ['words'],
     },
-  });
+  };
 
   let lastErr = '';
   for (const model of MODELS) {
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
+    // Gemini 2.5 does hidden "thinking" that eats the output budget and was truncating
+    // the JSON mid-array. Disable it for 2.5 models (2.0 models don't accept the field).
+    const cfg = model.startsWith('gemini-2.5')
+      ? { ...genConfig, thinkingConfig: { thinkingBudget: 0 } }
+      : genConfig;
+    const body = JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: cfg });
     try {
       const r = await fetch(url, {
         method: 'POST',
