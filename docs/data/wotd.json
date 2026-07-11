@@ -12,126 +12,126 @@
           "fraud",
           "theft"
         ],
-        "example": "PM Modi must take responsibility for alleged misappropriation Ram Temple Trust.",
+        "example": "PM Modi must take responsibility for alleged misappropriation of Ram Temple Trust funds.",
         "source": "The Hindu",
         "headline": "PM Modi must take responsibility for alleged misappropriation Ram Temple Trust: Rajeev Gowda"
       },
       {
-        "word": "Suffice",
-        "pos": "verb",
-        "meaning": "Be enough or adequate.",
+        "word": "Nodal",
+        "pos": "adjective",
+        "meaning": "Relating to or forming a node; central or connecting.",
         "synonyms": [
-          "be sufficient",
-          "be adequate",
-          "do"
+          "central",
+          "key",
+          "focal"
         ],
-        "example": "Resignations alone would not suffice, says party general secretary Raja.",
+        "example": "KMVN is the nodal agency for the Kailash-Mansarovar Yatra.",
         "source": "The Hindu",
-        "headline": "CPI questions PM Modi’s silence over Ram Temple case"
+        "headline": "First batch of Kailash-Mansarovar Yatra pilgrims reaches Tibet"
       },
       {
         "word": "Dereliction",
         "pos": "noun",
-        "meaning": "The state of having abandoned one's duty or responsibilities.",
+        "meaning": "The state of having been abandoned or neglected; willful neglect of duty.",
         "synonyms": [
           "neglect",
-          "failure",
-          "default"
+          "abandonment",
+          "failure"
         ],
-        "example": "The introduction of these books was a result of “serious negligence, dereliction of duty and lack of proper d.",
+        "example": "The introduction of these books was a result of serious negligence and dereliction of duty.",
         "source": "The Hindu",
         "headline": "How two ‘objectionable’ books triggered a crackdown on J&K’s varsity and college libraries | Explained"
       },
       {
-        "word": "Formulation",
-        "pos": "noun",
-        "meaning": "A mixture or compound prepared according to a formula.",
-        "synonyms": [
-          "preparation",
-          "mixture",
-          "compound"
-        ],
-        "example": "Govt. amends rules to strengthen regulation of drug formulations with high alcohol content.",
-        "source": "The Hindu",
-        "headline": "Govt. amends rules to strengthen regulation of drug formulations with high alcohol content"
-      },
-      {
         "word": "Paltry",
         "pos": "adjective",
-        "meaning": "Small or meager.",
+        "meaning": "Small or meager amount.",
         "synonyms": [
-          "insignificant",
           "meager",
+          "insufficient",
           "trifling"
         ],
-        "example": "Bihar witnessed a record power supply of 9426 MW from a paltry supply of 700 MW in 2005.",
+        "example": "Bihar's power supply increased from a paltry 700 MW in 2005.",
         "source": "The Hindu",
         "headline": "Bihar’s per capita power consumption increased more than five times to 401 units from 75 in 2005"
       },
       {
-        "word": "Elevate",
+        "word": "Assassinate",
         "pos": "verb",
-        "meaning": "Raise to a more important or impressive level.",
+        "meaning": "To murder an important person for political or religious reasons.",
         "synonyms": [
-          "promote",
-          "upgrade",
-          "advance"
+          "kill",
+          "slay",
+          "execute"
         ],
-        "example": "India, New Zealand elevate ties to strategic partnership; target ₹35,000 crore trade by 2030.",
-        "source": "The Hindu",
-        "headline": "India, New Zealand elevate ties to strategic partnership; target ₹35,000 crore trade by 2030"
-      },
-      {
-        "word": "Decimate",
-        "pos": "verb",
-        "meaning": "Kill, destroy, or remove a large percentage or part of.",
-        "synonyms": [
-          "annihilate",
-          "destroy",
-          "devastate"
-        ],
-        "example": "Donald Trump that the U.S. military would “completely decimate and destroy all areas of Iran.",
-        "source": "The Hindu",
-        "headline": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw open calls for his killing"
-      },
-      {
-        "word": "Hinder",
-        "pos": "verb",
-        "meaning": "Create difficulties for (someone or something), resulting in delay or obstruction.",
-        "synonyms": [
-          "obstruct",
-          "impede",
-          "hamper"
-        ],
-        "example": "Kyiv has beefed up its efforts to hinder Moscow’s financial capabilities in its war against Ukraine.",
-        "source": "The Hindu",
-        "headline": "Ukrainian drones hit southern Russian refineries, Azov port"
+        "example": "Trump warns 'orders given' if Tehran tries to assassinate him.",
+        "source": "Times of India",
+        "headline": "'1,000 missiles aimed at Iran': Trump warns 'orders given' if Tehran tries to assassinate him"
       },
       {
         "word": "Throttled",
         "pos": "verb",
-        "meaning": "Restrict or impede the normal development of.",
+        "meaning": "To prevent growth or success; to restrict or stop the flow of something.",
         "synonyms": [
-          "choke",
-          "stifle",
-          "suppress"
+          "stifled",
+          "choked",
+          "suppressed"
         ],
-        "example": "The two nations reached an interim deal to end a four-month conflict that has throttled worldwide energy supplies.",
+        "example": "The conflict has throttled worldwide energy supplies.",
         "source": "The Hindu",
         "headline": "Iran has asked to continue talks, and the U.S. agreed, Trump says"
       },
       {
-        "word": "Plush",
-        "pos": "adjective",
-        "meaning": "Luxurious and expensive.",
+        "word": "Prevailed",
+        "pos": "verb",
+        "meaning": "To prove more powerful or superior; to be victorious.",
         "synonyms": [
-          "lavish",
-          "opulent",
-          "sumptuous"
+          "triumphed",
+          "succeeded",
+          "overcame"
         ],
-        "example": "60 bullets in 2 mins: Plush Gurgaon society turns battlefield; class 11 student among 4 dead.",
+        "example": "The truth eventually prevailed in the court case.",
+        "source": "The Hindu",
+        "headline": "BJP calls Congress’s charge against Union Home Minister on FCRA ‘baseless and politically motivated’"
+      },
+      {
+        "word": "Rampage",
+        "pos": "noun",
+        "meaning": "A period of unrestrained and violent behavior.",
+        "synonyms": [
+          "frenzy",
+          "spree",
+          "outburst"
+        ],
+        "example": "The man went on a murder rampage, killing several people.",
         "source": "Times of India",
-        "headline": "60 bullets in 2 mins: Plush Gurgaon society turns battlefield; class 11 student among 4 dead"
+        "headline": "Murder rampage: Man out on bail kills Pocso victim, her family & then his own; manhunt on"
+      },
+      {
+        "word": "Belligerent",
+        "pos": "adjective",
+        "meaning": "Hostile and aggressive; engaged in war or conflict.",
+        "synonyms": [
+          "aggressive",
+          "combative",
+          "hostile"
+        ],
+        "example": "The warring sides exchanged strikes again this week, displaying their belligerent stance.",
+        "source": "The Hindu",
+        "headline": "West Asia war LIVE: Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw open calls for his killing"
+      },
+      {
+        "word": "Indigenous",
+        "pos": "adjective",
+        "meaning": "Originating or occurring naturally in a particular place; native.",
+        "synonyms": [
+          "native",
+          "aboriginal",
+          "local"
+        ],
+        "example": "INS Mahendragiri is India’s new indigenous stealth frigate.",
+        "source": "The Hindu",
+        "headline": "INS Mahendragiri: All you need to know about the Indian Navy’s new indigenous stealth frigate"
       }
     ]
   },
