@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-11",
+    "label": "11 July 2026",
+    "words": [
+      {
+        "word": "Resilience",
+        "pos": "noun",
+        "meaning": "The capacity to recover quickly from difficulties; toughness.",
+        "synonyms": [
+          "fortitude",
+          "pliability",
+          "endurance"
+        ],
+        "example": "The frigate symbolises strength, resilience and determination.",
+        "source": "The Hindu",
+        "headline": "INS Mahendragiri: All you need to know about the Indian Navy’s new indigenous stealth frigate"
+      },
+      {
+        "word": "Dereliction",
+        "pos": "noun",
+        "meaning": "The state of having been abandoned or neglected; willful neglect of duty.",
+        "synonyms": [
+          "neglect",
+          "abandonment",
+          "desertion"
+        ],
+        "example": "The introduction of these books was a result of serious negligence and dereliction of duty.",
+        "source": "The Hindu",
+        "headline": "How two ‘objectionable’ books triggered a crackdown on J&K’s varsity and college libraries | Explained"
+      },
+      {
+        "word": "Formulation",
+        "pos": "noun",
+        "meaning": "A mixture or preparation made to a specific formula.",
+        "synonyms": [
+          "mixture",
+          "preparation",
+          "compound"
+        ],
+        "example": "Government amends rules to strengthen regulation of drug formulations with high alcohol content.",
+        "source": "The Hindu",
+        "headline": "Govt. amends rules to strengthen regulation of drug formulations with high alcohol content"
+      },
+      {
+        "word": "Precaution",
+        "pos": "noun",
+        "meaning": "A measure taken in advance to prevent something undesirable from happening.",
+        "synonyms": [
+          "safeguard",
+          "caution",
+          "forethought"
+        ],
+        "example": "Repeated signal failures can lead to catastrophic consequences if precautions are not taken.",
+        "source": "The Hindu",
+        "headline": "Railways issue alert after cable cuts trigger signal failures, safety concerns"
+      },
+      {
+        "word": "Applicability",
+        "pos": "noun",
+        "meaning": "The quality of being relevant or appropriate.",
+        "synonyms": [
+          "relevance",
+          "pertinence",
+          "suitability"
+        ],
+        "example": "Institutes want guarantees on autonomy, clarity on applicability of statutory provisions governing them.",
+        "source": "The Hindu",
+        "headline": "IITs, IIMs push back against VBSA norms"
+      },
+      {
+        "word": "Vociferous",
+        "pos": "adjective",
+        "meaning": "(Especially of a person or speech) vehement or clamorous.",
+        "synonyms": [
+          "outspoken",
+          "vehement",
+          "clamorous"
+        ],
+        "example": "Most Opposition parties had vociferously declined to join the panel.",
+        "source": "The Hindu",
+        "headline": "Parliament panel seeks changes to Bill on removal of PM, CMs and Ministers after 30 days in jail"
+      },
+      {
+        "word": "Devastating",
+        "pos": "adjective",
+        "meaning": "Highly destructive or damaging.",
+        "synonyms": [
+          "ruinous",
+          "catastrophic",
+          "calamitous"
+        ],
+        "example": "A U.S.-Israeli strike killed Ayatollah Ali Khamenei and triggered a devastating war.",
+        "source": "The Hindu",
+        "headline": "Price of peace in the time of war"
+      },
+      {
+        "word": "Anticipated",
+        "pos": "verb",
+        "meaning": "Regard as probable; expect or predict.",
+        "synonyms": [
+          "expected",
+          "foreseen",
+          "predicted"
+        ],
+        "example": "The tapestry's arrival in London has been widely anticipated due to security concerns.",
+        "source": "The Hindu",
+        "headline": "Bayeux Tapestry is at the British Museum after a secret journey from France"
+      },
+      {
+        "word": "Plush",
+        "pos": "adjective",
+        "meaning": "Luxurious, expensive, and comfortable.",
+        "synonyms": [
+          "luxurious",
+          "opulent",
+          "sumptuous"
+        ],
+        "example": "A plush Gurgaon society turns into a battlefield.",
+        "source": "Times of India",
+        "headline": "60 bullets in 2mins: Plush Gurgaon society turns battlefield; class 11 student among 4 dead"
+      },
+      {
+        "word": "Decisive",
+        "pos": "adjective",
+        "meaning": "Settling an issue conclusively; producing a definite result.",
+        "synonyms": [
+          "conclusive",
+          "definitive",
+          "critical"
+        ],
+        "example": "Mikel Merino scored another decisive late goal for Spain against Belgium.",
+        "source": "Times of India",
+        "headline": "Mikel Merino creates FIFA World Cup history, becomes first player to..."
+      }
+    ]
+  },
+  {
     "date": "2026-07-10",
     "label": "10 July 2026",
     "words": [
