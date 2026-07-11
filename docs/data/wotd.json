@@ -4,134 +4,134 @@
     "label": "11 July 2026",
     "words": [
       {
-        "word": "Resilience",
+        "word": "Misappropriation",
         "pos": "noun",
-        "meaning": "The capacity to recover quickly from difficulties; toughness.",
+        "meaning": "The action of taking something dishonestly for one's own use.",
         "synonyms": [
-          "fortitude",
-          "pliability",
-          "endurance"
+          "embezzlement",
+          "fraud",
+          "theft"
         ],
-        "example": "The frigate symbolises strength, resilience and determination.",
+        "example": "PM Modi must take responsibility for alleged misappropriation Ram Temple Trust.",
         "source": "The Hindu",
-        "headline": "INS Mahendragiri: All you need to know about the Indian Navy’s new indigenous stealth frigate"
+        "headline": "PM Modi must take responsibility for alleged misappropriation Ram Temple Trust: Rajeev Gowda"
+      },
+      {
+        "word": "Suffice",
+        "pos": "verb",
+        "meaning": "Be enough or adequate.",
+        "synonyms": [
+          "be sufficient",
+          "be adequate",
+          "do"
+        ],
+        "example": "Resignations alone would not suffice, says party general secretary Raja.",
+        "source": "The Hindu",
+        "headline": "CPI questions PM Modi’s silence over Ram Temple case"
       },
       {
         "word": "Dereliction",
         "pos": "noun",
-        "meaning": "The state of having been abandoned or neglected; willful neglect of duty.",
+        "meaning": "The state of having abandoned one's duty or responsibilities.",
         "synonyms": [
           "neglect",
-          "abandonment",
-          "desertion"
+          "failure",
+          "default"
         ],
-        "example": "The introduction of these books was a result of serious negligence and dereliction of duty.",
+        "example": "The introduction of these books was a result of “serious negligence, dereliction of duty and lack of proper d.",
         "source": "The Hindu",
         "headline": "How two ‘objectionable’ books triggered a crackdown on J&K’s varsity and college libraries | Explained"
       },
       {
         "word": "Formulation",
         "pos": "noun",
-        "meaning": "A mixture or preparation made to a specific formula.",
+        "meaning": "A mixture or compound prepared according to a formula.",
         "synonyms": [
-          "mixture",
           "preparation",
+          "mixture",
           "compound"
         ],
-        "example": "Government amends rules to strengthen regulation of drug formulations with high alcohol content.",
+        "example": "Govt. amends rules to strengthen regulation of drug formulations with high alcohol content.",
         "source": "The Hindu",
         "headline": "Govt. amends rules to strengthen regulation of drug formulations with high alcohol content"
       },
       {
-        "word": "Precaution",
-        "pos": "noun",
-        "meaning": "A measure taken in advance to prevent something undesirable from happening.",
-        "synonyms": [
-          "safeguard",
-          "caution",
-          "forethought"
-        ],
-        "example": "Repeated signal failures can lead to catastrophic consequences if precautions are not taken.",
-        "source": "The Hindu",
-        "headline": "Railways issue alert after cable cuts trigger signal failures, safety concerns"
-      },
-      {
-        "word": "Applicability",
-        "pos": "noun",
-        "meaning": "The quality of being relevant or appropriate.",
-        "synonyms": [
-          "relevance",
-          "pertinence",
-          "suitability"
-        ],
-        "example": "Institutes want guarantees on autonomy, clarity on applicability of statutory provisions governing them.",
-        "source": "The Hindu",
-        "headline": "IITs, IIMs push back against VBSA norms"
-      },
-      {
-        "word": "Vociferous",
+        "word": "Paltry",
         "pos": "adjective",
-        "meaning": "(Especially of a person or speech) vehement or clamorous.",
+        "meaning": "Small or meager.",
         "synonyms": [
-          "outspoken",
-          "vehement",
-          "clamorous"
+          "insignificant",
+          "meager",
+          "trifling"
         ],
-        "example": "Most Opposition parties had vociferously declined to join the panel.",
+        "example": "Bihar witnessed a record power supply of 9426 MW from a paltry supply of 700 MW in 2005.",
         "source": "The Hindu",
-        "headline": "Parliament panel seeks changes to Bill on removal of PM, CMs and Ministers after 30 days in jail"
+        "headline": "Bihar’s per capita power consumption increased more than five times to 401 units from 75 in 2005"
       },
       {
-        "word": "Devastating",
-        "pos": "adjective",
-        "meaning": "Highly destructive or damaging.",
-        "synonyms": [
-          "ruinous",
-          "catastrophic",
-          "calamitous"
-        ],
-        "example": "A U.S.-Israeli strike killed Ayatollah Ali Khamenei and triggered a devastating war.",
-        "source": "The Hindu",
-        "headline": "Price of peace in the time of war"
-      },
-      {
-        "word": "Anticipated",
+        "word": "Elevate",
         "pos": "verb",
-        "meaning": "Regard as probable; expect or predict.",
+        "meaning": "Raise to a more important or impressive level.",
         "synonyms": [
-          "expected",
-          "foreseen",
-          "predicted"
+          "promote",
+          "upgrade",
+          "advance"
         ],
-        "example": "The tapestry's arrival in London has been widely anticipated due to security concerns.",
+        "example": "India, New Zealand elevate ties to strategic partnership; target ₹35,000 crore trade by 2030.",
         "source": "The Hindu",
-        "headline": "Bayeux Tapestry is at the British Museum after a secret journey from France"
+        "headline": "India, New Zealand elevate ties to strategic partnership; target ₹35,000 crore trade by 2030"
+      },
+      {
+        "word": "Decimate",
+        "pos": "verb",
+        "meaning": "Kill, destroy, or remove a large percentage or part of.",
+        "synonyms": [
+          "annihilate",
+          "destroy",
+          "devastate"
+        ],
+        "example": "Donald Trump that the U.S. military would “completely decimate and destroy all areas of Iran.",
+        "source": "The Hindu",
+        "headline": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw open calls for his killing"
+      },
+      {
+        "word": "Hinder",
+        "pos": "verb",
+        "meaning": "Create difficulties for (someone or something), resulting in delay or obstruction.",
+        "synonyms": [
+          "obstruct",
+          "impede",
+          "hamper"
+        ],
+        "example": "Kyiv has beefed up its efforts to hinder Moscow’s financial capabilities in its war against Ukraine.",
+        "source": "The Hindu",
+        "headline": "Ukrainian drones hit southern Russian refineries, Azov port"
+      },
+      {
+        "word": "Throttled",
+        "pos": "verb",
+        "meaning": "Restrict or impede the normal development of.",
+        "synonyms": [
+          "choke",
+          "stifle",
+          "suppress"
+        ],
+        "example": "The two nations reached an interim deal to end a four-month conflict that has throttled worldwide energy supplies.",
+        "source": "The Hindu",
+        "headline": "Iran has asked to continue talks, and the U.S. agreed, Trump says"
       },
       {
         "word": "Plush",
         "pos": "adjective",
-        "meaning": "Luxurious, expensive, and comfortable.",
+        "meaning": "Luxurious and expensive.",
         "synonyms": [
-          "luxurious",
+          "lavish",
           "opulent",
           "sumptuous"
         ],
-        "example": "A plush Gurgaon society turns into a battlefield.",
+        "example": "60 bullets in 2 mins: Plush Gurgaon society turns battlefield; class 11 student among 4 dead.",
         "source": "Times of India",
-        "headline": "60 bullets in 2mins: Plush Gurgaon society turns battlefield; class 11 student among 4 dead"
-      },
-      {
-        "word": "Decisive",
-        "pos": "adjective",
-        "meaning": "Settling an issue conclusively; producing a definite result.",
-        "synonyms": [
-          "conclusive",
-          "definitive",
-          "critical"
-        ],
-        "example": "Mikel Merino scored another decisive late goal for Spain against Belgium.",
-        "source": "Times of India",
-        "headline": "Mikel Merino creates FIFA World Cup history, becomes first player to..."
+        "headline": "60 bullets in 2 mins: Plush Gurgaon society turns battlefield; class 11 student among 4 dead"
       }
     ]
   },
