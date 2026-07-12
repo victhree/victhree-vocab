@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-12",
+    "label": "12 July 2026",
+    "words": [
+      {
+        "word": "Contour",
+        "pos": "noun",
+        "meaning": "An outline or a shape, especially one that defines a form.",
+        "synonyms": [
+          "outline",
+          "silhouette",
+          "form"
+        ],
+        "example": "Janaki amma’s voice gave contour to the heroines, their fears, their desires, their hopes and their dreams.",
+        "source": "The Hindu",
+        "headline": "S. Janaki: The Isai Arasi who established the voice of the rural, female heroine"
+      },
+      {
+        "word": "Culminate",
+        "pos": "verb",
+        "meaning": "To reach a climax or point of highest development.",
+        "synonyms": [
+          "climax",
+          "conclude",
+          "finish"
+        ],
+        "example": "A years-long U.S. investigation culminated in charges against 37 people linked to alleged transnational crime syndicates.",
+        "source": "The Hindu",
+        "headline": "How undercover agents and informants helped the FBI unravel Lawrence Bishnoi’s gang | Explained"
+      },
+      {
+        "word": "Undulation",
+        "pos": "noun",
+        "meaning": "A rising and falling in waves; a wavy form or outline.",
+        "synonyms": [
+          "wave",
+          "ripple",
+          "oscillation"
+        ],
+        "example": "The gaping undulations were caused primarily by settlement of the road’s 4-lane carriageway.",
+        "source": "The Hindu",
+        "headline": "Committee suggests ₹10-crore project to end undulations on S.A. Road"
+      },
+      {
+        "word": "Inimitably",
+        "pos": "adverb",
+        "meaning": "In a way that is so good or unusual as to be impossible to copy; uniquely.",
+        "synonyms": [
+          "uniquely",
+          "matchlessly",
+          "peerlessly"
+        ],
+        "example": "Janaki inimitably lent her voice to numerous evergreen Malayalam film songs from the 1960s to the 1990s.",
+        "source": "The Hindu",
+        "headline": "S. Janaki’s fresh voice, improvisation made Kerala groove to her tunes"
+      },
+      {
+        "word": "Fabric",
+        "pos": "noun",
+        "meaning": "The underlying structure or basic framework of something.",
+        "synonyms": [
+          "structure",
+          "framework",
+          "essence"
+        ],
+        "example": "An artiste whose songs dissolved linguistic boundaries and became woven into the emotional fabric of the State’s cultural life.",
+        "source": "The Hindu",
+        "headline": "S. Janaki: Not Kerala-born, but forever its voice"
+      },
+      {
+        "word": "Belligerent",
+        "pos": "adjective",
+        "meaning": "Hostile and aggressive; given to fighting.",
+        "synonyms": [
+          "aggressive",
+          "hostile",
+          "combative"
+        ],
+        "example": "Faced with external security challenges and internal divisions, especially under a sceptical Donald Trump administration, European members are preparing to play a larger role in keeping the alliance united and functional.",
+        "source": "The Hindu",
+        "headline": "NATO | Towards a more European alliance"
+      },
+      {
+        "word": "Decimate",
+        "pos": "verb",
+        "meaning": "To kill, destroy, or remove a large percentage or part of.",
+        "synonyms": [
+          "annihilate",
+          "destroy",
+          "devastate"
+        ],
+        "example": "Earlier Trump had said any attempt to assassinate him would lead the U.S. to ‘completely decimate Iran’.",
+        "source": "The Hindu",
+        "headline": "Mojtaba vows revenge for father’s killing after Trump’s new threat"
+      },
+      {
+        "word": "Confrontation",
+        "pos": "noun",
+        "meaning": "A hostile or argumentative meeting or situation between opposing parties.",
+        "synonyms": [
+          "conflict",
+          "clash",
+          "dispute"
+        ],
+        "example": "The alliance demonstrated a stronger commitment ‌to bloc-to-bloc confrontation through increased arms spending and closer military ‌cooperation ⁠with allies.",
+        "source": "The Hindu",
+        "headline": "North Korea condemns NATO summit; says denuclearisation should begin with U.S. allies"
+      },
+      {
+        "word": "Trajectory",
+        "pos": "noun",
+        "meaning": "The path followed by a projectile flying or an object moving under the action of given forces; a course of development.",
+        "synonyms": [
+          "path",
+          "course",
+          "route"
+        ],
+        "example": "The legislation is the culmination of a policy trajectory that has been building for over a decade.",
+        "source": "The Hindu",
+        "headline": "What’s China’s new ethnic unity law? | Explained"
+      },
+      {
+        "word": "Philanthropic",
+        "pos": "adjective",
+        "meaning": "Of, relating to, or characterized by philanthropy; benevolent.",
+        "synonyms": [
+          "charitable",
+          "benevolent",
+          "generous"
+        ],
+        "example": "Melinda French Gates received the Josef Korbel Award for her philanthropic work.",
+        "source": "Times of India",
+        "headline": "Melinda Gates to students: When a woman steps into power, it is better for all"
+      }
+    ]
+  },
+  {
     "date": "2026-07-11",
     "label": "11 July 2026",
     "words": [
