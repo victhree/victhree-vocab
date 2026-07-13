@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-13",
+    "label": "13 July 2026",
+    "words": [
+      {
+        "word": "Bleak",
+        "pos": "adjective",
+        "meaning": "Not hopeful or encouraging; dreary.",
+        "synonyms": [
+          "Dismal",
+          "Grim",
+          "Desolate"
+        ],
+        "example": "Prospects of kharif cultivation turn bleak in Telangana with monsoon failure.",
+        "source": "The Hindu",
+        "headline": "Prospects of kharif cultivation turns bleak in Telangana with monsoon failure"
+      },
+      {
+        "word": "Apprehension",
+        "pos": "noun",
+        "meaning": "Anxiety or fear that something bad or unpleasant will happen.",
+        "synonyms": [
+          "Dread",
+          "Unease",
+          "Foreboding"
+        ],
+        "example": "A democratic society cannot flourish where people continue to live under an environment of constant apprehension.",
+        "source": "The Hindu",
+        "headline": "Mehbooba placed under 'house arrest' ahead of Martyrs’ Day; PDP raises rights concerns"
+      },
+      {
+        "word": "Deluged",
+        "pos": "verb",
+        "meaning": "Overwhelm with a great flood of something.",
+        "synonyms": [
+          "Inundated",
+          "Swamped",
+          "Flooded"
+        ],
+        "example": "Bangladesh reports 44 deaths due to floods; capital Dhaka deluged.",
+        "source": "The Hindu",
+        "headline": "Bangladesh reports 44 deaths due to floods; capital Dhaka deluged"
+      },
+      {
+        "word": "Escalates",
+        "pos": "verb",
+        "meaning": "Increase rapidly; make or become more intense or serious.",
+        "synonyms": [
+          "Intensifies",
+          "Aggravates",
+          "Mounts"
+        ],
+        "example": "U.S. launches more strikes on Iran as standoff over Strait of Hormuz escalates.",
+        "source": "The Hindu",
+        "headline": "U.S. launches more strikes on Iran as standoff over Strait of Hormuz escalates"
+      },
+      {
+        "word": "Degrade",
+        "pos": "verb",
+        "meaning": "Reduce the quality or value of; treat or regard someone with contempt or disrespect.",
+        "synonyms": [
+          "Debase",
+          "Devalue",
+          "Deteriorate"
+        ],
+        "example": "These operations aimed to degrade Iran's capability to attack commercial shipping vessels.",
+        "source": "Times of India",
+        "headline": "Gulf war: US steps up strikes to 'degrade' Iran's ability to attack ships, mariners at Hormuz"
+      },
+      {
+        "word": "Capsize",
+        "pos": "verb",
+        "meaning": "To overturn in the water.",
+        "synonyms": [
+          "Overturn",
+          "Flip",
+          "Topple"
+        ],
+        "example": "The boat carrying 32 Indian tourists overturned in rough seas off May Rut Ngoai islet.",
+        "source": "The Hindu",
+        "headline": "Vietnam arrests speedboat captain after deadly capsize"
+      },
+      {
+        "word": "Commuted",
+        "pos": "verb",
+        "meaning": "Reduce (a judicial sentence, especially a sentence of death) to one less severe.",
+        "synonyms": [
+          "Lessened",
+          "Reduced",
+          "Mitigated"
+        ],
+        "example": "Suu Kyi is serving a 27-year sentence, recently commuted by one-third.",
+        "source": "The Hindu",
+        "headline": "Myanmar tells ASEAN Aung San Suu Kyi will be looked after: envoy"
+      },
+      {
+        "word": "Vociferous",
+        "pos": "adjective",
+        "meaning": "Crying out noisily; characterized by or given to vehement outcry.",
+        "synonyms": [
+          "Vehement",
+          "Clamorous",
+          "Boisterous"
+        ],
+        "example": "There was public outcry soon after the BJP government renamed Kolkata’s Suhrawardy Avenue.",
+        "source": "The Hindu",
+        "headline": "Road rage | Politics of renaming a street in Bengal"
+      },
+      {
+        "word": "Geriatric",
+        "pos": "adjective",
+        "meaning": "Relating to old people, especially with regard to their healthcare.",
+        "synonyms": [
+          "Elderly",
+          "Aged",
+          "Senescent"
+        ],
+        "example": "Ernakulam to get government-run geriatric centre.",
+        "source": "The Hindu",
+        "headline": "Ernakulam to get government-run geriatric centre"
+      },
+      {
+        "word": "Repatriation",
+        "pos": "noun",
+        "meaning": "The return of someone to their own country.",
+        "synonyms": [
+          "Return",
+          "Deportation",
+          "Expatriation"
+        ],
+        "example": "The Embassy remains committed to facilitating the earliest repatriation of the bodies.",
+        "source": "The Hindu",
+        "headline": "Vietnam boat tragedy: Bodies of 15 Indian tourists to be sent home soon"
+      }
+    ]
+  },
+  {
     "date": "2026-07-12",
     "label": "12 July 2026",
     "words": [
