@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-14",
+    "label": "14 July 2026",
+    "words": [
+      {
+        "word": "Escalate",
+        "pos": "verb",
+        "meaning": "Increase rapidly; become more intense or serious",
+        "synonyms": [
+          "intensify",
+          "aggravate",
+          "worsen"
+        ],
+        "example": "The row over the township, championed by Chief Minister, has only escalated further.",
+        "source": "The Hindu",
+        "headline": "Survey for Bidadi Township ends in chaos as women farmers chase officials with brooms"
+      },
+      {
+        "word": "Reaffirm",
+        "pos": "verb",
+        "meaning": "State again strongly; confirm",
+        "synonyms": [
+          "reassert",
+          "reiterate",
+          "confirm"
+        ],
+        "example": "The two sides reaffirmed their commitment to further strengthening the India-Japan Special Strategic and Global Partnership.",
+        "source": "The Hindu",
+        "headline": "India, Japan review defence ties, prepare ground for 2+2 dialogue later this year"
+      },
+      {
+        "word": "Harrowing",
+        "pos": "adjective",
+        "meaning": "Extremely distressing; terrifying",
+        "synonyms": [
+          "disturbing",
+          "agonizing",
+          "traumatic"
+        ],
+        "example": "Vietnam boat capsize survivors recount harrowing moments.",
+        "source": "The Hindu",
+        "headline": "Tragedy at sea: Vietnam boat capsize survivors recount harrowing moments"
+      },
+      {
+        "word": "Adjudicate",
+        "pos": "verb",
+        "meaning": "Make a formal judgment or decision about a problem or disputed matter",
+        "synonyms": [
+          "arbitrate",
+          "decide",
+          "rule"
+        ],
+        "example": "SC tells tribunals to adjudicate afresh on foreigners' citizenship.",
+        "source": "The Hindu",
+        "headline": "Fair, reasoned process must decide citizenship: Supreme Court"
+      },
+      {
+        "word": "Wean",
+        "pos": "verb",
+        "meaning": "To detach or alienate from a source of dependence",
+        "synonyms": [
+          "detach",
+          "discourage",
+          "dissuade"
+        ],
+        "example": "It is time to wean Tamil Nadu away from populist doles.",
+        "source": "The Hindu",
+        "headline": "Time to wean Tamil Nadu away from populist doles"
+      },
+      {
+        "word": "Vow",
+        "pos": "verb",
+        "meaning": "Solemnly promise to do a specified thing",
+        "synonyms": [
+          "swear",
+          "pledge",
+          "resolve"
+        ],
+        "example": "Zelenskyy is vowing to keep up the pressure on Moscow.",
+        "source": "The Hindu",
+        "headline": "Russian and Ukrainian air strikes kill 10 people in both countries"
+      },
+      {
+        "word": "Blockade",
+        "pos": "noun",
+        "meaning": "An act or means of sealing off a place to prevent goods or people from entering or leaving",
+        "synonyms": [
+          "siege",
+          "barricade",
+          "embargo"
+        ],
+        "example": "Trump says U.S. will blockade Iran in Strait of Hormuz.",
+        "source": "The Hindu",
+        "headline": "Trump says U.S. will blockade Iran in Strait of Hormuz and will charge ships for safe passage"
+      },
+      {
+        "word": "Paramilitary",
+        "pos": "adjective",
+        "meaning": "Relating to a force whose function and organisation are similar to those of a professional military force but which is not formally part of it",
+        "synonyms": [
+          "auxiliary",
+          "militia",
+          "irregular"
+        ],
+        "example": "The government banned Iran's powerful paramilitary Revolutionary Guard.",
+        "source": "The Hindu",
+        "headline": "U.K. says an Iran-backed group was behind attacks on Jewish community, bans Revolutionary Guard"
+      },
+      {
+        "word": "Solemn",
+        "pos": "adjective",
+        "meaning": "Formal and dignified; serious",
+        "synonyms": [
+          "grave",
+          "earnest",
+          "somber"
+        ],
+        "example": "The incident took place on Yom Kippur, the most solemn day in the Jewish calendar.",
+        "source": "The Hindu",
+        "headline": "Three dead in Manchester synagogue ‘terrorist’ attack, including suspect: U.K. police; two arrests made"
+      },
+      {
+        "word": "Aggravating",
+        "pos": "adjective",
+        "meaning": "Making a problem, injury, or offense worse or more serious",
+        "synonyms": [
+          "exacerbating",
+          "worsening",
+          "intensifying"
+        ],
+        "example": "Extreme heat can kill by causing heat stroke, or aggravating cardiovascular and respiratory diseases.",
+        "source": "The Hindu",
+        "headline": "Europe recorded 10,000 excess deaths during late-June heatwave, data show"
+      }
+    ]
+  },
+  {
     "date": "2026-07-13",
     "label": "13 July 2026",
     "words": [
