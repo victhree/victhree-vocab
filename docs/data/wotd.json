@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-15",
+    "label": "15 July 2026",
+    "words": [
+      {
+        "word": "Redraft",
+        "pos": "verb",
+        "meaning": "To revise or rewrite a text or document.",
+        "synonyms": [
+          "rewrite",
+          "revise",
+          "rework"
+        ],
+        "example": "Naidu instructs officials to constitute a committee to redraft the Business Rules.",
+        "source": "The Hindu",
+        "headline": "CM Naidu calls for reforms in business rules, faster governance through technology"
+      },
+      {
+        "word": "Expedite",
+        "pos": "verb",
+        "meaning": "To make an action or process happen more quickly.",
+        "synonyms": [
+          "accelerate",
+          "hasten",
+          "speed up"
+        ],
+        "example": "His government has expedited the land transfer process to the Border Security Force.",
+        "source": "The Hindu",
+        "headline": "West Bengal govt allocates 1,000 km of land to set up fence of about 172 km along international border"
+      },
+      {
+        "word": "Heinous",
+        "pos": "adjective",
+        "meaning": "(Of a person or wrongful act, especially of a crime) utterly odious or wicked.",
+        "synonyms": [
+          "atrocious",
+          "monstrous",
+          "abominable"
+        ],
+        "example": "They will be blamed for this heinous crime and theft at the temple.",
+        "source": "The Hindu",
+        "headline": "Ram Temple corruption episode biggest proof of BJP govt. failure: U.P. Congress chief Ajay Rai"
+      },
+      {
+        "word": "Embroil",
+        "pos": "verb",
+        "meaning": "To involve (someone) deeply in an argument, conflict, or difficult situation.",
+        "synonyms": [
+          "entangle",
+          "involve",
+          "implicate"
+        ],
+        "example": "Mustafa Kamal would blame the Congress for embroiling the Kashmir issue.",
+        "source": "The Hindu",
+        "headline": "Dr. Mustafa Kamal, the Abdullah who rooted for J&K’s pre-1953 position, dies in Srinagar"
+      },
+      {
+        "word": "Egregious",
+        "pos": "adjective",
+        "meaning": "Outstandingly bad; shocking.",
+        "synonyms": [
+          "flagrant",
+          "atrocious",
+          "heinous"
+        ],
+        "example": "We expect and hope that the international community will hold Pakistan fully accountable for egregious abuses.",
+        "source": "The Hindu",
+        "headline": "India blames Pakistan for protests in PoK, seeks accountability"
+      },
+      {
+        "word": "Cogent",
+        "pos": "adjective",
+        "meaning": "(Of an argument or case) clear, logical, and convincing.",
+        "synonyms": [
+          "convincing",
+          "compelling",
+          "persuasive"
+        ],
+        "example": "Call records alone not cogent proof, clears woman of husband’s murder.",
+        "source": "The Hindu",
+        "headline": "Supreme Court says call records alone not cogent proof, clears woman of husband’s murder"
+      },
+      {
+        "word": "Omission",
+        "pos": "noun",
+        "meaning": "A failure to do something, especially something that one has a moral or legal obligation to do.",
+        "synonyms": [
+          "neglect",
+          "oversight",
+          "default"
+        ],
+        "example": "Acts and omissions resulted in the publication and distribution of erroneous textbooks.",
+        "source": "The Hindu",
+        "headline": "Former SCERT Director arrested over errors in Odisha textbooks"
+      },
+      {
+        "word": "Deteriorate",
+        "pos": "verb",
+        "meaning": "To become progressively worse.",
+        "synonyms": [
+          "worsen",
+          "decline",
+          "degenerate"
+        ],
+        "example": "As Sonam Wangchuk’s condition deteriorates, leaders urge him to end hunger strike.",
+        "source": "The Hindu",
+        "headline": "CJP protest Day 25: As Sonam Wangchuk’s condition deteriorates, leaders urge him to end hunger strike"
+      },
+      {
+        "word": "Grievously",
+        "pos": "adverb",
+        "meaning": "To a very severe or serious degree.",
+        "synonyms": [
+          "severely",
+          "seriously",
+          "gravely"
+        ],
+        "example": "Three workers were grievously injured and six others suffered minor burns.",
+        "source": "The Hindu",
+        "headline": "Migrant worker from Bihar dies in boiler explosion at factory in Gummidipoondi"
+      },
+      {
+        "word": "Moratorium",
+        "pos": "noun",
+        "meaning": "A temporary prohibition of an activity.",
+        "synonyms": [
+          "embargo",
+          "suspension",
+          "ban"
+        ],
+        "example": "New York to impose the country’s first state-wide moratorium on data centres.",
+        "source": "The Hindu",
+        "headline": "New York to impose the country’s first state-wide moratorium on data centres"
+      }
+    ]
+  },
+  {
     "date": "2026-07-14",
     "label": "14 July 2026",
     "words": [
