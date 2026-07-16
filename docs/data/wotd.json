@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-16",
+    "label": "16 July 2026",
+    "words": [
+      {
+        "word": "Reclaim",
+        "pos": "verb",
+        "meaning": "To retrieve or recover something previously lost, given, or taken away.",
+        "synonyms": [
+          "recover",
+          "regain",
+          "retrieve"
+        ],
+        "example": "In Shillong, chefs are reclaiming Meghalaya’s culinary heritage with traditional cooking techniques.",
+        "source": "The Hindu",
+        "headline": "Beyond momos: Meghalaya’s chefs are reclaiming the state’s culinary identity"
+      },
+      {
+        "word": "Nefarious",
+        "pos": "adjective",
+        "meaning": "Flagrantly wicked or impious; evil.",
+        "synonyms": [
+          "wicked",
+          "evil",
+          "villainous"
+        ],
+        "example": "Sonam Wangchuk wanted to ensure that the CJP’s cause is not sabotaged by nefarious elements.",
+        "source": "The Hindu",
+        "headline": "Sonam Wangchuk’s decision to join CJP protest organic, says wife Gitanjali Angmo"
+      },
+      {
+        "word": "Nullify",
+        "pos": "verb",
+        "meaning": "To make legally null and void; invalidate.",
+        "synonyms": [
+          "invalidate",
+          "annul",
+          "negate"
+        ],
+        "example": "The Madras High Court nullifies registration of land belonging to Palani math.",
+        "source": "The Hindu",
+        "headline": "Madras High Court nullifies registration of land belonging to Palani math"
+      },
+      {
+        "word": "Comorbidity",
+        "pos": "noun",
+        "meaning": "The simultaneous presence of two or more diseases or medical conditions in a patient.",
+        "synonyms": [
+          "co-occurrence",
+          "coexisting condition",
+          "multiple morbidities"
+        ],
+        "example": "The death of the 66-year-old man has been attributed to comorbidities, and not the COVID-19 infection alone.",
+        "source": "The Hindu",
+        "headline": "Another COVID-19 death reported in A.P., three more test positive"
+      },
+      {
+        "word": "Commotion",
+        "pos": "noun",
+        "meaning": "A state of confused and noisy disturbance.",
+        "synonyms": [
+          "uproar",
+          "turmoil",
+          "disturbance"
+        ],
+        "example": "Sources say the alleged data breach has triggered absolute commotion among the project’s top brass.",
+        "source": "The Hindu",
+        "headline": "NPCIL denies ‘sensitive data breach’ at Kudankulam nuclear plant project"
+      },
+      {
+        "word": "Quash",
+        "pos": "verb",
+        "meaning": "To reject or void, especially by legal procedure.",
+        "synonyms": [
+          "annul",
+          "overturn",
+          "invalidate"
+        ],
+        "example": "The New York Times has filed a motion to quash subpoenas served on journalists.",
+        "source": "The Hindu",
+        "headline": "New York Times files motion to quash subpoenas served on journalists over Air Force One coverage"
+      },
+      {
+        "word": "Degrade",
+        "pos": "verb",
+        "meaning": "To reduce in quality or value.",
+        "synonyms": [
+          "deteriorate",
+          "devalue",
+          "diminish"
+        ],
+        "example": "U.S. Central Command said the strikes further degraded Iran's ability to attack commercial shipping.",
+        "source": "The Hindu",
+        "headline": "U.S. says 90-minute airstrikes target Greater Tunb Island, strategic point in Strait of Hormuz"
+      },
+      {
+        "word": "Endorse",
+        "pos": "verb",
+        "meaning": "To give one's public approval or support to.",
+        "synonyms": [
+          "approve",
+          "support",
+          "sanction"
+        ],
+        "example": "Andy Burnham is on course to take charge as the new British Prime Minister after being endorsed by 349 Labour MPs.",
+        "source": "The Hindu",
+        "headline": "Leaving U.K. in better shape: Keir Starmer at final Parliament session as PM"
+      },
+      {
+        "word": "Coerce",
+        "pos": "verb",
+        "meaning": "To persuade an unwilling person to do something by using force or threats.",
+        "synonyms": [
+          "compel",
+          "pressure",
+          "force"
+        ],
+        "example": "Opponents said the disabled and elderly were at risk of being coerced to end their lives.",
+        "source": "The Hindu",
+        "headline": "British lawmakers approve bill that allows the terminally ill to end their lives"
+      },
+      {
+        "word": "Exodus",
+        "pos": "noun",
+        "meaning": "A mass departure of people.",
+        "synonyms": [
+          "migration",
+          "evacuation",
+          "departure"
+        ],
+        "example": "The government moves to stem exodus from key Isro missions.",
+        "source": "Times of India",
+        "headline": "Govt moves to stem exodus from key Isro missions; at least 100 quit in past few months"
+      }
+    ]
+  },
+  {
     "date": "2026-07-15",
     "label": "15 July 2026",
     "words": [
