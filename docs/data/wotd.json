@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-17",
+    "label": "17 July 2026",
+    "words": [
+      {
+        "word": "Nepotism",
+        "pos": "noun",
+        "meaning": "Favoritism shown to relatives or friends by those in power, especially by giving them jobs.",
+        "synonyms": [
+          "favoritism",
+          "bias",
+          "patronage"
+        ],
+        "example": "The Chairperson faced allegations of nepotism in the recruitment process.",
+        "source": "The Hindu",
+        "headline": "Rot in KPSC recruitment runs deep"
+      },
+      {
+        "word": "Expeditiously",
+        "pos": "adverb",
+        "meaning": "With speed and efficiency.",
+        "synonyms": [
+          "promptly",
+          "swiftly",
+          "rapidly"
+        ],
+        "example": "The state is committed to complete the project expeditiously.",
+        "source": "The Hindu",
+        "headline": "State committed to complete SRLIP expeditiously, utilising Godavari waters optimally: Bhatti Vikramarka"
+      },
+      {
+        "word": "Grapple",
+        "pos": "verb",
+        "meaning": "To struggle with or deal with something difficult.",
+        "synonyms": [
+          "wrestle",
+          "contend",
+          "struggle"
+        ],
+        "example": "Many former Maoists continue to grapple with the challenges of rehabilitation.",
+        "source": "The Hindu",
+        "headline": "Former Maoists trade years of conflict for livelihood and a stable future"
+      },
+      {
+        "word": "Enduring",
+        "pos": "adjective",
+        "meaning": "Lasting over a long period of time; durable.",
+        "synonyms": [
+          "lasting",
+          "permanent",
+          "abiding"
+        ],
+        "example": "Mahasweta Devi's enduring impact on grassroots movements is undeniable.",
+        "source": "The Hindu",
+        "headline": "Mahasweta Devi at 100: Why her greatest legacy lies in the Adivasi movements she helped build"
+      },
+      {
+        "word": "Verbatim",
+        "pos": "adverb",
+        "meaning": "In exactly the same words as were used originally.",
+        "synonyms": [
+          "word-for-word",
+          "exactly",
+          "literally"
+        ],
+        "example": "He recited the speech verbatim, without missing a single word.",
+        "source": "The Hindu",
+        "headline": "Raise public issues during monsoon session of Parliament, Jagan tells YSRCP MPs"
+      },
+      {
+        "word": "Pronounce",
+        "pos": "verb",
+        "meaning": "To make a formal announcement or statement.",
+        "synonyms": [
+          "declare",
+          "announce",
+          "state"
+        ],
+        "example": "The court is expected to pronounce its order on the bail plea today.",
+        "source": "The Hindu",
+        "headline": "‘Kafir screenshot’ case: order on SIT plea to cancel accused’s bail today"
+      },
+      {
+        "word": "Coincide",
+        "pos": "verb",
+        "meaning": "To occur at the same time.",
+        "synonyms": [
+          "concur",
+          "correspond",
+          "overlap"
+        ],
+        "example": "The BJP's statewide protests will coincide with the NC's sit-in.",
+        "source": "The Hindu",
+        "headline": "BJP’s statewide protests against Omar’s J&K govt. to coincide with NC’s Jantar Mantar sit-in on Statehood"
+      },
+      {
+        "word": "Reiterate",
+        "pos": "verb",
+        "meaning": "To say something again or a number of times, typically for emphasis or clarity.",
+        "synonyms": [
+          "repeat",
+          "restate",
+          "emphasize"
+        ],
+        "example": "Suvendu Adhikari reiterates their plan to hand over mid-day meals to ISKCON.",
+        "source": "The Hindu",
+        "headline": "CM Suvendu joins Rath Yatra in Kolkata; several BJP leaders join festivities"
+      },
+      {
+        "word": "Comprising",
+        "pos": "verb",
+        "meaning": "Consisting of; made up of.",
+        "synonyms": [
+          "including",
+          "containing",
+          "encompassing"
+        ],
+        "example": "The appeal was heard by a three-judge bench comprising Chief Justice of India Surya Kant.",
+        "source": "The Hindu",
+        "headline": "SC dismisses plea by Karnataka Legislative Council Deputy Chairman against recounting of votes"
+      },
+      {
+        "word": "Detained",
+        "pos": "verb",
+        "meaning": "To keep someone in official custody, typically for questioning about a crime or in a politically sensitive situation.",
+        "synonyms": [
+          "arrested",
+          "held",
+          "imprisoned"
+        ],
+        "example": "Four Bengali migrants who were detained by Delhi Police were brought back to India.",
+        "source": "The Hindu",
+        "headline": "Trinamool MP Samirul Islam calls on family who was pushed into Bangladesh"
+      }
+    ]
+  },
+  {
     "date": "2026-07-16",
     "label": "16 July 2026",
     "words": [
