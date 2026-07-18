@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-18",
+    "label": "18 July 2026",
+    "words": [
+      {
+        "word": "Decisive",
+        "pos": "adjective",
+        "meaning": "Settling an issue conclusively; producing a definite result.",
+        "synonyms": [
+          "Conclusive",
+          "Definitive",
+          "Resolute"
+        ],
+        "example": "In a series of decisive judgments, a special court handed a 25-year jail term to a prime accused for rape.",
+        "source": "The Hindu",
+        "headline": "Three men sentenced to jail in separate cases of raping, abducting, and harassing minor girl"
+      },
+      {
+        "word": "Alleged",
+        "pos": "adjective",
+        "meaning": "Stated without proof to have taken place or to have a specified illegal or undesirable quality.",
+        "synonyms": [
+          "Supposed",
+          "Purported",
+          "Unproven"
+        ],
+        "example": "Babulal Marandi writes to Hemant Soren demanding a judicial probe into the alleged scam in JSDMS.",
+        "source": "The Hindu",
+        "headline": "Babulal Marandi writes to Hemant Soren demanding a judicial probe into the alleged scam in JSDMS"
+      },
+      {
+        "word": "Irregularity",
+        "pos": "noun",
+        "meaning": "A deviation from what is normal, customary, or regular.",
+        "synonyms": [
+          "Anomaly",
+          "Abnormality",
+          "Discrepancy"
+        ],
+        "example": "Congress alleges irregularities in gram sabha approvals for Ken-Betwa project.",
+        "source": "The Hindu",
+        "headline": "Congress alleges irregularities in gram sabha approvals for Ken-Betwa project"
+      },
+      {
+        "word": "Vigilance",
+        "pos": "noun",
+        "meaning": "The action or state of keeping careful watch for possible danger or difficulties.",
+        "synonyms": [
+          "Watchfulness",
+          "Alertness",
+          "Circumspection"
+        ],
+        "example": "The medical team stated that Sonam Wangchuk continues to be under 24-hour medical vigilance.",
+        "source": "The Hindu",
+        "headline": "Jantar Mantar protest updates: Opposition support grows as Wangchuk’s hunger strike continues on day 20"
+      },
+      {
+        "word": "Verbatim",
+        "pos": "adverb",
+        "meaning": "In exactly the same words as were originally used.",
+        "synonyms": [
+          "Word-for-word",
+          "Directly",
+          "Precisely"
+        ],
+        "example": "The court refused to quash FIRs booked against political commentator Ponraj for remarks against TVK women supporters, stating he ought to have exercised greater restraint while making public statements, verbatim from the judgment.",
+        "source": "The Hindu",
+        "headline": "Madras High Court refuses to quash FIRs booked against political commentator Ponraj for remarks against TVK women supporters"
+      },
+      {
+        "word": "Ram",
+        "pos": "verb",
+        "meaning": "Force (something) into place or into a smaller space.",
+        "synonyms": [
+          "Shove",
+          "Cram",
+          "Force"
+        ],
+        "example": "Over the past week, the Knesset passed several controversial laws in marathon sessions as PM Netanyahu attempted to ram through several of his pet projects.",
+        "source": "The Hindu",
+        "headline": "Israel's Parliament dissolves ahead of October 27 elections"
+      },
+      {
+        "word": "Insidious",
+        "pos": "adjective",
+        "meaning": "Proceeding in a gradual, subtle way, but with harmful effects.",
+        "synonyms": [
+          "Subtle",
+          "Treacherous",
+          "Pernicious"
+        ],
+        "example": "The U.K. PM-designate outlined five priority directions for his government, starting with a commitment to end infighting within Labour and the “insidious” effects of factionalism.",
+        "source": "The Hindu",
+        "headline": "Andy Burnham elected new Labour leader, to be appointed U.K. PM on July 20"
+      },
+      {
+        "word": "Ambition",
+        "pos": "noun",
+        "meaning": "A strong desire to do or achieve something.",
+        "synonyms": [
+          "Aspiration",
+          "Goal",
+          "Objective"
+        ],
+        "example": "With climate ambitions in question, EU reforms carbon market.",
+        "source": "The Hindu",
+        "headline": "With climate ambitions in question, EU reforms carbon market"
+      },
+      {
+        "word": "Scant",
+        "pos": "adjective",
+        "meaning": "Barely sufficient or adequate.",
+        "synonyms": [
+          "Meager",
+          "Limited",
+          "Insufficient"
+        ],
+        "example": "Mr. Trump portrayed the U.S. electoral system as dangerously exposed and urged lawmakers to adopt new restrictions on voting, despite scant appetite for the measures.",
+        "source": "The Hindu",
+        "headline": "Trump revives election fraud claims ahead of U.S. midterms"
+      },
+      {
+        "word": "Abruptly",
+        "pos": "adverb",
+        "meaning": "Suddenly and unexpectedly.",
+        "synonyms": [
+          "Suddenly",
+          "Unexpectedly",
+          "Hastily"
+        ],
+        "example": "SpaceX abruptly scrubs Starship test flight.",
+        "source": "The Hindu",
+        "headline": "SpaceX abruptly scrubs Starship test flight"
+      }
+    ]
+  },
+  {
     "date": "2026-07-17",
     "label": "17 July 2026",
     "words": [
