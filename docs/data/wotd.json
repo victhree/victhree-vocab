@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-19",
+    "label": "19 July 2026",
+    "words": [
+      {
+        "word": "Concurred",
+        "pos": "verb",
+        "meaning": "To agree or be in agreement.",
+        "synonyms": [
+          "assented",
+          "agreed",
+          "coincided"
+        ],
+        "example": "An independent expert from AIIMS has concurred with the treating team.",
+        "source": "The Hindu",
+        "headline": "Sonam Wangchuk hunger strike updates: Wangchuk continues his fast in hospital"
+      },
+      {
+        "word": "Inclement",
+        "pos": "adjective",
+        "meaning": "(Of weather) unpleasant, stormy.",
+        "synonyms": [
+          "harsh",
+          "severe",
+          "rough"
+        ],
+        "example": "In view of inclement weather forecast issued by IMD, Shri Amarnathji Yatra shall remain temporarily suspended.",
+        "source": "The Hindu",
+        "headline": "Amarnath, Vaishno Devi Yatras to be temporarily suspended from July 19"
+      },
+      {
+        "word": "Siphoned",
+        "pos": "verb",
+        "meaning": "To convey, draw, or remove (liquid) by means of a siphon; to divert (money) illegally.",
+        "synonyms": [
+          "embezzled",
+          "diverted",
+          "misappropriated"
+        ],
+        "example": "Weeks after allegations of money being siphoned off from donations at the Ram temple surfaced, pilgrims and residents say it has triggered a crisis of trust.",
+        "source": "The Hindu",
+        "headline": "Faith and its fallout"
+      },
+      {
+        "word": "Quicksand",
+        "pos": "noun",
+        "meaning": "A bed of wet sand that yields easily to pressure and sucks down anything resting on or falling into it.",
+        "synonyms": [
+          "bog",
+          "mire",
+          "trap"
+        ],
+        "example": "The article highlights the issue of quicksand in Chennai’s Pallikaranai marshland.",
+        "source": "The Hindu",
+        "headline": "Quicksand in Chennai’s Pallikaranai marshland"
+      },
+      {
+        "word": "Contemplates",
+        "pos": "verb",
+        "meaning": "To look thoughtfully for a long time at; to think about.",
+        "synonyms": [
+          "ponders",
+          "considers",
+          "muses"
+        ],
+        "example": "The T.N. government contemplates reducing VAT rate on aviation turbine fuel.",
+        "source": "The Hindu",
+        "headline": "T.N. government contemplates reducing VAT rate on aviation turbine fuel"
+      },
+      {
+        "word": "Agitation",
+        "pos": "noun",
+        "meaning": "A state of anxiety or nervous excitement; a public campaign for or against something.",
+        "synonyms": [
+          "unrest",
+          "turmoil",
+          "protest"
+        ],
+        "example": "Mufti says party may skip agitation unless restoration of Article 370 is included in the agenda.",
+        "source": "The Hindu",
+        "headline": "‘Not just Statehood’: PDP chief lists conditions for joining NC’s Delhi protest"
+      },
+      {
+        "word": "Poised",
+        "pos": "adjective",
+        "meaning": "Having a composed and self-assured manner; ready for something.",
+        "synonyms": [
+          "composed",
+          "collected",
+          "ready"
+        ],
+        "example": "The green field airport is poised to reshape the local economic landscape of the region.",
+        "source": "The Hindu",
+        "headline": "PM to inaugurate Bhogapuram International Airport on August 1"
+      },
+      {
+        "word": "Breaches",
+        "pos": "noun",
+        "meaning": "An act of breaking or failing to observe a law, agreement, or code of conduct.",
+        "synonyms": [
+          "violations",
+          "infractions",
+          "transgressions"
+        ],
+        "example": "Iran's Supreme Leader says U.S. breaches show Trump's signature is 'worthless'.",
+        "source": "The Hindu",
+        "headline": "Iran's Supreme Leader says U.S. breaches show Trump's signature is 'worthless'"
+      },
+      {
+        "word": "Lurch",
+        "pos": "verb",
+        "meaning": "To make an abrupt, unsteady, uncontrolled movement or series of movements; to move unsteadily.",
+        "synonyms": [
+          "stumble",
+          "reel",
+          "stagger"
+        ],
+        "example": "U.S., Iran have blown past red lines as they lurch back toward all-out war.",
+        "source": "The Hindu",
+        "headline": "U.S., Iran have blown past red lines as they lurch back toward all-out war"
+      },
+      {
+        "word": "Obscenity",
+        "pos": "noun",
+        "meaning": "The state or quality of being obscene; an obscene word, statement, or act.",
+        "synonyms": [
+          "vulgarity",
+          "indecency",
+          "profanity"
+        ],
+        "example": "Using abusive language, swearing don't count as obscenity under IPC, says Supreme Court.",
+        "source": "Times of India",
+        "headline": "Using abusive language, swearing don't count as obscenity under IPC: Supreme Court"
+      }
+    ]
+  },
+  {
     "date": "2026-07-18",
     "label": "18 July 2026",
     "words": [
