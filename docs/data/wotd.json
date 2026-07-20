@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-20",
+    "label": "20 July 2026",
+    "words": [
+      {
+        "word": "Instability",
+        "pos": "noun",
+        "meaning": "The state of being unstable or prone to change or collapse.",
+        "synonyms": [
+          "volatility",
+          "unsteadiness",
+          "precariousness"
+        ],
+        "example": "India advises citizens to postpone travel to Iran amid rising instability.",
+        "source": "The Hindu",
+        "headline": "India advises citizens to postpone travel to Iran amid rising instability"
+      },
+      {
+        "word": "Inducement",
+        "pos": "noun",
+        "meaning": "A thing that persuades or influences someone to do something.",
+        "synonyms": [
+          "incentive",
+          "allurement",
+          "enticement"
+        ],
+        "example": "Christian religious leaders were using inducements to compel tribals and non-tribals to convert.",
+        "source": "The Hindu",
+        "headline": "Maharashtra panel to study ST benefits after Christian conversion allegations"
+      },
+      {
+        "word": "Militancy",
+        "pos": "noun",
+        "meaning": "The use of confrontational or violent methods in support of a political or social cause.",
+        "synonyms": [
+          "extremism",
+          "radicalism",
+          "belligerence"
+        ],
+        "example": "Kashmiri Pandits had to leave their homeland due to militancy in the 1990s.",
+        "source": "The Hindu",
+        "headline": "Srinagar’s Vichar Nag temple sees puja again, L-G says ‘revival serves as a historic bridge’"
+      },
+      {
+        "word": "Vigil",
+        "pos": "noun",
+        "meaning": "A period of watchful attention, especially at night.",
+        "synonyms": [
+          "watch",
+          "wake",
+          "surveillance"
+        ],
+        "example": "CJP's night vigil begins, crowds camp at Jantar Mantar on eve of Parliament march call.",
+        "source": "The Hindu",
+        "headline": "CJP's night vigil begins, crowds camp at Jantar Mantar on eve of Parliament march call"
+      },
+      {
+        "word": "Mull",
+        "pos": "verb",
+        "meaning": "To think about (a matter) deeply and at length.",
+        "synonyms": [
+          "contemplate",
+          "ponder",
+          "deliberate"
+        ],
+        "example": "Kochi Corpn. mulls hybrid ro-ro ferry for Vypeen–Fort Kochi amid noise complaints.",
+        "source": "The Hindu",
+        "headline": "Kochi Corpn. mulls hybrid ro-ro ferry for Vypeen–Fort Kochi amid noise complaints"
+      },
+      {
+        "word": "Trespasser",
+        "pos": "noun",
+        "meaning": "A person entering someone's land or property without permission.",
+        "synonyms": [
+          "intruder",
+          "encroacher",
+          "unauthorized person"
+        ],
+        "example": "Geo-tagging of State’s forest locations opens the doors for trespassers.",
+        "source": "The Hindu",
+        "headline": "Geo-tagging of State’s forest locations opens the doors for trespassers"
+      },
+      {
+        "word": "Ex-Gratia",
+        "pos": "adjective",
+        "meaning": "Paid as a favour rather than because of legal obligation.",
+        "synonyms": [
+          "voluntary",
+          "discretionary",
+          "gratuitous"
+        ],
+        "example": "State announces ex-gratia of ₹4 lakh for kin of deceased.",
+        "source": "The Hindu",
+        "headline": "At least eight dead, 15 hurt in Nagaland landslide"
+      },
+      {
+        "word": "Relapsing",
+        "pos": "verb",
+        "meaning": "To suffer a deterioration in health after a period of improvement.",
+        "synonyms": [
+          "regressing",
+          "deteriorating",
+          "worsening"
+        ],
+        "example": "Children relapsing into malnutrition have become an increasingly common occurrence.",
+        "source": "The Hindu",
+        "headline": "Nigerian children pay the price for Iran war as malnutrition, poverty surge"
+      },
+      {
+        "word": "Stipulated",
+        "pos": "verb",
+        "meaning": "To demand or specify a requirement, typically as part of an agreement.",
+        "synonyms": [
+          "specified",
+          "mandated",
+          "prescribed"
+        ],
+        "example": "The MoU stipulated Iran would allow ships to pass with no charge for 60 days only.",
+        "source": "The Hindu",
+        "headline": "How the second phase of the Iran-U.S. war started and why it is raging | Explained"
+      },
+      {
+        "word": "Degrade",
+        "pos": "verb",
+        "meaning": "To break down or deteriorate.",
+        "synonyms": [
+          "deteriorate",
+          "erode",
+          "impair"
+        ],
+        "example": "The strikes were designed to further degrade Iran's ability to restrict the traffic of oil tankers.",
+        "source": "The Hindu",
+        "headline": "U.S. military launches new airstrikes to ‘swiftly punish’ Iran for deaths of U.S. troops"
+      }
+    ]
+  },
+  {
     "date": "2026-07-19",
     "label": "19 July 2026",
     "words": [
