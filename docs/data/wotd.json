@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-21",
+    "label": "21 July 2026",
+    "words": [
+      {
+        "word": "Pervade",
+        "pos": "verb",
+        "meaning": "To spread throughout all parts of something.",
+        "synonyms": [
+          "permeate",
+          "saturate",
+          "infuse"
+        ],
+        "example": "A sense of unease pervaded the courtroom during the tense testimony.",
+        "source": "The Hindu",
+        "headline": "More than half of Odisha’s PVTG adult women anaemic, says a study by Utkal University"
+      },
+      {
+        "word": "Cognisance",
+        "pos": "noun",
+        "meaning": "Knowledge or awareness of something.",
+        "synonyms": [
+          "awareness",
+          "recognition",
+          "apprehension"
+        ],
+        "example": "The court took cognisance of the widespread violations in sand extraction.",
+        "source": "The Hindu",
+        "headline": "Lokayukta takes suo motu cognisance of illegal sand extraction in Bagalkot, finds widespread violations"
+      },
+      {
+        "word": "Escalate",
+        "pos": "verb",
+        "meaning": "To increase rapidly; to become more intense or serious.",
+        "synonyms": [
+          "intensify",
+          "worsen",
+          "aggravate"
+        ],
+        "example": "The ongoing trade disputes could escalate into a full-blown economic conflict.",
+        "source": "Times of India",
+        "headline": "Trump imposes 50% tariffs on most Canadian goods, cites trade disputes"
+      },
+      {
+        "word": "Disrupt",
+        "pos": "verb",
+        "meaning": "To interrupt an event, activity, or process by causing a disturbance or problem.",
+        "synonyms": [
+          "disturb",
+          "obstruct",
+          "derail"
+        ],
+        "example": "Opposition protests frequently disrupted the Parliament's monsoon session.",
+        "source": "The Hindu",
+        "headline": "Monsoon Session off to a stormy start amid Opposition protests"
+      },
+      {
+        "word": "Concede",
+        "pos": "verb",
+        "meaning": "To admit that something is true or valid after first denying or resisting it.",
+        "synonyms": [
+          "admit",
+          "acknowledge",
+          "grant"
+        ],
+        "example": "The government may have to concede to some of the protesters' demands.",
+        "source": "The Hindu",
+        "headline": "CJP protest in Delhi LIVE: Dipke, protesters reclaim dismantled Jantar Mantar protest site, as CJP awaits Govt response to demands"
+      },
+      {
+        "word": "Volatile",
+        "pos": "adjective",
+        "meaning": "Liable to change rapidly and unpredictably, especially for the worse.",
+        "synonyms": [
+          "unstable",
+          "erratic",
+          "unpredictable"
+        ],
+        "example": "The situation in the West Asia region remains highly volatile.",
+        "source": "The Hindu",
+        "headline": "West Asia war LIVE: Trump says Iran 'will pay' for killing U.S. soldiers"
+      },
+      {
+        "word": "Unprecedented",
+        "pos": "adjective",
+        "meaning": "Never done or known before.",
+        "synonyms": [
+          "unparalleled",
+          "novel",
+          "unheard-of"
+        ],
+        "example": "In an unprecedented turn of events, protesters reached Parliament's doorstep despite heavy security.",
+        "source": "The Hindu",
+        "headline": "Police outnumbered, taken aback by number of protesters who reached Parliament’s doorstep"
+      },
+      {
+        "word": "Embezzlement",
+        "pos": "noun",
+        "meaning": "Theft or misappropriation of funds placed in one's trust or belonging to one's employer.",
+        "synonyms": [
+          "fraud",
+          "peculation",
+          "pilferage"
+        ],
+        "example": "The Supreme Court proposed an SIT probe into the Ram Temple donation embezzlement case.",
+        "source": "The Hindu",
+        "headline": "Supreme Court proposes SIT probe into Ram Temple case"
+      },
+      {
+        "word": "Condemn",
+        "pos": "verb",
+        "meaning": "To express complete disapproval of; denounce.",
+        "synonyms": [
+          "denounce",
+          "censure",
+          "reprimand"
+        ],
+        "example": "Using criminal law to protect rulers' reputations is condemnable.",
+        "source": "The Hindu",
+        "headline": "Accommodating dissent: On the TVK government’s actions"
+      },
+      {
+        "word": "Sanctity",
+        "pos": "noun",
+        "meaning": "The state or quality of being holy, sacred, or inviolable.",
+        "synonyms": [
+          "sacredness",
+          "inviolability",
+          "piety"
+        ],
+        "example": "Defections affect the moral sanctity of democracy.",
+        "source": "The Hindu",
+        "headline": "Defections affect moral sanctity of democracy"
+      }
+    ]
+  },
+  {
     "date": "2026-07-20",
     "label": "20 July 2026",
     "words": [
