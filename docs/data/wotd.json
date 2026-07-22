@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-22",
+    "label": "22 July 2026",
+    "words": [
+      {
+        "word": "Deluge",
+        "pos": "noun",
+        "meaning": "A severe flood; an overwhelming rush of anything.",
+        "synonyms": [
+          "Inundation",
+          "Torrent",
+          "Downpour"
+        ],
+        "example": "21 dead in a day’s deluge in Assam; total flood toll 31.",
+        "source": "The Hindu",
+        "headline": "21 dead in a day’s deluge in Assam; total flood toll 31"
+      },
+      {
+        "word": "Grapple",
+        "pos": "verb",
+        "meaning": "To struggle with or deal with something difficult.",
+        "synonyms": [
+          "Wrestle",
+          "Contend",
+          "Tussle"
+        ],
+        "example": "Jammu and Kashmir grapples weather fury for third day, civilian infrastructure massively damaged.",
+        "source": "The Hindu",
+        "headline": "Jammu and Kashmir grapples weather fury for third day, civilian infrastructure massively damaged"
+      },
+      {
+        "word": "Portability",
+        "pos": "noun",
+        "meaning": "The ability to be easily carried or moved; the ability of a system to be used in different places.",
+        "synonyms": [
+          "Transferability",
+          "Mobility",
+          "Versatility"
+        ],
+        "example": "Outbound portability of medical scheme benefits Rajasthan’s patients.",
+        "source": "The Hindu",
+        "headline": "Outbound portability of medical scheme benefits Rajasthan’s patients"
+      },
+      {
+        "word": "Erect",
+        "pos": "verb",
+        "meaning": "To construct or build something; to set up.",
+        "synonyms": [
+          "Construct",
+          "Build",
+          "Raise"
+        ],
+        "example": "Farmers wanted to peacefully go to Delhi and participate in the rally but the BJP-led Haryana government has stopped them by erecting barricades.",
+        "source": "The Hindu",
+        "headline": "Farmers stopped at Punjab-Haryana border en route to Delhi rally against India-U.S. trade deal"
+      },
+      {
+        "word": "Unequivocal",
+        "pos": "adjective",
+        "meaning": "Leaving no doubt; unambiguous.",
+        "synonyms": [
+          "Clear",
+          "Explicit",
+          "Definite"
+        ],
+        "example": "The Ministry of External Affairs said that it has conveyed “India’s grave concerns and unequivocal condemnation” over the attack to the Russia envoy.",
+        "source": "The Hindu",
+        "headline": "Russian envoy summoned over death of Indian crew"
+      },
+      {
+        "word": "Crackdown",
+        "pos": "noun",
+        "meaning": "A series of severe measures to restrict undesirable or illegal activities.",
+        "synonyms": [
+          "Repression",
+          "Suppression",
+          "Clampdown"
+        ],
+        "example": "Thousands brave rain and regroup at CJP protest site, day after police crackdown.",
+        "source": "The Hindu",
+        "headline": "Thousands brave rain and regroup at CJP protest site, day after police crackdown"
+      },
+      {
+        "word": "Accustomed",
+        "pos": "adjective",
+        "meaning": "Familiar with something so that it seems normal or usual.",
+        "synonyms": [
+          "Habituated",
+          "Used to",
+          "Familiar"
+        ],
+        "example": "Preserving the accused’s dignity requires allowing him access to food he is accustomed to eating.",
+        "source": "The Hindu",
+        "headline": "NIA court allows special dietary arrangements for U.S. national accused in a terror case"
+      },
+      {
+        "word": "Woo",
+        "pos": "verb",
+        "meaning": "To try to gain the love, support, or favour of someone.",
+        "synonyms": [
+          "Court",
+          "Persuade",
+          "Entice"
+        ],
+        "example": "As 2027 elections inch closer, party leaders have again started wooing SC groups.",
+        "source": "The Hindu",
+        "headline": "Why Punjab’s Dalits remain divided"
+      },
+      {
+        "word": "Centenarian",
+        "pos": "noun",
+        "meaning": "A person who is 100 or more years old.",
+        "synonyms": [
+          "Octogenarian (false, but related)",
+          "Nonagenarian (false, but related)",
+          "Elderly person (too broad)"
+        ],
+        "example": "Centenarian regains mobility after complex hip replacement surgery.",
+        "source": "The Hindu",
+        "headline": "Centenarian regains mobility after complex hip replacement surgery"
+      },
+      {
+        "word": "Entrench",
+        "pos": "verb",
+        "meaning": "To establish an attitude, habit, or belief so firmly that change is very difficult or unlikely.",
+        "synonyms": [
+          "Ingrain",
+          "Implant",
+          "Root"
+        ],
+        "example": "Israel is building a miles-long earthen barrier inside Gaza, entrenching its division.",
+        "source": "The Hindu",
+        "headline": "Israel is building a miles-long earthen barrier inside Gaza, entrenching its division"
+      }
+    ]
+  },
+  {
     "date": "2026-07-21",
     "label": "21 July 2026",
     "words": [
