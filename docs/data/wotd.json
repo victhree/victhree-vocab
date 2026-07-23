@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-23",
+    "label": "23 July 2026",
+    "words": [
+      {
+        "word": "Resilience",
+        "pos": "noun",
+        "meaning": "The capacity to recover quickly from difficulties; toughness.",
+        "synonyms": [
+          "fortitude",
+          "adaptability",
+          "stamina"
+        ],
+        "example": "Proud of every supporter who has shown remarkable resilience despite the brutal crackdown.",
+        "source": "The Hindu",
+        "headline": "Jantar Mantar protest LIVE: Dharmendra Pradhan's resignation is non-negotiable, protest to continue, says CJP"
+      },
+      {
+        "word": "Unequivocal",
+        "pos": "adjective",
+        "meaning": "Leaving no doubt; unambiguous.",
+        "synonyms": [
+          "unmistakable",
+          "absolute",
+          "clear"
+        ],
+        "example": "Wangchuk seeks 'unequivocal assurance' that no young protester will face punitive action.",
+        "source": "The Hindu",
+        "headline": "Jantar Mantar protest updates: Heavy security deployed at Jantar Mantar, as crowd of protesters swells"
+      },
+      {
+        "word": "Punitive",
+        "pos": "adjective",
+        "meaning": "Inflicting or intended as punishment.",
+        "synonyms": [
+          "disciplinary",
+          "penal",
+          "retributive"
+        ],
+        "example": "Wangchuk seeks 'unequivocal assurance' that no young protester will face punitive, retaliatory legal action.",
+        "source": "The Hindu",
+        "headline": "Jantar Mantar protest updates: Heavy security deployed at Jantar Mantar, as crowd of protesters swells"
+      },
+      {
+        "word": "Logjam",
+        "pos": "noun",
+        "meaning": "A deadlock or stalemate.",
+        "synonyms": [
+          "impasse",
+          "gridlock",
+          "bottleneck"
+        ],
+        "example": "Amid Lok Sabha logjam, Centre offers debate on NEET paper leak, says street protests 'won't help'.",
+        "source": "The Hindu",
+        "headline": "Amid Lok Sabha logjam, Centre offers debate on NEET paper leak, says street protests ‘won’t help’"
+      },
+      {
+        "word": "Adjournment",
+        "pos": "noun",
+        "meaning": "A postponement or suspension of a meeting or session.",
+        "synonyms": [
+          "recess",
+          "prorogation",
+          "suspension"
+        ],
+        "example": "Congress seeks adjournment motion to set aside all other business for the debate.",
+        "source": "The Hindu",
+        "headline": "Amid Lok Sabha logjam, Centre offers debate on NEET paper leak, says street protests ‘won’t help’"
+      },
+      {
+        "word": "Defer",
+        "pos": "verb",
+        "meaning": "Put off (an action or event) to a later time; postpone.",
+        "synonyms": [
+          "postpone",
+          "delay",
+          "reschedule"
+        ],
+        "example": "Ram Temple trust defers CEO selection by a month amid donation theft row.",
+        "source": "The Hindu",
+        "headline": "‘Over 5,200 applications’: Ram Temple trust defers CEO selection by a month"
+      },
+      {
+        "word": "Divergent",
+        "pos": "adjective",
+        "meaning": "Tending to be different or develop in different directions.",
+        "synonyms": [
+          "differing",
+          "conflicting",
+          "disparate"
+        ],
+        "example": "BJP, Oppn. take divergent view of police action on protesters.",
+        "source": "The Hindu",
+        "headline": "BJP, Oppn. take divergent view of police action on protesters"
+      },
+      {
+        "word": "Rapprochement",
+        "pos": "noun",
+        "meaning": "An establishment or resumption of harmonious relations.",
+        "synonyms": [
+          "reconciliation",
+          "accord",
+          "detente"
+        ],
+        "example": "UAE, Saudi officials signal rapprochement after rift.",
+        "source": "The Hindu",
+        "headline": "UAE, Saudi officials signal rapprochement after rift"
+      },
+      {
+        "word": "Escalate",
+        "pos": "verb",
+        "meaning": "Increase rapidly; make or become more intense or serious.",
+        "synonyms": [
+          "intensify",
+          "worsen",
+          "mount"
+        ],
+        "example": "U.S. President Donald Trump has escalated tensions with Iran by threatening to bomb the nuclear site.",
+        "source": "The Hindu",
+        "headline": "Why is Trump targeting Iran’s Pickaxe Mountain nuclear site? Here’s what we know"
+      },
+      {
+        "word": "Imperil",
+        "pos": "verb",
+        "meaning": "Put at risk of being harmed, injured, or destroyed.",
+        "synonyms": [
+          "endanger",
+          "jeopardize",
+          "threaten"
+        ],
+        "example": "Trump’s 200% generic tariff threat would imperil Americans: Indian pharma.",
+        "source": "The Hindu",
+        "headline": "Trump’s 200% generic tariff threat would imperil Americans: Indian pharma"
+      }
+    ]
+  },
+  {
     "date": "2026-07-22",
     "label": "22 July 2026",
     "words": [
