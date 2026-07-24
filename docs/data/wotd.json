@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-24",
+    "label": "24 July 2026",
+    "words": [
+      {
+        "word": "Toil",
+        "pos": "noun",
+        "meaning": "Exhausting physical labor.",
+        "synonyms": [
+          "drudgery",
+          "exertion",
+          "grind"
+        ],
+        "example": "Burdened by debt, they were bonded to a life of toil.",
+        "source": "The Hindu",
+        "headline": "Burdened by debt, bonded to life of toil"
+      },
+      {
+        "word": "Precarity",
+        "pos": "noun",
+        "meaning": "The state of being uncertain or unstable.",
+        "synonyms": [
+          "insecurity",
+          "vulnerability",
+          "instability"
+        ],
+        "example": "Pre-poll promises often lead to post-poll precarity for many.",
+        "source": "The Hindu",
+        "headline": "Pre-poll promises, post-poll precarity"
+      },
+      {
+        "word": "Cache",
+        "pos": "noun",
+        "meaning": "A collection of items of the same type, stored in a hidden or inaccessible place.",
+        "synonyms": [
+          "hoard",
+          "stockpile",
+          "store"
+        ],
+        "example": "The operation led to the recovery of a cache of illegal weapons.",
+        "source": "The Hindu",
+        "headline": "Coast Guard arrests four arms smugglers off Sundarbans"
+      },
+      {
+        "word": "Countenance",
+        "pos": "verb",
+        "meaning": "To admit as acceptable or possible.",
+        "synonyms": [
+          "tolerate",
+          "permit",
+          "condone"
+        ],
+        "example": "Attacks on seafarers or civilian shipping cannot be countenanced.",
+        "source": "The Hindu",
+        "headline": "International waterways must remain safe and unimpeded: S. Jaishankar"
+      },
+      {
+        "word": "Devastation",
+        "pos": "noun",
+        "meaning": "Severe and widespread destruction or damage.",
+        "synonyms": [
+          "ruin",
+          "desolation",
+          "havoc"
+        ],
+        "example": "Cloudbursts upstream caused unprecedented devastation in Assam.",
+        "source": "The Hindu",
+        "headline": "Flood toll climbs to 47 in Assam; over 7 lakh affected"
+      },
+      {
+        "word": "Empathy",
+        "pos": "noun",
+        "meaning": "The ability to understand and share the feelings of another.",
+        "synonyms": [
+          "compassion",
+          "understanding",
+          "sympathy"
+        ],
+        "example": "BJP leaders urged the Centre to treat youth protests with empathy.",
+        "source": "The Hindu",
+        "headline": "BJP leaders, allies urge Centre to treat youth protests with empathy"
+      },
+      {
+        "word": "Confrontational",
+        "pos": "adjective",
+        "meaning": "Tending to deal with situations in an aggressive or hostile way.",
+        "synonyms": [
+          "antagonistic",
+          "aggressive",
+          "hostile"
+        ],
+        "example": "Protest marches turned confrontational in several districts.",
+        "source": "The Hindu",
+        "headline": "Protests over paper leak intensify in States"
+      },
+      {
+        "word": "Reconstitution",
+        "pos": "noun",
+        "meaning": "The act or process of forming something again or differently.",
+        "synonyms": [
+          "reformation",
+          "restructuring",
+          "reorganization"
+        ],
+        "example": "The reconstitution of the Board grew into a conflict issue.",
+        "source": "The Hindu",
+        "headline": "CPI criticises Kerala Chief Minister on Waqf issue"
+      },
+      {
+        "word": "Stringent",
+        "pos": "adjective",
+        "meaning": "(Of regulations, requirements, or conditions) strict, precise, and exacting.",
+        "synonyms": [
+          "rigorous",
+          "strict",
+          "severe"
+        ],
+        "example": "The draft Bill provides for fast-track courts and stringent punishment for offenders.",
+        "source": "The Hindu",
+        "headline": "PM Modi promises 'more strict actions against paper leaks' amid CJP protests"
+      },
+      {
+        "word": "Transiting",
+        "pos": "verb",
+        "meaning": "To pass across or through (an area).",
+        "synonyms": [
+          "crossing",
+          "traversing",
+          "passing"
+        ],
+        "example": "Iran says it stopped three oil tankers transiting Hormuz.",
+        "source": "The Hindu",
+        "headline": "Iran says stopped three oil tankers transiting Hormuz"
+      }
+    ]
+  },
+  {
     "date": "2026-07-23",
     "label": "23 July 2026",
     "words": [
