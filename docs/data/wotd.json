@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-25",
+    "label": "25 July 2026",
+    "words": [
+      {
+        "word": "Dissident",
+        "pos": "noun",
+        "meaning": "A person who opposes official policy, especially that of an authoritarian state.",
+        "synonyms": [
+          "rebel",
+          "renegade",
+          "objector"
+        ],
+        "example": "Cracks deepen in AIADMK dissidents’ camp as a former Law Minister stays away from a review meeting.",
+        "source": "The Hindu",
+        "headline": "Cracks deepen in AIADMK dissidents’ camp"
+      },
+      {
+        "word": "Intensify",
+        "pos": "verb",
+        "meaning": "To become or make more intense, stronger, or more extreme.",
+        "synonyms": [
+          "escalate",
+          "heighten",
+          "amplify"
+        ],
+        "example": "The J&K DGP directed officers to intensify area domination and night patrols to deter anti-national elements.",
+        "source": "The Hindu",
+        "headline": "Anantnag attack aftermath: Intensify area domination, step up intelligence-led ops: J&K DGP Nalin Prabhat"
+      },
+      {
+        "word": "Verbatim",
+        "pos": "adverb",
+        "meaning": "In exactly the same words as were originally used.",
+        "synonyms": [
+          "word for word",
+          "exactly",
+          "literally"
+        ],
+        "example": "The instructions were repeated verbatim to ensure no details were missed.",
+        "source": "The Hindu",
+        "headline": "Introduce, pass Statehood bill in ongoing Parliament session: Dr. Farooq Abdullah to Centre"
+      },
+      {
+        "word": "Excess",
+        "pos": "noun",
+        "meaning": "An amount of something that is more than necessary, permitted, or desirable.",
+        "synonyms": [
+          "surplus",
+          "redundancy",
+          "profusion"
+        ],
+        "example": "The Supreme Court will hear petitions against alleged police excesses at the CJP march.",
+        "source": "The Hindu",
+        "headline": "Supreme Court to hear petitions against alleged police excesses at CJP march"
+      },
+      {
+        "word": "Agitation",
+        "pos": "noun",
+        "meaning": "A state of anxiety or nervous excitement, or a public protest about something.",
+        "synonyms": [
+          "unrest",
+          "turmoil",
+          "protest"
+        ],
+        "example": "Pukasa holds a protest meet in solidarity with the ongoing student agitation in Delhi.",
+        "source": "The Hindu",
+        "headline": "Pukasa holds protest meet in solidarity with Delhi students in Kerala’s Kochi"
+      },
+      {
+        "word": "Halt",
+        "pos": "noun",
+        "meaning": "A temporary stop or pause.",
+        "synonyms": [
+          "cessation",
+          "interruption",
+          "break"
+        ],
+        "example": "Amarnath Yatra resumes after a six-day weather halt, with over 6,000 pilgrims leaving Jammu.",
+        "source": "The Hindu",
+        "headline": "Amarnath Yatra resumes after six-day weather halt"
+      },
+      {
+        "word": "Escalate",
+        "pos": "verb",
+        "meaning": "To increase rapidly in intensity or magnitude.",
+        "synonyms": [
+          "mount",
+          "intensify",
+          "worsen"
+        ],
+        "example": "The situation escalated after protestors pelted stones at the official residence.",
+        "source": "The Hindu",
+        "headline": "Six cops injured as villagers clash with police in Chhattisgarh’s Surajpur coal mine protest"
+      },
+      {
+        "word": "Arbitrary",
+        "pos": "adjective",
+        "meaning": "Based on random choice or personal whim, rather than any reason or system.",
+        "synonyms": [
+          "capricious",
+          "whimsical",
+          "unreasonable"
+        ],
+        "example": "A plea in Delhi HC challenges internet shutdown, citing unconstitutional and arbitrary suspension orders.",
+        "source": "The Hindu",
+        "headline": "Plea in Delhi HC challenges internet shutdown around Jantar Mantar protest site"
+      },
+      {
+        "word": "Overhaul",
+        "pos": "noun",
+        "meaning": "A thorough examination of machinery or a system, with repairs or changes made if necessary.",
+        "synonyms": [
+          "renovation",
+          "restructuring",
+          "reform"
+        ],
+        "example": "Amid protests, NTA aims for an overhaul and goes on a recruitment drive.",
+        "source": "The Hindu",
+        "headline": "Amid protests, NTA aims overhaul, goes on recruitment drive"
+      },
+      {
+        "word": "Incarceration",
+        "pos": "noun",
+        "meaning": "The state of being confined in prison; imprisonment.",
+        "synonyms": [
+          "detention",
+          "confinement",
+          "custody"
+        ],
+        "example": "Imran Khan's son urges intervention, citing his father's continued incarceration.",
+        "source": "The Hindu",
+        "headline": "Imran Khan's son urges international community to intervene, says father needs urgent medical attention"
+      }
+    ]
+  },
+  {
     "date": "2026-07-24",
     "label": "24 July 2026",
     "words": [
