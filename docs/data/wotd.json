@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-26",
+    "label": "26 July 2026",
+    "words": [
+      {
+        "word": "Enumeration",
+        "pos": "noun",
+        "meaning": "The action of counting or listing items.",
+        "synonyms": [
+          "count",
+          "tally",
+          "listing"
+        ],
+        "example": "The enumeration forms were distributed to more than 2 crore electors.",
+        "source": "The Hindu",
+        "headline": "Haryana completes SIR phase-I; over 33 lakh names left out due to relocation, death, duplication"
+      },
+      {
+        "word": "Depriving",
+        "pos": "verb",
+        "meaning": "To prevent a person or place from having or using something.",
+        "synonyms": [
+          "divest",
+          "strip",
+          "bereave"
+        ],
+        "example": "The Bill was passed, depriving panchayat pradhans of financial powers.",
+        "source": "The Hindu",
+        "headline": "West Bengal Assembly passes Bill depriving panchayat pradhans of financial powers"
+      },
+      {
+        "word": "Atrocities",
+        "pos": "noun",
+        "meaning": "Extremely cruel, violent, or shocking acts.",
+        "synonyms": [
+          "cruelties",
+          "barbarities",
+          "savagery"
+        ],
+        "example": "Mehbooba Mufti demanded an apology for the atrocities allegedly committed on the youth.",
+        "source": "The Hindu",
+        "headline": "Youth have reclaimed Gandhi’s idea of India: Mehbooba Mufti"
+      },
+      {
+        "word": "Unsavoury",
+        "pos": "adjective",
+        "meaning": "Unpleasant or morally offensive.",
+        "synonyms": [
+          "unpleasant",
+          "distasteful",
+          "objectionable"
+        ],
+        "example": "Critical and unsavoury social media chatter played a role in the government conceding demands.",
+        "source": "The Hindu",
+        "headline": "Not security concerns, but erosion of political capital of the ruling party led to Pradhan’s resignation"
+      },
+      {
+        "word": "Amicable",
+        "pos": "adjective",
+        "meaning": "Characterized by friendliness and absence of discord.",
+        "synonyms": [
+          "friendly",
+          "peaceable",
+          "cordial"
+        ],
+        "example": "The authority will promote amicable settlement of disputes before they reach courts.",
+        "source": "The Hindu",
+        "headline": "District Legal Services Authority begins functioning in Vijayanagara"
+      },
+      {
+        "word": "Repercussions",
+        "pos": "noun",
+        "meaning": "An unintended consequence occurring some time after an event or action, especially an unwelcome one.",
+        "synonyms": [
+          "consequences",
+          "fallout",
+          "aftermath"
+        ],
+        "example": "The SDM's actions sparked controversy and potential administrative repercussions.",
+        "source": "The Hindu",
+        "headline": "Madhya Pradesh SDM sends delivery executive to jail after receiving less items in parcel"
+      },
+      {
+        "word": "Decamp",
+        "pos": "verb",
+        "meaning": "To leave a place suddenly and secretly, typically to escape from custody or to avoid paying debts.",
+        "synonyms": [
+          "abscond",
+          "flee",
+          "bolt"
+        ],
+        "example": "Burglars decamped with 50 sovereigns of gold jewellery, cash, and silver objects.",
+        "source": "The Hindu",
+        "headline": "Burglars decamp with 50 sovereigns of gold jewellery, cash, silver objects in Tirupattur"
+      },
+      {
+        "word": "Codify",
+        "pos": "verb",
+        "meaning": "To arrange (laws or rules) into a systematic code.",
+        "synonyms": [
+          "systematize",
+          "organize",
+          "standardize"
+        ],
+        "example": "The Bill also seeks to codify President Donald Trump's $100,000 fee for each H-1B petition.",
+        "source": "The Hindu",
+        "headline": "U.S. Senator introduces Bill seeking a 3-year pause on H-1B visas"
+      },
+      {
+        "word": "Disproportionately",
+        "pos": "adverb",
+        "meaning": "To an extent that is too large or too small in comparison with something else.",
+        "synonyms": [
+          "excessively",
+          "unduly",
+          "unevenly"
+        ],
+        "example": "The court was accused of disproportionately targeting nations in the Global South.",
+        "source": "The Hindu",
+        "headline": "Venezuela notifies UN of withdrawal from ICC, alleging 'bias'"
+      },
+      {
+        "word": "Incendiary",
+        "pos": "adjective",
+        "meaning": "Tending to arouse strife, conflict, or passion.",
+        "synonyms": [
+          "provocative",
+          "inflammatory",
+          "agitating"
+        ],
+        "example": "The opposition eyes Ayodhya to corner the government as the CJP stir's end deprives it of an incendiary issue.",
+        "source": "Times of India",
+        "headline": "Oppn eyes Ayodhya to corner govt as CJP stir's end deprives it of an incendiary issue"
+      }
+    ]
+  },
+  {
     "date": "2026-07-25",
     "label": "25 July 2026",
     "words": [
