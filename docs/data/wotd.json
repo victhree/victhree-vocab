@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-27",
+    "label": "27 July 2026",
+    "words": [
+      {
+        "word": "Agitation",
+        "pos": "noun",
+        "meaning": "A state of anxiety or nervous excitement; also, a political movement for change.",
+        "synonyms": [
+          "turmoil",
+          "commotion",
+          "unrest"
+        ],
+        "example": "CM Revanth Reddy said that for Congress, the country was first and that is why it stayed away from leading the students’ movement lest the BJP would have termed it a politically motivated agitation.",
+        "source": "The Hindu",
+        "headline": "Revanth to speak to Rahul Gandhi on opening Parliament, Assembly doors for Gen Z"
+      },
+      {
+        "word": "Capsize",
+        "pos": "verb",
+        "meaning": "To overturn in the water.",
+        "synonyms": [
+          "overturn",
+          "flip",
+          "invert"
+        ],
+        "example": "CM Suvendu Adhikari meets victims of Sundarbans Trawler capsize, calls for stepping up disaster management preparedness.",
+        "source": "The Hindu",
+        "headline": "CM Suvendu Adhikari meets victims of Sundarbans Trawler capsize, calls for stepping up disaster management preparedness"
+      },
+      {
+        "word": "Envisage",
+        "pos": "verb",
+        "meaning": "To contemplate or conceive of as a possibility or a desirable future event.",
+        "synonyms": [
+          "foresee",
+          "imagine",
+          "visualize"
+        ],
+        "example": "The project envisages small shelters at multiple locations, but animal welfare bodies caution that land availability and local opposition could hamper implementation.",
+        "source": "The Hindu",
+        "headline": "Finding land biggest challenge for Kozhikode Corporation’s stray dog shelter project"
+      },
+      {
+        "word": "Scrutiny",
+        "pos": "noun",
+        "meaning": "Critical observation or examination.",
+        "synonyms": [
+          "inspection",
+          "analysis",
+          "examination"
+        ],
+        "example": "As spelling variations, age mismatches, and shifting residences come under scrutiny, decades of government-issued records are failing the citizenship test.",
+        "source": "The Hindu",
+        "headline": "Eroding identities of Brahmaputra’s children"
+      },
+      {
+        "word": "Expedite",
+        "pos": "verb",
+        "meaning": "To make an action or process happen sooner or be accomplished more quickly.",
+        "synonyms": [
+          "accelerate",
+          "hasten",
+          "speed up"
+        ],
+        "example": "Civic bodies expedite mass vaccination, sterilisation of community dogs in Vellore, Ranipet, Tiruvannamalai.",
+        "source": "The Hindu",
+        "headline": "Civic bodies expedite mass vaccination, sterilisation of community dogs in Vellore, Ranipet, Tiruvannamalai"
+      },
+      {
+        "word": "Hinge",
+        "pos": "verb",
+        "meaning": "To depend entirely on.",
+        "synonyms": [
+          "depend",
+          "rely",
+          "pivot"
+        ],
+        "example": "Samastha’s power equation hinges on choice of new general secretary.",
+        "source": "The Hindu",
+        "headline": "Samastha’s power equation hinges on choice of new general secretary"
+      },
+      {
+        "word": "Monopoly",
+        "pos": "noun",
+        "meaning": "The exclusive possession or control of the supply of or trade in a commodity or service.",
+        "synonyms": [
+          "dominance",
+          "exclusivity",
+          "control"
+        ],
+        "example": "The move aims to increase participation in the tender process and break the monopoly of a few operators who have dominated bar contracts for years.",
+        "source": "The Hindu",
+        "headline": "Tasmac bars can now be operated within 100 m of liquor shops"
+      },
+      {
+        "word": "Injunction",
+        "pos": "noun",
+        "meaning": "An authoritative warning or order.",
+        "synonyms": [
+          "order",
+          "command",
+          "mandate"
+        ],
+        "example": "U.S. appeals court upholds injunction that blocks Trump's order to create federal voter list.",
+        "source": "The Hindu",
+        "headline": "U.S. appeals court upholds injunction that blocks Trump's order to create federal voter list"
+      },
+      {
+        "word": "Anoint",
+        "pos": "verb",
+        "meaning": "To confer a typically holy or distinguished title or role upon.",
+        "synonyms": [
+          "designate",
+          "appoint",
+          "bless"
+        ],
+        "example": "Far-right firebrand Jair Bolsonaro anointed his eldest son Flavio as his political heir.",
+        "source": "The Hindu",
+        "headline": "Flavio Bolsonaro gets party nod to take on Lula in Brazil polls"
+      },
+      {
+        "word": "Trajectory",
+        "pos": "noun",
+        "meaning": "The path followed by a projectile flying or an object moving under the action of given forces; also, a course of development.",
+        "synonyms": [
+          "path",
+          "course",
+          "route"
+        ],
+        "example": "Israel had witnessed one of its strongest tourism recoveries following the COVID-19 pandemic before the conflict interrupted its growth trajectory.",
+        "source": "The Hindu",
+        "headline": "Closer ties and easier travel: Israel eyes pre-war tourist levels from India by 2027"
+      }
+    ]
+  },
+  {
     "date": "2026-07-26",
     "label": "26 July 2026",
     "words": [
