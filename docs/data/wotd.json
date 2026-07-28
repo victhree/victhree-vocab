@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-28",
+    "label": "28 July 2026",
+    "words": [
+      {
+        "word": "Demolition",
+        "pos": "noun",
+        "meaning": "The act or process of pulling down or destroying a building or structure.",
+        "synonyms": [
+          "destruction",
+          "dismantling",
+          "razing"
+        ],
+        "example": "Mohammad Ali Jauhar University in Rampur gets interim relief in demolition issue.",
+        "source": "The Hindu",
+        "headline": "Mohammad Ali Jauhar University in Rampur gets interim relief in demolition issue"
+      },
+      {
+        "word": "Unrelenting",
+        "pos": "adjective",
+        "meaning": "Not yielding in strength, severity, or intensity.",
+        "synonyms": [
+          "persistent",
+          "unwavering",
+          "relentless"
+        ],
+        "example": "Unrelenting Opposition demands apology from Home Minister Amit Shah for police action.",
+        "source": "The Hindu",
+        "headline": "Rajya Sabha adjourned again; Opposition MPs seek apology from Amit Shah"
+      },
+      {
+        "word": "Disquiet",
+        "pos": "noun",
+        "meaning": "A feeling of anxiety or worry.",
+        "synonyms": [
+          "unease",
+          "apprehension",
+          "restlessness"
+        ],
+        "example": "Reports emerged of instances of disquiet among BJP members.",
+        "source": "The Hindu",
+        "headline": "‘Gen Z’ protests test the Sangh, raise uncomfortable questions"
+      },
+      {
+        "word": "Trigger",
+        "pos": "verb",
+        "meaning": "To cause an event or situation to happen or exist.",
+        "synonyms": [
+          "provoke",
+          "instigate",
+          "spark"
+        ],
+        "example": "A viral video of a policeman firing an AK-47 at protesters triggers a political storm.",
+        "source": "The Hindu",
+        "headline": "Bihar policeman who fired AK-47 at protesters suspended; viral video triggers political storm"
+      },
+      {
+        "word": "Mulls",
+        "pos": "verb",
+        "meaning": "To think about (a fact, proposal, or request) deeply and at length.",
+        "synonyms": [
+          "consider",
+          "contemplate",
+          "ponder"
+        ],
+        "example": "The Supreme Court mulls framing guidelines on the right to peaceful protest.",
+        "source": "The Hindu",
+        "headline": "Delhi protest crackdown: Supreme Court says right to peaceful protest constitutionally protected, mulls framing guidelines"
+      },
+      {
+        "word": "Discrepancy",
+        "pos": "noun",
+        "meaning": "A lack of compatibility or similarity between two or more facts.",
+        "synonyms": [
+          "inconsistency",
+          "difference",
+          "divergence"
+        ],
+        "example": "Madras University Syndicate clears five professors of discrepancy in appointment.",
+        "source": "The Hindu",
+        "headline": "Madras University Syndicate extends term of Registrar by two years, clears five professors of discrepancy in appointment"
+      },
+      {
+        "word": "Arid",
+        "pos": "adjective",
+        "meaning": "Having little or no rain; too dry or barren to support vegetation.",
+        "synonyms": [
+          "parched",
+          "dry",
+          "desiccated"
+        ],
+        "example": "The TDP government has transformed the arid region into an economic hub.",
+        "source": "The Hindu",
+        "headline": "Rayalaseema: India’s new industrial hub"
+      },
+      {
+        "word": "Deterrent",
+        "pos": "noun",
+        "meaning": "A thing that discourages or is intended to discourage someone from doing something.",
+        "synonyms": [
+          "disincentive",
+          "restraint",
+          "check"
+        ],
+        "example": "Irresponsible statements can act as a deterrent for ordinary people to fight for their rights.",
+        "source": "The Hindu",
+        "headline": "NC, PDP spar over Mehbooba’s ‘Kashmir ka banta hai’ remarks; BJP seeks ban on PDP like Jamaat"
+      },
+      {
+        "word": "Escalation",
+        "pos": "noun",
+        "meaning": "An increase in the intensity or seriousness of something; an intensification.",
+        "synonyms": [
+          "intensification",
+          "worsening",
+          "heightening"
+        ],
+        "example": "The latest escalation of tensions in West Asia has revived concerns over maritime security.",
+        "source": "The Hindu",
+        "headline": "With Houthi blockade on Saudi Arabia, Bab el-Mandeb returns to centre stage | Explained"
+      },
+      {
+        "word": "Dismantled",
+        "pos": "verb",
+        "meaning": "To take (a machine or structure) to pieces.",
+        "synonyms": [
+          "disassemble",
+          "break down",
+          "demolish"
+        ],
+        "example": "An intelligence-led cross-border investigation dismantled an alleged drug trafficking network.",
+        "source": "The Hindu",
+        "headline": "19 arrested as Police seize drugs worth over $97 million in Canada"
+      }
+    ]
+  },
+  {
     "date": "2026-07-27",
     "label": "27 July 2026",
     "words": [
