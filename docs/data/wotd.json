@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-07-30",
+    "label": "30 July 2026",
+    "words": [
+      {
+        "word": "Curb",
+        "pos": "verb",
+        "meaning": "To restrain or control something.",
+        "synonyms": [
+          "restrain",
+          "limit",
+          "check"
+        ],
+        "example": "While the Bill seeks to curb exam malpractice through time-bound investigations and speedy trials, similar legal timelines have often been missed.",
+        "source": "The Hindu",
+        "headline": "Public Examinations Amendment Bill 2026: Tougher penalties face implementation hurdles, backlog challenges"
+      },
+      {
+        "word": "Incinerate",
+        "pos": "verb",
+        "meaning": "To burn something completely.",
+        "synonyms": [
+          "cremate",
+          "combust",
+          "reduce to ashes"
+        ],
+        "example": "City police incinerate 587 kg of suspected ganja, other seized contraband.",
+        "source": "The Hindu",
+        "headline": "City police incinerate 587 kg of suspected ganja, other seized contraband"
+      },
+      {
+        "word": "Coercing",
+        "pos": "verb",
+        "meaning": "To persuade an unwilling person to do something by using force or threats.",
+        "synonyms": [
+          "compel",
+          "force",
+          "pressure"
+        ],
+        "example": "Centre 'coercing' vehicle manufacturers into silence on E20 issue: Kejriwal.",
+        "source": "The Hindu",
+        "headline": "Centre ‘coercing’ vehicle manufacturers into silence on E20 issue: Kejriwal"
+      },
+      {
+        "word": "Scourge",
+        "pos": "noun",
+        "meaning": "A person or thing that causes great trouble or suffering.",
+        "synonyms": [
+          "bane",
+          "curse",
+          "affliction"
+        ],
+        "example": "The scourge beneath HYDRAA’s excesses.",
+        "source": "The Hindu",
+        "headline": "The scourge beneath HYDRAA’s excesses"
+      },
+      {
+        "word": "Revamp",
+        "pos": "verb",
+        "meaning": "To give new and improved form, structure, or appearance to.",
+        "synonyms": [
+          "renovate",
+          "overhaul",
+          "modernize"
+        ],
+        "example": "Indian Psychiatric Society urges mental health policy revamp.",
+        "source": "The Hindu",
+        "headline": "Indian Psychiatric Society urges mental health policy revamp"
+      },
+      {
+        "word": "Confronted",
+        "pos": "verb",
+        "meaning": "Meet (someone) face to face with hostile or argumentative intent.",
+        "synonyms": [
+          "challenge",
+          "oppose",
+          "accost"
+        ],
+        "example": "The anti-encroachment body’s run-ins with the court point to a systemic problem.",
+        "source": "The Hindu",
+        "headline": "The scourge beneath HYDRAA’s excesses"
+      },
+      {
+        "word": "Annexation",
+        "pos": "noun",
+        "meaning": "The action of annexing something, especially territory.",
+        "synonyms": [
+          "seizure",
+          "occupation",
+          "takeover"
+        ],
+        "example": "West Bank violence, annexation ‘only getting worse’: UN.",
+        "source": "The Hindu",
+        "headline": "West Bank violence, annexation ‘only getting worse’: UN"
+      },
+      {
+        "word": "Drought",
+        "pos": "noun",
+        "meaning": "A prolonged period of abnormally low rainfall; a shortage of water resulting from this.",
+        "synonyms": [
+          "dryness",
+          "aridity",
+          "water shortage"
+        ],
+        "example": "More than half of England ‘officially in drought’: U.K. government.",
+        "source": "The Hindu",
+        "headline": "More than half of England ‘officially in drought’: U.K. government"
+      },
+      {
+        "word": "Paramilitary",
+        "pos": "adjective",
+        "meaning": "Of or relating to a force or forces that are not professional soldiers but are organized on military lines.",
+        "synonyms": [
+          "militia",
+          "irregular",
+          "guerrilla"
+        ],
+        "example": "Boeings identified in Reuters report carried weapons for Sudanese paramilitary, UN experts find.",
+        "source": "The Hindu",
+        "headline": "Boeings identified in Reuters report carried weapons for Sudanese paramilitary, UN experts find"
+      },
+      {
+        "word": "Tribunal",
+        "pos": "noun",
+        "meaning": "A special court or committee appointed to deal with particular problems.",
+        "synonyms": [
+          "court",
+          "judiciary",
+          "panel"
+        ],
+        "example": "Last November, Hasina was sentenced to death in absentia by a special tribunal in Dhaka for alleged “crimes against humanity”.",
+        "source": "The Hindu",
+        "headline": "Will return to Bangladesh but ‘could be killed’: Bangladesh’s former PM Hasina"
+      }
+    ]
+  },
+  {
     "date": "2026-07-29",
     "label": "29 July 2026",
     "words": [
