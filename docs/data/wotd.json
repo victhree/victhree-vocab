@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-01",
+    "label": "1 August 2026",
+    "words": [
+      {
+        "word": "Ordeal",
+        "pos": "noun",
+        "meaning": "A prolonged and difficult experience",
+        "synonyms": [
+          "hardship",
+          "trial",
+          "calamity"
+        ],
+        "example": "Delays in disbursing aid are prolonging the ordeal of patients from economically backward regions.",
+        "source": "The Hindu",
+        "headline": "Delayed aid, prolonged ordeal"
+      },
+      {
+        "word": "Transpired",
+        "pos": "verb",
+        "meaning": "To occur or happen",
+        "synonyms": [
+          "occurred",
+          "materialized",
+          "ensued"
+        ],
+        "example": "The family members recount what had transpired during the crackdown on the Cockroach Janta Party-led march.",
+        "source": "The Hindu",
+        "headline": "Kin of injured Delhi police personnel want their views to be discussed in Parliament"
+      },
+      {
+        "word": "Barbs",
+        "pos": "noun",
+        "meaning": "A critical or cutting remark",
+        "synonyms": [
+          "insults",
+          "taunts",
+          "gibes"
+        ],
+        "example": "While the BJP hailed the court order, Opposition parties traded barbs after the Tahir Hussain verdict.",
+        "source": "The Hindu",
+        "headline": "Triumph of justice vs Hussain a BJP man: parties trade barbs after Tahir Hussain verdict"
+      },
+      {
+        "word": "Moots",
+        "pos": "verb",
+        "meaning": "To suggest or bring up for discussion",
+        "synonyms": [
+          "proposes",
+          "suggests",
+          "advances"
+        ],
+        "example": "The Supreme Court moots a protocol to access the court’s livestream archives.",
+        "source": "The Hindu",
+        "headline": "Supreme Court moots protocol to access court’s livestream archives"
+      },
+      {
+        "word": "Augmentation",
+        "pos": "noun",
+        "meaning": "The action or process of making something greater by adding to it",
+        "synonyms": [
+          "increase",
+          "expansion",
+          "enhancement"
+        ],
+        "example": "The committee was constituted to advise the State government on measures for revenue augmentation.",
+        "source": "The Hindu",
+        "headline": "Revenue Augmentation Committee holds first meeting through video conference"
+      },
+      {
+        "word": "Operationalise",
+        "pos": "verb",
+        "meaning": "To make something effective or ready for use",
+        "synonyms": [
+          "implement",
+          "activate",
+          "initiate"
+        ],
+        "example": "The Kerala HC directs the State to operationalise promised NDPS Courts on time.",
+        "source": "The Hindu",
+        "headline": "Kerala HC directs State to operationalise promised NDPS Courts on time"
+      },
+      {
+        "word": "Envoys",
+        "pos": "noun",
+        "meaning": "A messenger or representative, especially one on a diplomatic mission",
+        "synonyms": [
+          "ambassadors",
+          "delegates",
+          "emissaries"
+        ],
+        "example": "The meeting between the two envoys was a first in a foreign location.",
+        "source": "The Hindu",
+        "headline": "In a first, India’s High Commissioner to Bangladesh meets U.S. Ambassador to India in Dhaka"
+      },
+      {
+        "word": "Complicity",
+        "pos": "noun",
+        "meaning": "The state of being involved with others in an illegal activity or wrongdoing",
+        "synonyms": [
+          "collusion",
+          "abetment",
+          "conspiracy"
+        ],
+        "example": "India risks complicity in Israel’s war crimes in Gaza, an Amnesty report reveals.",
+        "source": "The Hindu",
+        "headline": "India risks complicity in Israel’s war crimes in Gaza, Amnesty report reveals"
+      },
+      {
+        "word": "Disarmament",
+        "pos": "noun",
+        "meaning": "The reduction or withdrawal of military forces and weapons",
+        "synonyms": [
+          "demilitarization",
+          "demobilization",
+          "demobilisation"
+        ],
+        "example": "Trump announces a deal for the 'complete disarmament' of Hamas.",
+        "source": "The Hindu",
+        "headline": "Trump announces deal for 'complete disarmament’ of Hamas"
+      },
+      {
+        "word": "Proxies",
+        "pos": "noun",
+        "meaning": "A person or thing acting on behalf of another",
+        "synonyms": [
+          "representatives",
+          "agents",
+          "delegates"
+        ],
+        "example": "The war in West Asia reignited and again drew in Iran's proxies.",
+        "source": "The Hindu",
+        "headline": "West Asia war updates: U.S. military says no U.S. aircraft hit in attempted Iranian attacks"
+      }
+    ]
+  },
+  {
     "date": "2026-07-31",
     "label": "31 July 2026",
     "words": [
