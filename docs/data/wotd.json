@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-02",
+    "label": "2 August 2026",
+    "words": [
+      {
+        "word": "Unprecedented",
+        "pos": "adjective",
+        "meaning": "Never done or known before.",
+        "synonyms": [
+          "unparalleled",
+          "novel",
+          "unheard-of"
+        ],
+        "example": "The new international airport will open up unprecedented opportunities.",
+        "source": "The Hindu",
+        "headline": "Bhogapuram airport a historic chapter for Uttarandhra, says Union Civil Aviation Minister"
+      },
+      {
+        "word": "Loggerhead",
+        "pos": "noun",
+        "meaning": "In disagreement or dispute.",
+        "synonyms": [
+          "quarrel",
+          "contention",
+          "dispute"
+        ],
+        "example": "The Lok Bhavan and the elected government were at loggerheads over the eviction drive.",
+        "source": "The Hindu",
+        "headline": "J&K speeds up FRA implementation; warns Forest Dept. against eviction notices"
+      },
+      {
+        "word": "Provocative",
+        "pos": "adjective",
+        "meaning": "Causing annoyance, anger, or another strong reaction, especially deliberately.",
+        "synonyms": [
+          "inciting",
+          "inflammatory",
+          "vexing"
+        ],
+        "example": "The accused circulated a video with provocative remarks.",
+        "source": "The Hindu",
+        "headline": "Sasikala, others booked over DYFI leader’s complaint"
+      },
+      {
+        "word": "Inclement",
+        "pos": "adjective",
+        "meaning": "Unpleasantly cold or wet (of weather).",
+        "synonyms": [
+          "harsh",
+          "severe",
+          "stormy"
+        ],
+        "example": "Fishers were warned against venturing out due to inclement weather.",
+        "source": "The Hindu",
+        "headline": "Trawling ban end fails to cheer fishers as adverse weather spoils their plans"
+      },
+      {
+        "word": "Incessant",
+        "pos": "adjective",
+        "meaning": "Continuing without interruption or pause.",
+        "synonyms": [
+          "unremitting",
+          "constant",
+          "perpetual"
+        ],
+        "example": "Incessant downpour disrupts life in Kerala’s Kozhikode.",
+        "source": "The Hindu",
+        "headline": "Incessant downpour disrupts life in Kerala’s Kozhikode"
+      },
+      {
+        "word": "Exclave",
+        "pos": "noun",
+        "meaning": "A portion of territory of one state geographically separated from the main part by surrounding alien territory.",
+        "synonyms": [
+          "outlier",
+          "enclave",
+          "detached territory"
+        ],
+        "example": "Ceuta, a Spanish exclave, witnessed one of its largest migration crises.",
+        "source": "The Hindu",
+        "headline": "Ceuta | A slice of Europe in Africa"
+      },
+      {
+        "word": "Belligerent",
+        "pos": "adjective",
+        "meaning": "Hostile and aggressive.",
+        "synonyms": [
+          "combative",
+          "antagonistic",
+          "pugnacious"
+        ],
+        "example": "The nation adopted a belligerent stance in the ongoing conflict.",
+        "source": "The Hindu",
+        "headline": "West Asia war LIVE: U.S. embassies urge citizens to ‘consider departing’ from West Asia"
+      },
+      {
+        "word": "Profound",
+        "pos": "adjective",
+        "meaning": "Very great or intense.",
+        "synonyms": [
+          "deep",
+          "intense",
+          "extreme"
+        ],
+        "example": "It is with profound sadness that we confirm his passing.",
+        "source": "The Hindu",
+        "headline": "Veteran Nepalese mountaineer Purja dies in avalanche on Broad Peak in PoK"
+      },
+      {
+        "word": "Communal",
+        "pos": "adjective",
+        "meaning": "Relating to a community or to communities; shared by all members of a community.",
+        "synonyms": [
+          "collective",
+          "shared",
+          "public"
+        ],
+        "example": "Tensions have persisted in Nepal since communal clashes erupted.",
+        "source": "The Hindu",
+        "headline": "Nepal authorities extend curfew to Saptari district bordering India as communal unrest spreads"
+      },
+      {
+        "word": "Opacity",
+        "pos": "noun",
+        "meaning": "The quality of lacking transparency or clarity.",
+        "synonyms": [
+          "obscurity",
+          "fogginess",
+          "vagueness"
+        ],
+        "example": "Justice Bhuyan questioned the collegium’s opacity in judicial appointments.",
+        "source": "Times of India",
+        "headline": "Judge Bhuyan questions SC collegium’s opacity"
+      }
+    ]
+  },
+  {
     "date": "2026-08-01",
     "label": "1 August 2026",
     "words": [
