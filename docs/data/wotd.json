@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-03",
+    "label": "3 August 2026",
+    "words": [
+      {
+        "word": "Prevailed",
+        "pos": "verb",
+        "meaning": "To be widespread or current; to be in effect.",
+        "synonyms": [
+          "Persist",
+          "Dominate",
+          "Rule"
+        ],
+        "example": "Tension prevailed at Sangala and Nemakallu villages following the clash.",
+        "source": "The Hindu",
+        "headline": "YSRCP Alur MLA Virupakshi, son arrested following ‘attack’ on Dalit family"
+      },
+      {
+        "word": "Indigenous",
+        "pos": "adjective",
+        "meaning": "Originating or occurring naturally in a particular place; native.",
+        "synonyms": [
+          "Native",
+          "Aboriginal",
+          "Endemic"
+        ],
+        "example": "Kishan Reddy pushes for indigenous manufacturing in the EV sector.",
+        "source": "The Hindu",
+        "headline": "Kishan Reddy pushes for indigenous manufacturing in EV sector, self sufficiency in critical minerals"
+      },
+      {
+        "word": "Lash",
+        "pos": "verb",
+        "meaning": "(of rain, wind, or waves) To hit with great force.",
+        "synonyms": [
+          "Strike",
+          "Pound",
+          "Beat"
+        ],
+        "example": "Sudden evening showers lash parts of Hyderabad on August 2.",
+        "source": "The Hindu",
+        "headline": "Sudden evening showers lash parts of Hyderabad on August 2"
+      },
+      {
+        "word": "Irregularities",
+        "pos": "noun",
+        "meaning": "Actions or procedures that are contrary to rules, regulations, or established practice.",
+        "synonyms": [
+          "Anomalies",
+          "Misconduct",
+          "Improprieties"
+        ],
+        "example": "Students continue protests over alleged JPSC, JSSC exam irregularities.",
+        "source": "The Hindu",
+        "headline": "Students continue protests in Ranchi over alleged JPSC, JSSC exam irregularities, demand CBI probe"
+      },
+      {
+        "word": "Veiled",
+        "pos": "adjective",
+        "meaning": "Hidden or disguised.",
+        "synonyms": [
+          "Disguised",
+          "Obscured",
+          "Covert"
+        ],
+        "example": "In what sounded like a veiled criticism, the leader recalled the incident.",
+        "source": "The Hindu",
+        "headline": "M.K. Sanoo never saw continuous LDF rule as dangerous, says Pinarayi Vijayan"
+      },
+      {
+        "word": "Turbidity",
+        "pos": "noun",
+        "meaning": "The cloudiness or haziness of a fluid caused by large numbers of individual particles.",
+        "synonyms": [
+          "Cloudiness",
+          "Murkiness",
+          "Haziness"
+        ],
+        "example": "High turbidity in the Pazhassi dam following intense rain disrupted drinking water treatment.",
+        "source": "The Hindu",
+        "headline": "Heavy silt in Pazhassi dam disrupts drinking water treatment"
+      },
+      {
+        "word": "Quarry",
+        "pos": "noun",
+        "meaning": "A place, typically a large, deep pit, from which stone or other materials are or have been extracted.",
+        "synonyms": [
+          "Mine",
+          "Pit",
+          "Excavation"
+        ],
+        "example": "A hunger strike was held against the laterite quarry in Kannur.",
+        "source": "The Hindu",
+        "headline": "Hunger strike against laterite quarry in Kannur suspended after Collector issues stop memo"
+      },
+      {
+        "word": "Colluding",
+        "pos": "verb",
+        "meaning": "To cooperate in a secret or underhand way in order to deceive or cheat others.",
+        "synonyms": [
+          "Conspiring",
+          "Conniving",
+          "Scheming"
+        ],
+        "example": "The candidate accused Bharti of trying to sabotage his campaign and colluding with BJP.",
+        "source": "The Hindu",
+        "headline": "Day before bypoll result, Congress suspends ex-Datia MLA Rajendra Bharti"
+      },
+      {
+        "word": "Discourse",
+        "pos": "noun",
+        "meaning": "Written or spoken communication or debate.",
+        "synonyms": [
+          "Discussion",
+          "Conversation",
+          "Dialogue"
+        ],
+        "example": "The court departs from many assumptions that have long shaped anti-trafficking discourse globally.",
+        "source": "The Hindu",
+        "headline": "Analysing the Supreme Court’s judgment on sex work"
+      },
+      {
+        "word": "Exclave",
+        "pos": "noun",
+        "meaning": "A portion of a country's territory that is geographically separated from the main part and surrounded by foreign territory.",
+        "synonyms": [
+          "Enclave",
+          "Outlier",
+          "Separate territory"
+        ],
+        "example": "The Spanish exclave witnessed one of its largest migration crises.",
+        "source": "The Hindu",
+        "headline": "Ceuta | A slice of Europe in Africa"
+      }
+    ]
+  },
+  {
     "date": "2026-08-02",
     "label": "2 August 2026",
     "words": [
