@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-04",
+    "label": "4 August 2026",
+    "words": [
+      {
+        "word": "Mitigate",
+        "pos": "verb",
+        "meaning": "To make less severe, serious, or painful.",
+        "synonyms": [
+          "Alleviate",
+          "Lessen",
+          "Assuage"
+        ],
+        "example": "Lack of long-term plans to mitigate rain-induced calamities is worrying for Kerala.",
+        "source": "The Hindu",
+        "headline": "Lack of long-term plans to mitigate rain-inducted calamities worrying for Kerala"
+      },
+      {
+        "word": "Enumeration",
+        "pos": "noun",
+        "meaning": "The action of counting or listing things one by one.",
+        "synonyms": [
+          "Tally",
+          "Count",
+          "Listing"
+        ],
+        "example": "Over 93% enumeration forms distributed, 72.89% digitised to date in Maharashtra.",
+        "source": "The Hindu",
+        "headline": "Maharashtra SIR: Over 93% enumeration forms distributed, 72.89% digitised to date"
+      },
+      {
+        "word": "Rife",
+        "pos": "adjective",
+        "meaning": "Of common occurrence; widespread.",
+        "synonyms": [
+          "Abundant",
+          "Prevalent",
+          "Ubiquitous"
+        ],
+        "example": "Speculations are rife that leaders from the ‘Kalighat camp’ are likely to switch sides.",
+        "source": "The Hindu",
+        "headline": "Suvendu Adhikari to meet NCPI MPs in Delhi on August 4 as TMC stares at more exits"
+      },
+      {
+        "word": "Reel",
+        "pos": "verb",
+        "meaning": "To feel dizzy or unsteady; to be in a state of shock or confusion.",
+        "synonyms": [
+          "Stagger",
+          "Wobble",
+          "Sway"
+        ],
+        "example": "1.28 lakh people in seven Assam districts reel under floods.",
+        "source": "The Hindu",
+        "headline": "1.28 lakh people in seven Assam districts reel under floods; toll rises to 87 with two more deaths"
+      },
+      {
+        "word": "Disarmament",
+        "pos": "noun",
+        "meaning": "The reduction or withdrawal of military forces and weapons.",
+        "synonyms": [
+          "Demilitarization",
+          "Demobilization",
+          "Decommissioning"
+        ],
+        "example": "Board of Peace envoy meets with Netanyahu on Gaza disarmament deal.",
+        "source": "The Hindu",
+        "headline": "Board of Peace envoy meets with Netanyahu on Gaza disarmament deal, urges halt to strikes"
+      },
+      {
+        "word": "Rebuttal",
+        "pos": "noun",
+        "meaning": "A refutation or contradiction.",
+        "synonyms": [
+          "Denial",
+          "Refutation",
+          "Disproof"
+        ],
+        "example": "The rebuttal by the Iranian Foreign Ministry follows Mr. Trump saying he had held off launching new strikes.",
+        "source": "The Hindu",
+        "headline": "Iran denies negotiating with U.S. after Trump announces talks"
+      },
+      {
+        "word": "Grinding",
+        "pos": "adjective",
+        "meaning": "Difficult and tiring, continuing for a long time.",
+        "synonyms": [
+          "Arduous",
+          "Tedious",
+          "Relentless"
+        ],
+        "example": "The exchange of strikes comes nearly four-and-a-half years into their grinding war.",
+        "source": "The Hindu",
+        "headline": "At least 14 dead as Ukraine, Russia exchange strikes"
+      },
+      {
+        "word": "Ambit",
+        "pos": "noun",
+        "meaning": "The scope, extent, or bounds of something.",
+        "synonyms": [
+          "Scope",
+          "Extent",
+          "Purview"
+        ],
+        "example": "SC expands ambit of Sec 498A to cover cruelty in live-ins too.",
+        "source": "Times of India",
+        "headline": "SC expands ambit of Sec 498A to cover cruelty in live-ins too"
+      },
+      {
+        "word": "Palette",
+        "pos": "noun",
+        "meaning": "The range of colours used by a particular artist or in a particular picture.",
+        "synonyms": [
+          "Spectrum",
+          "Range",
+          "Array"
+        ],
+        "example": "PK adds a dash of yellow to Bihar palette of saffron & green.",
+        "source": "Times of India",
+        "headline": "Bankipur bypoll: PK adds a dash of yellow to Bihar palette of saffron & green"
+      },
+      {
+        "word": "Wastage",
+        "pos": "noun",
+        "meaning": "The action or process of wasting something.",
+        "synonyms": [
+          "Squandering",
+          "Extravagance",
+          "Profligacy"
+        ],
+        "example": "Jeff Bezos warns Mamdani on NYC taxes, slams wasteful spending.",
+        "source": "Times of India",
+        "headline": "Jeff Bezos warns Mamdani on NYC taxes, slams wasteful spending"
+      }
+    ]
+  },
+  {
     "date": "2026-08-03",
     "label": "3 August 2026",
     "words": [
