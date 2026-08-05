@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-05",
+    "label": "5 August 2026",
+    "words": [
+      {
+        "word": "Perception",
+        "pos": "noun",
+        "meaning": "The way in which something is regarded, understood, or interpreted.",
+        "synonyms": [
+          "view",
+          "impression",
+          "conception"
+        ],
+        "example": "There was a widespread perception that decision-making authority rested with Congress leader Sonia Gandhi.",
+        "source": "The Hindu",
+        "headline": "BJP targets Opposition over Kashmir remarks, Jantar Mantar protests"
+      },
+      {
+        "word": "Undertake",
+        "pos": "verb",
+        "meaning": "To commit oneself to and begin (an enterprise or responsibility).",
+        "synonyms": [
+          "commence",
+          "embark",
+          "tackle"
+        ],
+        "example": "The Deputy CM says he will soon undertake field inspections of the projects across the State.",
+        "source": "The Hindu",
+        "headline": "Speed up execution of Jal Jeevan Mission projects, Pawan Kalyan directs officials"
+      },
+      {
+        "word": "Assess",
+        "pos": "verb",
+        "meaning": "To evaluate or estimate the nature, ability, or quality of.",
+        "synonyms": [
+          "evaluate",
+          "appraise",
+          "gauge"
+        ],
+        "example": "The government will begin assessing the damage from August 9 as the death toll mounts.",
+        "source": "The Hindu",
+        "headline": "Flood in Assam due to Nagaland mining, will take up with Centre: Himanta Biswa Sarma"
+      },
+      {
+        "word": "Hexavalent",
+        "pos": "adjective",
+        "meaning": "Having a valence of six.",
+        "synonyms": [
+          "sexivalent",
+          "six-valent",
+          "multivalent"
+        ],
+        "example": "A study says introducing the hexavalent vaccine could reduce the number of injections.",
+        "source": "The Hindu",
+        "headline": "Hexavalent vaccine could improve India’s immunisation programme: Study"
+      },
+      {
+        "word": "Pertain",
+        "pos": "verb",
+        "meaning": "To relate to; be appropriate to.",
+        "synonyms": [
+          "relate",
+          "concern",
+          "apply"
+        ],
+        "example": "Complaints lodged by senior citizens with the Kerala State Elderly Commission pertained to issues including neglect.",
+        "source": "The Hindu",
+        "headline": "Sense of insecurity emerges as key concern of elderly people during panel’s sitting in Kochi"
+      },
+      {
+        "word": "Discourse",
+        "pos": "noun",
+        "meaning": "Written or spoken communication or debate.",
+        "synonyms": [
+          "discussion",
+          "dialogue",
+          "conversation"
+        ],
+        "example": "Political discourse still fails women leaders, highlighting the challenges they face.",
+        "source": "The Hindu",
+        "headline": "Political discourse still fails women leaders"
+      },
+      {
+        "word": "Verbatim",
+        "pos": "adverb",
+        "meaning": "In exactly the same words as were used originally.",
+        "synonyms": [
+          "precisely",
+          "exactly",
+          "literally"
+        ],
+        "example": "The headline was quoted verbatim from the news report.",
+        "source": "The Hindu",
+        "headline": "NCP asks Sharad Pawar to seek Congress apology or quit INDIA Bloc over ‘gungi gudiya’ remark"
+      },
+      {
+        "word": "Elusive",
+        "pos": "adjective",
+        "meaning": "Difficult to find, catch, or achieve.",
+        "synonyms": [
+          "evasive",
+          "slippery",
+          "intangible"
+        ],
+        "example": "Jammu and Kashmir continues its elusive quest for Statehood, facing ongoing challenges.",
+        "source": "The Hindu",
+        "headline": "Jammu and Kashmir — the elusive quest for Statehood"
+      },
+      {
+        "word": "Valour",
+        "pos": "noun",
+        "meaning": "Great courage, especially in battle.",
+        "synonyms": [
+          "bravery",
+          "courage",
+          "heroism"
+        ],
+        "example": "Chola idols of Gajasamharamurti in Tamil Nadu depict Lord Shiva’s valour and ferocity.",
+        "source": "The Hindu",
+        "headline": "Chola idols of Gajasamharamurti in Tamil Nadu depict Lord Shiva’s valour and ferocity"
+      },
+      {
+        "word": "Exorbitant",
+        "pos": "adjective",
+        "meaning": "(Of a price or amount charged) unreasonably high.",
+        "synonyms": [
+          "excessive",
+          "extravagant",
+          "unreasonable"
+        ],
+        "example": "Private medical colleges are demanding exorbitant cash payment from SC, ST scholarship students.",
+        "source": "The Hindu",
+        "headline": "Private medical colleges demanding exorbitant cash payment from SC, ST scholarship students, allege affected parents"
+      }
+    ]
+  },
+  {
     "date": "2026-08-04",
     "label": "4 August 2026",
     "words": [
