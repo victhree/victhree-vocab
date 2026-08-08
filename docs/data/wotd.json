@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-08",
+    "label": "8 August 2026",
+    "words": [
+      {
+        "word": "Disrupt",
+        "pos": "verb",
+        "meaning": "To interrupt the normal course of something.",
+        "synonyms": [
+          "Disturb",
+          "Interrupt",
+          "Obstruct"
+        ],
+        "example": "Heavy rain disrupts normal life in parts of north Telangana.",
+        "source": "The Hindu",
+        "headline": "Heavy rain brings cheer to farmers but disrupts normal life in parts of north Telangana"
+      },
+      {
+        "word": "Commission",
+        "pos": "verb",
+        "meaning": "To bring something into working condition or use.",
+        "synonyms": [
+          "Inaugurate",
+          "Activate",
+          "Launch"
+        ],
+        "example": "The compressed biogas facility is expected to be commissioned by November 1.",
+        "source": "The Hindu",
+        "headline": "Thrissur’s waste-to-wealth dream nears reality with 30-tonne biogas plant"
+      },
+      {
+        "word": "Forthcoming",
+        "pos": "adjective",
+        "meaning": "About to happen or appear.",
+        "synonyms": [
+          "Impending",
+          "Upcoming",
+          "Approaching"
+        ],
+        "example": "The source of the drugs and money will be exposed in the forthcoming phase of the investigation.",
+        "source": "The Hindu",
+        "headline": "Perambra drug trafficking case: DIG reviews progress of probe"
+      },
+      {
+        "word": "Exhort",
+        "pos": "verb",
+        "meaning": "To strongly encourage or urge someone to do something.",
+        "synonyms": [
+          "Urge",
+          "Plead",
+          "Encourage"
+        ],
+        "example": "The party president exhorts cadres to work with achieving victory in the 2029 elections.",
+        "source": "The Hindu",
+        "headline": "Indiscipline will not be tolerated, says TDP State president Palla Srinivasa Rao"
+      },
+      {
+        "word": "Spate",
+        "pos": "noun",
+        "meaning": "A large number of similar things happening in quick succession.",
+        "synonyms": [
+          "Series",
+          "Rush",
+          "Outbreak"
+        ],
+        "example": "A spate of violent assaults raises public safety concerns in Kochi.",
+        "source": "The Hindu",
+        "headline": "Spate of violent assaults raises public safety concerns in Kochi"
+      },
+      {
+        "word": "Adulterated",
+        "pos": "adjective",
+        "meaning": "Made impure or inferior by adding extraneous, improper, or inferior ingredients.",
+        "synonyms": [
+          "Contaminated",
+          "Impure",
+          "Tainted"
+        ],
+        "example": "Police seize nearly one tonne of suspected adulterated paneer.",
+        "source": "The Hindu",
+        "headline": "Police seize nearly one tonne of suspected adulterated paneer"
+      },
+      {
+        "word": "Spearhead",
+        "pos": "verb",
+        "meaning": "To lead an attack or movement.",
+        "synonyms": [
+          "Lead",
+          "Pioneer",
+          "Initiate"
+        ],
+        "example": "He spearheaded the movement for Article 371(J).",
+        "source": "The Hindu",
+        "headline": "Hyderabad Karnataka Horata Samiti renews call for effective implementation of Article 371(J)"
+      },
+      {
+        "word": "Dwindle",
+        "pos": "verb",
+        "meaning": "To diminish gradually in size, amount, or strength.",
+        "synonyms": [
+          "Decrease",
+          "Lessen",
+          "Shrink"
+        ],
+        "example": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks.",
+        "source": "The Hindu",
+        "headline": "West Asia updates: Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks"
+      },
+      {
+        "word": "Perception",
+        "pos": "noun",
+        "meaning": "The way in which something is regarded, understood, or interpreted.",
+        "synonyms": [
+          "View",
+          "Opinion",
+          "Impression"
+        ],
+        "example": "Foreign policy is also shaped by moral perceptions and collective emotions.",
+        "source": "The Hindu",
+        "headline": "Beyond national interest: role of ethics and emotions in world politics"
+      },
+      {
+        "word": "Expedite",
+        "pos": "verb",
+        "meaning": "To make an action or process happen sooner or be accomplished more quickly.",
+        "synonyms": [
+          "Accelerate",
+          "Hasten",
+          "Speed up"
+        ],
+        "example": "The government is set to expedite the Foreign Contributions Regulation Act.",
+        "source": "Times of India",
+        "headline": "India rejects US criticism of FCRA Bill; MEA calls it 'internal matter'"
+      }
+    ]
+  },
+  {
     "date": "2026-08-07",
     "label": "7 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "The men were indicted for their alleged roles in a thwarted drone and sniper attack.",
         "source": "The Hindu",
         "headline": "8 men indicted in planned drone and sniper attack on White House UFC cage-fighting show"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-09",
-    "label": "9 July 2026",
-    "words": [
-      {
-        "word": "Partisan",
-        "pos": "adjective",
-        "meaning": "Strongly supporting a particular party, cause, or person, often without fair judgement.",
-        "synonyms": [
-          "biased",
-          "one-sided",
-          "factional"
-        ],
-        "example": "The opposition accused the police of partisan conduct during the protest.",
-        "source": "Hindustan Times",
-        "headline": "'Police acting as BJP arm': Mamata accuses ruling party of blocking TMC protest"
-      },
-      {
-        "word": "Reprisal",
-        "pos": "noun",
-        "meaning": "An act of retaliation for a wrong or injury suffered.",
-        "synonyms": [
-          "retaliation",
-          "vengeance",
-          "counterattack"
-        ],
-        "example": "The fresh strikes were launched as a reprisal for attacks on the ships.",
-        "source": "The Hindu",
-        "headline": "Trump says fresh strikes on Iran retribution for attacks on ships"
-      },
-      {
-        "word": "Precarious",
-        "pos": "adjective",
-        "meaning": "Not securely held or in position; dangerously uncertain or unstable.",
-        "synonyms": [
-          "unstable",
-          "insecure",
-          "perilous"
-        ],
-        "example": "The ceasefire in the region remained precarious after fresh attacks.",
-        "source": "Hindustan Times",
-        "headline": "India flags concerns over targeting of commercial ships, escalating Iran-US tensions"
-      },
-      {
-        "word": "Clandestine",
-        "pos": "adjective",
-        "meaning": "Kept secret or done secretively, especially because it is illicit.",
-        "synonyms": [
-          "covert",
-          "secret",
-          "surreptitious"
-        ],
-        "example": "A clandestine operation led to the arrest of the smugglers.",
-        "source": "Hindustan Times",
-        "headline": "How undercover ops led to Operation Hard Ball arrests"
-      },
-      {
-        "word": "Illicit",
-        "pos": "adjective",
-        "meaning": "Forbidden by law, rules, or custom; illegal.",
-        "synonyms": [
-          "illegal",
-          "unlawful",
-          "illegitimate"
-        ],
-        "example": "Police dismantled a network involved in the illicit drug trade.",
-        "source": "The Hindu",
-        "headline": "Chandigarh police bust Pakistan-linked narco terror network after border raids"
-      },
-      {
-        "word": "Contentious",
-        "pos": "adjective",
-        "meaning": "Likely to cause an argument or disagreement; controversial.",
-        "synonyms": [
-          "controversial",
-          "disputed",
-          "divisive"
-        ],
-        "example": "The donation row soon grew into a contentious issue between the parties.",
-        "source": "Hindustan Times",
-        "headline": "Police question three accused in Ram Temple donation row, SIT to visit Ayodhya"
-      },
-      {
-        "word": "Deluge",
-        "pos": "noun",
-        "meaning": "A severe flood or heavy downpour; an overwhelming quantity of something.",
-        "synonyms": [
-          "flood",
-          "torrent",
-          "inundation"
-        ],
-        "example": "The deluge left homes and markets submerged for days.",
-        "source": "Times of India",
-        "headline": "13 killed in Surat rains: Floodwaters continue to inundate homes and roads"
-      },
-      {
-        "word": "Belligerent",
-        "pos": "adjective",
-        "meaning": "Hostile and aggressive; engaged in or eager for war.",
-        "synonyms": [
-          "aggressive",
-          "hostile",
-          "combative"
-        ],
-        "example": "The two sides exchanged belligerent threats after the strikes.",
-        "source": "The Hindu",
-        "headline": "U.S. launches new strikes on Iran after Trump vows to hit 'hard'"
-      },
-      {
-        "word": "Precocious",
-        "pos": "adjective",
-        "meaning": "Having developed abilities or maturity at an earlier age than usual.",
-        "synonyms": [
-          "advanced",
-          "gifted",
-          "ahead of one's years"
-        ],
-        "example": "The study questioned whether precocious children become successful adults.",
-        "source": "Hindustan Times",
-        "headline": "Scientifically Speaking: Do early winners become winning adults?"
-      },
-      {
-        "word": "Ironclad",
-        "pos": "adjective",
-        "meaning": "So firm or strong as to allow no doubt, change, or exception.",
-        "synonyms": [
-          "unbreakable",
-          "rigid",
-          "firm"
-        ],
-        "example": "The allies reaffirmed their ironclad commitment to mutual defence.",
-        "source": "The Hindu",
-        "headline": "NATO allies reaffirm 'ironclad commitment' to collective defence"
       }
     ]
   }
