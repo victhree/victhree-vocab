@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-09",
+    "label": "9 August 2026",
+    "words": [
+      {
+        "word": "Apprehend",
+        "pos": "verb",
+        "meaning": "To arrest someone for a crime",
+        "synonyms": [
+          "Seize",
+          "Capture",
+          "Detain"
+        ],
+        "example": "Arjun Ayanki was apprehended at around 2.30 a.m. after allegedly attempting to flee.",
+        "source": "The Hindu",
+        "headline": "Arjun Ayanki arrested in Kannur after days long police search"
+      },
+      {
+        "word": "Irregularity",
+        "pos": "noun",
+        "meaning": "An act or state of being contrary to rule, standard, or practice",
+        "synonyms": [
+          "Anomaly",
+          "Aberration",
+          "Deviation"
+        ],
+        "example": "The Health Minister ordered an inquiry into alleged financial irregularities at Oushadhi.",
+        "source": "The Hindu",
+        "headline": "Oushadhi’s alleged financial irregularities under lens; Kerala Health Minister orders departmental inquiry"
+      },
+      {
+        "word": "Disburse",
+        "pos": "verb",
+        "meaning": "To pay out money from a fund",
+        "synonyms": [
+          "Expend",
+          "Allocate",
+          "Remit"
+        ],
+        "example": "Maharashtra govt. disbursed ₹5,027 crore to 6.2 lakh farmers under the debt waiver scheme.",
+        "source": "The Hindu",
+        "headline": "Maharashtra govt. disburses ₹5,027 crore to 6.2 lakh farmers under debt waiver scheme"
+      },
+      {
+        "word": "Scuffle",
+        "pos": "verb",
+        "meaning": "To engage in a short, confused fight or struggle at close quarters",
+        "synonyms": [
+          "Brawl",
+          "Skirmish",
+          "Tussle"
+        ],
+        "example": "ABVP members scuffled with police near the Jharkhand CM residence during a protest march.",
+        "source": "The Hindu",
+        "headline": "ABVP members scuffle with police near Jharkhand CM residence, 8-10 detained"
+      },
+      {
+        "word": "Inordinate",
+        "pos": "adjective",
+        "meaning": "Unusually or disproportionately large; excessive",
+        "synonyms": [
+          "Exorbitant",
+          "Immoderate",
+          "Undue"
+        ],
+        "example": "The inordinate delay in rescuing fishers reflected the government’s apathy.",
+        "source": "The Hindu",
+        "headline": "Pinarayi Vijayan says ‘disrespect’ shown to rescue worker’s body reflects UDF government’s ‘uncaring’ flood response"
+      },
+      {
+        "word": "Spurious",
+        "pos": "adjective",
+        "meaning": "Not being what it purports to be; false or fake",
+        "synonyms": [
+          "Bogus",
+          "Counterfeit",
+          "Deceptive"
+        ],
+        "example": "Spurious cosmetics continue to thrive in the Kerala market, revealing recent raids.",
+        "source": "The Hindu",
+        "headline": "Spurious cosmetics continue to thrive Kerala market, reveal recent raids"
+      },
+      {
+        "word": "Decry",
+        "pos": "verb",
+        "meaning": "Publicly denounce or express strong disapproval of",
+        "synonyms": [
+          "Condemn",
+          "Censure",
+          "Denounce"
+        ],
+        "example": "Rights groups decried the Israeli killing of the Lebanese journalist as a 'war crime'.",
+        "source": "The Hindu",
+        "headline": "Rights groups decry Israeli killing of Lebanese journalist as ‘war crime’"
+      },
+      {
+        "word": "Munition",
+        "pos": "noun",
+        "meaning": "Military weapons, ammunition, equipment, and stores",
+        "synonyms": [
+          "Armament",
+          "Ordnance",
+          "Ammunition"
+        ],
+        "example": "Trump dismissed reports of munitions shortages, saying the U.S. has 'massive amounts'.",
+        "source": "The Hindu",
+        "headline": "Trump dismisses reports of munitions shortages, says U.S. has ‘massive amounts’"
+      },
+      {
+        "word": "Extradition",
+        "pos": "noun",
+        "meaning": "The action of handing over a person accused or convicted of a crime to the jurisdiction of the foreign state in which the crime was committed",
+        "synonyms": [
+          "Deportation",
+          "Rendition",
+          "Repatriation"
+        ],
+        "example": "The U.S. requests the Filipino pastor’s extradition on sex-trafficking charges.",
+        "source": "The Hindu",
+        "headline": "U.S. requests Filipino pastor’s extradition on sex-trafficking charges: Philippine Ambassador"
+      },
+      {
+        "word": "Staunch",
+        "pos": "adjective",
+        "meaning": "Very loyal and committed in attitude",
+        "synonyms": [
+          "Steadfast",
+          "Resolute",
+          "Ardent"
+        ],
+        "example": "FIFA came out in staunch defense of president Gianni Infantino amid fresh allegations.",
+        "source": "Times of India",
+        "headline": "FIFA hits back at ‘concerted effort’ to undermine Infantino amid fresh allegations"
+      }
+    ]
+  },
+  {
     "date": "2026-08-08",
     "label": "8 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "INS Mahendragiri is India’s new indigenous stealth frigate.",
         "source": "The Hindu",
         "headline": "INS Mahendragiri: All you need to know about the Indian Navy’s new indigenous stealth frigate"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-10",
-    "label": "10 July 2026",
-    "words": [
-      {
-        "word": "Inaugural",
-        "pos": "adjective",
-        "meaning": "Marking the beginning of an institution, activity, or series.",
-        "synonyms": [
-          "initial",
-          "first",
-          "pioneering"
-        ],
-        "example": "The inaugural TG20, its first franchise-based T20 league, is beginning to change that.",
-        "source": "The Hindu",
-        "headline": "Redrawing Telangana’s cricket map"
-      },
-      {
-        "word": "Dwindle",
-        "pos": "verb",
-        "meaning": "Diminish gradually in size, amount, or strength.",
-        "synonyms": [
-          "decrease",
-          "shrink",
-          "decline"
-        ],
-        "example": "Neighbourhood shops are finding their fortunes dwindling with the rise of e-commerce platforms.",
-        "source": "The Hindu",
-        "headline": "Dwindling Fortunes: Quick-commerce platforms, large retailers threaten small businesses and neighbourhood shops in Kerala"
-      },
-      {
-        "word": "Marginalise",
-        "pos": "verb",
-        "meaning": "Treat (a person, group, or concept) as insignificant or peripheral.",
-        "synonyms": [
-          "ostracize",
-          "sideline",
-          "relegate"
-        ],
-        "example": "The gas leak exposed the socio-economic realities of a marginalised tribal community.",
-        "source": "The Hindu",
-        "headline": "Gone girls | Death of 14 Juang girls from Odisha in Tiruvallur ammonia gas leak exposes tribe’s socio-economic struggle"
-      },
-      {
-        "word": "Fray",
-        "pos": "noun",
-        "meaning": "A situation of intense activity, conflict, or competition.",
-        "synonyms": [
-          "conflict",
-          "battle",
-          "contest"
-        ],
-        "example": "Jan Suraaj Party founder Prashant Kishor, who is in the fray, has been busy campaigning.",
-        "source": "The Hindu",
-        "headline": "Bankipur bypoll: voters say the battle will be between BJP and JSP"
-      },
-      {
-        "word": "Languish",
-        "pos": "verb",
-        "meaning": "Suffer from being forced to remain in an unpleasant or restrictive place or situation.",
-        "synonyms": [
-          "suffer",
-          "deteriorate",
-          "pine"
-        ],
-        "example": "The group of nationals languished in Bangladesh for over a year before returning home.",
-        "source": "The Hindu",
-        "headline": "Four Indian nationals pushed into Bangladesh return home after one-year legal battle"
-      },
-      {
-        "word": "Slackness",
-        "pos": "noun",
-        "meaning": "The state of being negligent or lacking care or attention.",
-        "synonyms": [
-          "negligence",
-          "laxity",
-          "carelessness"
-        ],
-        "example": "The bench said slackness by civic authorities against unauthorised constructions will not be tolerated.",
-        "source": "The Hindu",
-        "headline": "Supreme Court cites blazes in Delhi, Lucknow; questions civic bodies on unauthorised buildings"
-      },
-      {
-        "word": "Vigilantism",
-        "pos": "noun",
-        "meaning": "The actions of a vigilante, especially taking the law into one's own hands.",
-        "synonyms": [
-          "lawlessness",
-          "mob rule",
-          "self-justice"
-        ],
-        "example": "Assault on youths highlights growing vigilantism amid anti-drug crackdown.",
-        "source": "The Hindu",
-        "headline": "Assault on youths highlights growing vigilantism in Perumbavoor amid anti-drug crackdown"
-      },
-      {
-        "word": "Blacklist",
-        "pos": "verb",
-        "meaning": "Put (a person or organization) on a list of those who are disapproved of or are to be punished or excluded.",
-        "synonyms": [
-          "ban",
-          "exclude",
-          "prohibit"
-        ],
-        "example": "The protesters seek legal action against the company, demanding its blacklisting from future projects.",
-        "source": "The Hindu",
-        "headline": "Greens demand immediate cancellation of Wayanad tunnel project"
-      },
-      {
-        "word": "Indict",
-        "pos": "verb",
-        "meaning": "Formally accuse of or charge with a serious crime.",
-        "synonyms": [
-          "accuse",
-          "charge",
-          "prosecute"
-        ],
-        "example": "Eight men were indicted on murder and terrorism conspiracy charges.",
-        "source": "The Hindu",
-        "headline": "8 men indicted in planned drone and sniper attack on White House UFC cage-fighting show"
-      },
-      {
-        "word": "Thwart",
-        "pos": "verb",
-        "meaning": "Prevent (someone) from accomplishing something.",
-        "synonyms": [
-          "hinder",
-          "impede",
-          "frustrate"
-        ],
-        "example": "The men were indicted for their alleged roles in a thwarted drone and sniper attack.",
-        "source": "The Hindu",
-        "headline": "8 men indicted in planned drone and sniper attack on White House UFC cage-fighting show"
       }
     ]
   }
