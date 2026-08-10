@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-10",
+    "label": "10 August 2026",
+    "words": [
+      {
+        "word": "Woes",
+        "pos": "noun",
+        "meaning": "Great troubles or sorrows",
+        "synonyms": [
+          "hardships",
+          "afflictions",
+          "miseries"
+        ],
+        "example": "Most people across Assam's flood-prone districts know what to expect during six rainy months in a year, but the residents of Sivasagar and Charaideo were facing a flood of woes.",
+        "source": "The Hindu",
+        "headline": "A flood of woes in Assam"
+      },
+      {
+        "word": "Adulteration",
+        "pos": "noun",
+        "meaning": "The action of making something poorer in quality by adding another substance, typically an inferior one",
+        "synonyms": [
+          "contamination",
+          "debasement",
+          "dilution"
+        ],
+        "example": "Digitisation initiative to be launched to connect milk to milch animals and to trace anomalies to arrest the adulteration process.",
+        "source": "The Hindu",
+        "headline": "Maharashtra FDA to introduce end-to-end traceability of milk to fight adulteration"
+      },
+      {
+        "word": "Undermine",
+        "pos": "verb",
+        "meaning": "To damage or weaken (someone or something), especially gradually or insidiously",
+        "synonyms": [
+          "erode",
+          "subvert",
+          "impair"
+        ],
+        "example": "It might serve narrow political interests but would undermine constitutional objectives.",
+        "source": "The Hindu",
+        "headline": "BSP president Mayawati opposes ‘creamy layer’ idea for SCs, STs, hits out at RSS"
+      },
+      {
+        "word": "Enumeration",
+        "pos": "noun",
+        "meaning": "The action of counting or listing things one by one",
+        "synonyms": [
+          "tally",
+          "inventory",
+          "listing"
+        ],
+        "example": "Census 2027: Ladakh to lead Independent India’s first caste enumeration.",
+        "source": "The Hindu",
+        "headline": "Census 2027: Ladakh to lead Independent India’s first caste enumeration"
+      },
+      {
+        "word": "Sheen",
+        "pos": "noun",
+        "meaning": "A soft luster on a surface",
+        "synonyms": [
+          "luster",
+          "gloss",
+          "radiance"
+        ],
+        "example": "Thriving on BJP government’s apparent loss of sheen and lack of strong political alternative in Odisha, the regional party appears to be putting its best foot forward.",
+        "source": "The Hindu",
+        "headline": "BJD sees potential opportunity to regain political ground"
+      },
+      {
+        "word": "Encroachments",
+        "pos": "noun",
+        "meaning": "Intrusions on a person's territory, rights, or property",
+        "synonyms": [
+          "trespasses",
+          "infringements",
+          "intrusions"
+        ],
+        "example": "Officials said that the demolition drive was also meant to restore the original width of the path around the temple after removing encroachments.",
+        "source": "The Hindu",
+        "headline": "Encroachments demolished along Girivalam path in Tiruvannamalai"
+      },
+      {
+        "word": "Arbitration",
+        "pos": "noun",
+        "meaning": "The use of an arbitrator to settle a dispute",
+        "synonyms": [
+          "mediation",
+          "adjudication",
+          "negotiation"
+        ],
+        "example": "The issue of licence renewal for these is under arbitration.",
+        "source": "The Hindu",
+        "headline": "Salt manufacturers urge T.N. CM to renew licences"
+      },
+      {
+        "word": "Flak",
+        "pos": "noun",
+        "meaning": "Strong criticism",
+        "synonyms": [
+          "censure",
+          "condemnation",
+          "reprimand"
+        ],
+        "example": "NHAI faces flak over poor service roads on Edappally-Aroor NH 66 bypass.",
+        "source": "The Hindu",
+        "headline": "NHAI faces flak over poor service roads on Edappally-Aroor NH 66 bypass"
+      },
+      {
+        "word": "Depleted",
+        "pos": "adjective",
+        "meaning": "Reduced in number or quantity",
+        "synonyms": [
+          "exhausted",
+          "diminished",
+          "drained"
+        ],
+        "example": "Pentagon pushes defence companies to boost weapons production after concerns of depleted stocks.",
+        "source": "The Hindu",
+        "headline": "Pentagon pushes defence companies to boost weapons production after concerns of depleted stocks"
+      },
+      {
+        "word": "Entreaties",
+        "pos": "noun",
+        "meaning": "An earnest or humble request",
+        "synonyms": [
+          "pleas",
+          "supplications",
+          "appeals"
+        ],
+        "example": "Job aspirants in Ranchi are resolute in staging an assembly gherao, disregarding governmental entreaties and discussions.",
+        "source": "Times of India",
+        "headline": "Jharkhand students to gherao state assembly today as talks fail"
+      }
+    ]
+  },
+  {
     "date": "2026-08-09",
     "label": "9 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "Melinda French Gates received the Josef Korbel Award for her philanthropic work.",
         "source": "Times of India",
         "headline": "Melinda Gates to students: When a woman steps into power, it is better for all"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-11",
-    "label": "11 July 2026",
-    "words": [
-      {
-        "word": "Misappropriation",
-        "pos": "noun",
-        "meaning": "The action of taking something dishonestly for one's own use.",
-        "synonyms": [
-          "embezzlement",
-          "fraud",
-          "theft"
-        ],
-        "example": "PM Modi must take responsibility for alleged misappropriation of Ram Temple Trust funds.",
-        "source": "The Hindu",
-        "headline": "PM Modi must take responsibility for alleged misappropriation Ram Temple Trust: Rajeev Gowda"
-      },
-      {
-        "word": "Nodal",
-        "pos": "adjective",
-        "meaning": "Relating to or forming a node; central or connecting.",
-        "synonyms": [
-          "central",
-          "key",
-          "focal"
-        ],
-        "example": "KMVN is the nodal agency for the Kailash-Mansarovar Yatra.",
-        "source": "The Hindu",
-        "headline": "First batch of Kailash-Mansarovar Yatra pilgrims reaches Tibet"
-      },
-      {
-        "word": "Dereliction",
-        "pos": "noun",
-        "meaning": "The state of having been abandoned or neglected; willful neglect of duty.",
-        "synonyms": [
-          "neglect",
-          "abandonment",
-          "failure"
-        ],
-        "example": "The introduction of these books was a result of serious negligence and dereliction of duty.",
-        "source": "The Hindu",
-        "headline": "How two ‘objectionable’ books triggered a crackdown on J&K’s varsity and college libraries | Explained"
-      },
-      {
-        "word": "Paltry",
-        "pos": "adjective",
-        "meaning": "Small or meager amount.",
-        "synonyms": [
-          "meager",
-          "insufficient",
-          "trifling"
-        ],
-        "example": "Bihar's power supply increased from a paltry 700 MW in 2005.",
-        "source": "The Hindu",
-        "headline": "Bihar’s per capita power consumption increased more than five times to 401 units from 75 in 2005"
-      },
-      {
-        "word": "Assassinate",
-        "pos": "verb",
-        "meaning": "To murder an important person for political or religious reasons.",
-        "synonyms": [
-          "kill",
-          "slay",
-          "execute"
-        ],
-        "example": "Trump warns 'orders given' if Tehran tries to assassinate him.",
-        "source": "Times of India",
-        "headline": "'1,000 missiles aimed at Iran': Trump warns 'orders given' if Tehran tries to assassinate him"
-      },
-      {
-        "word": "Throttled",
-        "pos": "verb",
-        "meaning": "To prevent growth or success; to restrict or stop the flow of something.",
-        "synonyms": [
-          "stifled",
-          "choked",
-          "suppressed"
-        ],
-        "example": "The conflict has throttled worldwide energy supplies.",
-        "source": "The Hindu",
-        "headline": "Iran has asked to continue talks, and the U.S. agreed, Trump says"
-      },
-      {
-        "word": "Prevailed",
-        "pos": "verb",
-        "meaning": "To prove more powerful or superior; to be victorious.",
-        "synonyms": [
-          "triumphed",
-          "succeeded",
-          "overcame"
-        ],
-        "example": "The truth eventually prevailed in the court case.",
-        "source": "The Hindu",
-        "headline": "BJP calls Congress’s charge against Union Home Minister on FCRA ‘baseless and politically motivated’"
-      },
-      {
-        "word": "Rampage",
-        "pos": "noun",
-        "meaning": "A period of unrestrained and violent behavior.",
-        "synonyms": [
-          "frenzy",
-          "spree",
-          "outburst"
-        ],
-        "example": "The man went on a murder rampage, killing several people.",
-        "source": "Times of India",
-        "headline": "Murder rampage: Man out on bail kills Pocso victim, her family & then his own; manhunt on"
-      },
-      {
-        "word": "Belligerent",
-        "pos": "adjective",
-        "meaning": "Hostile and aggressive; engaged in war or conflict.",
-        "synonyms": [
-          "aggressive",
-          "combative",
-          "hostile"
-        ],
-        "example": "The warring sides exchanged strikes again this week, displaying their belligerent stance.",
-        "source": "The Hindu",
-        "headline": "West Asia war LIVE: Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw open calls for his killing"
-      },
-      {
-        "word": "Indigenous",
-        "pos": "adjective",
-        "meaning": "Originating or occurring naturally in a particular place; native.",
-        "synonyms": [
-          "native",
-          "aboriginal",
-          "local"
-        ],
-        "example": "INS Mahendragiri is India’s new indigenous stealth frigate.",
-        "source": "The Hindu",
-        "headline": "INS Mahendragiri: All you need to know about the Indian Navy’s new indigenous stealth frigate"
       }
     ]
   }
