@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-13",
+    "label": "13 August 2026",
+    "words": [
+      {
+        "word": "Stance",
+        "pos": "noun",
+        "meaning": "A way of thinking about something, especially expressed in a publicly stated opinion",
+        "synonyms": [
+          "viewpoint",
+          "position",
+          "attitude"
+        ],
+        "example": "The Centre softened its stance on the FCRA Bill following appeals.",
+        "source": "The Hindu",
+        "headline": "Centre softens stance on FCRA Bill following appeals by minority groups"
+      },
+      {
+        "word": "Adjourn",
+        "pos": "verb",
+        "meaning": "To suspend a meeting or session to another time or permanently",
+        "synonyms": [
+          "postpone",
+          "recess",
+          "suspend"
+        ],
+        "example": "Rajya Sabha adjourned amid a row over a remark made against an MP.",
+        "source": "The Hindu",
+        "headline": "Rajya Sabha adjourned amid row over ‘lungiwala’ remark against CPI(M) MP John Brittas"
+      },
+      {
+        "word": "Defiance",
+        "pos": "noun",
+        "meaning": "Open resistance; bold disobedience",
+        "synonyms": [
+          "insubordination",
+          "rebellion",
+          "contumacy"
+        ],
+        "example": "J&K Minister flagged the issue of 'defiance, disrespect' of a bureaucrat.",
+        "source": "The Hindu",
+        "headline": "J&K Minister Satish Sharma flags issue of ‘defiance, disrespect’ of bureaucrat with CM Omar Abdullah"
+      },
+      {
+        "word": "Embodiment",
+        "pos": "noun",
+        "meaning": "A tangible or visible form of an idea, quality, or feeling",
+        "synonyms": [
+          "incarnation",
+          "manifestation",
+          "personification"
+        ],
+        "example": "The Tiranga is the living embodiment of India’s consciousness and pride.",
+        "source": "The Hindu",
+        "headline": "Hundreds attended Tiranga Yatra in Kashmir; LG says ‘sends a clear message’"
+      },
+      {
+        "word": "Parole",
+        "pos": "noun",
+        "meaning": "The release of a prisoner temporarily or permanently before the completion of a sentence, on the promise of good behaviour",
+        "synonyms": [
+          "probation",
+          "release",
+          "leniency"
+        ],
+        "example": "Punjab CM seeks parole for an ex-CM assassination convict.",
+        "source": "The Hindu",
+        "headline": "Punjab CM Mann meets Governor, seeks parole for ex-CM Beant Singh assassination convict Hawara"
+      },
+      {
+        "word": "Uproar",
+        "pos": "noun",
+        "meaning": "A loud and impassioned noise or disturbance",
+        "synonyms": [
+          "commotion",
+          "turmoil",
+          "disorder"
+        ],
+        "example": "Uproar erupted as Ambedkar statues were vandalised in Uttar Pradesh.",
+        "source": "The Hindu",
+        "headline": "Uproar erupts as Ambedkar statues vandalised in Uttar Pradesh’s Unnao, Etawah"
+      },
+      {
+        "word": "Derogatory",
+        "pos": "adjective",
+        "meaning": "Showing a critical or disrespectful attitude",
+        "synonyms": [
+          "disparaging",
+          "insulting",
+          "demeaning"
+        ],
+        "example": "Bengal CM directs police to arrest those making derogatory remarks against Netaji.",
+        "source": "The Hindu",
+        "headline": "Bengal CM directs police to arrest those making derogatory remarks against Netaji"
+      },
+      {
+        "word": "Lenient",
+        "pos": "adjective",
+        "meaning": "More merciful or tolerant than expected",
+        "synonyms": [
+          "permissive",
+          "indulgent",
+          "forbearing"
+        ],
+        "example": "CM cautions police against being lenient towards criminals.",
+        "source": "The Hindu",
+        "headline": "CM cautions police against being lenient towards criminals"
+      },
+      {
+        "word": "Blitz",
+        "pos": "noun",
+        "meaning": "An intensive or sudden military attack",
+        "synonyms": [
+          "assault",
+          "onslaught",
+          "barrage"
+        ],
+        "example": "Overnight Ukrainian blitz damages Russia's Black Sea naval stronghold.",
+        "source": "The Hindu",
+        "headline": "Overnight Ukrainian blitz damages Russia's Black Sea naval stronghold, Zelenskyy says"
+      },
+      {
+        "word": "Evasive",
+        "pos": "adjective",
+        "meaning": "Tending to avoid commitment or self-revelation, especially by responding indirectly",
+        "synonyms": [
+          "elusive",
+          "ambiguous",
+          "indirect"
+        ],
+        "example": "A parliamentary panel found Justice Varma's testimony 'evasive' and 'misleading'.",
+        "source": "Times of India",
+        "headline": "‘Evasive, misleading’: Parliamentary panel on Justice Varma’s testimony"
+      }
+    ]
+  },
+  {
     "date": "2026-08-12",
     "label": "12 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "New York to impose the country’s first state-wide moratorium on data centres.",
         "source": "The Hindu",
         "headline": "New York to impose the country’s first state-wide moratorium on data centres"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-14",
-    "label": "14 July 2026",
-    "words": [
-      {
-        "word": "Escalate",
-        "pos": "verb",
-        "meaning": "Increase rapidly; become more intense or serious",
-        "synonyms": [
-          "intensify",
-          "aggravate",
-          "worsen"
-        ],
-        "example": "The row over the township, championed by Chief Minister, has only escalated further.",
-        "source": "The Hindu",
-        "headline": "Survey for Bidadi Township ends in chaos as women farmers chase officials with brooms"
-      },
-      {
-        "word": "Reaffirm",
-        "pos": "verb",
-        "meaning": "State again strongly; confirm",
-        "synonyms": [
-          "reassert",
-          "reiterate",
-          "confirm"
-        ],
-        "example": "The two sides reaffirmed their commitment to further strengthening the India-Japan Special Strategic and Global Partnership.",
-        "source": "The Hindu",
-        "headline": "India, Japan review defence ties, prepare ground for 2+2 dialogue later this year"
-      },
-      {
-        "word": "Harrowing",
-        "pos": "adjective",
-        "meaning": "Extremely distressing; terrifying",
-        "synonyms": [
-          "disturbing",
-          "agonizing",
-          "traumatic"
-        ],
-        "example": "Vietnam boat capsize survivors recount harrowing moments.",
-        "source": "The Hindu",
-        "headline": "Tragedy at sea: Vietnam boat capsize survivors recount harrowing moments"
-      },
-      {
-        "word": "Adjudicate",
-        "pos": "verb",
-        "meaning": "Make a formal judgment or decision about a problem or disputed matter",
-        "synonyms": [
-          "arbitrate",
-          "decide",
-          "rule"
-        ],
-        "example": "SC tells tribunals to adjudicate afresh on foreigners' citizenship.",
-        "source": "The Hindu",
-        "headline": "Fair, reasoned process must decide citizenship: Supreme Court"
-      },
-      {
-        "word": "Wean",
-        "pos": "verb",
-        "meaning": "To detach or alienate from a source of dependence",
-        "synonyms": [
-          "detach",
-          "discourage",
-          "dissuade"
-        ],
-        "example": "It is time to wean Tamil Nadu away from populist doles.",
-        "source": "The Hindu",
-        "headline": "Time to wean Tamil Nadu away from populist doles"
-      },
-      {
-        "word": "Vow",
-        "pos": "verb",
-        "meaning": "Solemnly promise to do a specified thing",
-        "synonyms": [
-          "swear",
-          "pledge",
-          "resolve"
-        ],
-        "example": "Zelenskyy is vowing to keep up the pressure on Moscow.",
-        "source": "The Hindu",
-        "headline": "Russian and Ukrainian air strikes kill 10 people in both countries"
-      },
-      {
-        "word": "Blockade",
-        "pos": "noun",
-        "meaning": "An act or means of sealing off a place to prevent goods or people from entering or leaving",
-        "synonyms": [
-          "siege",
-          "barricade",
-          "embargo"
-        ],
-        "example": "Trump says U.S. will blockade Iran in Strait of Hormuz.",
-        "source": "The Hindu",
-        "headline": "Trump says U.S. will blockade Iran in Strait of Hormuz and will charge ships for safe passage"
-      },
-      {
-        "word": "Paramilitary",
-        "pos": "adjective",
-        "meaning": "Relating to a force whose function and organisation are similar to those of a professional military force but which is not formally part of it",
-        "synonyms": [
-          "auxiliary",
-          "militia",
-          "irregular"
-        ],
-        "example": "The government banned Iran's powerful paramilitary Revolutionary Guard.",
-        "source": "The Hindu",
-        "headline": "U.K. says an Iran-backed group was behind attacks on Jewish community, bans Revolutionary Guard"
-      },
-      {
-        "word": "Solemn",
-        "pos": "adjective",
-        "meaning": "Formal and dignified; serious",
-        "synonyms": [
-          "grave",
-          "earnest",
-          "somber"
-        ],
-        "example": "The incident took place on Yom Kippur, the most solemn day in the Jewish calendar.",
-        "source": "The Hindu",
-        "headline": "Three dead in Manchester synagogue ‘terrorist’ attack, including suspect: U.K. police; two arrests made"
-      },
-      {
-        "word": "Aggravating",
-        "pos": "adjective",
-        "meaning": "Making a problem, injury, or offense worse or more serious",
-        "synonyms": [
-          "exacerbating",
-          "worsening",
-          "intensifying"
-        ],
-        "example": "Extreme heat can kill by causing heat stroke, or aggravating cardiovascular and respiratory diseases.",
-        "source": "The Hindu",
-        "headline": "Europe recorded 10,000 excess deaths during late-June heatwave, data show"
       }
     ]
   }
