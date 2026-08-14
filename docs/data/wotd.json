@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-14",
+    "label": "14 August 2026",
+    "words": [
+      {
+        "word": "Siltation",
+        "pos": "noun",
+        "meaning": "The accumulation of silt or other fine sediment.",
+        "synonyms": [
+          "sedimentation",
+          "clogging",
+          "deposition"
+        ],
+        "example": "The choking of tanks due to siltation crippled irrigation sources.",
+        "source": "The Hindu",
+        "headline": "Rejuvenating shrinking tanks in Andhra"
+      },
+      {
+        "word": "Bereft",
+        "pos": "adjective",
+        "meaning": "Deprived of or lacking something.",
+        "synonyms": [
+          "devoid",
+          "lacking",
+          "wanting"
+        ],
+        "example": "On Haridwar’s holy but littered ghats, people arrived barefoot and bereft.",
+        "source": "The Hindu",
+        "headline": "Gen Z’s kanwariyas: barefoot and bereft"
+      },
+      {
+        "word": "Demarcation",
+        "pos": "noun",
+        "meaning": "The action of fixing the boundary or limits of something.",
+        "synonyms": [
+          "delineation",
+          "boundary",
+          "separation"
+        ],
+        "example": "Under Section 24, related to demarcation/measurement, 28,556 cases were pending.",
+        "source": "The Hindu",
+        "headline": "Uttar Pradesh government accelerates disposal of revenue cases"
+      },
+      {
+        "word": "Conferred",
+        "pos": "verb",
+        "meaning": "Grant or bestow (a title, degree, benefit, or right).",
+        "synonyms": [
+          "bestowed",
+          "granted",
+          "awarded"
+        ],
+        "example": "Nagendra Roy was conferred the award in February this year by the Trinamool Congress government.",
+        "source": "The Hindu",
+        "headline": "Bengal government withdraws Banga Bibhusan to BJP MP Nagendra Roy"
+      },
+      {
+        "word": "Succumbed",
+        "pos": "verb",
+        "meaning": "Fail to resist pressure, temptation, or some other negative force.",
+        "synonyms": [
+          "yielded",
+          "submitted",
+          "capitulated"
+        ],
+        "example": "The cancellation has stoked a controversy over whether the Nepal government has succumbed to pressure from Beijing.",
+        "source": "The Hindu",
+        "headline": "Analysis: Nepal cancels conference on Tibetan studies amid China pressure debate"
+      },
+      {
+        "word": "Conflagration",
+        "pos": "noun",
+        "meaning": "An extensive fire which destroys a great deal of land or property.",
+        "synonyms": [
+          "inferno",
+          "blaze",
+          "firestorm"
+        ],
+        "example": "The three Sunni Muslim U.S. allies were alarmed by a regional conflagration.",
+        "source": "The Hindu",
+        "headline": "Turkiye lays out plans for defence pact with Pakistan, Saudi Arabia"
+      },
+      {
+        "word": "Incursion",
+        "pos": "noun",
+        "meaning": "An unwelcome intrusion into a place or sphere of activity.",
+        "synonyms": [
+          "raid",
+          "invasion",
+          "foray"
+        ],
+        "example": "Chinese incursion: Arunachal students’ body plans to hoist national flag at frontier village.",
+        "source": "The Hindu",
+        "headline": "Chinese incursion: Arunachal students’ body plans to hoist national flag at frontier village on I-Day"
+      },
+      {
+        "word": "Swelters",
+        "pos": "verb",
+        "meaning": "Suffer from oppressive heat.",
+        "synonyms": [
+          "suffers",
+          "perspires",
+          "broils"
+        ],
+        "example": "Britain poised for record hot summer as western Europe swelters under another heat wave.",
+        "source": "The Hindu",
+        "headline": "Britain poised for record hot summer as western Europe swelters under another heat wave"
+      },
+      {
+        "word": "Denounces",
+        "pos": "verb",
+        "meaning": "Publicly declare to be wrong or evil.",
+        "synonyms": [
+          "condemns",
+          "criticizes",
+          "reprimands"
+        ],
+        "example": "U.S. ambassador to Israel denounces settler siege on Palestinians as ‘terror’.",
+        "source": "The Hindu",
+        "headline": "U.S. ambassador to Israel denounces settler siege on Palestinians as ‘terror’"
+      },
+      {
+        "word": "Retracts",
+        "pos": "verb",
+        "meaning": "Draw back or in; withdraw (a statement or accusation) as untrue or unjustified.",
+        "synonyms": [
+          "withdraws",
+          "recants",
+          "revokes"
+        ],
+        "example": "BCI bars Nalsar students over CJI Surya Kant protest, retracts.",
+        "source": "Times of India",
+        "headline": "BCI bars Nalsar students over CJI Surya Kant protest, retracts"
+      }
+    ]
+  },
+  {
     "date": "2026-08-13",
     "label": "13 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "The government moves to stem exodus from key Isro missions.",
         "source": "Times of India",
         "headline": "Govt moves to stem exodus from key Isro missions; at least 100 quit in past few months"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-15",
-    "label": "15 July 2026",
-    "words": [
-      {
-        "word": "Wrangle",
-        "pos": "noun",
-        "meaning": "A dispute or argument, typically one that is long and complicated.",
-        "synonyms": [
-          "altercation",
-          "quarrel",
-          "contention"
-        ],
-        "example": "Amid the ongoing wrangle, the LDF laid groundwork for rapprochement.",
-        "source": "The Hindu",
-        "headline": "Amid wrangle, LDF lays groundwork for CPI-CPI(M) detente over Kerala Deputy Opposition Leader post"
-      },
-      {
-        "word": "Detente",
-        "pos": "noun",
-        "meaning": "The easing of hostility or strained relations, especially between countries.",
-        "synonyms": [
-          "rapprochement",
-          "conciliation",
-          "accord"
-        ],
-        "example": "The discussions were in their nascent stages for a detente between the two parties.",
-        "source": "The Hindu",
-        "headline": "Amid wrangle, LDF lays groundwork for CPI-CPI(M) detente over Kerala Deputy Opposition Leader post"
-      },
-      {
-        "word": "Rapprochement",
-        "pos": "noun",
-        "meaning": "An establishment or resumption of harmonious relations.",
-        "synonyms": [
-          "reconciliation",
-          "accord",
-          "harmony"
-        ],
-        "example": "He signalled that the rapprochement was not immediately at hand.",
-        "source": "The Hindu",
-        "headline": "Amid wrangle, LDF lays groundwork for CPI-CPI(M) detente over Kerala Deputy Opposition Leader post"
-      },
-      {
-        "word": "Nascent",
-        "pos": "adjective",
-        "meaning": "(Especially of a process or organization) just coming into existence and beginning to display signs of future potential.",
-        "synonyms": [
-          "emerging",
-          "developing",
-          "budding"
-        ],
-        "example": "He said the discussions were in their nascent stages and de.",
-        "source": "The Hindu",
-        "headline": "Amid wrangle, LDF lays groundwork for CPI-CPI(M) detente over Kerala Deputy Opposition Leader post"
-      },
-      {
-        "word": "Expedited",
-        "pos": "verb",
-        "meaning": "To make (an action or process) happen sooner or be accomplished more quickly.",
-        "synonyms": [
-          "accelerated",
-          "hastened",
-          "quickened"
-        ],
-        "example": "His government has expedited the land transfer process for the construction of essential fencing.",
-        "source": "The Hindu",
-        "headline": "West Bengal govt allocates 1,000 km of land to set up fence of about 172 km along international border"
-      },
-      {
-        "word": "Heinous",
-        "pos": "adjective",
-        "meaning": "(Of a person or wrongful act, especially a crime) utterly odious or wicked.",
-        "synonyms": [
-          "atrocious",
-          "monstrous",
-          "abominable"
-        ],
-        "example": "They will be blamed for this heinous crime and theft at the temple.",
-        "source": "The Hindu",
-        "headline": "Ram Temple corruption episode biggest proof of BJP govt. failure: U.P. Congress chief Ajay Rai"
-      },
-      {
-        "word": "Egregious",
-        "pos": "adjective",
-        "meaning": "Outstandingly bad; shocking.",
-        "synonyms": [
-          "appalling",
-          "flagrant",
-          "atrocious"
-        ],
-        "example": "We expect the international community to hold Pakistan fully accountable for egregious abuses.",
-        "source": "The Hindu",
-        "headline": "India blames Pakistan for protests in PoK, seeks accountability"
-      },
-      {
-        "word": "Cogent",
-        "pos": "adjective",
-        "meaning": "(Of an argument or case) clear, logical, and convincing.",
-        "synonyms": [
-          "compelling",
-          "persuasive",
-          "convincing"
-        ],
-        "example": "Call records alone are not cogent proof, clears woman of husband’s murder.",
-        "source": "The Hindu",
-        "headline": "Supreme Court says call records alone not cogent proof, clears woman of husband’s murder"
-      },
-      {
-        "word": "Omissions",
-        "pos": "noun",
-        "meaning": "A person or thing that has been left out or excluded.",
-        "synonyms": [
-          "exclusions",
-          "absences",
-          "failures"
-        ],
-        "example": "Acts and omissions resulted in the publication and distribution of erroneous textbooks.",
-        "source": "The Hindu",
-        "headline": "Former SCERT Director arrested over errors in Odisha textbooks"
-      },
-      {
-        "word": "Moratorium",
-        "pos": "noun",
-        "meaning": "A temporary prohibition of an activity.",
-        "synonyms": [
-          "embargo",
-          "ban",
-          "suspension"
-        ],
-        "example": "New York to impose the country’s first state-wide moratorium on data centres.",
-        "source": "The Hindu",
-        "headline": "New York to impose the country’s first state-wide moratorium on data centres"
       }
     ]
   }
