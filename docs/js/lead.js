@@ -159,7 +159,7 @@
           '<label class="lead-field"><span>Email address</span>' +
             '<input type="email" name="email" autocomplete="email" required></label>' +
           '<p class="lead-error" role="alert"></p>' +
-          '<button type="submit" class="lead-btn">Let\'s get started</button>' +
+          '<button type="submit" class="lead-btn">Launch</button>' +
         '</form>' +
       '</div>';
 
@@ -180,6 +180,14 @@
     return Promise.resolve();
   }
 
+  // Keep the popup pinned to the area the on-screen keyboard leaves visible.
+  function fitToViewport(overlay) {
+    var vv = window.visualViewport; if (!vv) return function () {};
+    function apply() { overlay.style.height = vv.height + "px"; overlay.style.top = vv.offsetTop + "px"; overlay.style.bottom = "auto"; }
+    apply(); vv.addEventListener("resize", apply); vv.addEventListener("scroll", apply);
+    return function () { vv.removeEventListener("resize", apply); vv.removeEventListener("scroll", apply); overlay.style.height = ""; overlay.style.top = ""; overlay.style.bottom = ""; };
+  }
+
   function show() {
     var overlay = build();
     document.body.appendChild(overlay);
@@ -190,7 +198,16 @@
     var btn = overlay.querySelector(".lead-btn");
     var nameEl = form.name, phoneEl = form.phone, emailEl = form.email;
 
-    setTimeout(function () { try { nameEl.focus(); } catch (e) {} }, 60);
+    // Pin to the visible viewport, and ease a tapped field into view.
+    var cleanupVV = fitToViewport(overlay);
+    overlay.addEventListener("focusin", function (e) {
+      setTimeout(function () { try { e.target.scrollIntoView({ block: "center", behavior: "smooth" }); } catch (x) {} }, 260);
+    });
+
+    // Auto-focus only on desktop / fine-pointer devices, so touch keyboards do
+    // not pop up and hide the lower part of the popup on open.
+    var finePointer = window.matchMedia && window.matchMedia("(pointer: fine)").matches;
+    if (finePointer) setTimeout(function () { try { nameEl.focus(); } catch (e) {} }, 60);
 
     function fail(msg, field) {
       errBox.textContent = msg;
@@ -222,6 +239,7 @@
         try { localStorage.setItem(KEY, "1"); } catch (e) {}
         overlay.classList.add("lead-closing");
         setTimeout(function () {
+          if (cleanupVV) cleanupVV();
           overlay.remove();
           document.documentElement.classList.remove("lead-open");
           renderGreeting(); // welcome them by name straight away

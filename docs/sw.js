@@ -1,12 +1,12 @@
 /* VicThree Vocab service worker */
-const CACHE = 'vv-v64';
+const CACHE = 'vv-v65';
 const SHELL = [
   './','./index.html','./quiz.html','./learn.html','./browse.html','./reference.html','./pyq.html','./wotd.html',
-  './css/styles.css?v=64',
-  './js/data.js?v=64','./js/quiz.js?v=64','./js/learn.js?v=64','./js/browse.js?v=64','./js/reference.js?v=64','./js/pyq.js?v=64','./js/wotd.js?v=64',
-  './js/config.js?v=64','./js/lead.js?v=64',
+  './css/styles.css?v=65',
+  './js/data.js?v=65','./js/quiz.js?v=65','./js/learn.js?v=65','./js/browse.js?v=65','./js/reference.js?v=65','./js/pyq.js?v=65','./js/wotd.js?v=65',
+  './js/config.js?v=65','./js/lead.js?v=65',
   './manifest.webmanifest',
-  './assets/banner.png?v=64',
+  './assets/banner.png?v=65',
   './assets/DSEG7Classic-Bold.woff2',
   './assets/camo.jpg',
   './assets/shield-192.png','./assets/shield-512.png','./assets/shield-180.png'
