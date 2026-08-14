@@ -477,13 +477,14 @@ body.home .foot{color:var(--hud-dim);font-family:var(--mono);letter-spacing:.5px
 html.lead-open{overflow:hidden}
 .lead-overlay{position:fixed;inset:0;z-index:1000;display:flex;align-items:flex-start;justify-content:center;padding:20px;
   overflow-y:auto;-webkit-overflow-scrolling:touch;
-  background-color:#0c100b;
-  background-image:linear-gradient(rgba(9,13,9,.74),rgba(7,10,7,.80)),url('../assets/camo.jpg');
-  background-size:cover;background-position:center;background-repeat:no-repeat;
+  background:rgba(8,12,8,.55);backdrop-filter:blur(5px);-webkit-backdrop-filter:blur(5px);
   animation:leadFade .25s ease both}
+/* translucent camo texture over the dimmed, blurred page */
+.lead-overlay::before{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;
+  background:url('../assets/camo.jpg') center/cover no-repeat;opacity:.3}
 .lead-overlay.lead-closing{animation:leadFade .25s ease reverse both}
 @keyframes leadFade{from{opacity:0}to{opacity:1}}
-.lead-card{width:100%;max-width:430px;margin:auto;background:#20262a;border:1px solid rgba(201,162,75,.30);
+.lead-card{position:relative;z-index:1;width:100%;max-width:430px;margin:auto;background:#20262a;border:1px solid rgba(201,162,75,.30);
   border-radius:10px;overflow:hidden;color:var(--hud-white);box-shadow:0 24px 60px rgba(0,0,0,.55);
   animation:leadPop .28s cubic-bezier(.2,.9,.3,1.2) both}
 @keyframes leadPop{from{opacity:0;transform:translateY(14px) scale(.97)}to{opacity:1;transform:none}}
@@ -512,7 +513,7 @@ html.lead-open{overflow:hidden}
 .lead-error{min-height:1em;margin:2px 0 0;color:#ff7a7a;font-size:.85rem;font-weight:600;font-family:var(--mono)}
 .lead-btn{margin-top:4px;display:flex;align-items:center;justify-content:center;gap:11px;
   background:linear-gradient(135deg,var(--gold-2),var(--gold));color:var(--navy);
-  font-family:'DSEG7',"Consolas",monospace;font-weight:700;font-size:1.02rem;letter-spacing:.12em;text-transform:uppercase;
+  font-family:var(--mono);font-weight:800;font-size:1rem;letter-spacing:.14em;text-transform:uppercase;
   border:none;padding:13px 18px;border-radius:8px;cursor:pointer;transition:filter .15s,transform .1s}
 .lead-btn:hover{filter:brightness(1.05)}
 .lead-btn:active{transform:translateY(1px)}
