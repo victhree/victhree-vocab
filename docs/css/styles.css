@@ -477,11 +477,8 @@ body.home .foot{color:var(--hud-dim);font-family:var(--mono);letter-spacing:.5px
 html.lead-open{overflow:hidden}
 .lead-overlay{position:fixed;inset:0;z-index:1000;display:flex;align-items:flex-start;justify-content:center;padding:20px;
   overflow-y:auto;-webkit-overflow-scrolling:touch;
-  background:rgba(8,12,8,.55);backdrop-filter:blur(5px);-webkit-backdrop-filter:blur(5px);
+  background:rgba(5,8,6,.82);backdrop-filter:blur(5px);-webkit-backdrop-filter:blur(5px);
   animation:leadFade .25s ease both}
-/* translucent camo texture over the dimmed, blurred page */
-.lead-overlay::before{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;
-  background:url('../assets/camo.jpg') center/cover no-repeat;opacity:.3}
 .lead-overlay.lead-closing{animation:leadFade .25s ease reverse both}
 @keyframes leadFade{from{opacity:0}to{opacity:1}}
 .lead-card{position:relative;z-index:1;width:100%;max-width:430px;margin:auto;background:#20262a;border:1px solid rgba(201,162,75,.30);
@@ -494,8 +491,12 @@ html.lead-open{overflow:hidden}
   background-color:#20262a;
   background-image:
     linear-gradient(rgba(201,162,75,.06) 1px,transparent 1px),
-    linear-gradient(90deg,rgba(201,162,75,.06) 1px,transparent 1px);
-  background-size:26px 26px}
+    linear-gradient(90deg,rgba(201,162,75,.06) 1px,transparent 1px),
+    linear-gradient(rgba(18,23,19,.74),rgba(13,17,14,.82)),
+    url('../assets/camo.jpg');
+  background-size:26px 26px,26px 26px,cover,cover;
+  background-position:center,center,center,center;
+  background-repeat:repeat,repeat,no-repeat,no-repeat}
 /* gold corner crop-marks framing the form (like the homepage ticks) */
 .lead-tick{position:absolute;width:15px;height:15px;pointer-events:none;opacity:.8;z-index:2}
 .lead-tick.tl{top:8px;left:8px;border-top:2px solid var(--gold);border-left:2px solid var(--gold)}

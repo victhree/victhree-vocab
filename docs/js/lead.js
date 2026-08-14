@@ -127,7 +127,7 @@
 
     var g = el("div", "greet");
     g.innerHTML = '<p class="greet-big"></p><p class="greet-small"></p>';
-    anchor.parentNode.insertBefore(g, anchor);
+    anchor.parentNode.insertBefore(g, anchor.nextSibling); // below the main heading
 
     var reduce = false;
     try { reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches; } catch (e) {}
