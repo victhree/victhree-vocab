@@ -477,7 +477,9 @@ body.home .foot{color:var(--hud-dim);font-family:var(--mono);letter-spacing:.5px
 html.lead-open{overflow:hidden}
 .lead-overlay{position:fixed;inset:0;z-index:1000;display:flex;align-items:flex-start;justify-content:center;padding:20px;
   overflow-y:auto;-webkit-overflow-scrolling:touch;
-  background:rgba(7,12,10,.74);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);
+  background-color:#0c100b;
+  background-image:linear-gradient(rgba(9,13,9,.74),rgba(7,10,7,.80)),url('../assets/camo.jpg');
+  background-size:cover;background-position:center;background-repeat:no-repeat;
   animation:leadFade .25s ease both}
 .lead-overlay.lead-closing{animation:leadFade .25s ease reverse both}
 @keyframes leadFade{from{opacity:0}to{opacity:1}}
@@ -508,9 +510,9 @@ html.lead-open{overflow:hidden}
   background:rgba(255,255,255,.05);color:var(--hud-white);transition:border-color .15s,box-shadow .15s,background .15s}
 .lead-field input:focus{outline:none;border-color:var(--gold);background:rgba(255,255,255,.09);box-shadow:0 0 0 3px rgba(201,162,75,.22)}
 .lead-error{min-height:1em;margin:2px 0 0;color:#ff7a7a;font-size:.85rem;font-weight:600;font-family:var(--mono)}
-.lead-btn{margin-top:4px;display:flex;align-items:center;justify-content:center;gap:10px;
+.lead-btn{margin-top:4px;display:flex;align-items:center;justify-content:center;gap:11px;
   background:linear-gradient(135deg,var(--gold-2),var(--gold));color:var(--navy);
-  font-family:var(--mono);font-weight:800;font-size:1rem;letter-spacing:.14em;text-transform:uppercase;
+  font-family:'DSEG7',"Consolas",monospace;font-weight:700;font-size:1.02rem;letter-spacing:.12em;text-transform:uppercase;
   border:none;padding:13px 18px;border-radius:8px;cursor:pointer;transition:filter .15s,transform .1s}
 .lead-btn:hover{filter:brightness(1.05)}
 .lead-btn:active{transform:translateY(1px)}

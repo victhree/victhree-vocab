@@ -152,7 +152,7 @@
       '<div class="lead-body">' +
         '<i class="lead-tick tl"></i><i class="lead-tick tr"></i>' +
         '<i class="lead-tick bl"></i><i class="lead-tick br"></i>' +
-        '<h2 id="lead-title" class="lead-title">Welcome to VicThree Vocab</h2>' +
+        '<h2 id="lead-title" class="lead-title">Welcome to VicThree Defence</h2>' +
         '<form class="lead-form" novalidate>' +
           '<label class="lead-field"><span>Name</span>' +
             '<input type="text" name="name" autocomplete="name" required></label>' +
