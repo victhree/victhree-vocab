@@ -473,38 +473,57 @@ body.home .foot{color:var(--hud-dim);font-family:var(--mono);letter-spacing:.5px
   .wotd-dayfilter{position:static;transform:none;display:block;margin:12px auto 0}
 }
 
-/* ---- Welcome popup / lead capture (light card, matches study surfaces) ---- */
+/* ---- Welcome popup / lead capture (dark tactical HUD, matches home) ---- */
 html.lead-open{overflow:hidden}
 .lead-overlay{position:fixed;inset:0;z-index:1000;display:flex;align-items:flex-start;justify-content:center;padding:20px;
   overflow-y:auto;-webkit-overflow-scrolling:touch;
-  background:rgba(11,31,58,.72);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);
+  background:rgba(7,12,10,.74);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);
   animation:leadFade .25s ease both}
 .lead-overlay.lead-closing{animation:leadFade .25s ease reverse both}
 @keyframes leadFade{from{opacity:0}to{opacity:1}}
-.lead-card{width:100%;max-width:430px;margin:auto;background:var(--card);border-radius:16px;overflow:hidden;
-  box-shadow:0 24px 60px rgba(11,31,58,.45);
+.lead-card{width:100%;max-width:430px;margin:auto;background:#20262a;border:1px solid rgba(201,162,75,.30);
+  border-radius:10px;overflow:hidden;color:var(--hud-white);box-shadow:0 24px 60px rgba(0,0,0,.55);
   animation:leadPop .28s cubic-bezier(.2,.9,.3,1.2) both}
 @keyframes leadPop{from{opacity:0;transform:translateY(14px) scale(.97)}to{opacity:1;transform:none}}
 .lead-banner{background:var(--navy);border-bottom:3px solid var(--gold);padding:0;font-size:0;line-height:0}
 .lead-banner img{display:block;width:100%;height:auto}
-.lead-body{padding:24px 28px 26px}
-.lead-title{font-size:clamp(1rem,4.6vw,1.5rem);text-align:center;color:var(--navy);margin:0 0 18px;white-space:nowrap;font-weight:800}
-.lead-form{display:flex;flex-direction:column;gap:13px}
+.lead-body{position:relative;padding:26px 26px 24px;
+  background-color:#20262a;
+  background-image:
+    linear-gradient(rgba(201,162,75,.06) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(201,162,75,.06) 1px,transparent 1px);
+  background-size:26px 26px}
+/* gold corner crop-marks framing the form (like the homepage ticks) */
+.lead-tick{position:absolute;width:15px;height:15px;pointer-events:none;opacity:.8;z-index:2}
+.lead-tick.tl{top:8px;left:8px;border-top:2px solid var(--gold);border-left:2px solid var(--gold)}
+.lead-tick.tr{top:8px;right:8px;border-top:2px solid var(--gold);border-right:2px solid var(--gold)}
+.lead-tick.bl{bottom:8px;left:8px;border-bottom:2px solid var(--gold);border-left:2px solid var(--gold)}
+.lead-tick.br{bottom:8px;right:8px;border-bottom:2px solid var(--gold);border-right:2px solid var(--gold)}
+.lead-title{font-family:var(--mono);font-size:clamp(.86rem,3.7vw,1.08rem);text-align:center;color:var(--hud-white);
+  margin:0 0 18px;white-space:nowrap;font-weight:700;text-transform:uppercase;letter-spacing:1.2px}
+.lead-form{display:flex;flex-direction:column;gap:13px;position:relative;z-index:1}
 .lead-field{display:flex;flex-direction:column;gap:5px}
-.lead-field span{font-weight:700;font-size:.74rem;text-transform:uppercase;letter-spacing:.08em;color:var(--navy)}
-.lead-field input{font-family:inherit;font-size:1rem;padding:11px 13px;border:1.5px solid var(--line);border-radius:9px;
-  background:#fff;color:var(--ink);transition:border-color .15s,box-shadow .15s}
-.lead-field input:focus{outline:none;border-color:var(--gold);box-shadow:0 0 0 3px rgba(201,162,75,.22)}
-.lead-error{min-height:1em;margin:2px 0 0;color:var(--red);font-size:.85rem;font-weight:600}
-.lead-btn{margin-top:4px;background:linear-gradient(135deg,var(--gold-2),var(--gold));color:var(--navy);
-  font-weight:800;font-size:1rem;letter-spacing:.01em;border:none;padding:13px 18px;border-radius:10px;
-  cursor:pointer;transition:filter .15s,transform .1s}
+.lead-field span{font-family:var(--mono);font-weight:700;font-size:.72rem;text-transform:uppercase;letter-spacing:.12em;color:var(--gold-2)}
+.lead-field input{font-family:inherit;font-size:1rem;padding:11px 13px;border:1px solid rgba(255,255,255,.16);border-radius:8px;
+  background:rgba(255,255,255,.05);color:var(--hud-white);transition:border-color .15s,box-shadow .15s,background .15s}
+.lead-field input:focus{outline:none;border-color:var(--gold);background:rgba(255,255,255,.09);box-shadow:0 0 0 3px rgba(201,162,75,.22)}
+.lead-error{min-height:1em;margin:2px 0 0;color:#ff7a7a;font-size:.85rem;font-weight:600;font-family:var(--mono)}
+.lead-btn{margin-top:4px;display:flex;align-items:center;justify-content:center;gap:10px;
+  background:linear-gradient(135deg,var(--gold-2),var(--gold));color:var(--navy);
+  font-family:var(--mono);font-weight:800;font-size:1rem;letter-spacing:.14em;text-transform:uppercase;
+  border:none;padding:13px 18px;border-radius:8px;cursor:pointer;transition:filter .15s,transform .1s}
 .lead-btn:hover{filter:brightness(1.05)}
 .lead-btn:active{transform:translateY(1px)}
 .lead-btn:disabled{opacity:.7;cursor:default}
+/* beeping red LED on the launch button */
+.lead-dot{width:9px;height:9px;border-radius:50%;background:#ff2f2f;flex:0 0 auto;
+  box-shadow:0 0 7px 2px rgba(255,45,45,.9);animation:leadBeep 1s ease-in-out infinite}
+@keyframes leadBeep{0%,100%{opacity:1;box-shadow:0 0 8px 2px rgba(255,45,45,.95)}
+  50%{opacity:.22;box-shadow:0 0 2px 0 rgba(255,45,45,.35)}}
+@media(prefers-reduced-motion:reduce){.lead-dot{animation:none}}
 @media(max-width:480px){
-  .lead-card{border-radius:14px}
-  .lead-body{padding:20px 18px 20px}
+  .lead-card{border-radius:9px}
+  .lead-body{padding:22px 18px 20px}
 }
 
 /* ---- Personalised greeting (returning visitor, homepage HUD) ---- */

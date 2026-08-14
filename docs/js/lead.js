@@ -150,6 +150,8 @@
     card.innerHTML =
       '<div class="lead-banner"><img src="' + BANNER + '" alt="VicThree Defence, by Anmol Sharma"></div>' +
       '<div class="lead-body">' +
+        '<i class="lead-tick tl"></i><i class="lead-tick tr"></i>' +
+        '<i class="lead-tick bl"></i><i class="lead-tick br"></i>' +
         '<h2 id="lead-title" class="lead-title">Welcome to VicThree Vocab</h2>' +
         '<form class="lead-form" novalidate>' +
           '<label class="lead-field"><span>Name</span>' +
@@ -159,7 +161,7 @@
           '<label class="lead-field"><span>Email address</span>' +
             '<input type="email" name="email" autocomplete="email" required></label>' +
           '<p class="lead-error" role="alert"></p>' +
-          '<button type="submit" class="lead-btn">Launch</button>' +
+          '<button type="submit" class="lead-btn"><span class="lead-dot"></span>Launch</button>' +
         '</form>' +
       '</div>';
 
