@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-15",
+    "label": "15 August 2026",
+    "words": [
+      {
+        "word": "Commemorate",
+        "pos": "verb",
+        "meaning": "To recall and show respect for (someone or something) in a ceremony.",
+        "synonyms": [
+          "celebrate",
+          "memorialize",
+          "honor"
+        ],
+        "example": "The nation will be commemorating the 80th Independence Day, a red-letter day in the history of India.",
+        "source": "The Hindu",
+        "headline": "Independence Day LIVE updates: PM Modi greets people"
+      },
+      {
+        "word": "Endow",
+        "pos": "verb",
+        "meaning": "To provide with a quality, ability, or asset.",
+        "synonyms": [
+          "bestow",
+          "furnish",
+          "grant"
+        ],
+        "example": "With 119 EROs endowed with quasi judicial powers set to adjudicate over 94 lakh cases, they would get less than a minute’s time to verify each elector.",
+        "source": "The Hindu",
+        "headline": "Telangana SIR: Botched-up enumeration phase leaves 94 lakh electors at the mercy of 119 EROs"
+      },
+      {
+        "word": "Adjudicate",
+        "pos": "verb",
+        "meaning": "To make a formal judgment or decision about a problem or disputed matter.",
+        "synonyms": [
+          "arbitrate",
+          "judge",
+          "decide"
+        ],
+        "example": "With 119 EROs endowed with quasi judicial powers set to adjudicate over 94 lakh cases, they would get less than a minute’s time to verify each elector.",
+        "source": "The Hindu",
+        "headline": "Telangana SIR: Botched-up enumeration phase leaves 94 lakh electors at the mercy of 119 EROs"
+      },
+      {
+        "word": "Condemnable",
+        "pos": "adjective",
+        "meaning": "Deserving strong disapproval; reprehensible.",
+        "synonyms": [
+          "deplorable",
+          "reprehensible",
+          "blameworthy"
+        ],
+        "example": "Defence Minister Rajnath Singh says Rahul’s comments, made at a Congress event, had been 'extremely low-level and condemnable'.",
+        "source": "The Hindu",
+        "headline": "Union Ministers call Rahul Gandhi’s remarks on PM Modi ‘undignified, undemocratic’"
+      },
+      {
+        "word": "Coercive",
+        "pos": "adjective",
+        "meaning": "Relating to or using force or threats.",
+        "synonyms": [
+          "compulsory",
+          "intimidating",
+          "forcible"
+        ],
+        "example": "Supreme Court bars BCI from taking coercive action against NALSAR students, faculty, or administration.",
+        "source": "The Hindu",
+        "headline": "CJI criticises BCI’s interference in ‘dialogue’ between him and students"
+      },
+      {
+        "word": "Dilly-Dally",
+        "pos": "verb",
+        "meaning": "To waste time through aimless lingering or hesitation.",
+        "synonyms": [
+          "procrastinate",
+          "dawdle",
+          "hesitate"
+        ],
+        "example": "J&K CM Omar Abdullah accused the Centre of dilly dallying on the issue of Transaction of Business Rules.",
+        "source": "The Hindu",
+        "headline": "Upset by Centre’s response on business rules, reservation report, Omar Abdullah warns of Gen Z-style agitation in J&K"
+      },
+      {
+        "word": "Proforma",
+        "pos": "noun",
+        "meaning": "A standardized document or form.",
+        "synonyms": [
+          "template",
+          "format",
+          "schema"
+        ],
+        "example": "Unmarked proforma being served to West Bengal madrasas by police seeking details of foreign funding, visitors.",
+        "source": "The Hindu",
+        "headline": "Unmarked proforma being served to West Bengal madrasas by police seeking details of foreign funding, visitors"
+      },
+      {
+        "word": "Carcass",
+        "pos": "noun",
+        "meaning": "The dead body of an animal.",
+        "synonyms": [
+          "cadaver",
+          "remains",
+          "corpse"
+        ],
+        "example": "Carcasses of 10 animals found in Vorkady panchayat over the past two weeks.",
+        "source": "The Hindu",
+        "headline": "Death of wild boars raises concerns in Kerala’s Kasaragod"
+      },
+      {
+        "word": "Procure",
+        "pos": "verb",
+        "meaning": "To obtain (something), especially with care or effort.",
+        "synonyms": [
+          "acquire",
+          "obtain",
+          "secure"
+        ],
+        "example": "The U.S. has tightened economic sanctions against Iran and other individuals and entities that it says are helping it procure weapons.",
+        "source": "The Hindu",
+        "headline": "West Asia war highlights: Bessent says U.S. to apply measures never seen on Iran"
+      },
+      {
+        "word": "Annexation",
+        "pos": "noun",
+        "meaning": "The action of annexing something, especially territory.",
+        "synonyms": [
+          "seizure",
+          "occupation",
+          "incorporation"
+        ],
+        "example": "The measure, if implemented, would be a step towards Israeli annexation of the occupied Palestinian territory.",
+        "source": "The Hindu",
+        "headline": "Israel’s Katz calls for police to replace military in handling West Bank settlers"
+      }
+    ]
+  },
+  {
     "date": "2026-08-14",
     "label": "14 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "Four Bengali migrants who were detained by Delhi Police were brought back to India.",
         "source": "The Hindu",
         "headline": "Trinamool MP Samirul Islam calls on family who was pushed into Bangladesh"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-16",
-    "label": "16 July 2026",
-    "words": [
-      {
-        "word": "Reclaim",
-        "pos": "verb",
-        "meaning": "To retrieve or recover something previously lost, given, or taken away.",
-        "synonyms": [
-          "recover",
-          "regain",
-          "retrieve"
-        ],
-        "example": "In Shillong, chefs are reclaiming Meghalaya’s culinary heritage with traditional cooking techniques.",
-        "source": "The Hindu",
-        "headline": "Beyond momos: Meghalaya’s chefs are reclaiming the state’s culinary identity"
-      },
-      {
-        "word": "Nefarious",
-        "pos": "adjective",
-        "meaning": "Flagrantly wicked or impious; evil.",
-        "synonyms": [
-          "wicked",
-          "evil",
-          "villainous"
-        ],
-        "example": "Sonam Wangchuk wanted to ensure that the CJP’s cause is not sabotaged by nefarious elements.",
-        "source": "The Hindu",
-        "headline": "Sonam Wangchuk’s decision to join CJP protest organic, says wife Gitanjali Angmo"
-      },
-      {
-        "word": "Nullify",
-        "pos": "verb",
-        "meaning": "To make legally null and void; invalidate.",
-        "synonyms": [
-          "invalidate",
-          "annul",
-          "negate"
-        ],
-        "example": "The Madras High Court nullifies registration of land belonging to Palani math.",
-        "source": "The Hindu",
-        "headline": "Madras High Court nullifies registration of land belonging to Palani math"
-      },
-      {
-        "word": "Comorbidity",
-        "pos": "noun",
-        "meaning": "The simultaneous presence of two or more diseases or medical conditions in a patient.",
-        "synonyms": [
-          "co-occurrence",
-          "coexisting condition",
-          "multiple morbidities"
-        ],
-        "example": "The death of the 66-year-old man has been attributed to comorbidities, and not the COVID-19 infection alone.",
-        "source": "The Hindu",
-        "headline": "Another COVID-19 death reported in A.P., three more test positive"
-      },
-      {
-        "word": "Commotion",
-        "pos": "noun",
-        "meaning": "A state of confused and noisy disturbance.",
-        "synonyms": [
-          "uproar",
-          "turmoil",
-          "disturbance"
-        ],
-        "example": "Sources say the alleged data breach has triggered absolute commotion among the project’s top brass.",
-        "source": "The Hindu",
-        "headline": "NPCIL denies ‘sensitive data breach’ at Kudankulam nuclear plant project"
-      },
-      {
-        "word": "Quash",
-        "pos": "verb",
-        "meaning": "To reject or void, especially by legal procedure.",
-        "synonyms": [
-          "annul",
-          "overturn",
-          "invalidate"
-        ],
-        "example": "The New York Times has filed a motion to quash subpoenas served on journalists.",
-        "source": "The Hindu",
-        "headline": "New York Times files motion to quash subpoenas served on journalists over Air Force One coverage"
-      },
-      {
-        "word": "Degrade",
-        "pos": "verb",
-        "meaning": "To reduce in quality or value.",
-        "synonyms": [
-          "deteriorate",
-          "devalue",
-          "diminish"
-        ],
-        "example": "U.S. Central Command said the strikes further degraded Iran's ability to attack commercial shipping.",
-        "source": "The Hindu",
-        "headline": "U.S. says 90-minute airstrikes target Greater Tunb Island, strategic point in Strait of Hormuz"
-      },
-      {
-        "word": "Endorse",
-        "pos": "verb",
-        "meaning": "To give one's public approval or support to.",
-        "synonyms": [
-          "approve",
-          "support",
-          "sanction"
-        ],
-        "example": "Andy Burnham is on course to take charge as the new British Prime Minister after being endorsed by 349 Labour MPs.",
-        "source": "The Hindu",
-        "headline": "Leaving U.K. in better shape: Keir Starmer at final Parliament session as PM"
-      },
-      {
-        "word": "Coerce",
-        "pos": "verb",
-        "meaning": "To persuade an unwilling person to do something by using force or threats.",
-        "synonyms": [
-          "compel",
-          "pressure",
-          "force"
-        ],
-        "example": "Opponents said the disabled and elderly were at risk of being coerced to end their lives.",
-        "source": "The Hindu",
-        "headline": "British lawmakers approve bill that allows the terminally ill to end their lives"
-      },
-      {
-        "word": "Exodus",
-        "pos": "noun",
-        "meaning": "A mass departure of people.",
-        "synonyms": [
-          "migration",
-          "evacuation",
-          "departure"
-        ],
-        "example": "The government moves to stem exodus from key Isro missions.",
-        "source": "Times of India",
-        "headline": "Govt moves to stem exodus from key Isro missions; at least 100 quit in past few months"
       }
     ]
   }
