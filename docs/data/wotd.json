@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-16",
+    "label": "16 August 2026",
+    "words": [
+      {
+        "word": "Venom",
+        "pos": "noun",
+        "meaning": "A poisonous substance secreted by animals, often injected through a bite or sting.",
+        "synonyms": [
+          "toxin",
+          "poison",
+          "bane"
+        ],
+        "example": "A common krait bit six girls, resulting in deaths due to venom.",
+        "source": "The Hindu",
+        "headline": "Taken by one of the big four: Snakebite at Maharashtra tribal school"
+      },
+      {
+        "word": "Agitation",
+        "pos": "noun",
+        "meaning": "A state of anxiety or nervous excitement, or a public protest about something.",
+        "synonyms": [
+          "protest",
+          "turmoil",
+          "commotion"
+        ],
+        "example": "On the 22nd day of the agitation seeking reforms, a 'Tiranga Yatra' was organised.",
+        "source": "The Hindu",
+        "headline": "Devendra Mahto alleges assault by Ranchi police after being stopped from joining Tiranga Yatra"
+      },
+      {
+        "word": "Simultaneously",
+        "pos": "adverb",
+        "meaning": "At the same time.",
+        "synonyms": [
+          "concurrently",
+          "concurrently",
+          "synchronously"
+        ],
+        "example": "Councillors simultaneously sing national anthem, Vande Mataram.",
+        "source": "The Hindu",
+        "headline": "Chaos at Kozhikode Corporation’s I-Day flag-hoisting as councillors simultaneously sing national anthem, Vande Mataram"
+      },
+      {
+        "word": "Secularism",
+        "pos": "noun",
+        "meaning": "The principle of separation of the state from religious institutions.",
+        "synonyms": [
+          "irreligiosity",
+          "non-sectarianism",
+          "laicism"
+        ],
+        "example": "Preserve democracy and secularism, says Minister Roji M. John.",
+        "source": "The Hindu",
+        "headline": "Preserve democracy and secularism, says Minister Roji M. John in his Independence Day message"
+      },
+      {
+        "word": "Indigenous",
+        "pos": "adjective",
+        "meaning": "Originating or occurring naturally in a particular place; native.",
+        "synonyms": [
+          "native",
+          "aboriginal",
+          "autochthonous"
+        ],
+        "example": "This indigenous device aims to reduce stent-related complications.",
+        "source": "The Hindu",
+        "headline": "SCTIMST unveils Chitra Core, its first coronary stent"
+      },
+      {
+        "word": "Repatriation",
+        "pos": "noun",
+        "meaning": "The return of someone to their own country.",
+        "synonyms": [
+          "return",
+          "deportation",
+          "expatriation"
+        ],
+        "example": "Myanmar says over 3,00,000 Rohingya refugees verified for repatriation.",
+        "source": "The Hindu",
+        "headline": "Myanmar says over 3,00,000 Rohingya refugees verified for repatriation as exodus enters ninth year"
+      },
+      {
+        "word": "Ramps",
+        "pos": "verb",
+        "meaning": "To increase the level or amount of something sharply.",
+        "synonyms": [
+          "escalate",
+          "boost",
+          "intensify"
+        ],
+        "example": "Ukraine attacks Russia's industrial site as Kyiv ramps up long-range strikes.",
+        "source": "The Hindu",
+        "headline": "Ukraine attacks Russia's Samara industrial site as Kyiv ramps up long-range strikes"
+      },
+      {
+        "word": "Transiting",
+        "pos": "verb",
+        "meaning": "To pass across or through.",
+        "synonyms": [
+          "passing",
+          "crossing",
+          "traversing"
+        ],
+        "example": "ADNOC confirmed that one of its vessels was attacked while transiting the Strait of Hormuz.",
+        "source": "The Hindu",
+        "headline": "UAE state oil company says vessel attacked in Hormuz Strait"
+      },
+      {
+        "word": "Evasions",
+        "pos": "noun",
+        "meaning": "The action of escaping or avoiding something.",
+        "synonyms": [
+          "avoidance",
+          "dodging",
+          "circumvention"
+        ],
+        "example": "White House report cites countries ‘enabling’ China’s tariff evasions.",
+        "source": "The Hindu",
+        "headline": "India in U.S. crosshairs again — White House report cites countries ‘enabling’ China’s tariff evasions"
+      },
+      {
+        "word": "Plagiarism",
+        "pos": "noun",
+        "meaning": "The practice of taking someone else's work or ideas and passing them off as one's own.",
+        "synonyms": [
+          "piracy",
+          "copying",
+          "infringement"
+        ],
+        "example": "The plagiarism scandal erupted after some academics accused Arday.",
+        "source": "The Hindu",
+        "headline": "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead"
+      }
+    ]
+  },
+  {
     "date": "2026-08-15",
     "label": "15 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "SpaceX abruptly scrubs Starship test flight.",
         "source": "The Hindu",
         "headline": "SpaceX abruptly scrubs Starship test flight"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-17",
-    "label": "17 July 2026",
-    "words": [
-      {
-        "word": "Nepotism",
-        "pos": "noun",
-        "meaning": "Favoritism shown to relatives or friends by those in power, especially by giving them jobs.",
-        "synonyms": [
-          "favoritism",
-          "bias",
-          "patronage"
-        ],
-        "example": "The Chairperson faced allegations of nepotism in the recruitment process.",
-        "source": "The Hindu",
-        "headline": "Rot in KPSC recruitment runs deep"
-      },
-      {
-        "word": "Expeditiously",
-        "pos": "adverb",
-        "meaning": "With speed and efficiency.",
-        "synonyms": [
-          "promptly",
-          "swiftly",
-          "rapidly"
-        ],
-        "example": "The state is committed to complete the project expeditiously.",
-        "source": "The Hindu",
-        "headline": "State committed to complete SRLIP expeditiously, utilising Godavari waters optimally: Bhatti Vikramarka"
-      },
-      {
-        "word": "Grapple",
-        "pos": "verb",
-        "meaning": "To struggle with or deal with something difficult.",
-        "synonyms": [
-          "wrestle",
-          "contend",
-          "struggle"
-        ],
-        "example": "Many former Maoists continue to grapple with the challenges of rehabilitation.",
-        "source": "The Hindu",
-        "headline": "Former Maoists trade years of conflict for livelihood and a stable future"
-      },
-      {
-        "word": "Enduring",
-        "pos": "adjective",
-        "meaning": "Lasting over a long period of time; durable.",
-        "synonyms": [
-          "lasting",
-          "permanent",
-          "abiding"
-        ],
-        "example": "Mahasweta Devi's enduring impact on grassroots movements is undeniable.",
-        "source": "The Hindu",
-        "headline": "Mahasweta Devi at 100: Why her greatest legacy lies in the Adivasi movements she helped build"
-      },
-      {
-        "word": "Verbatim",
-        "pos": "adverb",
-        "meaning": "In exactly the same words as were used originally.",
-        "synonyms": [
-          "word-for-word",
-          "exactly",
-          "literally"
-        ],
-        "example": "He recited the speech verbatim, without missing a single word.",
-        "source": "The Hindu",
-        "headline": "Raise public issues during monsoon session of Parliament, Jagan tells YSRCP MPs"
-      },
-      {
-        "word": "Pronounce",
-        "pos": "verb",
-        "meaning": "To make a formal announcement or statement.",
-        "synonyms": [
-          "declare",
-          "announce",
-          "state"
-        ],
-        "example": "The court is expected to pronounce its order on the bail plea today.",
-        "source": "The Hindu",
-        "headline": "‘Kafir screenshot’ case: order on SIT plea to cancel accused’s bail today"
-      },
-      {
-        "word": "Coincide",
-        "pos": "verb",
-        "meaning": "To occur at the same time.",
-        "synonyms": [
-          "concur",
-          "correspond",
-          "overlap"
-        ],
-        "example": "The BJP's statewide protests will coincide with the NC's sit-in.",
-        "source": "The Hindu",
-        "headline": "BJP’s statewide protests against Omar’s J&K govt. to coincide with NC’s Jantar Mantar sit-in on Statehood"
-      },
-      {
-        "word": "Reiterate",
-        "pos": "verb",
-        "meaning": "To say something again or a number of times, typically for emphasis or clarity.",
-        "synonyms": [
-          "repeat",
-          "restate",
-          "emphasize"
-        ],
-        "example": "Suvendu Adhikari reiterates their plan to hand over mid-day meals to ISKCON.",
-        "source": "The Hindu",
-        "headline": "CM Suvendu joins Rath Yatra in Kolkata; several BJP leaders join festivities"
-      },
-      {
-        "word": "Comprising",
-        "pos": "verb",
-        "meaning": "Consisting of; made up of.",
-        "synonyms": [
-          "including",
-          "containing",
-          "encompassing"
-        ],
-        "example": "The appeal was heard by a three-judge bench comprising Chief Justice of India Surya Kant.",
-        "source": "The Hindu",
-        "headline": "SC dismisses plea by Karnataka Legislative Council Deputy Chairman against recounting of votes"
-      },
-      {
-        "word": "Detained",
-        "pos": "verb",
-        "meaning": "To keep someone in official custody, typically for questioning about a crime or in a politically sensitive situation.",
-        "synonyms": [
-          "arrested",
-          "held",
-          "imprisoned"
-        ],
-        "example": "Four Bengali migrants who were detained by Delhi Police were brought back to India.",
-        "source": "The Hindu",
-        "headline": "Trinamool MP Samirul Islam calls on family who was pushed into Bangladesh"
       }
     ]
   }
