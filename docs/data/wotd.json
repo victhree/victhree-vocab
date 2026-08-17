@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-17",
+    "label": "17 August 2026",
+    "words": [
+      {
+        "word": "Glitches",
+        "pos": "noun",
+        "meaning": "A sudden, usually temporary malfunction or irregularity.",
+        "synonyms": [
+          "malfunction",
+          "hitch",
+          "snag"
+        ],
+        "example": "Abhijit Dipke alleged that several candidates were declared failed without their fault and joined the demonstration demanding that the test be conducted afresh due to glitches.",
+        "source": "The Hindu",
+        "headline": "CJP's Dipke joins protest as candidates claim glitches during online Bombay HC clerk typing test"
+      },
+      {
+        "word": "Reprimands",
+        "pos": "verb",
+        "meaning": "To express sharp disapproval or criticism of someone because of their behavior or actions.",
+        "synonyms": [
+          "rebuke",
+          "censure",
+          "admonish"
+        ],
+        "example": "Kerala High Court reprimands State over its failure to collect fines for unauthorised flex boards, banners.",
+        "source": "The Hindu",
+        "headline": "Kerala High Court reprimands State over its failure to collect fines for unauthorised flex boards, banners"
+      },
+      {
+        "word": "Gherao",
+        "pos": "noun",
+        "meaning": "A protest in India in which workers or other groups surround an employer or official until their demands are met.",
+        "synonyms": [
+          "encirclement",
+          "siege",
+          "blockade"
+        ],
+        "example": "Protesters announce CM residence gherao on August 20 to seek Hemant Soren’s resignation.",
+        "source": "The Hindu",
+        "headline": "Jharkhand exam stir: Protesters announce CM residence gherao on August 20 to seek Hemant Soren’s resignation"
+      },
+      {
+        "word": "Mitigate",
+        "pos": "verb",
+        "meaning": "Make less severe, serious, or painful.",
+        "synonyms": [
+          "alleviate",
+          "reduce",
+          "lessen"
+        ],
+        "example": "Karnataka government has failed to mitigate drought, says Kumaraswamy.",
+        "source": "The Hindu",
+        "headline": "Karnataka government has failed to mitigate drought, says Kumaraswamy; opens handloom products market"
+      },
+      {
+        "word": "Confer",
+        "pos": "verb",
+        "meaning": "To grant or bestow (a title, degree, benefit, or right).",
+        "synonyms": [
+          "bestow",
+          "grant",
+          "award"
+        ],
+        "example": "The Nepalese President will confer on him the honorary rank of General of the Nepali Army.",
+        "source": "The Hindu",
+        "headline": "Army Chief Dhiraj Seth visits Nepal to strengthen military ties"
+      },
+      {
+        "word": "Culminate",
+        "pos": "verb",
+        "meaning": "To reach a climax or point of highest development.",
+        "synonyms": [
+          "climax",
+          "peak",
+          "conclude"
+        ],
+        "example": "Indian Independence Day celebrations in New York Tri-State area culminate in Guinness World Record.",
+        "source": "The Hindu",
+        "headline": "Indian Independence Day celebrations in New York Tri-State area culminate in Guinness World Record"
+      },
+      {
+        "word": "Reaffirm",
+        "pos": "verb",
+        "meaning": "To state again strongly; confirm again.",
+        "synonyms": [
+          "reassert",
+          "reiterate",
+          "confirm"
+        ],
+        "example": "North Korea’s Kim, Russia’s Putin reaffirm ties on Korean Liberation Day.",
+        "source": "The Hindu",
+        "headline": "North Korea’s Kim, Russia’s Putin reaffirm ties on Korean Liberation Day"
+      },
+      {
+        "word": "Extradition",
+        "pos": "noun",
+        "meaning": "The action of handing over a person accused or convicted of a crime to the jurisdiction of the foreign state in which the crime was committed.",
+        "synonyms": [
+          "deportation",
+          "rendition",
+          "surrender"
+        ],
+        "example": "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit.",
+        "source": "The Hindu",
+        "headline": "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit"
+      },
+      {
+        "word": "Contentious",
+        "pos": "adjective",
+        "meaning": "Causing or likely to cause an argument; controversial.",
+        "synonyms": [
+          "disputable",
+          "debatable",
+          "controversial"
+        ],
+        "example": "Sri Lanka to table contentious Bill extending judges’ retirement age.",
+        "source": "The Hindu",
+        "headline": "Sri Lanka to table contentious Bill extending judges’ retirement age"
+      },
+      {
+        "word": "Hamper",
+        "pos": "verb",
+        "meaning": "To hinder or impede the movement or progress of.",
+        "synonyms": [
+          "obstruct",
+          "impede",
+          "thwart"
+        ],
+        "example": "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts.",
+        "source": "The Hindu",
+        "headline": "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts"
+      }
+    ]
+  },
+  {
     "date": "2026-08-16",
     "label": "16 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "Using abusive language, swearing don't count as obscenity under IPC, says Supreme Court.",
         "source": "Times of India",
         "headline": "Using abusive language, swearing don't count as obscenity under IPC: Supreme Court"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-18",
-    "label": "18 July 2026",
-    "words": [
-      {
-        "word": "Decisive",
-        "pos": "adjective",
-        "meaning": "Settling an issue conclusively; producing a definite result.",
-        "synonyms": [
-          "Conclusive",
-          "Definitive",
-          "Resolute"
-        ],
-        "example": "In a series of decisive judgments, a special court handed a 25-year jail term to a prime accused for rape.",
-        "source": "The Hindu",
-        "headline": "Three men sentenced to jail in separate cases of raping, abducting, and harassing minor girl"
-      },
-      {
-        "word": "Alleged",
-        "pos": "adjective",
-        "meaning": "Stated without proof to have taken place or to have a specified illegal or undesirable quality.",
-        "synonyms": [
-          "Supposed",
-          "Purported",
-          "Unproven"
-        ],
-        "example": "Babulal Marandi writes to Hemant Soren demanding a judicial probe into the alleged scam in JSDMS.",
-        "source": "The Hindu",
-        "headline": "Babulal Marandi writes to Hemant Soren demanding a judicial probe into the alleged scam in JSDMS"
-      },
-      {
-        "word": "Irregularity",
-        "pos": "noun",
-        "meaning": "A deviation from what is normal, customary, or regular.",
-        "synonyms": [
-          "Anomaly",
-          "Abnormality",
-          "Discrepancy"
-        ],
-        "example": "Congress alleges irregularities in gram sabha approvals for Ken-Betwa project.",
-        "source": "The Hindu",
-        "headline": "Congress alleges irregularities in gram sabha approvals for Ken-Betwa project"
-      },
-      {
-        "word": "Vigilance",
-        "pos": "noun",
-        "meaning": "The action or state of keeping careful watch for possible danger or difficulties.",
-        "synonyms": [
-          "Watchfulness",
-          "Alertness",
-          "Circumspection"
-        ],
-        "example": "The medical team stated that Sonam Wangchuk continues to be under 24-hour medical vigilance.",
-        "source": "The Hindu",
-        "headline": "Jantar Mantar protest updates: Opposition support grows as Wangchuk’s hunger strike continues on day 20"
-      },
-      {
-        "word": "Verbatim",
-        "pos": "adverb",
-        "meaning": "In exactly the same words as were originally used.",
-        "synonyms": [
-          "Word-for-word",
-          "Directly",
-          "Precisely"
-        ],
-        "example": "The court refused to quash FIRs booked against political commentator Ponraj for remarks against TVK women supporters, stating he ought to have exercised greater restraint while making public statements, verbatim from the judgment.",
-        "source": "The Hindu",
-        "headline": "Madras High Court refuses to quash FIRs booked against political commentator Ponraj for remarks against TVK women supporters"
-      },
-      {
-        "word": "Ram",
-        "pos": "verb",
-        "meaning": "Force (something) into place or into a smaller space.",
-        "synonyms": [
-          "Shove",
-          "Cram",
-          "Force"
-        ],
-        "example": "Over the past week, the Knesset passed several controversial laws in marathon sessions as PM Netanyahu attempted to ram through several of his pet projects.",
-        "source": "The Hindu",
-        "headline": "Israel's Parliament dissolves ahead of October 27 elections"
-      },
-      {
-        "word": "Insidious",
-        "pos": "adjective",
-        "meaning": "Proceeding in a gradual, subtle way, but with harmful effects.",
-        "synonyms": [
-          "Subtle",
-          "Treacherous",
-          "Pernicious"
-        ],
-        "example": "The U.K. PM-designate outlined five priority directions for his government, starting with a commitment to end infighting within Labour and the “insidious” effects of factionalism.",
-        "source": "The Hindu",
-        "headline": "Andy Burnham elected new Labour leader, to be appointed U.K. PM on July 20"
-      },
-      {
-        "word": "Ambition",
-        "pos": "noun",
-        "meaning": "A strong desire to do or achieve something.",
-        "synonyms": [
-          "Aspiration",
-          "Goal",
-          "Objective"
-        ],
-        "example": "With climate ambitions in question, EU reforms carbon market.",
-        "source": "The Hindu",
-        "headline": "With climate ambitions in question, EU reforms carbon market"
-      },
-      {
-        "word": "Scant",
-        "pos": "adjective",
-        "meaning": "Barely sufficient or adequate.",
-        "synonyms": [
-          "Meager",
-          "Limited",
-          "Insufficient"
-        ],
-        "example": "Mr. Trump portrayed the U.S. electoral system as dangerously exposed and urged lawmakers to adopt new restrictions on voting, despite scant appetite for the measures.",
-        "source": "The Hindu",
-        "headline": "Trump revives election fraud claims ahead of U.S. midterms"
-      },
-      {
-        "word": "Abruptly",
-        "pos": "adverb",
-        "meaning": "Suddenly and unexpectedly.",
-        "synonyms": [
-          "Suddenly",
-          "Unexpectedly",
-          "Hastily"
-        ],
-        "example": "SpaceX abruptly scrubs Starship test flight.",
-        "source": "The Hindu",
-        "headline": "SpaceX abruptly scrubs Starship test flight"
       }
     ]
   }
