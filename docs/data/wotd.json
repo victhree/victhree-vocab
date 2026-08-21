@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-21",
+    "label": "21 August 2026",
+    "words": [
+      {
+        "word": "Discrimination",
+        "pos": "noun",
+        "meaning": "Unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, age, or sex.",
+        "synonyms": [
+          "Prejudice",
+          "Bias",
+          "Bigotry"
+        ],
+        "example": "The MLA alleged caste discrimination at the Uttar Pradesh temple event.",
+        "source": "The Hindu",
+        "headline": "BJP MLA Jai Devi Kaushal alleges caste discrimination at Uttar Pradesh temple event"
+      },
+      {
+        "word": "Soulless",
+        "pos": "adjective",
+        "meaning": "Lacking human qualities or character; uninspired.",
+        "synonyms": [
+          "Lifeless",
+          "Impersonal",
+          "Dull"
+        ],
+        "example": "Tharoor calls the new Parliament building 'soulless conference centre', lacking in intimacy.",
+        "source": "The Hindu",
+        "headline": "Tharoor calls new Parliament building 'soulless conference centre', lacking in intimacy"
+      },
+      {
+        "word": "Acquitted",
+        "pos": "verb",
+        "meaning": "Free (someone) from a criminal charge by a verdict of not guilty.",
+        "synonyms": [
+          "Exonerate",
+          "Absolve",
+          "Clear"
+        ],
+        "example": "Sajjan Kumar was convicted twice but acquitted in another case.",
+        "source": "The Hindu",
+        "headline": "Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case, is dead"
+      },
+      {
+        "word": "Tenure",
+        "pos": "noun",
+        "meaning": "The period for which an office or position is held.",
+        "synonyms": [
+          "Term",
+          "Incumbency",
+          "Stint"
+        ],
+        "example": "Protesters questioned Manan Kumar Mishra’s 14-year tenure as chairman.",
+        "source": "The Hindu",
+        "headline": "Lawyers stage protest outside BCI office, seek chairman’s resignation amid NALSAR row"
+      },
+      {
+        "word": "Enhancement",
+        "pos": "noun",
+        "meaning": "An increase or improvement in quality, value, or extent.",
+        "synonyms": [
+          "Augmentation",
+          "Improvement",
+          "Boost"
+        ],
+        "example": "The State of Goa petitioned for enhancement of his punishment to life imprisonment.",
+        "source": "The Hindu",
+        "headline": "Tejpal moves Supreme Court against sentence in rape case"
+      },
+      {
+        "word": "Perpetuate",
+        "pos": "verb",
+        "meaning": "Make (something undesirable) continue indefinitely.",
+        "synonyms": [
+          "Maintain",
+          "Sustain",
+          "Preserve"
+        ],
+        "example": "Jadavpur BJP MLA said that “naxals, maoists and anti-nationals” will not be allowed to perpetuate inside the university.",
+        "source": "The Hindu",
+        "headline": "Jadavpur University on the boil as supporters of ABVP and SFI clash"
+      },
+      {
+        "word": "Recourse",
+        "pos": "noun",
+        "meaning": "A source of help in a difficult situation.",
+        "synonyms": [
+          "Option",
+          "Remedy",
+          "Resort"
+        ],
+        "example": "The 1978 verdict had enabled workers to have a legal recourse.",
+        "source": "The Hindu",
+        "headline": "Supreme Court scraps worker-friendly 1978 ‘industry’ precedent for new labour code"
+      },
+      {
+        "word": "Evoke",
+        "pos": "verb",
+        "meaning": "Bring or recall to the conscious mind.",
+        "synonyms": [
+          "Elicit",
+          "Provoke",
+          "Conjure"
+        ],
+        "example": "U.S. envoy Sergio Gor’s J&K remarks evoke mixed reactions.",
+        "source": "The Hindu",
+        "headline": "U.S. envoy Sergio Gor’s J&K remarks evoke mixed reactions"
+      },
+      {
+        "word": "Regulated",
+        "pos": "verb",
+        "meaning": "Control or maintain the rate or speed of (a machine or process) so that it operates properly.",
+        "synonyms": [
+          "Control",
+          "Govern",
+          "Manage"
+        ],
+        "example": "Construction activities around Pallikaranai marshland can be regulated, not banned.",
+        "source": "The Hindu",
+        "headline": "Construction activities around Pallikaranai marshland can be regulated, not banned: TNSWA tells Madras High Court"
+      },
+      {
+        "word": "Undermine",
+        "pos": "verb",
+        "meaning": "Lessen the effectiveness, power, or ability of, especially gradually or insidiously.",
+        "synonyms": [
+          "Weaken",
+          "Erode",
+          "Sabotage"
+        ],
+        "example": "The emails undermine Mr. Trump's assertions that the U.S. is at war with Iran.",
+        "source": "The Hindu",
+        "headline": "Quiet channel between ICE and Iran shaped deportation flights, newly released emails show"
+      }
+    ]
+  },
+  {
     "date": "2026-08-20",
     "label": "20 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "Trump’s 200% generic tariff threat would imperil Americans: Indian pharma.",
         "source": "The Hindu",
         "headline": "Trump’s 200% generic tariff threat would imperil Americans: Indian pharma"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-22",
-    "label": "22 July 2026",
-    "words": [
-      {
-        "word": "Deluge",
-        "pos": "noun",
-        "meaning": "A severe flood; an overwhelming rush of anything.",
-        "synonyms": [
-          "Inundation",
-          "Torrent",
-          "Downpour"
-        ],
-        "example": "21 dead in a day’s deluge in Assam; total flood toll 31.",
-        "source": "The Hindu",
-        "headline": "21 dead in a day’s deluge in Assam; total flood toll 31"
-      },
-      {
-        "word": "Grapple",
-        "pos": "verb",
-        "meaning": "To struggle with or deal with something difficult.",
-        "synonyms": [
-          "Wrestle",
-          "Contend",
-          "Tussle"
-        ],
-        "example": "Jammu and Kashmir grapples weather fury for third day, civilian infrastructure massively damaged.",
-        "source": "The Hindu",
-        "headline": "Jammu and Kashmir grapples weather fury for third day, civilian infrastructure massively damaged"
-      },
-      {
-        "word": "Portability",
-        "pos": "noun",
-        "meaning": "The ability to be easily carried or moved; the ability of a system to be used in different places.",
-        "synonyms": [
-          "Transferability",
-          "Mobility",
-          "Versatility"
-        ],
-        "example": "Outbound portability of medical scheme benefits Rajasthan’s patients.",
-        "source": "The Hindu",
-        "headline": "Outbound portability of medical scheme benefits Rajasthan’s patients"
-      },
-      {
-        "word": "Erect",
-        "pos": "verb",
-        "meaning": "To construct or build something; to set up.",
-        "synonyms": [
-          "Construct",
-          "Build",
-          "Raise"
-        ],
-        "example": "Farmers wanted to peacefully go to Delhi and participate in the rally but the BJP-led Haryana government has stopped them by erecting barricades.",
-        "source": "The Hindu",
-        "headline": "Farmers stopped at Punjab-Haryana border en route to Delhi rally against India-U.S. trade deal"
-      },
-      {
-        "word": "Unequivocal",
-        "pos": "adjective",
-        "meaning": "Leaving no doubt; unambiguous.",
-        "synonyms": [
-          "Clear",
-          "Explicit",
-          "Definite"
-        ],
-        "example": "The Ministry of External Affairs said that it has conveyed “India’s grave concerns and unequivocal condemnation” over the attack to the Russia envoy.",
-        "source": "The Hindu",
-        "headline": "Russian envoy summoned over death of Indian crew"
-      },
-      {
-        "word": "Crackdown",
-        "pos": "noun",
-        "meaning": "A series of severe measures to restrict undesirable or illegal activities.",
-        "synonyms": [
-          "Repression",
-          "Suppression",
-          "Clampdown"
-        ],
-        "example": "Thousands brave rain and regroup at CJP protest site, day after police crackdown.",
-        "source": "The Hindu",
-        "headline": "Thousands brave rain and regroup at CJP protest site, day after police crackdown"
-      },
-      {
-        "word": "Accustomed",
-        "pos": "adjective",
-        "meaning": "Familiar with something so that it seems normal or usual.",
-        "synonyms": [
-          "Habituated",
-          "Used to",
-          "Familiar"
-        ],
-        "example": "Preserving the accused’s dignity requires allowing him access to food he is accustomed to eating.",
-        "source": "The Hindu",
-        "headline": "NIA court allows special dietary arrangements for U.S. national accused in a terror case"
-      },
-      {
-        "word": "Woo",
-        "pos": "verb",
-        "meaning": "To try to gain the love, support, or favour of someone.",
-        "synonyms": [
-          "Court",
-          "Persuade",
-          "Entice"
-        ],
-        "example": "As 2027 elections inch closer, party leaders have again started wooing SC groups.",
-        "source": "The Hindu",
-        "headline": "Why Punjab’s Dalits remain divided"
-      },
-      {
-        "word": "Centenarian",
-        "pos": "noun",
-        "meaning": "A person who is 100 or more years old.",
-        "synonyms": [
-          "Octogenarian (false, but related)",
-          "Nonagenarian (false, but related)",
-          "Elderly person (too broad)"
-        ],
-        "example": "Centenarian regains mobility after complex hip replacement surgery.",
-        "source": "The Hindu",
-        "headline": "Centenarian regains mobility after complex hip replacement surgery"
-      },
-      {
-        "word": "Entrench",
-        "pos": "verb",
-        "meaning": "To establish an attitude, habit, or belief so firmly that change is very difficult or unlikely.",
-        "synonyms": [
-          "Ingrain",
-          "Implant",
-          "Root"
-        ],
-        "example": "Israel is building a miles-long earthen barrier inside Gaza, entrenching its division.",
-        "source": "The Hindu",
-        "headline": "Israel is building a miles-long earthen barrier inside Gaza, entrenching its division"
       }
     ]
   }
