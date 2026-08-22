@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-22",
+    "label": "22 August 2026",
+    "words": [
+      {
+        "word": "Evoke",
+        "pos": "verb",
+        "meaning": "Bring or recall to the conscious mind.",
+        "synonyms": [
+          "arouse",
+          "elicit",
+          "induce"
+        ],
+        "example": "The Punjab bandh over the release of Sikh prisoners evoked a mixed response.",
+        "source": "The Hindu",
+        "headline": "Punjab bandh over release of Sikh prisoners evokes mixed response"
+      },
+      {
+        "word": "Ploy",
+        "pos": "noun",
+        "meaning": "A cunning plan or action designed to turn a situation to one's own advantage.",
+        "synonyms": [
+          "tactic",
+          "stratagem",
+          "ruse"
+        ],
+        "example": "Congress called the move of the checklist a ploy to divert attention from issues of school closures.",
+        "source": "The Hindu",
+        "headline": "U.P. Gen Alpha protests: Opposition demands education reforms, calls checklist ‘eyewash’"
+      },
+      {
+        "word": "Dwindle",
+        "pos": "verb",
+        "meaning": "Diminish gradually in size, amount, or strength.",
+        "synonyms": [
+          "decrease",
+          "shrink",
+          "lessen"
+        ],
+        "example": "Farmers are struggling with dwindling water supplies due to a weak monsoon.",
+        "source": "The Hindu",
+        "headline": "A dry spell along the Cauvery"
+      },
+      {
+        "word": "Mandate",
+        "pos": "verb",
+        "meaning": "Require (something) to be done; make something mandatory.",
+        "synonyms": [
+          "order",
+          "decree",
+          "enjoin"
+        ],
+        "example": "The Legislature and Judiciary failed to protect the rights of workers mandated by the Constitution.",
+        "source": "The Hindu",
+        "headline": "Trade unions sound alarm over Supreme Court judgment on definition of industry"
+      },
+      {
+        "word": "Applaud",
+        "pos": "verb",
+        "meaning": "Show approval or praise by clapping.",
+        "synonyms": [
+          "commend",
+          "laud",
+          "acclaim"
+        ],
+        "example": "The Supreme Court applauded the scrapped MGNREGA as a 'good, effective scheme'.",
+        "source": "The Hindu",
+        "headline": "Supreme Court lauds scrapped MGNREGA as a ‘good, effective scheme’"
+      },
+      {
+        "word": "Barrage",
+        "pos": "noun",
+        "meaning": "A concentrated artillery bombardment over a wide area.",
+        "synonyms": [
+          "volley",
+          "fusillade",
+          "cannonade"
+        ],
+        "example": "The militaries wrapped up drills early, a day after North's missile barrage.",
+        "source": "The Hindu",
+        "headline": "U.S., South Korean militaries wrap up drills early, day after North's missile barrage"
+      },
+      {
+        "word": "Mar",
+        "pos": "verb",
+        "meaning": "Impair the quality or appearance of; spoil.",
+        "synonyms": [
+          "blemish",
+          "damage",
+          "taint"
+        ],
+        "example": "Life in Afghanistan is marred by many struggles five years after the Taliban takeover.",
+        "source": "The Hindu",
+        "headline": "Five years after Taliban takeover, life in Afghanistan marred by many struggles"
+      },
+      {
+        "word": "Retract",
+        "pos": "verb",
+        "meaning": "Draw back or in.",
+        "synonyms": [
+          "withdraw",
+          "recant",
+          "revoke"
+        ],
+        "example": "Rashtrapati Bhavan hinted at a visit but then retracted the announcement.",
+        "source": "Times of India",
+        "headline": "Rashtrapati Bhavan hints at Bangladesh PM Tarique Rahman's visit, retracts"
+      },
+      {
+        "word": "Exploit",
+        "pos": "verb",
+        "meaning": "Make full use of and derive benefit from (a resource).",
+        "synonyms": [
+          "utilize",
+          "leverage",
+          "capitalize"
+        ],
+        "example": "These accounts were exploited by criminals for banking scams and malware.",
+        "source": "Times of India",
+        "headline": "Govt orders Google to shut down hundreds of Firebase accounts over scam misuse"
+      },
+      {
+        "word": "Culmination",
+        "pos": "noun",
+        "meaning": "The highest or climatic point of something, especially as attained after a long time.",
+        "synonyms": [
+          "climax",
+          "pinnacle",
+          "apex"
+        ],
+        "example": "The elimination of invasive mongooses was the culmination of a long-standing ecological dilemma.",
+        "source": "Times of India",
+        "headline": "Japan eradicated 10,000 mongooses in 2024, 30 were released in 1979 to kill snakes"
+      }
+    ]
+  },
+  {
     "date": "2026-08-21",
     "label": "21 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "Iran says it stopped three oil tankers transiting Hormuz.",
         "source": "The Hindu",
         "headline": "Iran says stopped three oil tankers transiting Hormuz"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-23",
-    "label": "23 July 2026",
-    "words": [
-      {
-        "word": "Resilience",
-        "pos": "noun",
-        "meaning": "The capacity to recover quickly from difficulties; toughness.",
-        "synonyms": [
-          "fortitude",
-          "adaptability",
-          "stamina"
-        ],
-        "example": "Proud of every supporter who has shown remarkable resilience despite the brutal crackdown.",
-        "source": "The Hindu",
-        "headline": "Jantar Mantar protest LIVE: Dharmendra Pradhan's resignation is non-negotiable, protest to continue, says CJP"
-      },
-      {
-        "word": "Unequivocal",
-        "pos": "adjective",
-        "meaning": "Leaving no doubt; unambiguous.",
-        "synonyms": [
-          "unmistakable",
-          "absolute",
-          "clear"
-        ],
-        "example": "Wangchuk seeks 'unequivocal assurance' that no young protester will face punitive action.",
-        "source": "The Hindu",
-        "headline": "Jantar Mantar protest updates: Heavy security deployed at Jantar Mantar, as crowd of protesters swells"
-      },
-      {
-        "word": "Punitive",
-        "pos": "adjective",
-        "meaning": "Inflicting or intended as punishment.",
-        "synonyms": [
-          "disciplinary",
-          "penal",
-          "retributive"
-        ],
-        "example": "Wangchuk seeks 'unequivocal assurance' that no young protester will face punitive, retaliatory legal action.",
-        "source": "The Hindu",
-        "headline": "Jantar Mantar protest updates: Heavy security deployed at Jantar Mantar, as crowd of protesters swells"
-      },
-      {
-        "word": "Logjam",
-        "pos": "noun",
-        "meaning": "A deadlock or stalemate.",
-        "synonyms": [
-          "impasse",
-          "gridlock",
-          "bottleneck"
-        ],
-        "example": "Amid Lok Sabha logjam, Centre offers debate on NEET paper leak, says street protests 'won't help'.",
-        "source": "The Hindu",
-        "headline": "Amid Lok Sabha logjam, Centre offers debate on NEET paper leak, says street protests ‘won’t help’"
-      },
-      {
-        "word": "Adjournment",
-        "pos": "noun",
-        "meaning": "A postponement or suspension of a meeting or session.",
-        "synonyms": [
-          "recess",
-          "prorogation",
-          "suspension"
-        ],
-        "example": "Congress seeks adjournment motion to set aside all other business for the debate.",
-        "source": "The Hindu",
-        "headline": "Amid Lok Sabha logjam, Centre offers debate on NEET paper leak, says street protests ‘won’t help’"
-      },
-      {
-        "word": "Defer",
-        "pos": "verb",
-        "meaning": "Put off (an action or event) to a later time; postpone.",
-        "synonyms": [
-          "postpone",
-          "delay",
-          "reschedule"
-        ],
-        "example": "Ram Temple trust defers CEO selection by a month amid donation theft row.",
-        "source": "The Hindu",
-        "headline": "‘Over 5,200 applications’: Ram Temple trust defers CEO selection by a month"
-      },
-      {
-        "word": "Divergent",
-        "pos": "adjective",
-        "meaning": "Tending to be different or develop in different directions.",
-        "synonyms": [
-          "differing",
-          "conflicting",
-          "disparate"
-        ],
-        "example": "BJP, Oppn. take divergent view of police action on protesters.",
-        "source": "The Hindu",
-        "headline": "BJP, Oppn. take divergent view of police action on protesters"
-      },
-      {
-        "word": "Rapprochement",
-        "pos": "noun",
-        "meaning": "An establishment or resumption of harmonious relations.",
-        "synonyms": [
-          "reconciliation",
-          "accord",
-          "detente"
-        ],
-        "example": "UAE, Saudi officials signal rapprochement after rift.",
-        "source": "The Hindu",
-        "headline": "UAE, Saudi officials signal rapprochement after rift"
-      },
-      {
-        "word": "Escalate",
-        "pos": "verb",
-        "meaning": "Increase rapidly; make or become more intense or serious.",
-        "synonyms": [
-          "intensify",
-          "worsen",
-          "mount"
-        ],
-        "example": "U.S. President Donald Trump has escalated tensions with Iran by threatening to bomb the nuclear site.",
-        "source": "The Hindu",
-        "headline": "Why is Trump targeting Iran’s Pickaxe Mountain nuclear site? Here’s what we know"
-      },
-      {
-        "word": "Imperil",
-        "pos": "verb",
-        "meaning": "Put at risk of being harmed, injured, or destroyed.",
-        "synonyms": [
-          "endanger",
-          "jeopardize",
-          "threaten"
-        ],
-        "example": "Trump’s 200% generic tariff threat would imperil Americans: Indian pharma.",
-        "source": "The Hindu",
-        "headline": "Trump’s 200% generic tariff threat would imperil Americans: Indian pharma"
       }
     ]
   }
