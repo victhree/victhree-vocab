@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-24",
+    "label": "24 August 2026",
+    "words": [
+      {
+        "word": "Apprehend",
+        "pos": "verb",
+        "meaning": "To arrest or seize someone.",
+        "synonyms": [
+          "capture",
+          "detain",
+          "seize"
+        ],
+        "example": "The police urged the public to share any information that could help apprehend the two men.",
+        "source": "The Hindu",
+        "headline": "Two inmates arrested under POCSO Act escape from Srinagar Central Jail; search launched"
+      },
+      {
+        "word": "Decongest",
+        "pos": "verb",
+        "meaning": "To relieve congestion in an area.",
+        "synonyms": [
+          "unclog",
+          "clear",
+          "ease"
+        ],
+        "example": "The new road is expected to decongest traffic in Katpadi and the surrounding villages.",
+        "source": "The Hindu",
+        "headline": "Sathuvachari-VIT High Road in Vellore opened to public, expected to decongest traffic in Katpadi"
+      },
+      {
+        "word": "Deficiencies",
+        "pos": "noun",
+        "meaning": "Shortcomings or imperfections.",
+        "synonyms": [
+          "flaws",
+          "faults",
+          "lacks"
+        ],
+        "example": "Periodic inspections by national authorities had uncovered several deficiencies in the ship.",
+        "source": "The Hindu",
+        "headline": "Search continues for 22 from vessel that sunk off Odisha"
+      },
+      {
+        "word": "Satraps",
+        "pos": "noun",
+        "meaning": "Local rulers or powerful subordinates.",
+        "synonyms": [
+          "viceroys",
+          "governors",
+          "chieftains"
+        ],
+        "example": "DMK's regional satraps are among the 22 who will lose district secretary posts.",
+        "source": "The Hindu",
+        "headline": "DMK’s regional satraps among 22 who will lose district secretary posts"
+      },
+      {
+        "word": "Precarious",
+        "pos": "adjective",
+        "meaning": "Not securely held or in position; dangerously likely to fall or collapse.",
+        "synonyms": [
+          "unstable",
+          "risky",
+          "hazardous"
+        ],
+        "example": "The landslide was large enough to bury an apartment building along with more precarious dwellings.",
+        "source": "The Hindu",
+        "headline": "Landslide at Guinea landfill kills 30, government says"
+      },
+      {
+        "word": "Waver",
+        "pos": "verb",
+        "meaning": "To lose strength, momentum, or determination.",
+        "synonyms": [
+          "falter",
+          "hesitate",
+          "vacillate"
+        ],
+        "example": "Our resolve to unite in defending national sovereignty must never waver.",
+        "source": "The Hindu",
+        "headline": "Peace through strength, Taiwan president says on China battle anniversary"
+      },
+      {
+        "word": "Coincide",
+        "pos": "verb",
+        "meaning": "To occur at the same time.",
+        "synonyms": [
+          "concur",
+          "accompany",
+          "synchronize"
+        ],
+        "example": "His visit will coincide with a Monday announcement on details related to the planned sanctions.",
+        "source": "The Hindu",
+        "headline": "Pakistan Army chief Asim Munir to visit Tehran on August 24: Iran"
+      },
+      {
+        "word": "Retaliatory",
+        "pos": "adjective",
+        "meaning": "Characterized by returning an injury or wrong.",
+        "synonyms": [
+          "punitive",
+          "vengeful",
+          "reciprocal"
+        ],
+        "example": "Trump hits back at Canada over retaliatory tariffs on U.S.",
+        "source": "The Hindu",
+        "headline": "‘Wants benefits of a State, without being one’: Trump hits back at Canada over retaliatory tariffs on U.S."
+      },
+      {
+        "word": "Overhauls",
+        "pos": "verb",
+        "meaning": "To completely change a system in order to improve it.",
+        "synonyms": [
+          "renovates",
+          "reforms",
+          "restructures"
+        ],
+        "example": "A federal court is scheduled to review arguments concerning a newly proposed rule that overhauls the current policy.",
+        "source": "Times of India",
+        "headline": "What makes September 3 important for international students in the US on F and J visas"
+      },
+      {
+        "word": "Capitalised",
+        "pos": "verb",
+        "meaning": "To take the opportunity to gain an advantage from.",
+        "synonyms": [
+          "exploited",
+          "leveraged",
+          "profited"
+        ],
+        "example": "Lando Norris capitalised on the chaos, securing a crucial victory.",
+        "source": "Times of India",
+        "headline": "Watch: Max Verstappen’s horrific Dutch GP crash as Lando Norris wins chaotic race"
+      }
+    ]
+  },
+  {
     "date": "2026-08-23",
     "label": "23 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "The opposition eyes Ayodhya to corner the government as the CJP stir's end deprives it of an incendiary issue.",
         "source": "Times of India",
         "headline": "Oppn eyes Ayodhya to corner govt as CJP stir's end deprives it of an incendiary issue"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "label": "25 July 2026",
-    "words": [
-      {
-        "word": "Dissident",
-        "pos": "noun",
-        "meaning": "A person who opposes official policy, especially that of an authoritarian state.",
-        "synonyms": [
-          "rebel",
-          "renegade",
-          "objector"
-        ],
-        "example": "Cracks deepen in AIADMK dissidents’ camp as a former Law Minister stays away from a review meeting.",
-        "source": "The Hindu",
-        "headline": "Cracks deepen in AIADMK dissidents’ camp"
-      },
-      {
-        "word": "Intensify",
-        "pos": "verb",
-        "meaning": "To become or make more intense, stronger, or more extreme.",
-        "synonyms": [
-          "escalate",
-          "heighten",
-          "amplify"
-        ],
-        "example": "The J&K DGP directed officers to intensify area domination and night patrols to deter anti-national elements.",
-        "source": "The Hindu",
-        "headline": "Anantnag attack aftermath: Intensify area domination, step up intelligence-led ops: J&K DGP Nalin Prabhat"
-      },
-      {
-        "word": "Verbatim",
-        "pos": "adverb",
-        "meaning": "In exactly the same words as were originally used.",
-        "synonyms": [
-          "word for word",
-          "exactly",
-          "literally"
-        ],
-        "example": "The instructions were repeated verbatim to ensure no details were missed.",
-        "source": "The Hindu",
-        "headline": "Introduce, pass Statehood bill in ongoing Parliament session: Dr. Farooq Abdullah to Centre"
-      },
-      {
-        "word": "Excess",
-        "pos": "noun",
-        "meaning": "An amount of something that is more than necessary, permitted, or desirable.",
-        "synonyms": [
-          "surplus",
-          "redundancy",
-          "profusion"
-        ],
-        "example": "The Supreme Court will hear petitions against alleged police excesses at the CJP march.",
-        "source": "The Hindu",
-        "headline": "Supreme Court to hear petitions against alleged police excesses at CJP march"
-      },
-      {
-        "word": "Agitation",
-        "pos": "noun",
-        "meaning": "A state of anxiety or nervous excitement, or a public protest about something.",
-        "synonyms": [
-          "unrest",
-          "turmoil",
-          "protest"
-        ],
-        "example": "Pukasa holds a protest meet in solidarity with the ongoing student agitation in Delhi.",
-        "source": "The Hindu",
-        "headline": "Pukasa holds protest meet in solidarity with Delhi students in Kerala’s Kochi"
-      },
-      {
-        "word": "Halt",
-        "pos": "noun",
-        "meaning": "A temporary stop or pause.",
-        "synonyms": [
-          "cessation",
-          "interruption",
-          "break"
-        ],
-        "example": "Amarnath Yatra resumes after a six-day weather halt, with over 6,000 pilgrims leaving Jammu.",
-        "source": "The Hindu",
-        "headline": "Amarnath Yatra resumes after six-day weather halt"
-      },
-      {
-        "word": "Escalate",
-        "pos": "verb",
-        "meaning": "To increase rapidly in intensity or magnitude.",
-        "synonyms": [
-          "mount",
-          "intensify",
-          "worsen"
-        ],
-        "example": "The situation escalated after protestors pelted stones at the official residence.",
-        "source": "The Hindu",
-        "headline": "Six cops injured as villagers clash with police in Chhattisgarh’s Surajpur coal mine protest"
-      },
-      {
-        "word": "Arbitrary",
-        "pos": "adjective",
-        "meaning": "Based on random choice or personal whim, rather than any reason or system.",
-        "synonyms": [
-          "capricious",
-          "whimsical",
-          "unreasonable"
-        ],
-        "example": "A plea in Delhi HC challenges internet shutdown, citing unconstitutional and arbitrary suspension orders.",
-        "source": "The Hindu",
-        "headline": "Plea in Delhi HC challenges internet shutdown around Jantar Mantar protest site"
-      },
-      {
-        "word": "Overhaul",
-        "pos": "noun",
-        "meaning": "A thorough examination of machinery or a system, with repairs or changes made if necessary.",
-        "synonyms": [
-          "renovation",
-          "restructuring",
-          "reform"
-        ],
-        "example": "Amid protests, NTA aims for an overhaul and goes on a recruitment drive.",
-        "source": "The Hindu",
-        "headline": "Amid protests, NTA aims overhaul, goes on recruitment drive"
-      },
-      {
-        "word": "Incarceration",
-        "pos": "noun",
-        "meaning": "The state of being confined in prison; imprisonment.",
-        "synonyms": [
-          "detention",
-          "confinement",
-          "custody"
-        ],
-        "example": "Imran Khan's son urges intervention, citing his father's continued incarceration.",
-        "source": "The Hindu",
-        "headline": "Imran Khan's son urges international community to intervene, says father needs urgent medical attention"
       }
     ]
   }
