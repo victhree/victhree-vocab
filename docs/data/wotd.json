@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-26",
+    "label": "26 August 2026",
+    "words": [
+      {
+        "word": "Accountability",
+        "pos": "noun",
+        "meaning": "The fact or condition of being accountable; responsibility.",
+        "synonyms": [
+          "responsibility",
+          "liability",
+          "answerability"
+        ],
+        "example": "The committee calls on India to ensure accountability for these violations.",
+        "source": "The Hindu",
+        "headline": "UN committee calls for addressing ‘hate speech’ and ‘hate crimes’ in India"
+      },
+      {
+        "word": "Hinged",
+        "pos": "verb",
+        "meaning": "Depend entirely on.",
+        "synonyms": [
+          "depended",
+          "revolved",
+          "pivoted"
+        ],
+        "example": "The politics in West Bengal has hinged on the electoral contest between the two leaders.",
+        "source": "The Hindu",
+        "headline": "Suvendu vows to keep Mamata off the streets, TMC chairperson says not taking political sanyas"
+      },
+      {
+        "word": "Culprits",
+        "pos": "noun",
+        "meaning": "A person who is responsible for a crime or other misdeed.",
+        "synonyms": [
+          "offenders",
+          "perpetrators",
+          "guilty parties"
+        ],
+        "example": "The police assured the villagers of swift identification of the culprits.",
+        "source": "The Hindu",
+        "headline": "Village in Raebareli tense after mud smeared on Ambedkar’s statue"
+      },
+      {
+        "word": "Entity",
+        "pos": "noun",
+        "meaning": "A thing with distinct and independent existence.",
+        "synonyms": [
+          "organization",
+          "body",
+          "unit"
+        ],
+        "example": "BJD criticises proposal to lease out Bhubaneswar airport to private entity.",
+        "source": "The Hindu",
+        "headline": "BJD criticises proposal to lease out Bhubaneswar airport to private entity"
+      },
+      {
+        "word": "Amended",
+        "pos": "verb",
+        "meaning": "Make minor changes to (a text, piece of legislation, etc.) in order to make it fairer, more accurate, or more up-to-date.",
+        "synonyms": [
+          "revised",
+          "modified",
+          "altered"
+        ],
+        "example": "The petition challenges the notification which amended the Maharashtra Motor Vehicles Rules.",
+        "source": "The Hindu",
+        "headline": "Bombay High Court to hear PIL against Marathi rule for drivers"
+      },
+      {
+        "word": "Loitering",
+        "pos": "adjective",
+        "meaning": "Standing or waiting around idly or without apparent purpose.",
+        "synonyms": [
+          "lingering",
+          "dawdling",
+          "sauntering"
+        ],
+        "example": "A loitering munition may have hit Kirana Hills during Operation Sindoor.",
+        "source": "The Hindu",
+        "headline": "Loitering munition may have hit Kirana Hills during Operation Sindoor: former CDS Anil Chauhan"
+      },
+      {
+        "word": "Pluralistic",
+        "pos": "adjective",
+        "meaning": "Relating to or upholding a state of society in which members of diverse ethnic, racial, religious, or social groups maintain and develop their traditional culture or special interests within a common civilization.",
+        "synonyms": [
+          "diverse",
+          "multicultural",
+          "heterogeneous"
+        ],
+        "example": "His family taught him a vision of India as a pluralistic society.",
+        "source": "The Hindu",
+        "headline": "NYC Mayor Mamdani opposes RSS chief Bhagwat's Madison Square event"
+      },
+      {
+        "word": "Abruptly",
+        "pos": "adverb",
+        "meaning": "Suddenly and unexpectedly.",
+        "synonyms": [
+          "suddenly",
+          "unexpectedly",
+          "hastily"
+        ],
+        "example": "The Monsoon Session of the State legislature was adjourned abruptly.",
+        "source": "The Hindu",
+        "headline": "BJP to take out a 10-day padayatra from Raichur to Ballari from September 1"
+      },
+      {
+        "word": "Disenfranchisement",
+        "pos": "noun",
+        "meaning": "The state of being deprived of a right or privilege, especially the right to vote.",
+        "synonyms": [
+          "disenfranchisement",
+          "deprivation",
+          "disqualification"
+        ],
+        "example": "Mobility should not translate into disenfranchisement, Shivakumar said.",
+        "source": "The Hindu",
+        "headline": "SIR in Karnataka: Chief Minister seeks more time for SIR claims, verification"
+      },
+      {
+        "word": "Precarious",
+        "pos": "adjective",
+        "meaning": "Not securely held or in position; dangerously likely to fall or collapse.",
+        "synonyms": [
+          "unstable",
+          "risky",
+          "hazardous"
+        ],
+        "example": "The peace in the region remains precarious despite diplomatic efforts.",
+        "source": "The Hindu",
+        "headline": "Pakistan, Iran explore reopening Strait of Hormuz, easing West Asia tensions"
+      }
+    ]
+  },
+  {
     "date": "2026-08-25",
     "label": "25 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "An intelligence-led cross-border investigation dismantled an alleged drug trafficking network.",
         "source": "The Hindu",
         "headline": "19 arrested as Police seize drugs worth over $97 million in Canada"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "label": "27 July 2026",
-    "words": [
-      {
-        "word": "Agitation",
-        "pos": "noun",
-        "meaning": "A state of anxiety or nervous excitement; also, a political movement for change.",
-        "synonyms": [
-          "turmoil",
-          "commotion",
-          "unrest"
-        ],
-        "example": "CM Revanth Reddy said that for Congress, the country was first and that is why it stayed away from leading the students’ movement lest the BJP would have termed it a politically motivated agitation.",
-        "source": "The Hindu",
-        "headline": "Revanth to speak to Rahul Gandhi on opening Parliament, Assembly doors for Gen Z"
-      },
-      {
-        "word": "Capsize",
-        "pos": "verb",
-        "meaning": "To overturn in the water.",
-        "synonyms": [
-          "overturn",
-          "flip",
-          "invert"
-        ],
-        "example": "CM Suvendu Adhikari meets victims of Sundarbans Trawler capsize, calls for stepping up disaster management preparedness.",
-        "source": "The Hindu",
-        "headline": "CM Suvendu Adhikari meets victims of Sundarbans Trawler capsize, calls for stepping up disaster management preparedness"
-      },
-      {
-        "word": "Envisage",
-        "pos": "verb",
-        "meaning": "To contemplate or conceive of as a possibility or a desirable future event.",
-        "synonyms": [
-          "foresee",
-          "imagine",
-          "visualize"
-        ],
-        "example": "The project envisages small shelters at multiple locations, but animal welfare bodies caution that land availability and local opposition could hamper implementation.",
-        "source": "The Hindu",
-        "headline": "Finding land biggest challenge for Kozhikode Corporation’s stray dog shelter project"
-      },
-      {
-        "word": "Scrutiny",
-        "pos": "noun",
-        "meaning": "Critical observation or examination.",
-        "synonyms": [
-          "inspection",
-          "analysis",
-          "examination"
-        ],
-        "example": "As spelling variations, age mismatches, and shifting residences come under scrutiny, decades of government-issued records are failing the citizenship test.",
-        "source": "The Hindu",
-        "headline": "Eroding identities of Brahmaputra’s children"
-      },
-      {
-        "word": "Expedite",
-        "pos": "verb",
-        "meaning": "To make an action or process happen sooner or be accomplished more quickly.",
-        "synonyms": [
-          "accelerate",
-          "hasten",
-          "speed up"
-        ],
-        "example": "Civic bodies expedite mass vaccination, sterilisation of community dogs in Vellore, Ranipet, Tiruvannamalai.",
-        "source": "The Hindu",
-        "headline": "Civic bodies expedite mass vaccination, sterilisation of community dogs in Vellore, Ranipet, Tiruvannamalai"
-      },
-      {
-        "word": "Hinge",
-        "pos": "verb",
-        "meaning": "To depend entirely on.",
-        "synonyms": [
-          "depend",
-          "rely",
-          "pivot"
-        ],
-        "example": "Samastha’s power equation hinges on choice of new general secretary.",
-        "source": "The Hindu",
-        "headline": "Samastha’s power equation hinges on choice of new general secretary"
-      },
-      {
-        "word": "Monopoly",
-        "pos": "noun",
-        "meaning": "The exclusive possession or control of the supply of or trade in a commodity or service.",
-        "synonyms": [
-          "dominance",
-          "exclusivity",
-          "control"
-        ],
-        "example": "The move aims to increase participation in the tender process and break the monopoly of a few operators who have dominated bar contracts for years.",
-        "source": "The Hindu",
-        "headline": "Tasmac bars can now be operated within 100 m of liquor shops"
-      },
-      {
-        "word": "Injunction",
-        "pos": "noun",
-        "meaning": "An authoritative warning or order.",
-        "synonyms": [
-          "order",
-          "command",
-          "mandate"
-        ],
-        "example": "U.S. appeals court upholds injunction that blocks Trump's order to create federal voter list.",
-        "source": "The Hindu",
-        "headline": "U.S. appeals court upholds injunction that blocks Trump's order to create federal voter list"
-      },
-      {
-        "word": "Anoint",
-        "pos": "verb",
-        "meaning": "To confer a typically holy or distinguished title or role upon.",
-        "synonyms": [
-          "designate",
-          "appoint",
-          "bless"
-        ],
-        "example": "Far-right firebrand Jair Bolsonaro anointed his eldest son Flavio as his political heir.",
-        "source": "The Hindu",
-        "headline": "Flavio Bolsonaro gets party nod to take on Lula in Brazil polls"
-      },
-      {
-        "word": "Trajectory",
-        "pos": "noun",
-        "meaning": "The path followed by a projectile flying or an object moving under the action of given forces; also, a course of development.",
-        "synonyms": [
-          "path",
-          "course",
-          "route"
-        ],
-        "example": "Israel had witnessed one of its strongest tourism recoveries following the COVID-19 pandemic before the conflict interrupted its growth trajectory.",
-        "source": "The Hindu",
-        "headline": "Closer ties and easier travel: Israel eyes pre-war tourist levels from India by 2027"
       }
     ]
   }
