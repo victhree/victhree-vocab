@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-28",
+    "label": "28 August 2026",
+    "words": [
+      {
+        "word": "Uncontactable",
+        "pos": "adjective",
+        "meaning": "Unable to be reached or communicated with.",
+        "synonyms": [
+          "Incommunicado",
+          "Unreachable",
+          "Isolated"
+        ],
+        "example": "At least 290 Indians remain ‘uncontactable’ after Nepal flash flood, says MEA.",
+        "source": "The Hindu",
+        "headline": "At least 290 Indians remain ‘uncontactable’ after Nepal flash flood, says MEA"
+      },
+      {
+        "word": "Consignment",
+        "pos": "noun",
+        "meaning": "A batch of goods destined for or delivered to someone.",
+        "synonyms": [
+          "Shipment",
+          "Delivery",
+          "Cargo"
+        ],
+        "example": "A second consignment of 37.5 tonnes of relief material has been handed over to Nepal.",
+        "source": "The Hindu",
+        "headline": "At least 290 Indians remain ‘uncontactable’ after Nepal flash flood, says MEA"
+      },
+      {
+        "word": "Incentives",
+        "pos": "noun",
+        "meaning": "A thing that motivates or encourages one to do something.",
+        "synonyms": [
+          "Stimulus",
+          "Motivation",
+          "Impetus"
+        ],
+        "example": "He distributed more than ₹3.42 crore in incentives to 107 startups.",
+        "source": "The Hindu",
+        "headline": "U.P.’s population is not a challenge, but a great possibility, says CM Adityanath"
+      },
+      {
+        "word": "Intimidate",
+        "pos": "verb",
+        "meaning": "To frighten or overawe (someone), especially in order to make them do what one wants.",
+        "synonyms": [
+          "Coerce",
+          "Threaten",
+          "Bully"
+        ],
+        "example": "Biometric identity-based attendance for college students is an attempt intimidate students in the name of discipline, alleges principal Opposition party.",
+        "source": "The Hindu",
+        "headline": "BJD opposes Odisha government’s proposal for biometric attendance for college students"
+      },
+      {
+        "word": "Authentic",
+        "pos": "adjective",
+        "meaning": "Of undisputed origin; genuine.",
+        "synonyms": [
+          "Genuine",
+          "Veritable",
+          "True"
+        ],
+        "example": "Ajay Rai challenged the Chief Minister to make a public, authentic picture or video of him eating fish.",
+        "source": "The Hindu",
+        "headline": "Stop making false statements, focus on the real problems of U.P., wrote State Congress chief Ajay Rai to CM"
+      },
+      {
+        "word": "Capitulate",
+        "pos": "verb",
+        "meaning": "Cease to resist an opponent or an unwelcome demand; surrender.",
+        "synonyms": [
+          "Surrender",
+          "Yield",
+          "Concede"
+        ],
+        "example": "Is Modi government trying to capitulate to China, asks Congress leader.",
+        "source": "The Hindu",
+        "headline": "Jairam Ramesh questions conflicting remarks on Pakistan-China cooperation during Operation Sindoor"
+      },
+      {
+        "word": "Ritual",
+        "pos": "noun",
+        "meaning": "A religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.",
+        "synonyms": [
+          "Ceremony",
+          "Rite",
+          "Custom"
+        ],
+        "example": "BJP’s ‘casteist nature’ exposed by Haldwani ritual defence, says Congress.",
+        "source": "The Hindu",
+        "headline": "BJP’s ‘casteist nature’ exposed by Haldwani ritual defence, says Congress"
+      },
+      {
+        "word": "Obscure",
+        "pos": "adjective",
+        "meaning": "Not discovered or known about; uncertain.",
+        "synonyms": [
+          "Unclear",
+          "Vague",
+          "Enigmatic"
+        ],
+        "example": "The immediate mechanism behind the sudden release of water remains under obscure.",
+        "source": "The Hindu",
+        "headline": "Western disturbance linked to Nepal floods"
+      },
+      {
+        "word": "Tenacity",
+        "pos": "noun",
+        "meaning": "The quality or fact of being able to grip something firmly; grip.",
+        "synonyms": [
+          "Persistence",
+          "Determination",
+          "Perseverance"
+        ],
+        "example": "In a remarkable display of skill and tenacity, R Praggnanandhaa clinched victory at the Grand Chess Tour Finals.",
+        "source": "Times of India",
+        "headline": "Praggnanandhaa scripts history, becomes first Indian to win Grand Chess Tour"
+      },
+      {
+        "word": "Reconvened",
+        "pos": "verb",
+        "meaning": "To call or come together again.",
+        "synonyms": [
+          "Reassemble",
+          "Resume",
+          "Recall"
+        ],
+        "example": "Parliament may be reconvened, hints Rijiju, brings delimitation bill in focus.",
+        "source": "Times of India",
+        "headline": "Parliament may be reconvened, hints Rijiju, brings delimitation bill in focus"
+      }
+    ]
+  },
+  {
     "date": "2026-08-27",
     "label": "27 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "Last November, Hasina was sentenced to death in absentia by a special tribunal in Dhaka for alleged “crimes against humanity”.",
         "source": "The Hindu",
         "headline": "Will return to Bangladesh but ‘could be killed’: Bangladesh’s former PM Hasina"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "label": "29 July 2026",
-    "words": [
-      {
-        "word": "Gimmick",
-        "pos": "noun",
-        "meaning": "A trick or device intended to attract attention, publicity, or trade.",
-        "synonyms": [
-          "ploy",
-          "stunt",
-          "stratagem"
-        ],
-        "example": "Opposition parties termed the move an election-eve gimmick timed to win over voters.",
-        "source": "The Hindu",
-        "headline": "Ahead of 2027 Punjab polls, AAP’s welfare spree sparks questions over timing, intent"
-      },
-      {
-        "word": "Vulnerable",
-        "pos": "adjective",
-        "meaning": "Susceptible to physical or emotional attack or harm.",
-        "synonyms": [
-          "defenceless",
-          "exposed",
-          "fragile"
-        ],
-        "example": "Prime Minister Modi and his government has never looked as vulnerable as they did in the last 15 days.",
-        "source": "The Hindu",
-        "headline": "Unwise to link women’s quota with delimitation: K.T. Rama Rao"
-      },
-      {
-        "word": "Cosmetic",
-        "pos": "adjective",
-        "meaning": "Affecting only the surface; superficial.",
-        "synonyms": [
-          "superficial",
-          "external",
-          "decorative"
-        ],
-        "example": "The Opposition calls the paper leak Bill a ‘cosmetic exercise’.",
-        "source": "The Hindu",
-        "headline": "Paper leak Bill a milestone, says govt; Opposition calls it ‘cosmetic exercise’"
-      },
-      {
-        "word": "Pluralistic",
-        "pos": "adjective",
-        "meaning": "Characterized by the presence of many different ethnic, religious, or cultural groups within one society.",
-        "synonyms": [
-          "diverse",
-          "multicultural",
-          "heterogeneous"
-        ],
-        "example": "Pakistan cannot lay any claim to a “pluralistic cultural legacy” like the Indus Valley Civilisation.",
-        "source": "The Hindu",
-        "headline": "India’s Gen Z wants Pakistan to end terror activities: govt"
-      },
-      {
-        "word": "Coercive",
-        "pos": "adjective",
-        "meaning": "Relating to or using force or threats.",
-        "synonyms": [
-          "compelling",
-          "intimidating",
-          "forcible"
-        ],
-        "example": "The top court restrained the police from taking coercive action against student protesters.",
-        "source": "The Hindu",
-        "headline": "Release all minors held over student protests: Supreme Court"
-      },
-      {
-        "word": "Vitriolic",
-        "pos": "adjective",
-        "meaning": "Full of bitterness or malice.",
-        "synonyms": [
-          "caustic",
-          "acerbic",
-          "virulent"
-        ],
-        "example": "Tamil Nadu’s political arena has become a theatre of vitriolic discourse.",
-        "source": "The Hindu",
-        "headline": "Need for moderation in public speech"
-      },
-      {
-        "word": "Taint",
-        "pos": "verb",
-        "meaning": "Contaminate or pollute (something).",
-        "synonyms": [
-          "sully",
-          "blemish",
-          "corrupt"
-        ],
-        "example": "Rising indicators of criminality in the Bar may taint the image of the bar.",
-        "source": "The Hindu",
-        "headline": "Bar Councils must collect data on lawyers facing criminal records, says Madras High Court"
-      },
-      {
-        "word": "Draconian",
-        "pos": "adjective",
-        "meaning": "(Of laws or their application) excessively harsh and severe.",
-        "synonyms": [
-          "harsh",
-          "strict",
-          "rigorous"
-        ],
-        "example": "Women are subject to draconian restrictions by Afghanistan’s Taliban government.",
-        "source": "The Hindu",
-        "headline": "UN says nearly 500 Afghan civilians have been killed in Pakistan-Afghanistan fighting since October"
-      },
-      {
-        "word": "Obscure",
-        "pos": "verb",
-        "meaning": "To make unclear and difficult to understand.",
-        "synonyms": [
-          "conceal",
-          "hide",
-          "shroud"
-        ],
-        "example": "Prosecutors accuse Samuel Tunick of wiping his phone to obscure evidence.",
-        "source": "Times of India",
-        "headline": "US man arrested for wiping phone during airport search; Android OS may trouble Europe travellers"
-      },
-      {
-        "word": "Erratic",
-        "pos": "adjective",
-        "meaning": "Not regular in pattern or movement; unpredictable.",
-        "synonyms": [
-          "unpredictable",
-          "inconsistent",
-          "unstable"
-        ],
-        "example": "This strong performance occurred despite global uncertainties and an erratic monsoon season.",
-        "source": "Times of India",
-        "headline": "Industrial output grows 7.3% in June, fastest in 22 months"
       }
     ]
   }
