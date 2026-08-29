@@ -4,134 +4,134 @@
     "label": "29 August 2026",
     "words": [
       {
-        "word": "Manufactured",
-        "pos": "adjective",
-        "meaning": "Fabricated or invented, often with intent to deceive.",
-        "synonyms": [
-          "Fictitious",
-          "Spurious",
-          "Contrived"
-        ],
-        "example": "The court found that the controversy was a manufactured dispute designed to waste judicial time.",
-        "source": "The Hindu",
-        "headline": "In cases where parties know the truth, ‘judge is on trial’: Supreme Court"
-      },
-      {
-        "word": "Discrepancy",
+        "word": "Diktat",
         "pos": "noun",
-        "meaning": "A lack of compatibility or similarity between two or more facts.",
+        "meaning": "An order or decree imposed by someone in power without popular consent.",
         "synonyms": [
-          "Inconsistency",
-          "Divergence",
-          "Anomaly"
+          "edict",
+          "mandate",
+          "fiat"
         ],
-        "example": "There were discrepancies in the soil investigation report, which led to the building's tilt.",
+        "example": "Haryana’s khap panchayats have issued diktats against love marriages within a village cluster.",
         "source": "The Hindu",
-        "headline": "Tilted apartment wing: Developer begins demolition, 49 flats to be rebuilt"
+        "headline": "Gen Z vs the khap panchayats: Old rules, new rebels"
       },
       {
-        "word": "Manuvadi",
+        "word": "Allegedly",
+        "pos": "adverb",
+        "meaning": "Used to convey that something is claimed to be the case, but there is no proof.",
+        "synonyms": [
+          "purportedly",
+          "reportedly",
+          "supposedly"
+        ],
+        "example": "A helper at Temba ashram school was arrested for allegedly molesting 22 minor female students.",
+        "source": "The Hindu",
+        "headline": "22 minors molested in ashram shala, accused arrested"
+      },
+      {
+        "word": "Irregularity",
+        "pos": "noun",
+        "meaning": "A state or condition of not being regular; often an improper or illegal act.",
+        "synonyms": [
+          "anomaly",
+          "abnormality",
+          "transgression"
+        ],
+        "example": "Bihar has recently been witness to several student agitations over alleged irregularities in examinations.",
+        "source": "The Hindu",
+        "headline": "Bihar government to replace ‘fail’ with ‘eligible for skills’ in Class 10, 12 marksheets"
+      },
+      {
+        "word": "Comprehensible",
         "pos": "adjective",
-        "meaning": "Adhering to or advocating the principles of Manusmriti, often associated with traditional Hindu social hierarchy and conservative views.",
+        "meaning": "Able to be understood; intelligible.",
         "synonyms": [
-          "Traditionalist",
-          "Orthodox",
-          "Conservative"
+          "understandable",
+          "legible",
+          "clear"
         ],
-        "example": "Nagendra claimed he had been targeted by the ‘Manuvadi’ BJP, appealing to the party to allow him to contest again.",
+        "example": "The proposal is intended to provide a simple, prominent and easily comprehensible warning to consumers.",
         "source": "The Hindu",
-        "headline": "Nagendra challenges BJP to face him in ‘people’s court’"
+        "headline": "FSSAI proposes front-of-pack red pictorial warnings for foods high in fat, sugar, salt"
       },
       {
-        "word": "Convey",
-        "pos": "verb",
-        "meaning": "To transport or carry to a place.",
-        "synonyms": [
-          "Transport",
-          "Carry",
-          "Shuttle"
-        ],
-        "example": "The group signalled the CM’s vehicle, which was heading to Chempazhanthy, to stop and attend their event.",
-        "source": "The Hindu",
-        "headline": "Probe launched after group stops Keralam CM Satheesan’s convoy in Thiruvananthapuram"
-      },
-      {
-        "word": "Contested",
+        "word": "Unilateral",
         "pos": "adjective",
-        "meaning": "Disputed or argued about.",
+        "meaning": "Performed by or affecting only one person, group, or country involved in a particular situation, without the agreement of another or the others.",
         "synonyms": [
-          "Disputed",
-          "Challenged",
-          "Debated"
+          "one-sided",
+          "independent",
+          "autonomous"
         ],
-        "example": "The international edition of the memoir will include the contested statements that Ms. Gandhi refused to change.",
+        "example": "Shiv Sena upset over Maharashtra CM’s ‘unilateral decision’ to relax Marathi rule for autorickshaw, taxi drivers.",
         "source": "The Hindu",
-        "headline": "Penguin India drops Sonia Gandhi’s memoir over comments on PM, RSS and India-China ties"
+        "headline": "‘Not taken into confidence’: Shiv Sena upset over Maharashtra CM’s ‘unilateral decision’ to relax Marathi rule for…"
       },
       {
-        "word": "Transcends",
-        "pos": "verb",
-        "meaning": "To go beyond the limits of; to surpass.",
+        "word": "Purportedly",
+        "pos": "adverb",
+        "meaning": "As appears or is stated to be true, though not necessarily so; allegedly.",
         "synonyms": [
-          "Surpass",
-          "Exceed",
-          "Overcome"
+          "ostensibly",
+          "seemingly",
+          "professedly"
         ],
-        "example": "Cooperation must transcend the boundaries of geopolitics to address shared disasters.",
+        "example": "A case was registered after a video purportedly showing the incident went viral.",
         "source": "The Hindu",
-        "headline": "A shared disaster, beyond borders and geopolitics"
+        "headline": "Dalit man transporting cattle forced to eat cattle dung by ‘cow vigilantes’ in Maharashtra; no arrest made yet"
+      },
+      {
+        "word": "Espionage",
+        "pos": "noun",
+        "meaning": "The practice of spying or using spies, typically by governments to obtain political and military information.",
+        "synonyms": [
+          "spying",
+          "intelligence",
+          "reconnaissance"
+        ],
+        "example": "Delhi couple held for nexus with ISI espionage network.",
+        "source": "The Hindu",
+        "headline": "Delhi couple held for nexus with ISI espionage network"
+      },
+      {
+        "word": "Succumb",
+        "pos": "verb",
+        "meaning": "Fail to resist pressure, temptation, or some other negative force.",
+        "synonyms": [
+          "yield",
+          "capitulate",
+          "give in"
+        ],
+        "example": "Congress alleges Penguin India succumbed to ‘pressure’ to demand changes in Sonia memoir.",
+        "source": "The Hindu",
+        "headline": "Congress alleges Penguin India succumbed to ‘pressure’ to demand changes in Sonia memoir"
       },
       {
         "word": "Euphemism",
         "pos": "noun",
         "meaning": "A mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing.",
         "synonyms": [
-          "Understatement",
-          "Circumlocution",
-          "Polite term"
+          "understatement",
+          "polite term",
+          "softening"
         ],
         "example": "“Serious violations of discipline and the law” is a common euphemism for corruption.",
         "source": "The Hindu",
         "headline": "China removes high-ranking officers from key military body"
       },
       {
-        "word": "Moraines",
-        "pos": "noun",
-        "meaning": "Accumulations of glacial debris, such as rock and sediment.",
-        "synonyms": [
-          "Glacial deposits",
-          "Till",
-          "Detritus"
-        ],
-        "example": "The NDMA head confirmed the formation of two new lakes and moraines, but without information on water volume.",
-        "source": "The Hindu",
-        "headline": "Fresh glacial lakes form at source of Nepal’s ice-rock avalanche"
-      },
-      {
-        "word": "Curb",
+        "word": "Reiterate",
         "pos": "verb",
-        "meaning": "To restrain or keep in check.",
+        "meaning": "Say something again or a number of times, typically for emphasis or clarity.",
         "synonyms": [
-          "Restrain",
-          "Control",
-          "Limit"
+          "repeat",
+          "restate",
+          "emphasize"
         ],
-        "example": "A U.S. court blocked Trump's bid to curb mail-in ballots, citing unconstitutional regulation.",
+        "example": "India, Canada reiterate commitment to complete trade deal by end of 2026.",
         "source": "The Hindu",
-        "headline": "U.S. court blocks Trump bid to curb mail-in ballots"
-      },
-      {
-        "word": "Ascertain",
-        "pos": "verb",
-        "meaning": "To find something out for certain; to make sure of.",
-        "synonyms": [
-          "Determine",
-          "Confirm",
-          "Verify"
-        ],
-        "example": "The court sought to ascertain the truth in a case where parties knew the facts.",
-        "source": "The Hindu",
-        "headline": "In cases where parties know the truth, ‘judge is on trial’: Supreme Court"
+        "headline": "India, Canada reiterate commitment to complete trade deal by end of 2026"
       }
     ]
   },
