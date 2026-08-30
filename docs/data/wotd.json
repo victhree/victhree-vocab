@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-30",
+    "label": "30 August 2026",
+    "words": [
+      {
+        "word": "Scrapping",
+        "pos": "noun",
+        "meaning": "The act of discarding or getting rid of something.",
+        "synonyms": [
+          "discarding",
+          "abolishing",
+          "canceling"
+        ],
+        "example": "The scrapping of the airport project faced farmers' opposition.",
+        "source": "The Hindu",
+        "headline": "The scrapping of Parandur airport project: a compilation"
+      },
+      {
+        "word": "Viable",
+        "pos": "adjective",
+        "meaning": "Capable of working successfully; feasible.",
+        "synonyms": [
+          "feasible",
+          "workable",
+          "achievable"
+        ],
+        "example": "Tamil Nadu has to press ahead with another alternative, viable site for Chennai’s second airport.",
+        "source": "The Hindu",
+        "headline": "Chennai’s second airport: grounded until take-off"
+      },
+      {
+        "word": "Proactively",
+        "pos": "adverb",
+        "meaning": "By taking action to anticipate future problems, needs, or changes.",
+        "synonyms": [
+          "anticipatorily",
+          "preventively",
+          "forward-looking"
+        ],
+        "example": "The Indian Judiciary proactively responds to emerging fraudulent schemes.",
+        "source": "The Hindu",
+        "headline": "Judiciary proactively responded to emerging fraudulent schemes like digital arrest: CJI"
+      },
+      {
+        "word": "Wayalaying",
+        "pos": "noun",
+        "meaning": "The act of putting someone at ease or dispelling their fears.",
+        "synonyms": [
+          "assuaging",
+          "calming",
+          "reassuring"
+        ],
+        "example": "The wayalaying of the Keralam CM caused a political stir.",
+        "source": "The Hindu",
+        "headline": "Wayalaying of Keralam CM: K.V. Thomas flays action against Cong. leader"
+      },
+      {
+        "word": "Verbatim",
+        "pos": "adverb",
+        "meaning": "In exactly the same words as were originally used.",
+        "synonyms": [
+          "word for word",
+          "exactly",
+          "literally"
+        ],
+        "example": "The witness recounted the events verbatim.",
+        "source": "The Hindu",
+        "headline": "Can an accused be denied a copy of the FIR? | Explained"
+      },
+      {
+        "word": "Devastating",
+        "pos": "adjective",
+        "meaning": "Highly destructive or damaging.",
+        "synonyms": [
+          "ruinous",
+          "catastrophic",
+          "calamitous"
+        ],
+        "example": "A devastating glacier collapse and avalanche occurred in Nepal.",
+        "source": "The Hindu",
+        "headline": "Nepal flood miracle: Mother reunites with 8-year-old who climbed trees to survive"
+      },
+      {
+        "word": "Slush",
+        "pos": "noun",
+        "meaning": "Partially melted snow or ice, often mixed with mud or dirt.",
+        "synonyms": [
+          "mire",
+          "mud",
+          "goo"
+        ],
+        "example": "Bodies were buried in slush after the floods.",
+        "source": "The Hindu",
+        "headline": "Nepal floods: ‘Bodies buried in slush, families refusing food’, Khalsa Aid volunteers witness devastation"
+      },
+      {
+        "word": "Wanes",
+        "pos": "verb",
+        "meaning": "To decrease in vigor, power, or extent; to dwindle.",
+        "synonyms": [
+          "diminish",
+          "decline",
+          "fade"
+        ],
+        "example": "The risk of the lake burst near the disaster site wanes.",
+        "source": "The Hindu",
+        "headline": "Risk of lake burst near China-Nepal disaster site wanes"
+      },
+      {
+        "word": "Underwhelming",
+        "pos": "adjective",
+        "meaning": "Not impressive or exciting; disappointing.",
+        "synonyms": [
+          "disappointing",
+          "mediocre",
+          "unimpressive"
+        ],
+        "example": "Suryakumar Yadav openly takes responsibility for his underwhelming ODI career.",
+        "source": "Times of India",
+        "headline": "‘ I take the blame myself’: Suryakumar Yadav’s big regret over failed ODI career"
+      },
+      {
+        "word": "Embroiled",
+        "pos": "adjective",
+        "meaning": "Involved in a difficult or complicated situation.",
+        "synonyms": [
+          "entangled",
+          "involved",
+          "caught up"
+        ],
+        "example": "Sally Kellerman’s adopted daughter Claire Kellerman is embroiled in a legal dispute.",
+        "source": "Times of India",
+        "headline": "Sally Kellerman's daughter refuses to leave Scottish island in assistance dog row"
+      }
+    ]
+  },
+  {
     "date": "2026-08-29",
     "label": "29 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "The war in West Asia reignited and again drew in Iran's proxies.",
         "source": "The Hindu",
         "headline": "West Asia war updates: U.S. military says no U.S. aircraft hit in attempted Iranian attacks"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-31",
-    "label": "31 July 2026",
-    "words": [
-      {
-        "word": "Chronic",
-        "pos": "adjective",
-        "meaning": "Persisting for a long time or constantly recurring.",
-        "synonyms": [
-          "persistent",
-          "long-standing",
-          "continual"
-        ],
-        "example": "Officials emphasise sustainable public transport solutions to address chronic traffic congestion.",
-        "source": "The Hindu",
-        "headline": "Officials emphasise sustainable public transport solutions to address chronic traffic congestion and improve urban mobility in…"
-      },
-      {
-        "word": "Lambast",
-        "pos": "verb",
-        "meaning": "To criticize (someone or something) harshly.",
-        "synonyms": [
-          "censure",
-          "reprimand",
-          "berate"
-        ],
-        "example": "Naveen Patnaik lambasts BJP government for changing Indian Hockey jersey colour from blue to saffron.",
-        "source": "The Hindu",
-        "headline": "Naveen Patnaik lambasts BJP government for changing Indian Hockey jersey colour from blue to saffron"
-      },
-      {
-        "word": "Malice",
-        "pos": "noun",
-        "meaning": "The intention or desire to do evil; ill will.",
-        "synonyms": [
-          "spite",
-          "animosity",
-          "venom"
-        ],
-        "example": "The government has made efforts to free medical education from management quota malice.",
-        "source": "The Hindu",
-        "headline": "Parliament passes paper leak Bill as Opposition walks out of Rajya Sabha"
-      },
-      {
-        "word": "Fabricated",
-        "pos": "adjective",
-        "meaning": "Invented or concocted, typically with deceitful intent.",
-        "synonyms": [
-          "fictitious",
-          "concocted",
-          "untrue"
-        ],
-        "example": "The High Court was hearing a PIL claiming that the police statements were 'fabricated'.",
-        "source": "The Hindu",
-        "headline": "Calcutta HC seeks report from police over ‘encounter killing’ of Baruipur rape-murder accused"
-      },
-      {
-        "word": "Doxxing",
-        "pos": "noun",
-        "meaning": "The act of publicly revealing private personal information about an individual or organization, usually with malicious intent.",
-        "synonyms": [
-          "outing",
-          "exposing",
-          "unmasking"
-        ],
-        "example": "After Jantar Mantar protest, women face doxxing and calls to 'teach them a lesson'.",
-        "source": "The Hindu",
-        "headline": "‘I apologised, threats did not stop’: after Jantar Mantar protest, women face doxxing, calls to 'teach them a lesson'"
-      },
-      {
-        "word": "Escalation",
-        "pos": "noun",
-        "meaning": "An increase in the intensity or seriousness of something.",
-        "synonyms": [
-          "intensification",
-          "rise",
-          "heightening"
-        ],
-        "example": "The Ukrainian Foreign Minister points at Russia for the escalation of attacks in the Black Sea.",
-        "source": "The Hindu",
-        "headline": "Attacks on commercial vessels, Indian seafarers ‘absolutely unacceptable’, Jaishankar tells Ukraine’s Sybiha"
-      },
-      {
-        "word": "Rift",
-        "pos": "noun",
-        "meaning": "A serious break in friendly relations between people or groups.",
-        "synonyms": [
-          "split",
-          "breach",
-          "division"
-        ],
-        "example": "Brazil withholds approval of Trump's ambassador pick, deepening rift with U.S.",
-        "source": "The Hindu",
-        "headline": "Brazil withholds approval of Trump's ambassador pick, deepening rift with U.S."
-      },
-      {
-        "word": "Camouflage",
-        "pos": "verb",
-        "meaning": "To disguise or conceal (something) by means of camouflage.",
-        "synonyms": [
-          "hide",
-          "disguise",
-          "mask"
-        ],
-        "example": "India described the elections as an attempt by Pakistan to camouflage its illegal occupation.",
-        "source": "The Hindu",
-        "headline": "Tensions prevail in PoK as clashes continue between security forces and JAAC activists amid elections"
-      },
-      {
-        "word": "Relentless",
-        "pos": "adjective",
-        "meaning": "Oppressively constant; incessant.",
-        "synonyms": [
-          "unremitting",
-          "unabating",
-          "persistent"
-        ],
-        "example": "Ukraine fights on: A journey through a nation living under relentless war.",
-        "source": "The Hindu",
-        "headline": "Ukraine fights on: A journey through a nation living under relentless war"
-      },
-      {
-        "word": "Antagonistic",
-        "pos": "adjective",
-        "meaning": "Showing or feeling active opposition or hostility toward someone or something.",
-        "synonyms": [
-          "hostile",
-          "opposed",
-          "adverse"
-        ],
-        "example": "Senator Rand Paul has long had an antagonistic relationship with Fauci.",
-        "source": "The Hindu",
-        "headline": "Fauci invokes Fifth Amendment, declines to testify in Republican-led COVID-19 Senate hearing"
       }
     ]
   }
