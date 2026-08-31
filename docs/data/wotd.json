@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-08-31",
+    "label": "31 August 2026",
+    "words": [
+      {
+        "word": "Imprint",
+        "pos": "noun",
+        "meaning": "A lasting effect or impression.",
+        "synonyms": [
+          "mark",
+          "effect",
+          "influence"
+        ],
+        "example": "Revanth’s government leaves its lasting imprint after 1,000 days in office.",
+        "source": "The Hindu",
+        "headline": "Revanth’s govt. leaves its imprint after 1,000 days in office"
+      },
+      {
+        "word": "Confrontation",
+        "pos": "noun",
+        "meaning": "A hostile or argumentative meeting or situation between opposing parties.",
+        "synonyms": [
+          "clash",
+          "conflict",
+          "dispute"
+        ],
+        "example": "Two police personnel sustained injuries during the confrontation along the Son River.",
+        "source": "The Hindu",
+        "headline": "Three, including two police officials, injured in Patna encounter"
+      },
+      {
+        "word": "Oppressive",
+        "pos": "adjective",
+        "meaning": "Unjustly inflicting hardship and constraint, especially on a minority or other subordinate group.",
+        "synonyms": [
+          "tyrannical",
+          "harsh",
+          "authoritarian"
+        ],
+        "example": "IISER students demand an end to 'oppressive gender-based hostel curbs'.",
+        "source": "The Hindu",
+        "headline": "IISER students’ protest continues in Pune"
+      },
+      {
+        "word": "Deteriorated",
+        "pos": "verb",
+        "meaning": "To become progressively worse.",
+        "synonyms": [
+          "worsen",
+          "decline",
+          "degenerate"
+        ],
+        "example": "Haryana water quality has deteriorated in 93 blocks since 2022.",
+        "source": "The Hindu",
+        "headline": "Haryana water quality has deteriorated in 93 blocks since 2022: Congress MLA"
+      },
+      {
+        "word": "Irregularities",
+        "pos": "noun",
+        "meaning": "The state of being contrary to the rules or to that which is established or customary.",
+        "synonyms": [
+          "anomalies",
+          "deviations",
+          "violations"
+        ],
+        "example": "The students protested against alleged irregularities in recruitment exams for government jobs.",
+        "source": "The Hindu",
+        "headline": "Taking reforms to the road: From Ranchi protest to a Statewide yatra"
+      },
+      {
+        "word": "Congregation",
+        "pos": "noun",
+        "meaning": "A gathering or collection of people, animals, or things.",
+        "synonyms": [
+          "assembly",
+          "gathering",
+          "multitude"
+        ],
+        "example": "A sizeable share of priests and laity members had been demanding congregation-facing Mass.",
+        "source": "The Hindu",
+        "headline": "Congregation-facing Mass resumes at St. Mary’s Cathedral Basilica in Kochi"
+      },
+      {
+        "word": "Capsizes",
+        "pos": "verb",
+        "meaning": "(Of a boat or ship) overturn in the water.",
+        "synonyms": [
+          "overturn",
+          "keel over",
+          "flip"
+        ],
+        "example": "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern Cyprus.",
+        "source": "The Hindu",
+        "headline": "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern Cyprus"
+      },
+      {
+        "word": "Mutiny",
+        "pos": "noun",
+        "meaning": "An open rebellion against the proper authorities, especially by soldiers or sailors against their officers.",
+        "synonyms": [
+          "rebellion",
+          "insurrection",
+          "revolt"
+        ],
+        "example": "Niger says it regains control of airbase after soldiers mutiny.",
+        "source": "The Hindu",
+        "headline": "Niger says it regains control of airbase after soldiers mutiny"
+      },
+      {
+        "word": "Devastation",
+        "pos": "noun",
+        "meaning": "Severe and widespread destruction or misery.",
+        "synonyms": [
+          "ruin",
+          "destruction",
+          "havoc"
+        ],
+        "example": "Nepal warns of more possible floods as communities grapple with devastation.",
+        "source": "The Hindu",
+        "headline": "Nepal warns of more possible floods as communities grapple with devastation"
+      },
+      {
+        "word": "Obliterated",
+        "pos": "verb",
+        "meaning": "To destroy utterly; wipe out.",
+        "synonyms": [
+          "annihilate",
+          "eradicate",
+          "demolish"
+        ],
+        "example": "The village, once home to 150 families, was obliterated by the Himalayan floods.",
+        "source": "The Hindu",
+        "headline": "Nepal flood survivors return to ruins to salvage memories"
+      }
+    ]
+  },
+  {
     "date": "2026-08-30",
     "label": "30 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "Justice Bhuyan questioned the collegium’s opacity in judicial appointments.",
         "source": "Times of India",
         "headline": "Judge Bhuyan questions SC collegium’s opacity"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-01",
-    "label": "1 August 2026",
-    "words": [
-      {
-        "word": "Ordeal",
-        "pos": "noun",
-        "meaning": "A prolonged and difficult experience",
-        "synonyms": [
-          "hardship",
-          "trial",
-          "calamity"
-        ],
-        "example": "Delays in disbursing aid are prolonging the ordeal of patients from economically backward regions.",
-        "source": "The Hindu",
-        "headline": "Delayed aid, prolonged ordeal"
-      },
-      {
-        "word": "Transpired",
-        "pos": "verb",
-        "meaning": "To occur or happen",
-        "synonyms": [
-          "occurred",
-          "materialized",
-          "ensued"
-        ],
-        "example": "The family members recount what had transpired during the crackdown on the Cockroach Janta Party-led march.",
-        "source": "The Hindu",
-        "headline": "Kin of injured Delhi police personnel want their views to be discussed in Parliament"
-      },
-      {
-        "word": "Barbs",
-        "pos": "noun",
-        "meaning": "A critical or cutting remark",
-        "synonyms": [
-          "insults",
-          "taunts",
-          "gibes"
-        ],
-        "example": "While the BJP hailed the court order, Opposition parties traded barbs after the Tahir Hussain verdict.",
-        "source": "The Hindu",
-        "headline": "Triumph of justice vs Hussain a BJP man: parties trade barbs after Tahir Hussain verdict"
-      },
-      {
-        "word": "Moots",
-        "pos": "verb",
-        "meaning": "To suggest or bring up for discussion",
-        "synonyms": [
-          "proposes",
-          "suggests",
-          "advances"
-        ],
-        "example": "The Supreme Court moots a protocol to access the court’s livestream archives.",
-        "source": "The Hindu",
-        "headline": "Supreme Court moots protocol to access court’s livestream archives"
-      },
-      {
-        "word": "Augmentation",
-        "pos": "noun",
-        "meaning": "The action or process of making something greater by adding to it",
-        "synonyms": [
-          "increase",
-          "expansion",
-          "enhancement"
-        ],
-        "example": "The committee was constituted to advise the State government on measures for revenue augmentation.",
-        "source": "The Hindu",
-        "headline": "Revenue Augmentation Committee holds first meeting through video conference"
-      },
-      {
-        "word": "Operationalise",
-        "pos": "verb",
-        "meaning": "To make something effective or ready for use",
-        "synonyms": [
-          "implement",
-          "activate",
-          "initiate"
-        ],
-        "example": "The Kerala HC directs the State to operationalise promised NDPS Courts on time.",
-        "source": "The Hindu",
-        "headline": "Kerala HC directs State to operationalise promised NDPS Courts on time"
-      },
-      {
-        "word": "Envoys",
-        "pos": "noun",
-        "meaning": "A messenger or representative, especially one on a diplomatic mission",
-        "synonyms": [
-          "ambassadors",
-          "delegates",
-          "emissaries"
-        ],
-        "example": "The meeting between the two envoys was a first in a foreign location.",
-        "source": "The Hindu",
-        "headline": "In a first, India’s High Commissioner to Bangladesh meets U.S. Ambassador to India in Dhaka"
-      },
-      {
-        "word": "Complicity",
-        "pos": "noun",
-        "meaning": "The state of being involved with others in an illegal activity or wrongdoing",
-        "synonyms": [
-          "collusion",
-          "abetment",
-          "conspiracy"
-        ],
-        "example": "India risks complicity in Israel’s war crimes in Gaza, an Amnesty report reveals.",
-        "source": "The Hindu",
-        "headline": "India risks complicity in Israel’s war crimes in Gaza, Amnesty report reveals"
-      },
-      {
-        "word": "Disarmament",
-        "pos": "noun",
-        "meaning": "The reduction or withdrawal of military forces and weapons",
-        "synonyms": [
-          "demilitarization",
-          "demobilization",
-          "demobilisation"
-        ],
-        "example": "Trump announces a deal for the 'complete disarmament' of Hamas.",
-        "source": "The Hindu",
-        "headline": "Trump announces deal for 'complete disarmament’ of Hamas"
-      },
-      {
-        "word": "Proxies",
-        "pos": "noun",
-        "meaning": "A person or thing acting on behalf of another",
-        "synonyms": [
-          "representatives",
-          "agents",
-          "delegates"
-        ],
-        "example": "The war in West Asia reignited and again drew in Iran's proxies.",
-        "source": "The Hindu",
-        "headline": "West Asia war updates: U.S. military says no U.S. aircraft hit in attempted Iranian attacks"
       }
     ]
   }
