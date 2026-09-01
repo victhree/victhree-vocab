@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-01",
+    "label": "1 September 2026",
+    "words": [
+      {
+        "word": "Collegium",
+        "pos": "noun",
+        "meaning": "A body of colleagues, especially one that recommends appointments.",
+        "synonyms": [
+          "council",
+          "committee",
+          "panel"
+        ],
+        "example": "Resolution by the Collegium came a weekend after letters written by serving top court judge.",
+        "source": "The Hindu",
+        "headline": "After Supreme Court judge’s letters, Collegium recommends new Chief Justice for Rajasthan HC"
+      },
+      {
+        "word": "Insolvency",
+        "pos": "noun",
+        "meaning": "The state of being unable to pay debts.",
+        "synonyms": [
+          "bankruptcy",
+          "indebtedness",
+          "ruin"
+        ],
+        "example": "A Division Bench had failed to reach a majority verdict in a personal insolvency case.",
+        "source": "The Hindu",
+        "headline": "NCLT's first-ever 5-member Bench to decide on Subhash Chandra repayment plan"
+      },
+      {
+        "word": "Retreat",
+        "pos": "noun",
+        "meaning": "A period of withdrawal for prayer, meditation, study, or instruction.",
+        "synonyms": [
+          "withdrawal",
+          "seclusion",
+          "sanctuary"
+        ],
+        "example": "The Chief Minister and Cabinet colleagues will attend a leadership retreat at IIMK.",
+        "source": "The Hindu",
+        "headline": "Chief Minister, Cabinet colleagues to attend leadership retreat at IIMK"
+      },
+      {
+        "word": "Impartially",
+        "pos": "adverb",
+        "meaning": "In a way that treats all rivals or disputants equally.",
+        "synonyms": [
+          "fairly",
+          "neutrally",
+          "objectively"
+        ],
+        "example": "The CPI(M) leadership is destroying the party and not impartially examining the reasons for its decline.",
+        "source": "The Hindu",
+        "headline": "Pinarayi accuses Taliparamba MLA of ‘betrayal’"
+      },
+      {
+        "word": "Consolidating",
+        "pos": "verb",
+        "meaning": "To combine (a number of things) into a single more effective or coherent whole.",
+        "synonyms": [
+          "strengthening",
+          "merging",
+          "unifying"
+        ],
+        "example": "Suvendu Adhikari is consolidating power by absorbing the very same system and networks.",
+        "source": "The Hindu",
+        "headline": "The battle within the BJP in Bengal"
+      },
+      {
+        "word": "Abstain",
+        "pos": "verb",
+        "meaning": "To choose not to do something, especially something that you would enjoy.",
+        "synonyms": [
+          "refrain",
+          "desist",
+          "forbear"
+        ],
+        "example": "Rajasthan High Court lawyers will abstain from work till September 6 in Jodhpur.",
+        "source": "The Hindu",
+        "headline": "Rajasthan High Court lawyers to abstain from work till September 6 in Jodhpur"
+      },
+      {
+        "word": "Combative",
+        "pos": "adjective",
+        "meaning": "Ready or eager to fight; aggressive.",
+        "synonyms": [
+          "aggressive",
+          "belligerent",
+          "pugnacious"
+        ],
+        "example": "The local government was criticized for not being combative enough.",
+        "source": "The Hindu",
+        "headline": "The need for political unity in Kashmir"
+      },
+      {
+        "word": "Disseminating",
+        "pos": "verb",
+        "meaning": "To spread or disperse (something, especially information) widely.",
+        "synonyms": [
+          "circulating",
+          "propagating",
+          "distributing"
+        ],
+        "example": "Articles that criminalized insulting the government and disseminating such insults were struck down.",
+        "source": "The Hindu",
+        "headline": "Indonesian activists hail ruling to strike down ban on insulting government, but question impact"
+      },
+      {
+        "word": "Fragility",
+        "pos": "noun",
+        "meaning": "The quality of being easily broken or damaged.",
+        "synonyms": [
+          "delicacy",
+          "vulnerability",
+          "brittleness"
+        ],
+        "example": "The Nepal-China flash flood disaster exposes the fragility of the Hindu Kush Himalayas.",
+        "source": "The Hindu",
+        "headline": "Nepal-China flash flood disaster exposes fragility of Hindu Kush Himalayas: U.N. climate chief"
+      },
+      {
+        "word": "Deficiently",
+        "pos": "adverb",
+        "meaning": "In an incomplete or insufficient way.",
+        "synonyms": [
+          "inadequately",
+          "poorly",
+          "insufficiently"
+        ],
+        "example": "September rainfall across India is predicted to be below normal, concluding the monsoon season deficiently.",
+        "source": "Times of India",
+        "headline": "IMD predicts below-normal rainfall over India in September"
+      }
+    ]
+  },
+  {
     "date": "2026-08-31",
     "label": "31 August 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "The Spanish exclave witnessed one of its largest migration crises.",
         "source": "The Hindu",
         "headline": "Ceuta | A slice of Europe in Africa"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "label": "2 August 2026",
-    "words": [
-      {
-        "word": "Unprecedented",
-        "pos": "adjective",
-        "meaning": "Never done or known before.",
-        "synonyms": [
-          "unparalleled",
-          "novel",
-          "unheard-of"
-        ],
-        "example": "The new international airport will open up unprecedented opportunities.",
-        "source": "The Hindu",
-        "headline": "Bhogapuram airport a historic chapter for Uttarandhra, says Union Civil Aviation Minister"
-      },
-      {
-        "word": "Loggerhead",
-        "pos": "noun",
-        "meaning": "In disagreement or dispute.",
-        "synonyms": [
-          "quarrel",
-          "contention",
-          "dispute"
-        ],
-        "example": "The Lok Bhavan and the elected government were at loggerheads over the eviction drive.",
-        "source": "The Hindu",
-        "headline": "J&K speeds up FRA implementation; warns Forest Dept. against eviction notices"
-      },
-      {
-        "word": "Provocative",
-        "pos": "adjective",
-        "meaning": "Causing annoyance, anger, or another strong reaction, especially deliberately.",
-        "synonyms": [
-          "inciting",
-          "inflammatory",
-          "vexing"
-        ],
-        "example": "The accused circulated a video with provocative remarks.",
-        "source": "The Hindu",
-        "headline": "Sasikala, others booked over DYFI leader’s complaint"
-      },
-      {
-        "word": "Inclement",
-        "pos": "adjective",
-        "meaning": "Unpleasantly cold or wet (of weather).",
-        "synonyms": [
-          "harsh",
-          "severe",
-          "stormy"
-        ],
-        "example": "Fishers were warned against venturing out due to inclement weather.",
-        "source": "The Hindu",
-        "headline": "Trawling ban end fails to cheer fishers as adverse weather spoils their plans"
-      },
-      {
-        "word": "Incessant",
-        "pos": "adjective",
-        "meaning": "Continuing without interruption or pause.",
-        "synonyms": [
-          "unremitting",
-          "constant",
-          "perpetual"
-        ],
-        "example": "Incessant downpour disrupts life in Kerala’s Kozhikode.",
-        "source": "The Hindu",
-        "headline": "Incessant downpour disrupts life in Kerala’s Kozhikode"
-      },
-      {
-        "word": "Exclave",
-        "pos": "noun",
-        "meaning": "A portion of territory of one state geographically separated from the main part by surrounding alien territory.",
-        "synonyms": [
-          "outlier",
-          "enclave",
-          "detached territory"
-        ],
-        "example": "Ceuta, a Spanish exclave, witnessed one of its largest migration crises.",
-        "source": "The Hindu",
-        "headline": "Ceuta | A slice of Europe in Africa"
-      },
-      {
-        "word": "Belligerent",
-        "pos": "adjective",
-        "meaning": "Hostile and aggressive.",
-        "synonyms": [
-          "combative",
-          "antagonistic",
-          "pugnacious"
-        ],
-        "example": "The nation adopted a belligerent stance in the ongoing conflict.",
-        "source": "The Hindu",
-        "headline": "West Asia war LIVE: U.S. embassies urge citizens to ‘consider departing’ from West Asia"
-      },
-      {
-        "word": "Profound",
-        "pos": "adjective",
-        "meaning": "Very great or intense.",
-        "synonyms": [
-          "deep",
-          "intense",
-          "extreme"
-        ],
-        "example": "It is with profound sadness that we confirm his passing.",
-        "source": "The Hindu",
-        "headline": "Veteran Nepalese mountaineer Purja dies in avalanche on Broad Peak in PoK"
-      },
-      {
-        "word": "Communal",
-        "pos": "adjective",
-        "meaning": "Relating to a community or to communities; shared by all members of a community.",
-        "synonyms": [
-          "collective",
-          "shared",
-          "public"
-        ],
-        "example": "Tensions have persisted in Nepal since communal clashes erupted.",
-        "source": "The Hindu",
-        "headline": "Nepal authorities extend curfew to Saptari district bordering India as communal unrest spreads"
-      },
-      {
-        "word": "Opacity",
-        "pos": "noun",
-        "meaning": "The quality of lacking transparency or clarity.",
-        "synonyms": [
-          "obscurity",
-          "fogginess",
-          "vagueness"
-        ],
-        "example": "Justice Bhuyan questioned the collegium’s opacity in judicial appointments.",
-        "source": "Times of India",
-        "headline": "Judge Bhuyan questions SC collegium’s opacity"
       }
     ]
   }
