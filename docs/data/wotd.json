@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-05",
+    "label": "5 September 2026",
+    "words": [
+      {
+        "word": "Fracas",
+        "pos": "noun",
+        "meaning": "A noisy disturbance or quarrel.",
+        "synonyms": [
+          "Brawl",
+          "Melee",
+          "Altercation"
+        ],
+        "example": "Congress MLA Ramya Haridas was hospitalised after a late-night fracas at a party colleague’s house.",
+        "source": "The Hindu",
+        "headline": "Congress MLA Ramya Haridas hospitalised after late-night fracas at party colleague’s house"
+      },
+      {
+        "word": "Reiterate",
+        "pos": "verb",
+        "meaning": "To say something again or a number of times, typically for emphasis or clarity.",
+        "synonyms": [
+          "Restate",
+          "Repeat",
+          "Emphasise"
+        ],
+        "example": "Bihar reiterates that parents’ salaries and agricultural income cannot be counted for the OBC creamy layer.",
+        "source": "The Hindu",
+        "headline": "Bihar reiterates parents’ salaries, agricultural income cannot be counted for OBC creamy layer"
+      },
+      {
+        "word": "Conservancy",
+        "pos": "noun",
+        "meaning": "An organization or body concerned with the preservation of wildlife, natural resources, or historical sites.",
+        "synonyms": [
+          "Preservation",
+          "Protection",
+          "Custodianship"
+        ],
+        "example": "GCC conservancy workers call off protest temporarily after the state government agrees to several demands.",
+        "source": "The Hindu",
+        "headline": "GCC conservancy workers call off protest temporarily"
+      },
+      {
+        "word": "Solatium",
+        "pos": "noun",
+        "meaning": "Money paid as compensation for pain or loss.",
+        "synonyms": [
+          "Compensation",
+          "Recompense",
+          "Indemnity"
+        ],
+        "example": "CM Vijay condoles deaths of four girls in a road accident and sanctions solatium to their families.",
+        "source": "The Hindu",
+        "headline": "CM Vijay condoles deaths of four girls in Namakkal road accident, sanctions solatium"
+      },
+      {
+        "word": "Ostensible",
+        "pos": "adjective",
+        "meaning": "Stated or appearing to be true, but not necessarily so.",
+        "synonyms": [
+          "Apparent",
+          "Seeming",
+          "Plausible"
+        ],
+        "example": "The ostensible reason for his visit was business, but he was actually there for a vacation.",
+        "source": "The Hindu",
+        "headline": "Trump calls Iran conflict 'small potatoes', says he agrees with Vance that it's not 'war'"
+      },
+      {
+        "word": "Diminish",
+        "pos": "verb",
+        "meaning": "To make or become less.",
+        "synonyms": [
+          "Decrease",
+          "Lessen",
+          "Reduce"
+        ],
+        "example": "The 16th-century Mercator map diminishes the true size of Africa.",
+        "source": "The Hindu",
+        "headline": "U.N. approves resolution in support of map that shows Africa’s true size"
+      },
+      {
+        "word": "Impunity",
+        "pos": "noun",
+        "meaning": "Exemption from punishment or freedom from the injurious consequences of an action.",
+        "synonyms": [
+          "Exemption",
+          "Immunity",
+          "License"
+        ],
+        "example": "The UN rights chief calls for greater action to end Sri Lanka’s ‘long legacy of impunity’.",
+        "source": "The Hindu",
+        "headline": "UN rights chief calls for greater action to end Sri Lanka’s ‘long legacy of impunity’"
+      },
+      {
+        "word": "Incubated",
+        "pos": "verb",
+        "meaning": "(Of a disease or an idea or plan) develop.",
+        "synonyms": [
+          "Nurtured",
+          "Fostered",
+          "Developed"
+        ],
+        "example": "IIT Madras incubated centre launches AI models in Indian languages, showcasing its commitment to innovation.",
+        "source": "The Hindu",
+        "headline": "IIT Madras incubated centre launches AI models in Indian languages"
+      },
+      {
+        "word": "Channelled",
+        "pos": "verb",
+        "meaning": "Direct toward a particular end or object.",
+        "synonyms": [
+          "Directed",
+          "Guided",
+          "Funnelled"
+        ],
+        "example": "The anti-graft probe centres on claims that the European manufacturer channelled part of the money from the purchase to senior Sri Lankan officials.",
+        "source": "The Hindu",
+        "headline": "Namal, former Sri Lankan President Rajapaksa’s son, arrested over Airbus deal"
+      },
+      {
+        "word": "Catastrophic",
+        "pos": "adjective",
+        "meaning": "Involving or causing sudden great damage or suffering.",
+        "synonyms": [
+          "Disastrous",
+          "Ruinous",
+          "Calamitous"
+        ],
+        "example": "Following the catastrophic glacial collapse and flash flood, Nepal is demanding climate compensation.",
+        "source": "The Hindu",
+        "headline": "Nepal wants climate compensation, putting major emitters on the hook"
+      }
+    ]
+  },
+  {
     "date": "2026-09-04",
     "label": "4 September 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "Hiroshima marks 81st atomic bomb anniversary as Mayor deplores pursuit of nuclear weapons.",
         "source": "The Hindu",
         "headline": "Hiroshima marks 81st atomic bomb anniversary as Mayor deplores pursuit of nuclear weapons"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "label": "6 August 2026",
-    "words": [
-      {
-        "word": "Revoke",
-        "pos": "verb",
-        "meaning": "To officially cancel or withdraw something.",
-        "synonyms": [
-          "rescind",
-          "annul",
-          "repeal"
-        ],
-        "example": "Permission for Rahul Gandhi's 'Chhatron Ki Goonj' event in Prayagraj was revoked by the venue provider.",
-        "source": "The Hindu",
-        "headline": "Permission for Rahul Gandhi's 'Chhatron Ki Goonj' event in Prayagraj revoked by venue provider"
-      },
-      {
-        "word": "Pristine",
-        "pos": "adjective",
-        "meaning": "In its original condition; unspoiled.",
-        "synonyms": [
-          "immaculate",
-          "unsullied",
-          "unblemished"
-        ],
-        "example": "With pristine rivers, the annual Mechuka Trout Quest is drawing anglers.",
-        "source": "The Hindu",
-        "headline": "Why Mechuka Trout Quest is drawing anglers to Arunachal Pradesh"
-      },
-      {
-        "word": "Disgruntled",
-        "pos": "adjective",
-        "meaning": "Angry or dissatisfied.",
-        "synonyms": [
-          "displeased",
-          "resentful",
-          "aggrieved"
-        ],
-        "example": "Congress general secretary met senior disgruntled leaders on Wednesday.",
-        "source": "The Hindu",
-        "headline": "Cabinet expansion unrest: Congress in damage control mode"
-      },
-      {
-        "word": "Analogue",
-        "pos": "adjective",
-        "meaning": "Having a similarity or likeness to something else.",
-        "synonyms": [
-          "comparable",
-          "akin",
-          "similar"
-        ],
-        "example": "The Maharashtra Food and Drug Administration places one-year ban on analogue, non-dairy paneer.",
-        "source": "The Hindu",
-        "headline": "Maharashtra Food and Drug Administration places one-year ban on analogue, non-dairy paneer"
-      },
-      {
-        "word": "Tender",
-        "pos": "verb",
-        "meaning": "To offer or present something formally.",
-        "synonyms": [
-          "proffer",
-          "submit",
-          "extend"
-        ],
-        "example": "M.P. Speaker tenders apology for remarks on OBC community.",
-        "source": "The Hindu",
-        "headline": "M.P. Speaker tenders apology for remarks on OBC community"
-      },
-      {
-        "word": "Atrocity",
-        "pos": "noun",
-        "meaning": "An extremely wicked or cruel act, typically one involving physical violence or injury.",
-        "synonyms": [
-          "barbarity",
-          "brutality",
-          "inhumanity"
-        ],
-        "example": "Congress rally in Kolkata against atrocities on workers.",
-        "source": "The Hindu",
-        "headline": "Congress rally in Kolkata against atrocities on workers, hawker evictions"
-      },
-      {
-        "word": "Defy",
-        "pos": "verb",
-        "meaning": "To openly resist or refuse to obey.",
-        "synonyms": [
-          "disobey",
-          "contravene",
-          "flout"
-        ],
-        "example": "Having majority no reason for lawmakers to defy party.",
-        "source": "The Hindu",
-        "headline": "Having majority no reason for lawmakers to defy party: Supreme Court"
-      },
-      {
-        "word": "Prima Facie",
-        "pos": "adjective",
-        "meaning": "Based on the first impression; accepted as correct until proved otherwise.",
-        "synonyms": [
-          "apparent",
-          "presumptive",
-          "on the face of it"
-        ],
-        "example": "There is prima facie evidence to prove that the accused aided the commission of the crime.",
-        "source": "The Hindu",
-        "headline": "Actor assault case: Kerala High Court dismisses plea for suspension of sentence by second accused"
-      },
-      {
-        "word": "Momentum",
-        "pos": "noun",
-        "meaning": "The impetus gained by a moving object or developing process.",
-        "synonyms": [
-          "impetus",
-          "drive",
-          "thrust"
-        ],
-        "example": "YSRCP’s search for political momentum continues.",
-        "source": "The Hindu",
-        "headline": "YSRCP’s search for political momentum"
-      },
-      {
-        "word": "Barrage",
-        "pos": "noun",
-        "meaning": "A concentrated artillery bombardment over a wide area.",
-        "synonyms": [
-          "bombardment",
-          "fusillade",
-          "volley"
-        ],
-        "example": "Russian barrage on Kyiv kills 17 as Ukraine fails to down single missile.",
-        "source": "The Hindu",
-        "headline": "Russian barrage on Kyiv kills 17 as Ukraine fails to down single missile"
       }
     ]
   }
