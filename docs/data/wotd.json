@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-06",
+    "label": "6 September 2026",
+    "words": [
+      {
+        "word": "Evolved",
+        "pos": "verb",
+        "meaning": "Develop gradually, especially from a simple to a more complex form.",
+        "synonyms": [
+          "Develop",
+          "Progress",
+          "Transform"
+        ],
+        "example": "The slogan raised by the leader had evolved into a movement.",
+        "source": "The Hindu",
+        "headline": "Congress will launch 100-day OBC rights campaign: Koppula Raju"
+      },
+      {
+        "word": "Redressal",
+        "pos": "noun",
+        "meaning": "The act of setting right an undesirable situation.",
+        "synonyms": [
+          "Rectification",
+          "Remedy",
+          "Compensation"
+        ],
+        "example": "The colleges have been asked to dedicate time slots for student interaction and grievance redressal.",
+        "source": "The Hindu",
+        "headline": "VTU asks principals of engineering colleges to dedicate time slots for student interaction and grievance redressal"
+      },
+      {
+        "word": "Sloth",
+        "pos": "noun",
+        "meaning": "Reluctance to work or make an effort; laziness.",
+        "synonyms": [
+          "Idleness",
+          "Lethargy",
+          "Indolence"
+        ],
+        "example": "The tribe body resents the sloth in the probe and says the lack of publicly known arrests has raised concerns.",
+        "source": "The Hindu",
+        "headline": "Manipur tribe body seeks ‘impartial’ NIA probe in killing of three church leaders"
+      },
+      {
+        "word": "Disrupted",
+        "pos": "verb",
+        "meaning": "Interrupt (an event, activity, or process) by causing a disturbance or problem.",
+        "synonyms": [
+          "Disturbed",
+          "Interrupted",
+          "Disordered"
+        ],
+        "example": "Drinking water supply in the areas has been significantly disrupted for nearly a month.",
+        "source": "The Hindu",
+        "headline": "MLA seeks steps to address water shortage in Chittoor, Vaduthala areas"
+      },
+      {
+        "word": "Abject",
+        "pos": "adjective",
+        "meaning": "(of a situation or condition) extremely bad, unpleasant, and degrading.",
+        "synonyms": [
+          "Miserable",
+          "Wretched",
+          "Deplorable"
+        ],
+        "example": "The abject failure of the Animal Birth Control programme in the State is apparent on the streets.",
+        "source": "The Hindu",
+        "headline": "Tamil Nadu failing at animal birth control"
+      },
+      {
+        "word": "Envoys",
+        "pos": "noun",
+        "meaning": "A messenger or representative, especially one on a diplomatic mission.",
+        "synonyms": [
+          "Delegates",
+          "Ambassadors",
+          "Emissaries"
+        ],
+        "example": "U.S. envoys outlined ‘number of ideas’ on ending Ukraine war to Putin.",
+        "source": "The Hindu",
+        "headline": "U.S. envoys outlined ‘number of ideas’ on ending Ukraine war to Putin: Kremlin"
+      },
+      {
+        "word": "Condemned",
+        "pos": "verb",
+        "meaning": "Express complete disapproval of, typically in public; censure.",
+        "synonyms": [
+          "Censured",
+          "Denounced",
+          "Deplored"
+        ],
+        "example": "Member countries have condemned the military strikes on Iran.",
+        "source": "The Hindu",
+        "headline": "Shanghai Cooperation Organisation | The house of multilaterals"
+      },
+      {
+        "word": "Catastrophic",
+        "pos": "adjective",
+        "meaning": "Involving or causing sudden great damage or suffering.",
+        "synonyms": [
+          "Disastrous",
+          "Ruinous",
+          "Calamitous"
+        ],
+        "example": "Following the catastrophic glacial collapse, Nepal is demanding climate compensation.",
+        "source": "The Hindu",
+        "headline": "Nepal wants climate compensation, putting major emitters on the hook"
+      },
+      {
+        "word": "Integral",
+        "pos": "adjective",
+        "meaning": "Necessary to make a whole complete; essential or fundamental.",
+        "synonyms": [
+          "Essential",
+          "Fundamental",
+          "Indispensable"
+        ],
+        "example": "Brought in for civilian use, Starlink is now integral to Ukraine’s war effort.",
+        "source": "The Hindu",
+        "headline": "Brought in for civilian use, Starlink is now integral to Ukraine’s war effort"
+      },
+      {
+        "word": "Distortion",
+        "pos": "noun",
+        "meaning": "The action of distorting or the state of being distorted.",
+        "synonyms": [
+          "Misrepresentation",
+          "Perversion",
+          "Twisting"
+        ],
+        "example": "This distortion contributes to minimising the perceived sizes of certain regions.",
+        "source": "The Hindu",
+        "headline": "India votes in favour of UNGA resolution endorsing new world map"
+      }
+    ]
+  },
+  {
     "date": "2026-09-05",
     "label": "5 September 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "The government is set to expedite the Foreign Contributions Regulation Act.",
         "source": "Times of India",
         "headline": "India rejects US criticism of FCRA Bill; MEA calls it 'internal matter'"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "label": "7 August 2026",
-    "words": [
-      {
-        "word": "Brooks",
-        "pos": "verb",
-        "meaning": "Tolerates or allows (often used in negative contexts)",
-        "synonyms": [
-          "Permit",
-          "Endure",
-          "Countenance"
-        ],
-        "example": "Justice for AgriGold victims brooks no delay, Naidu officials.",
-        "source": "The Hindu",
-        "headline": "Justice for AgriGold victims brooks no delay, Naidu officials"
-      },
-      {
-        "word": "Disbursed",
-        "pos": "verb",
-        "meaning": "To pay out money from a fund",
-        "synonyms": [
-          "Distribute",
-          "Allocate",
-          "Dispense"
-        ],
-        "example": "Officials were instructed to speed up the auction of properties so that compensation can be disbursed to victims.",
-        "source": "The Hindu",
-        "headline": "Justice for AgriGold victims brooks no delay, Naidu officials"
-      },
-      {
-        "word": "Cessation",
-        "pos": "noun",
-        "meaning": "The fact or process of ending or being brought to an end",
-        "synonyms": [
-          "Termination",
-          "Discontinuation",
-          "Abeyance"
-        ],
-        "example": "The forum flags 'deemed cessation of assets' clause in the FCRA Bill.",
-        "source": "The Hindu",
-        "headline": "FCRA Bill is ‘religion-neutral’, Shah assures Christian bodies"
-      },
-      {
-        "word": "Devastating",
-        "pos": "adjective",
-        "meaning": "Highly destructive or damaging",
-        "synonyms": [
-          "Ruinous",
-          "Calamitous",
-          "Catastrophic"
-        ],
-        "example": "Illegal mining activities in Nagaland contributed to the devastating floods in parts of Assam.",
-        "source": "The Hindu",
-        "headline": "Collaboration, not blame game, needed to tackle floods, says Nagaland Minister"
-      },
-      {
-        "word": "Implicit",
-        "pos": "adjective",
-        "meaning": "Implied though not directly expressed; inherent",
-        "synonyms": [
-          "Unstated",
-          "Tacit",
-          "Understood"
-        ],
-        "example": "Implicit in this word is that several BJP leaders in Bengal are adopting the Trinamool Congress's political style.",
-        "source": "The Hindu",
-        "headline": "Bengal BJP fights against its ‘Trinamoolification’"
-      },
-      {
-        "word": "Starvation",
-        "pos": "noun",
-        "meaning": "Suffering or death caused by lack of food",
-        "synonyms": [
-          "Famine",
-          "Malnutrition",
-          "Deprivation"
-        ],
-        "example": "Starvation pushing mother to kill child a ‘collective failure’, says Gujarat High Court.",
-        "source": "The Hindu",
-        "headline": "Starvation pushing mother to kill child a ‘collective failure’, says Gujarat High Court"
-      },
-      {
-        "word": "Obscenity",
-        "pos": "noun",
-        "meaning": "The state or quality of being obscene; an obscene act, utterance, or item",
-        "synonyms": [
-          "Vulgarity",
-          "Indecency",
-          "Lewdness"
-        ],
-        "example": "The language of obscenity in Tamil Nadu politics has rekindled memories of a time when leaders would scathingly attack their rivals.",
-        "source": "The Hindu",
-        "headline": "The language of obscenity in Tamil Nadu politics"
-      },
-      {
-        "word": "Escalate",
-        "pos": "verb",
-        "meaning": "To increase rapidly; to make more intense or serious",
-        "synonyms": [
-          "Intensify",
-          "Mount",
-          "Amplify"
-        ],
-        "example": "China-Japan tensions escalate after Tokyo labels Beijing as its 'greatest strategic challenge'.",
-        "source": "The Hindu",
-        "headline": "China-Japan tensions escalate after Tokyo labels Beijing as its 'greatest strategic challenge'"
-      },
-      {
-        "word": "Curbs",
-        "pos": "noun",
-        "meaning": "A restraint or limitation on something",
-        "synonyms": [
-          "Restrictions",
-          "Controls",
-          "Constraints"
-        ],
-        "example": "Journalists and rights bodies condemn curbs on media freedom in Pakistan.",
-        "source": "The Hindu",
-        "headline": "Journalists, rights bodies condemn curbs on media freedom in Pakistan"
-      },
-      {
-        "word": "Deplores",
-        "pos": "verb",
-        "meaning": "To express strong disapproval of (something)",
-        "synonyms": [
-          "Condemn",
-          "Lament",
-          "Denounce"
-        ],
-        "example": "Hiroshima marks 81st atomic bomb anniversary as Mayor deplores pursuit of nuclear weapons.",
-        "source": "The Hindu",
-        "headline": "Hiroshima marks 81st atomic bomb anniversary as Mayor deplores pursuit of nuclear weapons"
       }
     ]
   }
