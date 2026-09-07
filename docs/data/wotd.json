@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-07",
+    "label": "7 September 2026",
+    "words": [
+      {
+        "word": "Constitute",
+        "pos": "verb",
+        "meaning": "To form or make up something.",
+        "synonyms": [
+          "comprise",
+          "compose",
+          "form"
+        ],
+        "example": "The building, which constitutes a basement plus five more floors, is at least 50 years old.",
+        "source": "The Hindu",
+        "headline": "Delhi building collapse updates: At least five dead; FIR registered against alleged owner"
+      },
+      {
+        "word": "Incitement",
+        "pos": "noun",
+        "meaning": "The action of provoking unlawful behavior or urging someone to behave in a violent or unlawful way.",
+        "synonyms": [
+          "provocation",
+          "agitation",
+          "instigation"
+        ],
+        "example": "Mr. Thackeray urged citizens to remain alert and avoid falling into traps designed to incite religious conflict.",
+        "source": "The Hindu",
+        "headline": "Raj Thackeray warns cadres against communalism distracting economic problems"
+      },
+      {
+        "word": "Holistic",
+        "pos": "adjective",
+        "meaning": "Characterized by comprehension of the parts of something as intimately interconnected and explicable only by reference to the whole.",
+        "synonyms": [
+          "comprehensive",
+          "integrated",
+          "all-encompassing"
+        ],
+        "example": "‘Need to provide holistic education’",
+        "source": "The Hindu",
+        "headline": "‘Need to provide holistic education’"
+      },
+      {
+        "word": "Spate",
+        "pos": "noun",
+        "meaning": "A large number of similar things or events appearing or occurring in quick succession.",
+        "synonyms": [
+          "series",
+          "rush",
+          "flood"
+        ],
+        "example": "A spate of thefts triggers security concerns in Ernakulam district.",
+        "source": "The Hindu",
+        "headline": "Spate of thefts triggers security concerns in Ernakulam district"
+      },
+      {
+        "word": "Verbatim",
+        "pos": "adverb",
+        "meaning": "In exactly the same words as were originally used.",
+        "synonyms": [
+          "exactly",
+          "precisely",
+          "word for word"
+        ],
+        "example": "The prosecutor asked the witness to repeat the statement verbatim.",
+        "source": "The Hindu",
+        "headline": "India-France relations have reached new heights: PM Modi"
+      },
+      {
+        "word": "Purview",
+        "pos": "noun",
+        "meaning": "The scope of the influence or concerns of something.",
+        "synonyms": [
+          "scope",
+          "domain",
+          "ambit"
+        ],
+        "example": "Matters related to the requirement of ‘100% gram sabha consent’ do not fall under its purview.",
+        "source": "The Hindu",
+        "headline": "No provision in Forest Rights Act to obtain gram sabha consent for projects, Tribal Affairs Ministry says"
+      },
+      {
+        "word": "Assailant",
+        "pos": "noun",
+        "meaning": "A person who attacks another.",
+        "synonyms": [
+          "attacker",
+          "mugger",
+          "aggressor"
+        ],
+        "example": "An assailant lunged at the Democratic candidate for Ohio governor at a fair in the U.S.",
+        "source": "The Hindu",
+        "headline": "Assailant lunged at Democratic candidate for Ohio governor at fair in U.S., campaign officials say"
+      },
+      {
+        "word": "Barreled",
+        "pos": "verb",
+        "meaning": "To move in a headlong, uncontrolled way.",
+        "synonyms": [
+          "rushed",
+          "hurtled",
+          "charged"
+        ],
+        "example": "At least five dead after Amazon cargo plane barreled off runway at Miami airport.",
+        "source": "The Hindu",
+        "headline": "At least five dead after Amazon cargo plane barreled off runway at Miami airport"
+      },
+      {
+        "word": "Grisly",
+        "pos": "adjective",
+        "meaning": "Causing horror or disgust.",
+        "synonyms": [
+          "gruesome",
+          "ghastly",
+          "frightful"
+        ],
+        "example": "The border crossing became a grisly emblem of the devastation that followed the collapse of a glacier.",
+        "source": "The Hindu",
+        "headline": "At flood-destroyed border, China teams scour ruins of once-busy port"
+      },
+      {
+        "word": "Potent",
+        "pos": "adjective",
+        "meaning": "Having great power, influence, or effect.",
+        "synonyms": [
+          "powerful",
+          "effective",
+          "strong"
+        ],
+        "example": "Gloria Steinem, a potent voice of U.S. feminism, has died.",
+        "source": "The Hindu",
+        "headline": "Gloria Steinem, a potent voice of U.S. feminism and co-founder of Ms. Magazine, has died"
+      }
+    ]
+  },
+  {
     "date": "2026-09-06",
     "label": "6 September 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "FIFA came out in staunch defense of president Gianni Infantino amid fresh allegations.",
         "source": "Times of India",
         "headline": "FIFA hits back at ‘concerted effort’ to undermine Infantino amid fresh allegations"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "label": "8 August 2026",
-    "words": [
-      {
-        "word": "Disrupt",
-        "pos": "verb",
-        "meaning": "To interrupt the normal course of something.",
-        "synonyms": [
-          "Disturb",
-          "Interrupt",
-          "Obstruct"
-        ],
-        "example": "Heavy rain disrupts normal life in parts of north Telangana.",
-        "source": "The Hindu",
-        "headline": "Heavy rain brings cheer to farmers but disrupts normal life in parts of north Telangana"
-      },
-      {
-        "word": "Commission",
-        "pos": "verb",
-        "meaning": "To bring something into working condition or use.",
-        "synonyms": [
-          "Inaugurate",
-          "Activate",
-          "Launch"
-        ],
-        "example": "The compressed biogas facility is expected to be commissioned by November 1.",
-        "source": "The Hindu",
-        "headline": "Thrissur’s waste-to-wealth dream nears reality with 30-tonne biogas plant"
-      },
-      {
-        "word": "Forthcoming",
-        "pos": "adjective",
-        "meaning": "About to happen or appear.",
-        "synonyms": [
-          "Impending",
-          "Upcoming",
-          "Approaching"
-        ],
-        "example": "The source of the drugs and money will be exposed in the forthcoming phase of the investigation.",
-        "source": "The Hindu",
-        "headline": "Perambra drug trafficking case: DIG reviews progress of probe"
-      },
-      {
-        "word": "Exhort",
-        "pos": "verb",
-        "meaning": "To strongly encourage or urge someone to do something.",
-        "synonyms": [
-          "Urge",
-          "Plead",
-          "Encourage"
-        ],
-        "example": "The party president exhorts cadres to work with achieving victory in the 2029 elections.",
-        "source": "The Hindu",
-        "headline": "Indiscipline will not be tolerated, says TDP State president Palla Srinivasa Rao"
-      },
-      {
-        "word": "Spate",
-        "pos": "noun",
-        "meaning": "A large number of similar things happening in quick succession.",
-        "synonyms": [
-          "Series",
-          "Rush",
-          "Outbreak"
-        ],
-        "example": "A spate of violent assaults raises public safety concerns in Kochi.",
-        "source": "The Hindu",
-        "headline": "Spate of violent assaults raises public safety concerns in Kochi"
-      },
-      {
-        "word": "Adulterated",
-        "pos": "adjective",
-        "meaning": "Made impure or inferior by adding extraneous, improper, or inferior ingredients.",
-        "synonyms": [
-          "Contaminated",
-          "Impure",
-          "Tainted"
-        ],
-        "example": "Police seize nearly one tonne of suspected adulterated paneer.",
-        "source": "The Hindu",
-        "headline": "Police seize nearly one tonne of suspected adulterated paneer"
-      },
-      {
-        "word": "Spearhead",
-        "pos": "verb",
-        "meaning": "To lead an attack or movement.",
-        "synonyms": [
-          "Lead",
-          "Pioneer",
-          "Initiate"
-        ],
-        "example": "He spearheaded the movement for Article 371(J).",
-        "source": "The Hindu",
-        "headline": "Hyderabad Karnataka Horata Samiti renews call for effective implementation of Article 371(J)"
-      },
-      {
-        "word": "Dwindle",
-        "pos": "verb",
-        "meaning": "To diminish gradually in size, amount, or strength.",
-        "synonyms": [
-          "Decrease",
-          "Lessen",
-          "Shrink"
-        ],
-        "example": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks.",
-        "source": "The Hindu",
-        "headline": "West Asia updates: Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks"
-      },
-      {
-        "word": "Perception",
-        "pos": "noun",
-        "meaning": "The way in which something is regarded, understood, or interpreted.",
-        "synonyms": [
-          "View",
-          "Opinion",
-          "Impression"
-        ],
-        "example": "Foreign policy is also shaped by moral perceptions and collective emotions.",
-        "source": "The Hindu",
-        "headline": "Beyond national interest: role of ethics and emotions in world politics"
-      },
-      {
-        "word": "Expedite",
-        "pos": "verb",
-        "meaning": "To make an action or process happen sooner or be accomplished more quickly.",
-        "synonyms": [
-          "Accelerate",
-          "Hasten",
-          "Speed up"
-        ],
-        "example": "The government is set to expedite the Foreign Contributions Regulation Act.",
-        "source": "Times of India",
-        "headline": "India rejects US criticism of FCRA Bill; MEA calls it 'internal matter'"
       }
     ]
   }
