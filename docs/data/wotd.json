@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-08",
+    "label": "8 September 2026",
+    "words": [
+      {
+        "word": "Civilisational",
+        "pos": "adjective",
+        "meaning": "Relating to the process of developing or being a part of a civilization.",
+        "synonyms": [
+          "cultural",
+          "societal",
+          "historical"
+        ],
+        "example": "Iran values its long-standing, civilisational ties with India.",
+        "source": "The Hindu",
+        "headline": "Iran values long-standing, civilisational ties with India: Foreign Ministry"
+      },
+      {
+        "word": "Escalates",
+        "pos": "verb",
+        "meaning": "To increase rapidly in intensity or magnitude.",
+        "synonyms": [
+          "intensify",
+          "worsen",
+          "mount"
+        ],
+        "example": "The row over the mosque demolition escalates, leading to detentions.",
+        "source": "The Hindu",
+        "headline": "Uttar Pradesh Congress president Ajay Rai, others detained as row over Saharanpur mosque demolition escalates"
+      },
+      {
+        "word": "Mitigation",
+        "pos": "noun",
+        "meaning": "The action of reducing the severity, seriousness, or painfulness of something.",
+        "synonyms": [
+          "alleviation",
+          "reduction",
+          "amelioration"
+        ],
+        "example": "The situation is a consequence of persistent failure in disaster mitigation strategies.",
+        "source": "The Hindu",
+        "headline": "Tejashwi writes to PM Modi, urges him to grant ₹5,000 crore for Bihar floods"
+      },
+      {
+        "word": "Leniency",
+        "pos": "noun",
+        "meaning": "The quality or state of being lenient; mercifulness.",
+        "synonyms": [
+          "clemency",
+          "mercy",
+          "forbearance"
+        ],
+        "example": "Authorities must show leniency while asking SC/ST members to prove caste.",
+        "source": "The Hindu",
+        "headline": "Authorities must show leniency while asking members of SC/ST communities to prove their caste status: Kerala High Court"
+      },
+      {
+        "word": "Derision",
+        "pos": "noun",
+        "meaning": "Contemptuous ridicule or mockery.",
+        "synonyms": [
+          "scorn",
+          "mockery",
+          "disdain"
+        ],
+        "example": "The court observed that the District Magistrate's conduct was worthy of derision.",
+        "source": "The Hindu",
+        "headline": "‘Conduct worthy of derision’: Allahabad HC pulls up District Magistrate over NSA detention of law student"
+      },
+      {
+        "word": "Vulnerable",
+        "pos": "adjective",
+        "meaning": "Exposed to the possibility of being attacked or harmed, either physically or emotionally.",
+        "synonyms": [
+          "susceptible",
+          "exposed",
+          "defenseless"
+        ],
+        "example": "Iran warns U.S. energy assets in the Gulf are vulnerable after clashes.",
+        "source": "The Hindu",
+        "headline": "Iran warns U.S. energy assets in Gulf are vulnerable after latest clashes"
+      },
+      {
+        "word": "Thuggish",
+        "pos": "adjective",
+        "meaning": "Characterized by violence or brutality; like a thug.",
+        "synonyms": [
+          "violent",
+          "brutal",
+          "rowdy"
+        ],
+        "example": "The Home Office spokesperson slammed the 'intimidating and thuggish behaviour' of protesters.",
+        "source": "The Hindu",
+        "headline": "U.K. government condemns protests against small boat arrivals"
+      },
+      {
+        "word": "Rattled",
+        "pos": "adjective",
+        "meaning": "Annoyed, worried, or frightened by something.",
+        "synonyms": [
+          "disturbed",
+          "unnerved",
+          "agitated"
+        ],
+        "example": "EU seeks to reassure a Trump-rattled Greenland with a new partnership.",
+        "source": "The Hindu",
+        "headline": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment"
+      },
+      {
+        "word": "Vociferous",
+        "pos": "adjective",
+        "meaning": "(Especially of a person or speech) vehement or clamorous.",
+        "synonyms": [
+          "outspoken",
+          "loud",
+          "vehement"
+        ],
+        "example": "The protestors were vociferous in their demands for job regularisation.",
+        "source": "The Hindu",
+        "headline": "77 days and counting: Haryana guest teachers intensify agitation seeking job regularisation"
+      },
+      {
+        "word": "Decomposed",
+        "pos": "adjective",
+        "meaning": "(Of organic matter) having rotted or decayed.",
+        "synonyms": [
+          "decayed",
+          "putrefied",
+          "rotten"
+        ],
+        "example": "The partially decomposed body was recovered from an apartment.",
+        "source": "The Hindu",
+        "headline": "Assam woman’s severed head found in fridge"
+      }
+    ]
+  },
+  {
     "date": "2026-09-07",
     "label": "7 September 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "Job aspirants in Ranchi are resolute in staging an assembly gherao, disregarding governmental entreaties and discussions.",
         "source": "Times of India",
         "headline": "Jharkhand students to gherao state assembly today as talks fail"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-09",
-    "label": "9 August 2026",
-    "words": [
-      {
-        "word": "Apprehend",
-        "pos": "verb",
-        "meaning": "To arrest someone for a crime",
-        "synonyms": [
-          "Seize",
-          "Capture",
-          "Detain"
-        ],
-        "example": "Arjun Ayanki was apprehended at around 2.30 a.m. after allegedly attempting to flee.",
-        "source": "The Hindu",
-        "headline": "Arjun Ayanki arrested in Kannur after days long police search"
-      },
-      {
-        "word": "Irregularity",
-        "pos": "noun",
-        "meaning": "An act or state of being contrary to rule, standard, or practice",
-        "synonyms": [
-          "Anomaly",
-          "Aberration",
-          "Deviation"
-        ],
-        "example": "The Health Minister ordered an inquiry into alleged financial irregularities at Oushadhi.",
-        "source": "The Hindu",
-        "headline": "Oushadhi’s alleged financial irregularities under lens; Kerala Health Minister orders departmental inquiry"
-      },
-      {
-        "word": "Disburse",
-        "pos": "verb",
-        "meaning": "To pay out money from a fund",
-        "synonyms": [
-          "Expend",
-          "Allocate",
-          "Remit"
-        ],
-        "example": "Maharashtra govt. disbursed ₹5,027 crore to 6.2 lakh farmers under the debt waiver scheme.",
-        "source": "The Hindu",
-        "headline": "Maharashtra govt. disburses ₹5,027 crore to 6.2 lakh farmers under debt waiver scheme"
-      },
-      {
-        "word": "Scuffle",
-        "pos": "verb",
-        "meaning": "To engage in a short, confused fight or struggle at close quarters",
-        "synonyms": [
-          "Brawl",
-          "Skirmish",
-          "Tussle"
-        ],
-        "example": "ABVP members scuffled with police near the Jharkhand CM residence during a protest march.",
-        "source": "The Hindu",
-        "headline": "ABVP members scuffle with police near Jharkhand CM residence, 8-10 detained"
-      },
-      {
-        "word": "Inordinate",
-        "pos": "adjective",
-        "meaning": "Unusually or disproportionately large; excessive",
-        "synonyms": [
-          "Exorbitant",
-          "Immoderate",
-          "Undue"
-        ],
-        "example": "The inordinate delay in rescuing fishers reflected the government’s apathy.",
-        "source": "The Hindu",
-        "headline": "Pinarayi Vijayan says ‘disrespect’ shown to rescue worker’s body reflects UDF government’s ‘uncaring’ flood response"
-      },
-      {
-        "word": "Spurious",
-        "pos": "adjective",
-        "meaning": "Not being what it purports to be; false or fake",
-        "synonyms": [
-          "Bogus",
-          "Counterfeit",
-          "Deceptive"
-        ],
-        "example": "Spurious cosmetics continue to thrive in the Kerala market, revealing recent raids.",
-        "source": "The Hindu",
-        "headline": "Spurious cosmetics continue to thrive Kerala market, reveal recent raids"
-      },
-      {
-        "word": "Decry",
-        "pos": "verb",
-        "meaning": "Publicly denounce or express strong disapproval of",
-        "synonyms": [
-          "Condemn",
-          "Censure",
-          "Denounce"
-        ],
-        "example": "Rights groups decried the Israeli killing of the Lebanese journalist as a 'war crime'.",
-        "source": "The Hindu",
-        "headline": "Rights groups decry Israeli killing of Lebanese journalist as ‘war crime’"
-      },
-      {
-        "word": "Munition",
-        "pos": "noun",
-        "meaning": "Military weapons, ammunition, equipment, and stores",
-        "synonyms": [
-          "Armament",
-          "Ordnance",
-          "Ammunition"
-        ],
-        "example": "Trump dismissed reports of munitions shortages, saying the U.S. has 'massive amounts'.",
-        "source": "The Hindu",
-        "headline": "Trump dismisses reports of munitions shortages, says U.S. has ‘massive amounts’"
-      },
-      {
-        "word": "Extradition",
-        "pos": "noun",
-        "meaning": "The action of handing over a person accused or convicted of a crime to the jurisdiction of the foreign state in which the crime was committed",
-        "synonyms": [
-          "Deportation",
-          "Rendition",
-          "Repatriation"
-        ],
-        "example": "The U.S. requests the Filipino pastor’s extradition on sex-trafficking charges.",
-        "source": "The Hindu",
-        "headline": "U.S. requests Filipino pastor’s extradition on sex-trafficking charges: Philippine Ambassador"
-      },
-      {
-        "word": "Staunch",
-        "pos": "adjective",
-        "meaning": "Very loyal and committed in attitude",
-        "synonyms": [
-          "Steadfast",
-          "Resolute",
-          "Ardent"
-        ],
-        "example": "FIFA came out in staunch defense of president Gianni Infantino amid fresh allegations.",
-        "source": "Times of India",
-        "headline": "FIFA hits back at ‘concerted effort’ to undermine Infantino amid fresh allegations"
       }
     ]
   }
