@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-10",
+    "label": "10 September 2026",
+    "words": [
+      {
+        "word": "Delineate",
+        "pos": "verb",
+        "meaning": "To describe or portray something precisely.",
+        "synonyms": [
+          "portray",
+          "depict",
+          "sketch"
+        ],
+        "example": "The philosopher's work aimed at delineating the impact of trauma on subsequent generations.",
+        "source": "The Hindu",
+        "headline": "Postmemory: delineating the impact of trauma on the generation-after"
+      },
+      {
+        "word": "Perfunctory",
+        "pos": "adjective",
+        "meaning": "(Of an action or gesture) carried out with a minimum of effort or reflection.",
+        "synonyms": [
+          "cursory",
+          "hasty",
+          "superficial"
+        ],
+        "example": "Unless reforms are meaningful, they will be regarded as marginal or perfunctory.",
+        "source": "The Hindu",
+        "headline": "UN reforms must be 'meaningful' to make it 'fit for future': UNGA President Khalilur Rahman"
+      },
+      {
+        "word": "Vociferous",
+        "pos": "adjective",
+        "meaning": "(Especially of a person or speech) vehement or clamorous.",
+        "synonyms": [
+          "vehement",
+          "strident",
+          "noisy"
+        ],
+        "example": "A vociferous protest erupted outside the embassy regarding the new policy.",
+        "source": "The Hindu",
+        "headline": "Britain must ‘stand against injustice’ over West Bank settlements, PM Burnham says"
+      },
+      {
+        "word": "Remand",
+        "pos": "verb",
+        "meaning": "To send an accused person back into custody to await trial.",
+        "synonyms": [
+          "detain",
+          "imprison",
+          "intern"
+        ],
+        "example": "The victim from Kerala had been remanded in Negombo prison.",
+        "source": "The Hindu",
+        "headline": "Indian killed in Sri Lanka prison riot buried under police protection"
+      },
+      {
+        "word": "Abyss",
+        "pos": "noun",
+        "meaning": "A deep or seemingly bottomless chasm.",
+        "synonyms": [
+          "chasm",
+          "gulf",
+          "void"
+        ],
+        "example": "The Iran war is plunging the region into an economic and security abyss.",
+        "source": "The Hindu",
+        "headline": "Dangerous phase: On the crisis in West Asia"
+      },
+      {
+        "word": "Ignite",
+        "pos": "verb",
+        "meaning": "To catch fire or cause to catch fire.",
+        "synonyms": [
+          "kindle",
+          "inflame",
+          "spark"
+        ],
+        "example": "Attacks by an Iranian-backed rebel group ignited fires at oil facilities.",
+        "source": "The Hindu",
+        "headline": "West Asia conflict highlights: Oil rises past $100 a barrel after the latest wave of West Asia attacks"
+      },
+      {
+        "word": "Scrutiny",
+        "pos": "noun",
+        "meaning": "Critical observation or examination.",
+        "synonyms": [
+          "inspection",
+          "analysis",
+          "surveillance"
+        ],
+        "example": "Technology companies could face greater scrutiny of visa sponsorship and recruitment.",
+        "source": "The Hindu",
+        "headline": "U.S. suspends Cognizant’s green-card filings; IT industry may face tougher scrutiny"
+      },
+      {
+        "word": "Precaroius",
+        "pos": "adjective",
+        "meaning": "Not securely held or in position; dangerously likely to fall or collapse.",
+        "synonyms": [
+          "unstable",
+          "insecure",
+          "hazardous"
+        ],
+        "example": "The building's foundation was in a precarious state after the earthquake.",
+        "source": "Hindustan Times",
+        "headline": "MCD surveys 1,252 PG buildings after Satya Niketan tragedy; 3 found 'dangerous', 9 need major repairs"
+      },
+      {
+        "word": "Gutted",
+        "pos": "adjective",
+        "meaning": "(Of a building) having had its interior completely destroyed by fire or removed.",
+        "synonyms": [
+          "destroyed",
+          "ruined",
+          "burnt-out"
+        ],
+        "example": "An £8.28 million Cotswolds mansion was gutted by fire months after sale.",
+        "source": "Times of India",
+        "headline": "£8.28M Cotswolds mansion gutted by fire months after sale"
+      },
+      {
+        "word": "Affiliate",
+        "pos": "noun",
+        "meaning": "A person or organization officially attached to a larger body.",
+        "synonyms": [
+          "associate",
+          "branch",
+          "subsidiary"
+        ],
+        "example": "The attack was linked to Al-Qaeda affiliates, indicating serious terrorist intentions.",
+        "source": "Hindustan Times",
+        "headline": "Red Fort bomber Umar Un Nabi used shoe-triggered IED: NIA probe rules out accidental explosion"
+      }
+    ]
+  },
+  {
     "date": "2026-09-09",
     "label": "9 September 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "Prosecutors want Tate brothers to remain in custody as they fight extradition to the U.K.",
         "source": "The Hindu",
         "headline": "U.S. prosecutors want Tate brothers to remain in custody as they fight extradition to the U.K."
-      }
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "label": "11 August 2026",
-    "words": [
-      {
-        "word": "Reprehensible",
-        "pos": "adjective",
-        "meaning": "Deserving strong condemnation.",
-        "synonyms": [
-          "deplorable",
-          "blameworthy",
-          "culpable"
-        ],
-        "example": "The perpetrators behind such reprehensible acts should be held accountable.",
-        "source": "The Hindu",
-        "headline": "India demands accountability after embassy premises defaced in Slovenian capital"
-      },
-      {
-        "word": "Indiscriminately",
-        "pos": "adverb",
-        "meaning": "In a way that does not show careful thought or planning, especially by treating everyone or everything in the same way.",
-        "synonyms": [
-          "randomly",
-          "promiscuously",
-          "arbitrarily"
-        ],
-        "example": "The apex court will examine particular incidents during which the police used pellet guns indiscriminately.",
-        "source": "The Hindu",
-        "headline": "Supreme Court says use of pellet guns in ‘exceptional circumstances’ is part of graded police response"
-      },
-      {
-        "word": "Arbitrarily",
-        "pos": "adverb",
-        "meaning": "In a manner based on random choice or personal whim, rather than any reason or system.",
-        "synonyms": [
-          "capriciously",
-          "randomly",
-          "haphazardly"
-        ],
-        "example": "The police used pellet guns indiscriminately or arbitrarily in violation of the standard regulations.",
-        "source": "The Hindu",
-        "headline": "Supreme Court says use of pellet guns in ‘exceptional circumstances’ is part of graded police response"
-      },
-      {
-        "word": "Anomalies",
-        "pos": "noun",
-        "meaning": "Something that deviates from what is standard, normal, or expected.",
-        "synonyms": [
-          "aberrations",
-          "irregularities",
-          "deviations"
-        ],
-        "example": "Job aspirants say they want a CBI probe into recruitment anomalies as they do not trust State authorities.",
-        "source": "The Hindu",
-        "headline": "For Jharkhand’s job aspirants, it was a march for lost years"
-      },
-      {
-        "word": "Delimitation",
-        "pos": "noun",
-        "meaning": "The action of fixing the boundaries or limits of something.",
-        "synonyms": [
-          "demarcation",
-          "boundary-setting",
-          "definition"
-        ],
-        "example": "The two sides held detailed exchanges on issues related to boundary delimitation and border management.",
-        "source": "The Hindu",
-        "headline": "India, China discuss LAC situation and border management during diplomatic talks: MEA"
-      },
-      {
-        "word": "Orchestrating",
-        "pos": "verb",
-        "meaning": "To arrange or direct the elements of a complex situation to produce a desired effect, especially surreptitiously.",
-        "synonyms": [
-          "masterminding",
-          "coordinating",
-          "engineering"
-        ],
-        "example": "The arrest of a retired government doctor for allegedly orchestrating a sophisticated female foeticide ring shows illegal networks continue to operate.",
-        "source": "The Hindu",
-        "headline": "Protectors turn predators: how son preference fuels female foeticide rackets in Maharashtra"
-      },
-      {
-        "word": "Majoritarian",
-        "pos": "adjective",
-        "meaning": "Relating to a system of governance based on the majority.",
-        "synonyms": [
-          "dominant",
-          "preponderant",
-          "hegemonic"
-        ],
-        "example": "Oppn. calls it a ‘display of majoritarian arrogance’ after Punjab passes nine Bills in a day.",
-        "source": "The Hindu",
-        "headline": "Punjab passes nine Bills in a day; Oppn. calls it a ‘display of majoritarian arrogance’"
-      },
-      {
-        "word": "Concessions",
-        "pos": "noun",
-        "meaning": "Things granted, especially in response to demands; a thing conceded.",
-        "synonyms": [
-          "compromises",
-          "allowances",
-          "grants"
-        ],
-        "example": "Iran ties Strait of Hormuz reopening to U.S. concessions on several demands.",
-        "source": "The Hindu",
-        "headline": "West Asia war updates: Iran ties Strait of Hormuz reopening to U.S. concessions on several demands"
-      },
-      {
-        "word": "Boycotts",
-        "pos": "verb",
-        "meaning": "Withdraw from commercial or social relations with (a country, organization, or person) as a punishment or protest.",
-        "synonyms": [
-          "shunned",
-          "abstained",
-          "snubbed"
-        ],
-        "example": "Taiwan representative in Japan boycotts Nagasaki bombing anniversary ceremony over seating.",
-        "source": "The Hindu",
-        "headline": "Taiwan representative in Japan boycotts Nagasaki bombing anniversary ceremony over seating"
-      },
-      {
-        "word": "Myriad",
-        "pos": "adjective",
-        "meaning": "Countless or extremely great in number.",
-        "synonyms": [
-          "numerous",
-          "multitudinous",
-          "innumerable"
-        ],
-        "example": "The federal trial is one of the most consequential among a myriad of legal proceedings targeting social networks.",
-        "source": "The Hindu",
-        "headline": "Meta will soon face another high-stakes trial in U.S."
       }
     ]
   }
