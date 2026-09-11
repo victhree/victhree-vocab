@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-11",
+    "label": "11 September 2026",
+    "words": [
+      {
+        "word": "Figurehead",
+        "pos": "noun",
+        "meaning": "A nominal leader or head without real power.",
+        "synonyms": [
+          "puppet",
+          "front man",
+          "titular head"
+        ],
+        "example": "For more than five decades, Indian women have built a feminist movement without a single figurehead.",
+        "source": "The Hindu",
+        "headline": "Who is the Gloria Steinem of India?"
+      },
+      {
+        "word": "Anthropogenic",
+        "pos": "adjective",
+        "meaning": "Originating in human activity.",
+        "synonyms": [
+          "man-made",
+          "human-induced",
+          "artificial"
+        ],
+        "example": "Elephants are facing anthropogenic hazards in Assam due to human activities.",
+        "source": "The Hindu",
+        "headline": "Elephants facing anthropogenic hazards in Assam"
+      },
+      {
+        "word": "Adjudicate",
+        "pos": "verb",
+        "meaning": "To make a formal judgment or decision about a problem or disputed matter.",
+        "synonyms": [
+          "judge",
+          "arbitrate",
+          "rule"
+        ],
+        "example": "The court refused to allow participation without first adjudicating upon the selection policy.",
+        "source": "The Hindu",
+        "headline": "Delhi HC refuses to allow Vinesh Phogat’s participation in selection trials for 2026 Senior World Championships"
+      },
+      {
+        "word": "Evasive",
+        "pos": "adjective",
+        "meaning": "Tending to avoid commitment or self-revelation, especially by responding indirectly.",
+        "synonyms": [
+          "elusive",
+          "cagey",
+          "indirect"
+        ],
+        "example": "Mr. Roy’s answers were proving evasive, and his custodial interrogation was necessary.",
+        "source": "The Hindu",
+        "headline": "Supreme Court declines pre-arrest relief to Abhishek Banerjee’s PA"
+      },
+      {
+        "word": "Bonafide",
+        "pos": "adjective",
+        "meaning": "Made, done, presented, etc., in good faith; without deception or fraud.",
+        "synonyms": [
+          "genuine",
+          "sincere",
+          "authentic"
+        ],
+        "example": "The top court orally said that the PIL was filed with an ulterior motive and lacked bonafide.",
+        "source": "The Hindu",
+        "headline": "SC refuses to entertain PIL raising concerns over HPV vaccination campaign"
+      },
+      {
+        "word": "Revoke",
+        "pos": "verb",
+        "meaning": "To put an end to the validity or operation of (a decision, appeal, or right).",
+        "synonyms": [
+          "cancel",
+          "rescind",
+          "annul"
+        ],
+        "example": "Sri Lanka Supreme Court revokes controversial monk’s presidential pardon.",
+        "source": "The Hindu",
+        "headline": "Sri Lanka Supreme Court revokes controversial monk’s presidential pardon"
+      },
+      {
+        "word": "Thaw",
+        "pos": "noun",
+        "meaning": "A period of warmer weather that melts snow and ice; figuratively, a relaxation of tension.",
+        "synonyms": [
+          "softening",
+          "easing",
+          "detente"
+        ],
+        "example": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion.",
+        "source": "The Hindu",
+        "headline": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion | Analysis"
+      },
+      {
+        "word": "Horrendous",
+        "pos": "adjective",
+        "meaning": "Extremely unpleasant, dreadful, or shocking.",
+        "synonyms": [
+          "terrible",
+          "dreadful",
+          "appalling"
+        ],
+        "example": "The world observes the 25th anniversary of the 9/11 that claimed over 3,000 lives, we look back at how The Hindu covered the horrendous attacks from the ground.",
+        "source": "The Hindu",
+        "headline": "9/11: How The Hindu covered the terror attacks on USA"
+      },
+      {
+        "word": "Disembarkation",
+        "pos": "noun",
+        "meaning": "The action of leaving a ship, aircraft, or other vehicle.",
+        "synonyms": [
+          "landing",
+          "alighting",
+          "debarkation"
+        ],
+        "example": "Protesters disrupted the disembarkation of scores of migrants near the port city.",
+        "source": "The Hindu",
+        "headline": "U.K. anti-migrant protesters mistakenly target Pakistan U-19 cricket team hotel: reports"
+      },
+      {
+        "word": "Multipolarity",
+        "pos": "noun",
+        "meaning": "A distribution of power in which more than two nation-states have nearly equal amounts of military, cultural, and economic influence.",
+        "synonyms": [
+          "plurality",
+          "diversity",
+          "decentralization"
+        ],
+        "example": "UN chief to stress multipolarity and UNSC reforms at BRICS Summit in India.",
+        "source": "The Hindu",
+        "headline": "UN chief to stress multipolarity, UNSC reforms at BRICS Summit in India"
+      }
+    ]
+  },
+  {
     "date": "2026-09-10",
     "label": "10 September 2026",
     "words": [
@@ -3940,142 +4076,6 @@
         "example": "A parliamentary panel found Justice Varma's testimony 'evasive' and 'misleading'.",
         "source": "Times of India",
         "headline": "‘Evasive, misleading’: Parliamentary panel on Justice Varma’s testimony"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "label": "12 August 2026",
-    "words": [
-      {
-        "word": "Fraudulent",
-        "pos": "adjective",
-        "meaning": "Intending to deceive; dishonest.",
-        "synonyms": [
-          "Deceptive",
-          "Dishonest",
-          "Crooked"
-        ],
-        "example": "Mr. Bijnoriya has been accused of carrying out fraudulent operations.",
-        "source": "The Hindu",
-        "headline": "ED arrests Bijnoriya in Nexa Evergreen money laundering case"
-      },
-      {
-        "word": "Heritage",
-        "pos": "noun",
-        "meaning": "Property that is or may be inherited; something that is passed down from preceding generations.",
-        "synonyms": [
-          "Legacy",
-          "Inheritance",
-          "Tradition"
-        ],
-        "example": "Chandigarh body seeks Vice-Presidents’ help to halt auction of Panjab University heritage furniture in U.S.",
-        "source": "The Hindu",
-        "headline": "Chandigarh body seeks Vice-Presidents’ help to halt auction of Panjab University heritage furniture in U.S."
-      },
-      {
-        "word": "Assent",
-        "pos": "noun",
-        "meaning": "Official agreement or approval.",
-        "synonyms": [
-          "Consent",
-          "Approval",
-          "Sanction"
-        ],
-        "example": "President Murmu gives assent to Bill criminalising insult to Vande Mataram.",
-        "source": "The Hindu",
-        "headline": "President Murmu gives assent to Bill criminalising insult to Vande Mataram"
-      },
-      {
-        "word": "Parasite",
-        "pos": "noun",
-        "meaning": "An organism that lives in or on another organism (its host) and benefits by deriving nutrients at the host's expense. Figuratively, one who lives off others.",
-        "synonyms": [
-          "Leech",
-          "Freeloader",
-          "Dependent"
-        ],
-        "example": "Hemant Soren calls BJP a ‘parasite’ as Jharkhand bandh hits normal life.",
-        "source": "The Hindu",
-        "headline": "Hemant Soren calls BJP a ‘parasite’ as Jharkhand bandh hits normal life"
-      },
-      {
-        "word": "Grave",
-        "pos": "adjective",
-        "meaning": "Very serious or important.",
-        "synonyms": [
-          "Serious",
-          "Solemn",
-          "Critical"
-        ],
-        "example": "Judge expresses grave dissatisfaction over report on progress of investigation.",
-        "source": "The Hindu",
-        "headline": "Microfinance scam probe: HC orders appearance of SIT head"
-      },
-      {
-        "word": "Detonated",
-        "pos": "verb",
-        "meaning": "Explode or cause to explode.",
-        "synonyms": [
-          "Exploded",
-          "Ignited",
-          "Blasted"
-        ],
-        "example": "Fawzi al-Mansouri was assassinated when an explosive stuck to his car detonated.",
-        "source": "The Hindu",
-        "headline": "Car bomb kills Haftar intel chief in eastern Libya"
-      },
-      {
-        "word": "Incursions",
-        "pos": "noun",
-        "meaning": "An invasion or attack, especially a sudden or brief one.",
-        "synonyms": [
-          "Raids",
-          "Forays",
-          "Intrusions"
-        ],
-        "example": "Peace in border areas of ‘utmost importance’, says MEA after reports of Chinese incursions.",
-        "source": "The Hindu",
-        "headline": "Peace in border areas of ‘utmost importance’, says MEA after reports of Chinese incursions"
-      },
-      {
-        "word": "Precarious",
-        "pos": "adjective",
-        "meaning": "Not securely held or in position; dangerously likely to fall or collapse.",
-        "synonyms": [
-          "Unstable",
-          "Uncertain",
-          "Risky"
-        ],
-        "example": "The situation in the region remains precarious due to ongoing clashes.",
-        "source": "The Hindu",
-        "headline": "Attackers kill 60 people in South Sudan cattle raid: local official"
-      },
-      {
-        "word": "Dwindled",
-        "pos": "verb",
-        "meaning": "Diminish gradually in size, amount, or strength.",
-        "synonyms": [
-          "Decreased",
-          "Shrunk",
-          "Lessen"
-        ],
-        "example": "U.S. stockpiles of key weapons have dwindled.",
-        "source": "The Hindu",
-        "headline": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle"
-      },
-      {
-        "word": "Extradition",
-        "pos": "noun",
-        "meaning": "The action of handing over a person accused or convicted of a crime to the jurisdiction of the foreign state in which the crime was committed.",
-        "synonyms": [
-          "Deportation",
-          "Rendition",
-          "Expulsion"
-        ],
-        "example": "Prosecutors want Tate brothers to remain in custody as they fight extradition to the U.K.",
-        "source": "The Hindu",
-        "headline": "U.S. prosecutors want Tate brothers to remain in custody as they fight extradition to the U.K."
       }
     ]
   }
