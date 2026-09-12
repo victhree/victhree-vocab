@@ -1,5 +1,140 @@
 [
   {
+    "date": "2026-09-12",
+    "label": "12 September 2026",
+    "words": [
+      {
+        "word": "Demolish",
+        "pos": "verb",
+        "meaning": "To completely destroy a building or other structure.",
+        "synonyms": [
+          "raze",
+          "dismantle",
+          "wreck"
+        ],
+        "example": "Authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order.",
+        "source": "The Hindu",
+        "headline": "Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery"
+      },
+      {
+        "word": "Erupt",
+        "pos": "verb",
+        "meaning": "To suddenly begin to happen or break out in an uncontrolled way.",
+        "synonyms": [
+          "flare",
+          "ignite",
+          "explode"
+        ],
+        "example": "The campaign comes close on the heels of a row that erupted following the death of a Dalit villager.",
+        "source": "The Hindu",
+        "headline": "With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death"
+      },
+      {
+        "word": "Purify",
+        "pos": "verb",
+        "meaning": "To remove harmful or unwanted substances from something.",
+        "synonyms": [
+          "cleanse",
+          "refine",
+          "decontaminate"
+        ],
+        "example": "ABVP 'purifies' her office after the vice-principal was 'forced' to resign.",
+        "source": "The Hindu",
+        "headline": "Vice-principal of Kolkata college ‘forced’ to resign; ABVP ‘purifies’ her office"
+      },
+      {
+        "word": "Alleged",
+        "pos": "adjective",
+        "meaning": "Stated to have happened or be true but without proof.",
+        "synonyms": [
+          "supposed",
+          "purported",
+          "unproven"
+        ],
+        "example": "He had been on the run for over a month following the alleged gold fraud incident.",
+        "source": "The Hindu",
+        "headline": "Alleged gold fraud: suspect at large arrested from Malappuram"
+      },
+      {
+        "word": "Derail",
+        "pos": "verb",
+        "meaning": "To cause a train or tram to leave its tracks.",
+        "synonyms": [
+          "come off tracks",
+          "run off"
+        ],
+        "example": "The train derailed after hitting an unidentified object, injuring 44 people.",
+        "source": "The Hindu",
+        "headline": "Train derails in northern France, injuring 44 people"
+      },
+      {
+        "word": "Assail",
+        "pos": "verb",
+        "meaning": "To make a concerted or violent attack on.",
+        "synonyms": [
+          "attack",
+          "criticize",
+          "denounce"
+        ],
+        "example": "Vance assails Democratic 'hatred' in fiery U.S. midterm pitch.",
+        "source": "The Hindu",
+        "headline": "Vance assails Democratic 'hatred' in fiery U.S. midterm pitch"
+      },
+      {
+        "word": "Flare",
+        "pos": "verb",
+        "meaning": "To suddenly intensify, especially a conflict or emotion.",
+        "synonyms": [
+          "escalate",
+          "intensify",
+          "erupt"
+        ],
+        "example": "Iran and Saudi Arabia discuss regional 'insecurity' as Yemen fighting flares.",
+        "source": "The Hindu",
+        "headline": "Iran, Saudi Arabia discuss regional 'insecurity' as Yemen fighting flares"
+      },
+      {
+        "word": "Acquit",
+        "pos": "verb",
+        "meaning": "To free someone from a criminal charge by a verdict of not guilty.",
+        "synonyms": [
+          "exonerate",
+          "absolve",
+          "clear"
+        ],
+        "example": "Yoon was acquitted in a case related to a South Korean marine's drowning, in a rare legal reprieve.",
+        "source": "The Hindu",
+        "headline": "Yoon acquitted in case related to South Korean marine's drowning in rare legal reprieve"
+      },
+      {
+        "word": "Mandate",
+        "pos": "verb",
+        "meaning": "To officially order or require something.",
+        "synonyms": [
+          "command",
+          "decree",
+          "enjoin"
+        ],
+        "example": "The Supreme Court has mandated that the FSSAI outline precise details about food warning labels.",
+        "source": "Times of India",
+        "headline": "SC's 13 queries to FSSAI: 'Give details on shape, size, colour of food label'"
+      },
+      {
+        "word": "Resilience",
+        "pos": "noun",
+        "meaning": "The capacity to recover quickly from difficulties; toughness.",
+        "synonyms": [
+          "fortitude",
+          "stamina",
+          "adaptability"
+        ],
+        "example": "Alexander Zverev battled his way to the US Open final, showcasing resilience in a gripping match.",
+        "source": "Times of India",
+        "headline": "Zverev beats Khachanov, reaches US Open final and eyes second major of year"
+      }
+    ]
+  },
+  {
     "date": "2026-09-11",
     "label": "11 September 2026",
     "words": [
@@ -3940,142 +4075,6 @@
         "example": "BCI bars Nalsar students over CJI Surya Kant protest, retracts.",
         "source": "Times of India",
         "headline": "BCI bars Nalsar students over CJI Surya Kant protest, retracts"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "label": "13 August 2026",
-    "words": [
-      {
-        "word": "Stance",
-        "pos": "noun",
-        "meaning": "A way of thinking about something, especially expressed in a publicly stated opinion",
-        "synonyms": [
-          "viewpoint",
-          "position",
-          "attitude"
-        ],
-        "example": "The Centre softened its stance on the FCRA Bill following appeals.",
-        "source": "The Hindu",
-        "headline": "Centre softens stance on FCRA Bill following appeals by minority groups"
-      },
-      {
-        "word": "Adjourn",
-        "pos": "verb",
-        "meaning": "To suspend a meeting or session to another time or permanently",
-        "synonyms": [
-          "postpone",
-          "recess",
-          "suspend"
-        ],
-        "example": "Rajya Sabha adjourned amid a row over a remark made against an MP.",
-        "source": "The Hindu",
-        "headline": "Rajya Sabha adjourned amid row over ‘lungiwala’ remark against CPI(M) MP John Brittas"
-      },
-      {
-        "word": "Defiance",
-        "pos": "noun",
-        "meaning": "Open resistance; bold disobedience",
-        "synonyms": [
-          "insubordination",
-          "rebellion",
-          "contumacy"
-        ],
-        "example": "J&K Minister flagged the issue of 'defiance, disrespect' of a bureaucrat.",
-        "source": "The Hindu",
-        "headline": "J&K Minister Satish Sharma flags issue of ‘defiance, disrespect’ of bureaucrat with CM Omar Abdullah"
-      },
-      {
-        "word": "Embodiment",
-        "pos": "noun",
-        "meaning": "A tangible or visible form of an idea, quality, or feeling",
-        "synonyms": [
-          "incarnation",
-          "manifestation",
-          "personification"
-        ],
-        "example": "The Tiranga is the living embodiment of India’s consciousness and pride.",
-        "source": "The Hindu",
-        "headline": "Hundreds attended Tiranga Yatra in Kashmir; LG says ‘sends a clear message’"
-      },
-      {
-        "word": "Parole",
-        "pos": "noun",
-        "meaning": "The release of a prisoner temporarily or permanently before the completion of a sentence, on the promise of good behaviour",
-        "synonyms": [
-          "probation",
-          "release",
-          "leniency"
-        ],
-        "example": "Punjab CM seeks parole for an ex-CM assassination convict.",
-        "source": "The Hindu",
-        "headline": "Punjab CM Mann meets Governor, seeks parole for ex-CM Beant Singh assassination convict Hawara"
-      },
-      {
-        "word": "Uproar",
-        "pos": "noun",
-        "meaning": "A loud and impassioned noise or disturbance",
-        "synonyms": [
-          "commotion",
-          "turmoil",
-          "disorder"
-        ],
-        "example": "Uproar erupted as Ambedkar statues were vandalised in Uttar Pradesh.",
-        "source": "The Hindu",
-        "headline": "Uproar erupts as Ambedkar statues vandalised in Uttar Pradesh’s Unnao, Etawah"
-      },
-      {
-        "word": "Derogatory",
-        "pos": "adjective",
-        "meaning": "Showing a critical or disrespectful attitude",
-        "synonyms": [
-          "disparaging",
-          "insulting",
-          "demeaning"
-        ],
-        "example": "Bengal CM directs police to arrest those making derogatory remarks against Netaji.",
-        "source": "The Hindu",
-        "headline": "Bengal CM directs police to arrest those making derogatory remarks against Netaji"
-      },
-      {
-        "word": "Lenient",
-        "pos": "adjective",
-        "meaning": "More merciful or tolerant than expected",
-        "synonyms": [
-          "permissive",
-          "indulgent",
-          "forbearing"
-        ],
-        "example": "CM cautions police against being lenient towards criminals.",
-        "source": "The Hindu",
-        "headline": "CM cautions police against being lenient towards criminals"
-      },
-      {
-        "word": "Blitz",
-        "pos": "noun",
-        "meaning": "An intensive or sudden military attack",
-        "synonyms": [
-          "assault",
-          "onslaught",
-          "barrage"
-        ],
-        "example": "Overnight Ukrainian blitz damages Russia's Black Sea naval stronghold.",
-        "source": "The Hindu",
-        "headline": "Overnight Ukrainian blitz damages Russia's Black Sea naval stronghold, Zelenskyy says"
-      },
-      {
-        "word": "Evasive",
-        "pos": "adjective",
-        "meaning": "Tending to avoid commitment or self-revelation, especially by responding indirectly",
-        "synonyms": [
-          "elusive",
-          "ambiguous",
-          "indirect"
-        ],
-        "example": "A parliamentary panel found Justice Varma's testimony 'evasive' and 'misleading'.",
-        "source": "Times of India",
-        "headline": "‘Evasive, misleading’: Parliamentary panel on Justice Varma’s testimony"
       }
     ]
   }
