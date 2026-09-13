@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-13",
+    "label": "13 September 2026",
+    "words": [
+      {
+        "word": "Revive",
+        "pos": "verb",
+        "meaning": "Restore to life or consciousness; reactivate.",
+        "synonyms": [
+          "Resuscitate",
+          "Reanimate",
+          "Restore"
+        ],
+        "example": "The government plans to revive Chandannagar’s French legacy.",
+        "source": "The Hindu",
+        "headline": "West Benagal govt. to revive Chandannagar’s French legacy"
+      },
+      {
+        "word": "Arbitrary",
+        "pos": "adjective",
+        "meaning": "Based on random choice or personal whim, rather than any reason or system.",
+        "synonyms": [
+          "Capricious",
+          "Whimsical",
+          "Discretionary"
+        ],
+        "example": "WBCUTA says arbitrary transfers will weaken universities.",
+        "source": "The Hindu",
+        "headline": "West Bengal professors oppose Govt.’s inter-university transfer Bill, call it an attack on education"
+      },
+      {
+        "word": "Paralyse",
+        "pos": "verb",
+        "meaning": "Cause (a person or part of the body) to become immobile; to render unable to act.",
+        "synonyms": [
+          "Incapacitate",
+          "Disable",
+          "Cripple"
+        ],
+        "example": "Power cuts paralyse Punjab rice mills.",
+        "source": "The Hindu",
+        "headline": "Power cuts paralyse Punjab rice mills; Oppn. slams AAP over ‘Roshan Punjab’ promise"
+      },
+      {
+        "word": "Reinstatement",
+        "pos": "noun",
+        "meaning": "The action of restoring someone or something to their former position or state.",
+        "synonyms": [
+          "Restoration",
+          "Re-establishment",
+          "Reinstating"
+        ],
+        "example": "A government employee quitting to fight polls can’t seek reinstatement.",
+        "source": "The Hindu",
+        "headline": "Govt. employee quitting to fight polls can’t seek reinstatement: Rajasthan High Court"
+      },
+      {
+        "word": "Outrage",
+        "pos": "noun",
+        "meaning": "An extremely strong reaction of anger, shock, or indignation.",
+        "synonyms": [
+          "Fury",
+          "Indignation",
+          "Wrath"
+        ],
+        "example": "Mehbooba Mufti welcomes BRICS condemnation but calls out ‘selective outrage’.",
+        "source": "The Hindu",
+        "headline": "Mehbooba Mufti welcomes BRICS condemnation of Pahalgam terror attack, but calls out ‘selective outrage’"
+      },
+      {
+        "word": "Manhandle",
+        "pos": "verb",
+        "meaning": "Handle (a person or thing) roughly.",
+        "synonyms": [
+          "Maltreat",
+          "Rough up",
+          "Assault"
+        ],
+        "example": "University officials claimed that some students manhandled members of the proctorial team.",
+        "source": "The Hindu",
+        "headline": "Jamia hostel protest over mess food escalates; varsity denies assault charges"
+      },
+      {
+        "word": "Counterfeit",
+        "pos": "adjective",
+        "meaning": "Made in exact imitation of something valuable or important with the intention to deceive or defraud.",
+        "synonyms": [
+          "Fake",
+          "Bogus",
+          "Forged"
+        ],
+        "example": "Large stock of counterfeit medicines seized from private facility.",
+        "source": "The Hindu",
+        "headline": "Large stock of counterfeit medicines seized from private facility in Bengaluru"
+      },
+      {
+        "word": "Allegations",
+        "pos": "noun",
+        "meaning": "A claim or assertion that someone has done something illegal or wrong, typically one made without proof.",
+        "synonyms": [
+          "Accusations",
+          "Claims",
+          "Charges"
+        ],
+        "example": "The Minister says the ED had only expressed suspicions and made allegations.",
+        "source": "The Hindu",
+        "headline": "Complainant in ED case has relations with Congress, but is a BJP voter: Jarkiholi"
+      },
+      {
+        "word": "Formidable",
+        "pos": "adjective",
+        "meaning": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+        "synonyms": [
+          "Intimidating",
+          "Redoubtable",
+          "Powerful"
+        ],
+        "example": "Sustained Iranian support has helped the Shia militant group transform itself into a formidable power.",
+        "source": "The Hindu",
+        "headline": "The Houthis vs Saudi Arabia | The new lords of the Red Sea"
+      },
+      {
+        "word": "Dethrones",
+        "pos": "verb",
+        "meaning": "Remove (a monarch) from power; to remove from a position of power or superiority.",
+        "synonyms": [
+          "Depose",
+          "Unseat",
+          "Oust"
+        ],
+        "example": "Elena Rybakina dethrones Aryna Sabalenka to win US Open title.",
+        "source": "Times of India",
+        "headline": "New No. 1 Elena Rybakina dethrones Aryna Sabalenka to win US Open title"
+      }
+    ]
+  },
+  {
     "date": "2026-09-12",
     "label": "12 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "The measure, if implemented, would be a step towards Israeli annexation of the occupied Palestinian territory.",
         "source": "The Hindu",
         "headline": "Israel’s Katz calls for police to replace military in handling West Bank settlers"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "label": "14 August 2026",
-    "words": [
-      {
-        "word": "Siltation",
-        "pos": "noun",
-        "meaning": "The accumulation of silt or other fine sediment.",
-        "synonyms": [
-          "sedimentation",
-          "clogging",
-          "deposition"
-        ],
-        "example": "The choking of tanks due to siltation crippled irrigation sources.",
-        "source": "The Hindu",
-        "headline": "Rejuvenating shrinking tanks in Andhra"
-      },
-      {
-        "word": "Bereft",
-        "pos": "adjective",
-        "meaning": "Deprived of or lacking something.",
-        "synonyms": [
-          "devoid",
-          "lacking",
-          "wanting"
-        ],
-        "example": "On Haridwar’s holy but littered ghats, people arrived barefoot and bereft.",
-        "source": "The Hindu",
-        "headline": "Gen Z’s kanwariyas: barefoot and bereft"
-      },
-      {
-        "word": "Demarcation",
-        "pos": "noun",
-        "meaning": "The action of fixing the boundary or limits of something.",
-        "synonyms": [
-          "delineation",
-          "boundary",
-          "separation"
-        ],
-        "example": "Under Section 24, related to demarcation/measurement, 28,556 cases were pending.",
-        "source": "The Hindu",
-        "headline": "Uttar Pradesh government accelerates disposal of revenue cases"
-      },
-      {
-        "word": "Conferred",
-        "pos": "verb",
-        "meaning": "Grant or bestow (a title, degree, benefit, or right).",
-        "synonyms": [
-          "bestowed",
-          "granted",
-          "awarded"
-        ],
-        "example": "Nagendra Roy was conferred the award in February this year by the Trinamool Congress government.",
-        "source": "The Hindu",
-        "headline": "Bengal government withdraws Banga Bibhusan to BJP MP Nagendra Roy"
-      },
-      {
-        "word": "Succumbed",
-        "pos": "verb",
-        "meaning": "Fail to resist pressure, temptation, or some other negative force.",
-        "synonyms": [
-          "yielded",
-          "submitted",
-          "capitulated"
-        ],
-        "example": "The cancellation has stoked a controversy over whether the Nepal government has succumbed to pressure from Beijing.",
-        "source": "The Hindu",
-        "headline": "Analysis: Nepal cancels conference on Tibetan studies amid China pressure debate"
-      },
-      {
-        "word": "Conflagration",
-        "pos": "noun",
-        "meaning": "An extensive fire which destroys a great deal of land or property.",
-        "synonyms": [
-          "inferno",
-          "blaze",
-          "firestorm"
-        ],
-        "example": "The three Sunni Muslim U.S. allies were alarmed by a regional conflagration.",
-        "source": "The Hindu",
-        "headline": "Turkiye lays out plans for defence pact with Pakistan, Saudi Arabia"
-      },
-      {
-        "word": "Incursion",
-        "pos": "noun",
-        "meaning": "An unwelcome intrusion into a place or sphere of activity.",
-        "synonyms": [
-          "raid",
-          "invasion",
-          "foray"
-        ],
-        "example": "Chinese incursion: Arunachal students’ body plans to hoist national flag at frontier village.",
-        "source": "The Hindu",
-        "headline": "Chinese incursion: Arunachal students’ body plans to hoist national flag at frontier village on I-Day"
-      },
-      {
-        "word": "Swelters",
-        "pos": "verb",
-        "meaning": "Suffer from oppressive heat.",
-        "synonyms": [
-          "suffers",
-          "perspires",
-          "broils"
-        ],
-        "example": "Britain poised for record hot summer as western Europe swelters under another heat wave.",
-        "source": "The Hindu",
-        "headline": "Britain poised for record hot summer as western Europe swelters under another heat wave"
-      },
-      {
-        "word": "Denounces",
-        "pos": "verb",
-        "meaning": "Publicly declare to be wrong or evil.",
-        "synonyms": [
-          "condemns",
-          "criticizes",
-          "reprimands"
-        ],
-        "example": "U.S. ambassador to Israel denounces settler siege on Palestinians as ‘terror’.",
-        "source": "The Hindu",
-        "headline": "U.S. ambassador to Israel denounces settler siege on Palestinians as ‘terror’"
-      },
-      {
-        "word": "Retracts",
-        "pos": "verb",
-        "meaning": "Draw back or in; withdraw (a statement or accusation) as untrue or unjustified.",
-        "synonyms": [
-          "withdraws",
-          "recants",
-          "revokes"
-        ],
-        "example": "BCI bars Nalsar students over CJI Surya Kant protest, retracts.",
-        "source": "Times of India",
-        "headline": "BCI bars Nalsar students over CJI Surya Kant protest, retracts"
       }
     ]
   }
