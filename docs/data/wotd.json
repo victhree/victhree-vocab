@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-14",
+    "label": "14 September 2026",
+    "words": [
+      {
+        "word": "Irregularity",
+        "pos": "noun",
+        "meaning": "A deviation from what is regular, customary, or expected.",
+        "synonyms": [
+          "abnormality",
+          "anomaly",
+          "deviation"
+        ],
+        "example": "Jharkhand LoP accuses Soren-led govt. of protecting influential people amid CID probe into job exam ‘irregularities’.",
+        "source": "The Hindu",
+        "headline": "Jharkhand LoP accuses Soren-led govt. of protecting influential people amid CID probe into job exam ‘irregularities’"
+      },
+      {
+        "word": "Mobilise",
+        "pos": "verb",
+        "meaning": "To prepare and organize for active service or use.",
+        "synonyms": [
+          "rally",
+          "marshal",
+          "assemble"
+        ],
+        "example": "High ranges of Kottayam mobilise against Centre’s proposed ESA tag.",
+        "source": "The Hindu",
+        "headline": "High ranges of Kottayam mobilise against Centre’s proposed ESA tag"
+      },
+      {
+        "word": "Substantial",
+        "pos": "adjective",
+        "meaning": "Of considerable importance, size, or worth.",
+        "synonyms": [
+          "significant",
+          "considerable",
+          "ample"
+        ],
+        "example": "The Ganeshotsav period would already place substantial demands on resources.",
+        "source": "The Hindu",
+        "headline": "Maratha quota protest: Jarange alleges conspiracy to kill him during Mumbai march even as Azad Maidan permission denied"
+      },
+      {
+        "word": "Preoccupation",
+        "pos": "noun",
+        "meaning": "The state or condition of being engrossed with something to the exclusion of other things.",
+        "synonyms": [
+          "obsession",
+          "engrossment",
+          "fixation"
+        ],
+        "example": "Bangladesh needs to move beyond an “excessive preoccupation” with India.",
+        "source": "The Hindu",
+        "headline": "Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh"
+      },
+      {
+        "word": "Dignitary",
+        "pos": "noun",
+        "meaning": "A person considered to be important because of high rank or office.",
+        "synonyms": [
+          "VIP",
+          "luminary",
+          "notable"
+        ],
+        "example": "BJP imposing its 'deeply problematic' dietary preferences on foreign dignitaries, says Congress on BRICS dinner.",
+        "source": "The Hindu",
+        "headline": "BJP imposing its 'deeply problematic' dietary preferences on foreign dignitaries, says Congress on BRICS dinner"
+      },
+      {
+        "word": "Stalled",
+        "pos": "adjective",
+        "meaning": "(Of a process or activity) stopped or delayed.",
+        "synonyms": [
+          "halted",
+          "obstructed",
+          "impeded"
+        ],
+        "example": "Stalled ferry services to two key jetties hit tourists, commuters.",
+        "source": "The Hindu",
+        "headline": "Stalled ferry services to two key jetties hit tourists, commuters"
+      },
+      {
+        "word": "Menace",
+        "pos": "noun",
+        "meaning": "A person or thing that is likely to cause harm; a threat or danger.",
+        "synonyms": [
+          "threat",
+          "danger",
+          "peril"
+        ],
+        "example": "Jaywalking is a menace on OMR, motorists say.",
+        "source": "The Hindu",
+        "headline": "Jaywalking a menace on OMR, motorists say"
+      },
+      {
+        "word": "Anomaly",
+        "pos": "noun",
+        "meaning": "Something that deviates from what is standard, normal, or expected.",
+        "synonyms": [
+          "aberration",
+          "irregularity",
+          "oddity"
+        ],
+        "example": "India had noted “anomalies” in a map used by the UN during the “Correct the Map” resolution.",
+        "source": "The Hindu",
+        "headline": "There is no such thing as a ‘UN map with borders’: UN Secretary General Antonio Guterres"
+      },
+      {
+        "word": "Outage",
+        "pos": "noun",
+        "meaning": "A period when a power supply or other service is not available.",
+        "synonyms": [
+          "disruption",
+          "failure",
+          "blackout"
+        ],
+        "example": "Saudi pipeline outage threatens loss of 4% of global oil supply.",
+        "source": "The Hindu",
+        "headline": "Saudi pipeline outage threatens loss of 4% of global oil supply"
+      },
+      {
+        "word": "Cannibalise",
+        "pos": "verb",
+        "meaning": "(Of a company or product) to suffer a reduction in sales as a result of a new product being launched by the same company.",
+        "synonyms": [
+          "undermine",
+          "erode",
+          "compete"
+        ],
+        "example": "Xi's 5-point action plan for Brics may see red flags go up in India, as it may allow China to cannibalise markets.",
+        "source": "Times of India",
+        "headline": "Xi's 5-point action plan for Brics may see red flags go up in India"
+      }
+    ]
+  },
+  {
     "date": "2026-09-13",
     "label": "13 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "The plagiarism scandal erupted after some academics accused Arday.",
         "source": "The Hindu",
         "headline": "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "label": "15 August 2026",
-    "words": [
-      {
-        "word": "Commemorate",
-        "pos": "verb",
-        "meaning": "To recall and show respect for (someone or something) in a ceremony.",
-        "synonyms": [
-          "celebrate",
-          "memorialize",
-          "honor"
-        ],
-        "example": "The nation will be commemorating the 80th Independence Day, a red-letter day in the history of India.",
-        "source": "The Hindu",
-        "headline": "Independence Day LIVE updates: PM Modi greets people"
-      },
-      {
-        "word": "Endow",
-        "pos": "verb",
-        "meaning": "To provide with a quality, ability, or asset.",
-        "synonyms": [
-          "bestow",
-          "furnish",
-          "grant"
-        ],
-        "example": "With 119 EROs endowed with quasi judicial powers set to adjudicate over 94 lakh cases, they would get less than a minute’s time to verify each elector.",
-        "source": "The Hindu",
-        "headline": "Telangana SIR: Botched-up enumeration phase leaves 94 lakh electors at the mercy of 119 EROs"
-      },
-      {
-        "word": "Adjudicate",
-        "pos": "verb",
-        "meaning": "To make a formal judgment or decision about a problem or disputed matter.",
-        "synonyms": [
-          "arbitrate",
-          "judge",
-          "decide"
-        ],
-        "example": "With 119 EROs endowed with quasi judicial powers set to adjudicate over 94 lakh cases, they would get less than a minute’s time to verify each elector.",
-        "source": "The Hindu",
-        "headline": "Telangana SIR: Botched-up enumeration phase leaves 94 lakh electors at the mercy of 119 EROs"
-      },
-      {
-        "word": "Condemnable",
-        "pos": "adjective",
-        "meaning": "Deserving strong disapproval; reprehensible.",
-        "synonyms": [
-          "deplorable",
-          "reprehensible",
-          "blameworthy"
-        ],
-        "example": "Defence Minister Rajnath Singh says Rahul’s comments, made at a Congress event, had been 'extremely low-level and condemnable'.",
-        "source": "The Hindu",
-        "headline": "Union Ministers call Rahul Gandhi’s remarks on PM Modi ‘undignified, undemocratic’"
-      },
-      {
-        "word": "Coercive",
-        "pos": "adjective",
-        "meaning": "Relating to or using force or threats.",
-        "synonyms": [
-          "compulsory",
-          "intimidating",
-          "forcible"
-        ],
-        "example": "Supreme Court bars BCI from taking coercive action against NALSAR students, faculty, or administration.",
-        "source": "The Hindu",
-        "headline": "CJI criticises BCI’s interference in ‘dialogue’ between him and students"
-      },
-      {
-        "word": "Dilly-Dally",
-        "pos": "verb",
-        "meaning": "To waste time through aimless lingering or hesitation.",
-        "synonyms": [
-          "procrastinate",
-          "dawdle",
-          "hesitate"
-        ],
-        "example": "J&K CM Omar Abdullah accused the Centre of dilly dallying on the issue of Transaction of Business Rules.",
-        "source": "The Hindu",
-        "headline": "Upset by Centre’s response on business rules, reservation report, Omar Abdullah warns of Gen Z-style agitation in J&K"
-      },
-      {
-        "word": "Proforma",
-        "pos": "noun",
-        "meaning": "A standardized document or form.",
-        "synonyms": [
-          "template",
-          "format",
-          "schema"
-        ],
-        "example": "Unmarked proforma being served to West Bengal madrasas by police seeking details of foreign funding, visitors.",
-        "source": "The Hindu",
-        "headline": "Unmarked proforma being served to West Bengal madrasas by police seeking details of foreign funding, visitors"
-      },
-      {
-        "word": "Carcass",
-        "pos": "noun",
-        "meaning": "The dead body of an animal.",
-        "synonyms": [
-          "cadaver",
-          "remains",
-          "corpse"
-        ],
-        "example": "Carcasses of 10 animals found in Vorkady panchayat over the past two weeks.",
-        "source": "The Hindu",
-        "headline": "Death of wild boars raises concerns in Kerala’s Kasaragod"
-      },
-      {
-        "word": "Procure",
-        "pos": "verb",
-        "meaning": "To obtain (something), especially with care or effort.",
-        "synonyms": [
-          "acquire",
-          "obtain",
-          "secure"
-        ],
-        "example": "The U.S. has tightened economic sanctions against Iran and other individuals and entities that it says are helping it procure weapons.",
-        "source": "The Hindu",
-        "headline": "West Asia war highlights: Bessent says U.S. to apply measures never seen on Iran"
-      },
-      {
-        "word": "Annexation",
-        "pos": "noun",
-        "meaning": "The action of annexing something, especially territory.",
-        "synonyms": [
-          "seizure",
-          "occupation",
-          "incorporation"
-        ],
-        "example": "The measure, if implemented, would be a step towards Israeli annexation of the occupied Palestinian territory.",
-        "source": "The Hindu",
-        "headline": "Israel’s Katz calls for police to replace military in handling West Bank settlers"
       }
     ]
   }
