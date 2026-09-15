@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-15",
+    "label": "15 September 2026",
+    "words": [
+      {
+        "word": "Skipping",
+        "pos": "verb",
+        "meaning": "To omit or miss out on something, especially intentionally or carelessly.",
+        "synonyms": [
+          "Omitting",
+          "Bypassing",
+          "Evading"
+        ],
+        "example": "The passengers were accused of skipping immigration procedures at the airport.",
+        "source": "The Hindu",
+        "headline": "Air India gets show-cause notice over Italian passengers skipping immigration at Delhi airport"
+      },
+      {
+        "word": "Overwhelming",
+        "pos": "adjective",
+        "meaning": "Very great in amount, force, or effect; irresistible.",
+        "synonyms": [
+          "Immense",
+          "Dominant",
+          "Resounding"
+        ],
+        "example": "The bill passed the U.S. Senate by an overwhelming 86-11 vote.",
+        "source": "The Hindu",
+        "headline": "U.S. lawmaker submits amendment naming India in Russia sanctions act"
+      },
+      {
+        "word": "Invasive",
+        "pos": "adjective",
+        "meaning": "Tending to spread harmfully and aggressively.",
+        "synonyms": [
+          "Aggressive",
+          "Intrusive",
+          "Pervasive"
+        ],
+        "example": "Synchronous flowering and die-off can open the door to invasive weeds.",
+        "source": "The Hindu",
+        "headline": "Bamboo mass flowering and die-off can trigger ecological crisis and wildlife conflict, study warns"
+      },
+      {
+        "word": "Fervour",
+        "pos": "noun",
+        "meaning": "Intense and passionate feeling.",
+        "synonyms": [
+          "Ardour",
+          "Zeal",
+          "Passion"
+        ],
+        "example": "Ganesh Chaturthi celebrations begin with fervour across Telangana.",
+        "source": "The Hindu",
+        "headline": "Ganesh Chaturthi celebrations begin with fervour across Telangana"
+      },
+      {
+        "word": "Scrutiny",
+        "pos": "noun",
+        "meaning": "Critical observation or examination.",
+        "synonyms": [
+          "Inspection",
+          "Examination",
+          "Surveillance"
+        ],
+        "example": "A court cannot seek the confidence of the public by placing itself beyond scrutiny.",
+        "source": "The Hindu",
+        "headline": "CJI says judiciary cannot earn public trust by shielding itself from scrutiny"
+      },
+      {
+        "word": "Alleged",
+        "pos": "adjective",
+        "meaning": "Stated without proof that someone has done something wrong or illegal.",
+        "synonyms": [
+          "Unproven",
+          "Supposed",
+          "Asserted"
+        ],
+        "example": "The national spokesperson alleged that the administration was preventing farmers from holding protests.",
+        "source": "The Hindu",
+        "headline": "Intensify protest over land acquisition: Rakesh Tikait urges Noida farmers"
+      },
+      {
+        "word": "Substantial",
+        "pos": "adjective",
+        "meaning": "Of considerable importance, size, or worth.",
+        "synonyms": [
+          "Significant",
+          "Considerable",
+          "Sizable"
+        ],
+        "example": "The vessel's sinking reportedly caused substantial coastal and marine damage.",
+        "source": "The Hindu",
+        "headline": "Underwater survey to be done to assess long-term impact of MSC Elsa 3 sinking, Centre informs Kerala HC"
+      },
+      {
+        "word": "Impersonating",
+        "pos": "verb",
+        "meaning": "Pretending to be someone else for deception.",
+        "synonyms": [
+          "Mimicking",
+          "Masquerading",
+          "Assuming"
+        ],
+        "example": "The scammer circulated AI-generated deep fake video impersonating CM Vijay.",
+        "source": "The Hindu",
+        "headline": "Tamil Nadu CB-CID nabs Rajasthan scammer who circulated Al-generated deep fake video impersonating CM Vijay"
+      },
+      {
+        "word": "Incursions",
+        "pos": "noun",
+        "meaning": "An invasion or attack, especially a sudden or brief one.",
+        "synonyms": [
+          "Raids",
+          "Invasions",
+          "Forays"
+        ],
+        "example": "NATO members regularly report drone incursions into their territories.",
+        "source": "The Hindu",
+        "headline": "Drone shot down by NATO over Lithuania"
+      },
+      {
+        "word": "Austerity",
+        "pos": "noun",
+        "meaning": "Difficult economic conditions created by government measures to reduce public expenditure.",
+        "synonyms": [
+          "Frugality",
+          "Rigour",
+          "Severity"
+        ],
+        "example": "Pakistan mulls revival of austerity measures amid West Asia hostilities.",
+        "source": "The Hindu",
+        "headline": "Pakistan mulls revival of austerity measures amid West Asia hostilities"
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "label": "14 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts.",
         "source": "The Hindu",
         "headline": "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-16",
-    "label": "16 August 2026",
-    "words": [
-      {
-        "word": "Venom",
-        "pos": "noun",
-        "meaning": "A poisonous substance secreted by animals, often injected through a bite or sting.",
-        "synonyms": [
-          "toxin",
-          "poison",
-          "bane"
-        ],
-        "example": "A common krait bit six girls, resulting in deaths due to venom.",
-        "source": "The Hindu",
-        "headline": "Taken by one of the big four: Snakebite at Maharashtra tribal school"
-      },
-      {
-        "word": "Agitation",
-        "pos": "noun",
-        "meaning": "A state of anxiety or nervous excitement, or a public protest about something.",
-        "synonyms": [
-          "protest",
-          "turmoil",
-          "commotion"
-        ],
-        "example": "On the 22nd day of the agitation seeking reforms, a 'Tiranga Yatra' was organised.",
-        "source": "The Hindu",
-        "headline": "Devendra Mahto alleges assault by Ranchi police after being stopped from joining Tiranga Yatra"
-      },
-      {
-        "word": "Simultaneously",
-        "pos": "adverb",
-        "meaning": "At the same time.",
-        "synonyms": [
-          "concurrently",
-          "concurrently",
-          "synchronously"
-        ],
-        "example": "Councillors simultaneously sing national anthem, Vande Mataram.",
-        "source": "The Hindu",
-        "headline": "Chaos at Kozhikode Corporation’s I-Day flag-hoisting as councillors simultaneously sing national anthem, Vande Mataram"
-      },
-      {
-        "word": "Secularism",
-        "pos": "noun",
-        "meaning": "The principle of separation of the state from religious institutions.",
-        "synonyms": [
-          "irreligiosity",
-          "non-sectarianism",
-          "laicism"
-        ],
-        "example": "Preserve democracy and secularism, says Minister Roji M. John.",
-        "source": "The Hindu",
-        "headline": "Preserve democracy and secularism, says Minister Roji M. John in his Independence Day message"
-      },
-      {
-        "word": "Indigenous",
-        "pos": "adjective",
-        "meaning": "Originating or occurring naturally in a particular place; native.",
-        "synonyms": [
-          "native",
-          "aboriginal",
-          "autochthonous"
-        ],
-        "example": "This indigenous device aims to reduce stent-related complications.",
-        "source": "The Hindu",
-        "headline": "SCTIMST unveils Chitra Core, its first coronary stent"
-      },
-      {
-        "word": "Repatriation",
-        "pos": "noun",
-        "meaning": "The return of someone to their own country.",
-        "synonyms": [
-          "return",
-          "deportation",
-          "expatriation"
-        ],
-        "example": "Myanmar says over 3,00,000 Rohingya refugees verified for repatriation.",
-        "source": "The Hindu",
-        "headline": "Myanmar says over 3,00,000 Rohingya refugees verified for repatriation as exodus enters ninth year"
-      },
-      {
-        "word": "Ramps",
-        "pos": "verb",
-        "meaning": "To increase the level or amount of something sharply.",
-        "synonyms": [
-          "escalate",
-          "boost",
-          "intensify"
-        ],
-        "example": "Ukraine attacks Russia's industrial site as Kyiv ramps up long-range strikes.",
-        "source": "The Hindu",
-        "headline": "Ukraine attacks Russia's Samara industrial site as Kyiv ramps up long-range strikes"
-      },
-      {
-        "word": "Transiting",
-        "pos": "verb",
-        "meaning": "To pass across or through.",
-        "synonyms": [
-          "passing",
-          "crossing",
-          "traversing"
-        ],
-        "example": "ADNOC confirmed that one of its vessels was attacked while transiting the Strait of Hormuz.",
-        "source": "The Hindu",
-        "headline": "UAE state oil company says vessel attacked in Hormuz Strait"
-      },
-      {
-        "word": "Evasions",
-        "pos": "noun",
-        "meaning": "The action of escaping or avoiding something.",
-        "synonyms": [
-          "avoidance",
-          "dodging",
-          "circumvention"
-        ],
-        "example": "White House report cites countries ‘enabling’ China’s tariff evasions.",
-        "source": "The Hindu",
-        "headline": "India in U.S. crosshairs again — White House report cites countries ‘enabling’ China’s tariff evasions"
-      },
-      {
-        "word": "Plagiarism",
-        "pos": "noun",
-        "meaning": "The practice of taking someone else's work or ideas and passing them off as one's own.",
-        "synonyms": [
-          "piracy",
-          "copying",
-          "infringement"
-        ],
-        "example": "The plagiarism scandal erupted after some academics accused Arday.",
-        "source": "The Hindu",
-        "headline": "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead"
       }
     ]
   }
