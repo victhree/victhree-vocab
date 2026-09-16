@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-16",
+    "label": "16 September 2026",
+    "words": [
+      {
+        "word": "Defer",
+        "pos": "verb",
+        "meaning": "To postpone or delay an action to a later time",
+        "synonyms": [
+          "postpone",
+          "adjourn",
+          "shelve"
+        ],
+        "example": "The government decided to defer the welfare scheme until the conclusion of the bypolls.",
+        "source": "The Hindu",
+        "headline": "Launch of expansion of Perunthalaivar Kamarajar Breakfast Scheme deferred to September 22: T.N. govt."
+      },
+      {
+        "word": "Spar",
+        "pos": "verb",
+        "meaning": "To argue or dispute, especially in a lively or contentious manner",
+        "synonyms": [
+          "bicker",
+          "wrangle",
+          "quarrel"
+        ],
+        "example": "Political leaders frequently spar over the effective allocation of welfare funds.",
+        "source": "The Hindu",
+        "headline": "In a rare debate, Baghel and Vijay Sharma spar over PM Awas Yojana in Chhattisgarh"
+      },
+      {
+        "word": "Crux",
+        "pos": "noun",
+        "meaning": "The decisive or most important point at issue",
+        "synonyms": [
+          "core",
+          "essence",
+          "nub"
+        ],
+        "example": "The crux of the policy debate was the lack of administrative accountability.",
+        "source": "The Hindu",
+        "headline": "In a rare debate, Baghel and Vijay Sharma spar over PM Awas Yojana in Chhattisgarh"
+      },
+      {
+        "word": "Altercation",
+        "pos": "noun",
+        "meaning": "A noisy, heated argument or confrontation in public",
+        "synonyms": [
+          "fracas",
+          "quarrel",
+          "brawl"
+        ],
+        "example": "A minor disagreement during the festival quickly turned into a fatal altercation.",
+        "source": "The Hindu",
+        "headline": "Teen stabbed to death during Ganesh idol procession in Indore"
+      },
+      {
+        "word": "Untoward",
+        "pos": "adjective",
+        "meaning": "Unexpected, inappropriate, or inconvenient",
+        "synonyms": [
+          "inauspicious",
+          "unforeseen",
+          "adverse"
+        ],
+        "example": "The aircraft completed an emergency landing without any untoward incident.",
+        "source": "The Hindu",
+        "headline": "Agartala-Delhi flight diverted to Lucknow after smoke warning; no injuries reported"
+      },
+      {
+        "word": "Quash",
+        "pos": "verb",
+        "meaning": "To officially reject, suppress, or declare something void",
+        "synonyms": [
+          "nullify",
+          "invalidate",
+          "annul"
+        ],
+        "example": "The Supreme Court moved to quash the departmental inquiry order.",
+        "source": "The Hindu",
+        "headline": "Asian Games 2026: J&K govt. allows Mir Bilquis to travel after SC intervention; to coach Indian kayaking, canoeing team"
+      },
+      {
+        "word": "Defunct",
+        "pos": "adjective",
+        "meaning": "No longer existing or functioning",
+        "synonyms": [
+          "inoperative",
+          "obsolete",
+          "extinct"
+        ],
+        "example": "Villagers struggled to find drinking water because the primary motor pumps were defunct.",
+        "source": "The Hindu",
+        "headline": "Residents protest in Tiruvannamalai against non-supply of drinking water"
+      },
+      {
+        "word": "Slew",
+        "pos": "noun",
+        "meaning": "A large number or quantity of something",
+        "synonyms": [
+          "multitude",
+          "abundance",
+          "plethora"
+        ],
+        "example": "The legislative body advanced a slew of statutory reforms before the recess.",
+        "source": "The Hindu",
+        "headline": "U.S. House advances Russia sanctions Bill that seeks 100% tariffs on India, others; set for final vote"
+      },
+      {
+        "word": "Prowess",
+        "pos": "noun",
+        "meaning": "Distinguished bravery, skill, or expertise in a particular field",
+        "synonyms": [
+          "dexterity",
+          "acumen",
+          "aptitude"
+        ],
+        "example": "The nation held industrial tours to demonstrate its technical prowess.",
+        "source": "The Hindu",
+        "headline": "The rise of industrial tourism in China"
+      },
+      {
+        "word": "Contentious",
+        "pos": "adjective",
+        "meaning": "Causing or likely to cause an argument; controversial",
+        "synonyms": [
+          "disputable",
+          "polemical",
+          "combative"
+        ],
+        "example": "The senate hearing became contentious due to intense scrutiny from opposition members.",
+        "source": "The Hindu",
+        "headline": "FBI chief Kash Patel is set to face off with Democrats critical of his leadership at Senate hearing"
+      }
+    ]
+  },
+  {
     "date": "2026-09-15",
     "label": "15 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "The death toll in the Zimbabwe ferry capsizing rises to 68.",
         "source": "The Hindu",
         "headline": "Death toll in Zimbabwe ferry capsizing rises to 68: police"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "label": "17 August 2026",
-    "words": [
-      {
-        "word": "Glitches",
-        "pos": "noun",
-        "meaning": "A sudden, usually temporary malfunction or irregularity.",
-        "synonyms": [
-          "malfunction",
-          "hitch",
-          "snag"
-        ],
-        "example": "Abhijit Dipke alleged that several candidates were declared failed without their fault and joined the demonstration demanding that the test be conducted afresh due to glitches.",
-        "source": "The Hindu",
-        "headline": "CJP's Dipke joins protest as candidates claim glitches during online Bombay HC clerk typing test"
-      },
-      {
-        "word": "Reprimands",
-        "pos": "verb",
-        "meaning": "To express sharp disapproval or criticism of someone because of their behavior or actions.",
-        "synonyms": [
-          "rebuke",
-          "censure",
-          "admonish"
-        ],
-        "example": "Kerala High Court reprimands State over its failure to collect fines for unauthorised flex boards, banners.",
-        "source": "The Hindu",
-        "headline": "Kerala High Court reprimands State over its failure to collect fines for unauthorised flex boards, banners"
-      },
-      {
-        "word": "Gherao",
-        "pos": "noun",
-        "meaning": "A protest in India in which workers or other groups surround an employer or official until their demands are met.",
-        "synonyms": [
-          "encirclement",
-          "siege",
-          "blockade"
-        ],
-        "example": "Protesters announce CM residence gherao on August 20 to seek Hemant Soren’s resignation.",
-        "source": "The Hindu",
-        "headline": "Jharkhand exam stir: Protesters announce CM residence gherao on August 20 to seek Hemant Soren’s resignation"
-      },
-      {
-        "word": "Mitigate",
-        "pos": "verb",
-        "meaning": "Make less severe, serious, or painful.",
-        "synonyms": [
-          "alleviate",
-          "reduce",
-          "lessen"
-        ],
-        "example": "Karnataka government has failed to mitigate drought, says Kumaraswamy.",
-        "source": "The Hindu",
-        "headline": "Karnataka government has failed to mitigate drought, says Kumaraswamy; opens handloom products market"
-      },
-      {
-        "word": "Confer",
-        "pos": "verb",
-        "meaning": "To grant or bestow (a title, degree, benefit, or right).",
-        "synonyms": [
-          "bestow",
-          "grant",
-          "award"
-        ],
-        "example": "The Nepalese President will confer on him the honorary rank of General of the Nepali Army.",
-        "source": "The Hindu",
-        "headline": "Army Chief Dhiraj Seth visits Nepal to strengthen military ties"
-      },
-      {
-        "word": "Culminate",
-        "pos": "verb",
-        "meaning": "To reach a climax or point of highest development.",
-        "synonyms": [
-          "climax",
-          "peak",
-          "conclude"
-        ],
-        "example": "Indian Independence Day celebrations in New York Tri-State area culminate in Guinness World Record.",
-        "source": "The Hindu",
-        "headline": "Indian Independence Day celebrations in New York Tri-State area culminate in Guinness World Record"
-      },
-      {
-        "word": "Reaffirm",
-        "pos": "verb",
-        "meaning": "To state again strongly; confirm again.",
-        "synonyms": [
-          "reassert",
-          "reiterate",
-          "confirm"
-        ],
-        "example": "North Korea’s Kim, Russia’s Putin reaffirm ties on Korean Liberation Day.",
-        "source": "The Hindu",
-        "headline": "North Korea’s Kim, Russia’s Putin reaffirm ties on Korean Liberation Day"
-      },
-      {
-        "word": "Extradition",
-        "pos": "noun",
-        "meaning": "The action of handing over a person accused or convicted of a crime to the jurisdiction of the foreign state in which the crime was committed.",
-        "synonyms": [
-          "deportation",
-          "rendition",
-          "surrender"
-        ],
-        "example": "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit.",
-        "source": "The Hindu",
-        "headline": "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit"
-      },
-      {
-        "word": "Contentious",
-        "pos": "adjective",
-        "meaning": "Causing or likely to cause an argument; controversial.",
-        "synonyms": [
-          "disputable",
-          "debatable",
-          "controversial"
-        ],
-        "example": "Sri Lanka to table contentious Bill extending judges’ retirement age.",
-        "source": "The Hindu",
-        "headline": "Sri Lanka to table contentious Bill extending judges’ retirement age"
-      },
-      {
-        "word": "Hamper",
-        "pos": "verb",
-        "meaning": "To hinder or impede the movement or progress of.",
-        "synonyms": [
-          "obstruct",
-          "impede",
-          "thwart"
-        ],
-        "example": "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts.",
-        "source": "The Hindu",
-        "headline": "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts"
       }
     ]
   }
