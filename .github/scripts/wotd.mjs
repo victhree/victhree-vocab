@@ -7,8 +7,10 @@ import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 
 const API_KEY = process.env.GEMINI_API_KEY;
 // Tried in order; first one that works wins. Guards against a model being renamed,
-// rate-limited (429), or overloaded (503). (gemini-1.5-flash was removed — 404 on v1beta.)
-const MODELS = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-2.5-flash-lite', 'gemini-2.0-flash-lite'];
+// deprecated (404), rate-limited (429), or overloaded (503). The `-latest` aliases
+// auto-follow Google's current flash models so they survive future renames.
+// (2026-09-16: the whole Gemini 2.x flash family was deprecated -> moved to 3.5.)
+const MODELS = ['gemini-flash-latest', 'gemini-3.5-flash', 'gemini-flash-lite-latest', 'gemini-3.5-flash-lite'];
 const OUT = 'docs/data/wotd.json';
 const KEEP_DAYS = 30;
 
@@ -112,7 +114,7 @@ ${headlines}`;
   };
   const genConfig = {
     temperature: 0.7,
-    maxOutputTokens: 8000,
+    maxOutputTokens: 16000,
     responseMimeType: 'application/json',
     responseSchema: {
       type: 'object',
@@ -124,11 +126,12 @@ ${headlines}`;
   let lastErr = '';
   for (const model of MODELS) {
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`;
-    // Gemini 2.5 does hidden "thinking" that eats the output budget and was truncating
-    // the JSON mid-array. Disable it for 2.5 models (2.0 models don't accept the field).
-    const cfg = model.startsWith('gemini-2.5')
-      ? { ...genConfig, thinkingConfig: { thinkingBudget: 0 } }
-      : genConfig;
+    // Gemini flash does hidden "thinking" that eats the output budget and can truncate
+    // the JSON mid-array. Disable it on the full flash models; leave the "-lite" models
+    // (our guaranteed fallback) with a clean request in case they reject the field.
+    const cfg = /lite/.test(model)
+      ? genConfig
+      : { ...genConfig, thinkingConfig: { thinkingBudget: 0 } };
     const body = JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: cfg });
     try {
       const r = await fetch(url, {
