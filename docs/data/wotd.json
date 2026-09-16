@@ -1,5 +1,684 @@
 [
   {
+    "date": "2026-09-15",
+    "label": "15 September 2026",
+    "words": [
+      {
+        "word": "Skipping",
+        "pos": "verb",
+        "meaning": "To omit or miss out on something, especially intentionally or carelessly.",
+        "synonyms": [
+          "Omitting",
+          "Bypassing",
+          "Evading"
+        ],
+        "example": "The passengers were accused of skipping immigration procedures at the airport.",
+        "source": "The Hindu",
+        "headline": "Air India gets show-cause notice over Italian passengers skipping immigration at Delhi airport"
+      },
+      {
+        "word": "Overwhelming",
+        "pos": "adjective",
+        "meaning": "Very great in amount, force, or effect; irresistible.",
+        "synonyms": [
+          "Immense",
+          "Dominant",
+          "Resounding"
+        ],
+        "example": "The bill passed the U.S. Senate by an overwhelming 86-11 vote.",
+        "source": "The Hindu",
+        "headline": "U.S. lawmaker submits amendment naming India in Russia sanctions act"
+      },
+      {
+        "word": "Invasive",
+        "pos": "adjective",
+        "meaning": "Tending to spread harmfully and aggressively.",
+        "synonyms": [
+          "Aggressive",
+          "Intrusive",
+          "Pervasive"
+        ],
+        "example": "Synchronous flowering and die-off can open the door to invasive weeds.",
+        "source": "The Hindu",
+        "headline": "Bamboo mass flowering and die-off can trigger ecological crisis and wildlife conflict, study warns"
+      },
+      {
+        "word": "Fervour",
+        "pos": "noun",
+        "meaning": "Intense and passionate feeling.",
+        "synonyms": [
+          "Ardour",
+          "Zeal",
+          "Passion"
+        ],
+        "example": "Ganesh Chaturthi celebrations begin with fervour across Telangana.",
+        "source": "The Hindu",
+        "headline": "Ganesh Chaturthi celebrations begin with fervour across Telangana"
+      },
+      {
+        "word": "Scrutiny",
+        "pos": "noun",
+        "meaning": "Critical observation or examination.",
+        "synonyms": [
+          "Inspection",
+          "Examination",
+          "Surveillance"
+        ],
+        "example": "A court cannot seek the confidence of the public by placing itself beyond scrutiny.",
+        "source": "The Hindu",
+        "headline": "CJI says judiciary cannot earn public trust by shielding itself from scrutiny"
+      },
+      {
+        "word": "Alleged",
+        "pos": "adjective",
+        "meaning": "Stated without proof that someone has done something wrong or illegal.",
+        "synonyms": [
+          "Unproven",
+          "Supposed",
+          "Asserted"
+        ],
+        "example": "The national spokesperson alleged that the administration was preventing farmers from holding protests.",
+        "source": "The Hindu",
+        "headline": "Intensify protest over land acquisition: Rakesh Tikait urges Noida farmers"
+      },
+      {
+        "word": "Substantial",
+        "pos": "adjective",
+        "meaning": "Of considerable importance, size, or worth.",
+        "synonyms": [
+          "Significant",
+          "Considerable",
+          "Sizable"
+        ],
+        "example": "The vessel's sinking reportedly caused substantial coastal and marine damage.",
+        "source": "The Hindu",
+        "headline": "Underwater survey to be done to assess long-term impact of MSC Elsa 3 sinking, Centre informs Kerala HC"
+      },
+      {
+        "word": "Impersonating",
+        "pos": "verb",
+        "meaning": "Pretending to be someone else for deception.",
+        "synonyms": [
+          "Mimicking",
+          "Masquerading",
+          "Assuming"
+        ],
+        "example": "The scammer circulated AI-generated deep fake video impersonating CM Vijay.",
+        "source": "The Hindu",
+        "headline": "Tamil Nadu CB-CID nabs Rajasthan scammer who circulated Al-generated deep fake video impersonating CM Vijay"
+      },
+      {
+        "word": "Incursions",
+        "pos": "noun",
+        "meaning": "An invasion or attack, especially a sudden or brief one.",
+        "synonyms": [
+          "Raids",
+          "Invasions",
+          "Forays"
+        ],
+        "example": "NATO members regularly report drone incursions into their territories.",
+        "source": "The Hindu",
+        "headline": "Drone shot down by NATO over Lithuania"
+      },
+      {
+        "word": "Austerity",
+        "pos": "noun",
+        "meaning": "Difficult economic conditions created by government measures to reduce public expenditure.",
+        "synonyms": [
+          "Frugality",
+          "Rigour",
+          "Severity"
+        ],
+        "example": "Pakistan mulls revival of austerity measures amid West Asia hostilities.",
+        "source": "The Hindu",
+        "headline": "Pakistan mulls revival of austerity measures amid West Asia hostilities"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-14",
+    "label": "14 September 2026",
+    "words": [
+      {
+        "word": "Irregularity",
+        "pos": "noun",
+        "meaning": "A deviation from what is regular, customary, or expected.",
+        "synonyms": [
+          "abnormality",
+          "anomaly",
+          "deviation"
+        ],
+        "example": "Jharkhand LoP accuses Soren-led govt. of protecting influential people amid CID probe into job exam ‘irregularities’.",
+        "source": "The Hindu",
+        "headline": "Jharkhand LoP accuses Soren-led govt. of protecting influential people amid CID probe into job exam ‘irregularities’"
+      },
+      {
+        "word": "Mobilise",
+        "pos": "verb",
+        "meaning": "To prepare and organize for active service or use.",
+        "synonyms": [
+          "rally",
+          "marshal",
+          "assemble"
+        ],
+        "example": "High ranges of Kottayam mobilise against Centre’s proposed ESA tag.",
+        "source": "The Hindu",
+        "headline": "High ranges of Kottayam mobilise against Centre’s proposed ESA tag"
+      },
+      {
+        "word": "Substantial",
+        "pos": "adjective",
+        "meaning": "Of considerable importance, size, or worth.",
+        "synonyms": [
+          "significant",
+          "considerable",
+          "ample"
+        ],
+        "example": "The Ganeshotsav period would already place substantial demands on resources.",
+        "source": "The Hindu",
+        "headline": "Maratha quota protest: Jarange alleges conspiracy to kill him during Mumbai march even as Azad Maidan permission denied"
+      },
+      {
+        "word": "Preoccupation",
+        "pos": "noun",
+        "meaning": "The state or condition of being engrossed with something to the exclusion of other things.",
+        "synonyms": [
+          "obsession",
+          "engrossment",
+          "fixation"
+        ],
+        "example": "Bangladesh needs to move beyond an “excessive preoccupation” with India.",
+        "source": "The Hindu",
+        "headline": "Want to 'reset' ties with India, should be done through bilateral discussions: Bangladesh"
+      },
+      {
+        "word": "Dignitary",
+        "pos": "noun",
+        "meaning": "A person considered to be important because of high rank or office.",
+        "synonyms": [
+          "VIP",
+          "luminary",
+          "notable"
+        ],
+        "example": "BJP imposing its 'deeply problematic' dietary preferences on foreign dignitaries, says Congress on BRICS dinner.",
+        "source": "The Hindu",
+        "headline": "BJP imposing its 'deeply problematic' dietary preferences on foreign dignitaries, says Congress on BRICS dinner"
+      },
+      {
+        "word": "Stalled",
+        "pos": "adjective",
+        "meaning": "(Of a process or activity) stopped or delayed.",
+        "synonyms": [
+          "halted",
+          "obstructed",
+          "impeded"
+        ],
+        "example": "Stalled ferry services to two key jetties hit tourists, commuters.",
+        "source": "The Hindu",
+        "headline": "Stalled ferry services to two key jetties hit tourists, commuters"
+      },
+      {
+        "word": "Menace",
+        "pos": "noun",
+        "meaning": "A person or thing that is likely to cause harm; a threat or danger.",
+        "synonyms": [
+          "threat",
+          "danger",
+          "peril"
+        ],
+        "example": "Jaywalking is a menace on OMR, motorists say.",
+        "source": "The Hindu",
+        "headline": "Jaywalking a menace on OMR, motorists say"
+      },
+      {
+        "word": "Anomaly",
+        "pos": "noun",
+        "meaning": "Something that deviates from what is standard, normal, or expected.",
+        "synonyms": [
+          "aberration",
+          "irregularity",
+          "oddity"
+        ],
+        "example": "India had noted “anomalies” in a map used by the UN during the “Correct the Map” resolution.",
+        "source": "The Hindu",
+        "headline": "There is no such thing as a ‘UN map with borders’: UN Secretary General Antonio Guterres"
+      },
+      {
+        "word": "Outage",
+        "pos": "noun",
+        "meaning": "A period when a power supply or other service is not available.",
+        "synonyms": [
+          "disruption",
+          "failure",
+          "blackout"
+        ],
+        "example": "Saudi pipeline outage threatens loss of 4% of global oil supply.",
+        "source": "The Hindu",
+        "headline": "Saudi pipeline outage threatens loss of 4% of global oil supply"
+      },
+      {
+        "word": "Cannibalise",
+        "pos": "verb",
+        "meaning": "(Of a company or product) to suffer a reduction in sales as a result of a new product being launched by the same company.",
+        "synonyms": [
+          "undermine",
+          "erode",
+          "compete"
+        ],
+        "example": "Xi's 5-point action plan for Brics may see red flags go up in India, as it may allow China to cannibalise markets.",
+        "source": "Times of India",
+        "headline": "Xi's 5-point action plan for Brics may see red flags go up in India"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-13",
+    "label": "13 September 2026",
+    "words": [
+      {
+        "word": "Revive",
+        "pos": "verb",
+        "meaning": "Restore to life or consciousness; reactivate.",
+        "synonyms": [
+          "Resuscitate",
+          "Reanimate",
+          "Restore"
+        ],
+        "example": "The government plans to revive Chandannagar’s French legacy.",
+        "source": "The Hindu",
+        "headline": "West Benagal govt. to revive Chandannagar’s French legacy"
+      },
+      {
+        "word": "Arbitrary",
+        "pos": "adjective",
+        "meaning": "Based on random choice or personal whim, rather than any reason or system.",
+        "synonyms": [
+          "Capricious",
+          "Whimsical",
+          "Discretionary"
+        ],
+        "example": "WBCUTA says arbitrary transfers will weaken universities.",
+        "source": "The Hindu",
+        "headline": "West Bengal professors oppose Govt.’s inter-university transfer Bill, call it an attack on education"
+      },
+      {
+        "word": "Paralyse",
+        "pos": "verb",
+        "meaning": "Cause (a person or part of the body) to become immobile; to render unable to act.",
+        "synonyms": [
+          "Incapacitate",
+          "Disable",
+          "Cripple"
+        ],
+        "example": "Power cuts paralyse Punjab rice mills.",
+        "source": "The Hindu",
+        "headline": "Power cuts paralyse Punjab rice mills; Oppn. slams AAP over ‘Roshan Punjab’ promise"
+      },
+      {
+        "word": "Reinstatement",
+        "pos": "noun",
+        "meaning": "The action of restoring someone or something to their former position or state.",
+        "synonyms": [
+          "Restoration",
+          "Re-establishment",
+          "Reinstating"
+        ],
+        "example": "A government employee quitting to fight polls can’t seek reinstatement.",
+        "source": "The Hindu",
+        "headline": "Govt. employee quitting to fight polls can’t seek reinstatement: Rajasthan High Court"
+      },
+      {
+        "word": "Outrage",
+        "pos": "noun",
+        "meaning": "An extremely strong reaction of anger, shock, or indignation.",
+        "synonyms": [
+          "Fury",
+          "Indignation",
+          "Wrath"
+        ],
+        "example": "Mehbooba Mufti welcomes BRICS condemnation but calls out ‘selective outrage’.",
+        "source": "The Hindu",
+        "headline": "Mehbooba Mufti welcomes BRICS condemnation of Pahalgam terror attack, but calls out ‘selective outrage’"
+      },
+      {
+        "word": "Manhandle",
+        "pos": "verb",
+        "meaning": "Handle (a person or thing) roughly.",
+        "synonyms": [
+          "Maltreat",
+          "Rough up",
+          "Assault"
+        ],
+        "example": "University officials claimed that some students manhandled members of the proctorial team.",
+        "source": "The Hindu",
+        "headline": "Jamia hostel protest over mess food escalates; varsity denies assault charges"
+      },
+      {
+        "word": "Counterfeit",
+        "pos": "adjective",
+        "meaning": "Made in exact imitation of something valuable or important with the intention to deceive or defraud.",
+        "synonyms": [
+          "Fake",
+          "Bogus",
+          "Forged"
+        ],
+        "example": "Large stock of counterfeit medicines seized from private facility.",
+        "source": "The Hindu",
+        "headline": "Large stock of counterfeit medicines seized from private facility in Bengaluru"
+      },
+      {
+        "word": "Allegations",
+        "pos": "noun",
+        "meaning": "A claim or assertion that someone has done something illegal or wrong, typically one made without proof.",
+        "synonyms": [
+          "Accusations",
+          "Claims",
+          "Charges"
+        ],
+        "example": "The Minister says the ED had only expressed suspicions and made allegations.",
+        "source": "The Hindu",
+        "headline": "Complainant in ED case has relations with Congress, but is a BJP voter: Jarkiholi"
+      },
+      {
+        "word": "Formidable",
+        "pos": "adjective",
+        "meaning": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+        "synonyms": [
+          "Intimidating",
+          "Redoubtable",
+          "Powerful"
+        ],
+        "example": "Sustained Iranian support has helped the Shia militant group transform itself into a formidable power.",
+        "source": "The Hindu",
+        "headline": "The Houthis vs Saudi Arabia | The new lords of the Red Sea"
+      },
+      {
+        "word": "Dethrones",
+        "pos": "verb",
+        "meaning": "Remove (a monarch) from power; to remove from a position of power or superiority.",
+        "synonyms": [
+          "Depose",
+          "Unseat",
+          "Oust"
+        ],
+        "example": "Elena Rybakina dethrones Aryna Sabalenka to win US Open title.",
+        "source": "Times of India",
+        "headline": "New No. 1 Elena Rybakina dethrones Aryna Sabalenka to win US Open title"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-12",
+    "label": "12 September 2026",
+    "words": [
+      {
+        "word": "Demolish",
+        "pos": "verb",
+        "meaning": "To completely destroy a building or other structure.",
+        "synonyms": [
+          "raze",
+          "dismantle",
+          "wreck"
+        ],
+        "example": "Authorities moved quickly to demolish the mosque, tearing it down within three days of the eviction order.",
+        "source": "The Hindu",
+        "headline": "Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery"
+      },
+      {
+        "word": "Erupt",
+        "pos": "verb",
+        "meaning": "To suddenly begin to happen or break out in an uncontrolled way.",
+        "synonyms": [
+          "flare",
+          "ignite",
+          "explode"
+        ],
+        "example": "The campaign comes close on the heels of a row that erupted following the death of a Dalit villager.",
+        "source": "The Hindu",
+        "headline": "With eye on poll, BJP to begin ‘drug-free Punjab’ drive amid row over Dalit villager’s death"
+      },
+      {
+        "word": "Purify",
+        "pos": "verb",
+        "meaning": "To remove harmful or unwanted substances from something.",
+        "synonyms": [
+          "cleanse",
+          "refine",
+          "decontaminate"
+        ],
+        "example": "ABVP 'purifies' her office after the vice-principal was 'forced' to resign.",
+        "source": "The Hindu",
+        "headline": "Vice-principal of Kolkata college ‘forced’ to resign; ABVP ‘purifies’ her office"
+      },
+      {
+        "word": "Alleged",
+        "pos": "adjective",
+        "meaning": "Stated to have happened or be true but without proof.",
+        "synonyms": [
+          "supposed",
+          "purported",
+          "unproven"
+        ],
+        "example": "He had been on the run for over a month following the alleged gold fraud incident.",
+        "source": "The Hindu",
+        "headline": "Alleged gold fraud: suspect at large arrested from Malappuram"
+      },
+      {
+        "word": "Derail",
+        "pos": "verb",
+        "meaning": "To cause a train or tram to leave its tracks.",
+        "synonyms": [
+          "come off tracks",
+          "run off"
+        ],
+        "example": "The train derailed after hitting an unidentified object, injuring 44 people.",
+        "source": "The Hindu",
+        "headline": "Train derails in northern France, injuring 44 people"
+      },
+      {
+        "word": "Assail",
+        "pos": "verb",
+        "meaning": "To make a concerted or violent attack on.",
+        "synonyms": [
+          "attack",
+          "criticize",
+          "denounce"
+        ],
+        "example": "Vance assails Democratic 'hatred' in fiery U.S. midterm pitch.",
+        "source": "The Hindu",
+        "headline": "Vance assails Democratic 'hatred' in fiery U.S. midterm pitch"
+      },
+      {
+        "word": "Flare",
+        "pos": "verb",
+        "meaning": "To suddenly intensify, especially a conflict or emotion.",
+        "synonyms": [
+          "escalate",
+          "intensify",
+          "erupt"
+        ],
+        "example": "Iran and Saudi Arabia discuss regional 'insecurity' as Yemen fighting flares.",
+        "source": "The Hindu",
+        "headline": "Iran, Saudi Arabia discuss regional 'insecurity' as Yemen fighting flares"
+      },
+      {
+        "word": "Acquit",
+        "pos": "verb",
+        "meaning": "To free someone from a criminal charge by a verdict of not guilty.",
+        "synonyms": [
+          "exonerate",
+          "absolve",
+          "clear"
+        ],
+        "example": "Yoon was acquitted in a case related to a South Korean marine's drowning, in a rare legal reprieve.",
+        "source": "The Hindu",
+        "headline": "Yoon acquitted in case related to South Korean marine's drowning in rare legal reprieve"
+      },
+      {
+        "word": "Mandate",
+        "pos": "verb",
+        "meaning": "To officially order or require something.",
+        "synonyms": [
+          "command",
+          "decree",
+          "enjoin"
+        ],
+        "example": "The Supreme Court has mandated that the FSSAI outline precise details about food warning labels.",
+        "source": "Times of India",
+        "headline": "SC's 13 queries to FSSAI: 'Give details on shape, size, colour of food label'"
+      },
+      {
+        "word": "Resilience",
+        "pos": "noun",
+        "meaning": "The capacity to recover quickly from difficulties; toughness.",
+        "synonyms": [
+          "fortitude",
+          "stamina",
+          "adaptability"
+        ],
+        "example": "Alexander Zverev battled his way to the US Open final, showcasing resilience in a gripping match.",
+        "source": "Times of India",
+        "headline": "Zverev beats Khachanov, reaches US Open final and eyes second major of year"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "label": "11 September 2026",
+    "words": [
+      {
+        "word": "Figurehead",
+        "pos": "noun",
+        "meaning": "A nominal leader or head without real power.",
+        "synonyms": [
+          "puppet",
+          "front man",
+          "titular head"
+        ],
+        "example": "For more than five decades, Indian women have built a feminist movement without a single figurehead.",
+        "source": "The Hindu",
+        "headline": "Who is the Gloria Steinem of India?"
+      },
+      {
+        "word": "Anthropogenic",
+        "pos": "adjective",
+        "meaning": "Originating in human activity.",
+        "synonyms": [
+          "man-made",
+          "human-induced",
+          "artificial"
+        ],
+        "example": "Elephants are facing anthropogenic hazards in Assam due to human activities.",
+        "source": "The Hindu",
+        "headline": "Elephants facing anthropogenic hazards in Assam"
+      },
+      {
+        "word": "Adjudicate",
+        "pos": "verb",
+        "meaning": "To make a formal judgment or decision about a problem or disputed matter.",
+        "synonyms": [
+          "judge",
+          "arbitrate",
+          "rule"
+        ],
+        "example": "The court refused to allow participation without first adjudicating upon the selection policy.",
+        "source": "The Hindu",
+        "headline": "Delhi HC refuses to allow Vinesh Phogat’s participation in selection trials for 2026 Senior World Championships"
+      },
+      {
+        "word": "Evasive",
+        "pos": "adjective",
+        "meaning": "Tending to avoid commitment or self-revelation, especially by responding indirectly.",
+        "synonyms": [
+          "elusive",
+          "cagey",
+          "indirect"
+        ],
+        "example": "Mr. Roy’s answers were proving evasive, and his custodial interrogation was necessary.",
+        "source": "The Hindu",
+        "headline": "Supreme Court declines pre-arrest relief to Abhishek Banerjee’s PA"
+      },
+      {
+        "word": "Bonafide",
+        "pos": "adjective",
+        "meaning": "Made, done, presented, etc., in good faith; without deception or fraud.",
+        "synonyms": [
+          "genuine",
+          "sincere",
+          "authentic"
+        ],
+        "example": "The top court orally said that the PIL was filed with an ulterior motive and lacked bonafide.",
+        "source": "The Hindu",
+        "headline": "SC refuses to entertain PIL raising concerns over HPV vaccination campaign"
+      },
+      {
+        "word": "Revoke",
+        "pos": "verb",
+        "meaning": "To put an end to the validity or operation of (a decision, appeal, or right).",
+        "synonyms": [
+          "cancel",
+          "rescind",
+          "annul"
+        ],
+        "example": "Sri Lanka Supreme Court revokes controversial monk’s presidential pardon.",
+        "source": "The Hindu",
+        "headline": "Sri Lanka Supreme Court revokes controversial monk’s presidential pardon"
+      },
+      {
+        "word": "Thaw",
+        "pos": "noun",
+        "meaning": "A period of warmer weather that melts snow and ice; figuratively, a relaxation of tension.",
+        "synonyms": [
+          "softening",
+          "easing",
+          "detente"
+        ],
+        "example": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion.",
+        "source": "The Hindu",
+        "headline": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion | Analysis"
+      },
+      {
+        "word": "Horrendous",
+        "pos": "adjective",
+        "meaning": "Extremely unpleasant, dreadful, or shocking.",
+        "synonyms": [
+          "terrible",
+          "dreadful",
+          "appalling"
+        ],
+        "example": "The world observes the 25th anniversary of the 9/11 that claimed over 3,000 lives, we look back at how The Hindu covered the horrendous attacks from the ground.",
+        "source": "The Hindu",
+        "headline": "9/11: How The Hindu covered the terror attacks on USA"
+      },
+      {
+        "word": "Disembarkation",
+        "pos": "noun",
+        "meaning": "The action of leaving a ship, aircraft, or other vehicle.",
+        "synonyms": [
+          "landing",
+          "alighting",
+          "debarkation"
+        ],
+        "example": "Protesters disrupted the disembarkation of scores of migrants near the port city.",
+        "source": "The Hindu",
+        "headline": "U.K. anti-migrant protesters mistakenly target Pakistan U-19 cricket team hotel: reports"
+      },
+      {
+        "word": "Multipolarity",
+        "pos": "noun",
+        "meaning": "A distribution of power in which more than two nation-states have nearly equal amounts of military, cultural, and economic influence.",
+        "synonyms": [
+          "plurality",
+          "diversity",
+          "decentralization"
+        ],
+        "example": "UN chief to stress multipolarity and UNSC reforms at BRICS Summit in India.",
+        "source": "The Hindu",
+        "headline": "UN chief to stress multipolarity, UNSC reforms at BRICS Summit in India"
+      }
+    ]
+  },
+  {
     "date": "2026-09-10",
     "label": "10 September 2026",
     "words": [
@@ -3396,686 +4075,6 @@
         "example": "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts.",
         "source": "The Hindu",
         "headline": "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-16",
-    "label": "16 August 2026",
-    "words": [
-      {
-        "word": "Venom",
-        "pos": "noun",
-        "meaning": "A poisonous substance secreted by animals, often injected through a bite or sting.",
-        "synonyms": [
-          "toxin",
-          "poison",
-          "bane"
-        ],
-        "example": "A common krait bit six girls, resulting in deaths due to venom.",
-        "source": "The Hindu",
-        "headline": "Taken by one of the big four: Snakebite at Maharashtra tribal school"
-      },
-      {
-        "word": "Agitation",
-        "pos": "noun",
-        "meaning": "A state of anxiety or nervous excitement, or a public protest about something.",
-        "synonyms": [
-          "protest",
-          "turmoil",
-          "commotion"
-        ],
-        "example": "On the 22nd day of the agitation seeking reforms, a 'Tiranga Yatra' was organised.",
-        "source": "The Hindu",
-        "headline": "Devendra Mahto alleges assault by Ranchi police after being stopped from joining Tiranga Yatra"
-      },
-      {
-        "word": "Simultaneously",
-        "pos": "adverb",
-        "meaning": "At the same time.",
-        "synonyms": [
-          "concurrently",
-          "concurrently",
-          "synchronously"
-        ],
-        "example": "Councillors simultaneously sing national anthem, Vande Mataram.",
-        "source": "The Hindu",
-        "headline": "Chaos at Kozhikode Corporation’s I-Day flag-hoisting as councillors simultaneously sing national anthem, Vande Mataram"
-      },
-      {
-        "word": "Secularism",
-        "pos": "noun",
-        "meaning": "The principle of separation of the state from religious institutions.",
-        "synonyms": [
-          "irreligiosity",
-          "non-sectarianism",
-          "laicism"
-        ],
-        "example": "Preserve democracy and secularism, says Minister Roji M. John.",
-        "source": "The Hindu",
-        "headline": "Preserve democracy and secularism, says Minister Roji M. John in his Independence Day message"
-      },
-      {
-        "word": "Indigenous",
-        "pos": "adjective",
-        "meaning": "Originating or occurring naturally in a particular place; native.",
-        "synonyms": [
-          "native",
-          "aboriginal",
-          "autochthonous"
-        ],
-        "example": "This indigenous device aims to reduce stent-related complications.",
-        "source": "The Hindu",
-        "headline": "SCTIMST unveils Chitra Core, its first coronary stent"
-      },
-      {
-        "word": "Repatriation",
-        "pos": "noun",
-        "meaning": "The return of someone to their own country.",
-        "synonyms": [
-          "return",
-          "deportation",
-          "expatriation"
-        ],
-        "example": "Myanmar says over 3,00,000 Rohingya refugees verified for repatriation.",
-        "source": "The Hindu",
-        "headline": "Myanmar says over 3,00,000 Rohingya refugees verified for repatriation as exodus enters ninth year"
-      },
-      {
-        "word": "Ramps",
-        "pos": "verb",
-        "meaning": "To increase the level or amount of something sharply.",
-        "synonyms": [
-          "escalate",
-          "boost",
-          "intensify"
-        ],
-        "example": "Ukraine attacks Russia's industrial site as Kyiv ramps up long-range strikes.",
-        "source": "The Hindu",
-        "headline": "Ukraine attacks Russia's Samara industrial site as Kyiv ramps up long-range strikes"
-      },
-      {
-        "word": "Transiting",
-        "pos": "verb",
-        "meaning": "To pass across or through.",
-        "synonyms": [
-          "passing",
-          "crossing",
-          "traversing"
-        ],
-        "example": "ADNOC confirmed that one of its vessels was attacked while transiting the Strait of Hormuz.",
-        "source": "The Hindu",
-        "headline": "UAE state oil company says vessel attacked in Hormuz Strait"
-      },
-      {
-        "word": "Evasions",
-        "pos": "noun",
-        "meaning": "The action of escaping or avoiding something.",
-        "synonyms": [
-          "avoidance",
-          "dodging",
-          "circumvention"
-        ],
-        "example": "White House report cites countries ‘enabling’ China’s tariff evasions.",
-        "source": "The Hindu",
-        "headline": "India in U.S. crosshairs again — White House report cites countries ‘enabling’ China’s tariff evasions"
-      },
-      {
-        "word": "Plagiarism",
-        "pos": "noun",
-        "meaning": "The practice of taking someone else's work or ideas and passing them off as one's own.",
-        "synonyms": [
-          "piracy",
-          "copying",
-          "infringement"
-        ],
-        "example": "The plagiarism scandal erupted after some academics accused Arday.",
-        "source": "The Hindu",
-        "headline": "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "label": "15 August 2026",
-    "words": [
-      {
-        "word": "Commemorate",
-        "pos": "verb",
-        "meaning": "To recall and show respect for (someone or something) in a ceremony.",
-        "synonyms": [
-          "celebrate",
-          "memorialize",
-          "honor"
-        ],
-        "example": "The nation will be commemorating the 80th Independence Day, a red-letter day in the history of India.",
-        "source": "The Hindu",
-        "headline": "Independence Day LIVE updates: PM Modi greets people"
-      },
-      {
-        "word": "Endow",
-        "pos": "verb",
-        "meaning": "To provide with a quality, ability, or asset.",
-        "synonyms": [
-          "bestow",
-          "furnish",
-          "grant"
-        ],
-        "example": "With 119 EROs endowed with quasi judicial powers set to adjudicate over 94 lakh cases, they would get less than a minute’s time to verify each elector.",
-        "source": "The Hindu",
-        "headline": "Telangana SIR: Botched-up enumeration phase leaves 94 lakh electors at the mercy of 119 EROs"
-      },
-      {
-        "word": "Adjudicate",
-        "pos": "verb",
-        "meaning": "To make a formal judgment or decision about a problem or disputed matter.",
-        "synonyms": [
-          "arbitrate",
-          "judge",
-          "decide"
-        ],
-        "example": "With 119 EROs endowed with quasi judicial powers set to adjudicate over 94 lakh cases, they would get less than a minute’s time to verify each elector.",
-        "source": "The Hindu",
-        "headline": "Telangana SIR: Botched-up enumeration phase leaves 94 lakh electors at the mercy of 119 EROs"
-      },
-      {
-        "word": "Condemnable",
-        "pos": "adjective",
-        "meaning": "Deserving strong disapproval; reprehensible.",
-        "synonyms": [
-          "deplorable",
-          "reprehensible",
-          "blameworthy"
-        ],
-        "example": "Defence Minister Rajnath Singh says Rahul’s comments, made at a Congress event, had been 'extremely low-level and condemnable'.",
-        "source": "The Hindu",
-        "headline": "Union Ministers call Rahul Gandhi’s remarks on PM Modi ‘undignified, undemocratic’"
-      },
-      {
-        "word": "Coercive",
-        "pos": "adjective",
-        "meaning": "Relating to or using force or threats.",
-        "synonyms": [
-          "compulsory",
-          "intimidating",
-          "forcible"
-        ],
-        "example": "Supreme Court bars BCI from taking coercive action against NALSAR students, faculty, or administration.",
-        "source": "The Hindu",
-        "headline": "CJI criticises BCI’s interference in ‘dialogue’ between him and students"
-      },
-      {
-        "word": "Dilly-Dally",
-        "pos": "verb",
-        "meaning": "To waste time through aimless lingering or hesitation.",
-        "synonyms": [
-          "procrastinate",
-          "dawdle",
-          "hesitate"
-        ],
-        "example": "J&K CM Omar Abdullah accused the Centre of dilly dallying on the issue of Transaction of Business Rules.",
-        "source": "The Hindu",
-        "headline": "Upset by Centre’s response on business rules, reservation report, Omar Abdullah warns of Gen Z-style agitation in J&K"
-      },
-      {
-        "word": "Proforma",
-        "pos": "noun",
-        "meaning": "A standardized document or form.",
-        "synonyms": [
-          "template",
-          "format",
-          "schema"
-        ],
-        "example": "Unmarked proforma being served to West Bengal madrasas by police seeking details of foreign funding, visitors.",
-        "source": "The Hindu",
-        "headline": "Unmarked proforma being served to West Bengal madrasas by police seeking details of foreign funding, visitors"
-      },
-      {
-        "word": "Carcass",
-        "pos": "noun",
-        "meaning": "The dead body of an animal.",
-        "synonyms": [
-          "cadaver",
-          "remains",
-          "corpse"
-        ],
-        "example": "Carcasses of 10 animals found in Vorkady panchayat over the past two weeks.",
-        "source": "The Hindu",
-        "headline": "Death of wild boars raises concerns in Kerala’s Kasaragod"
-      },
-      {
-        "word": "Procure",
-        "pos": "verb",
-        "meaning": "To obtain (something), especially with care or effort.",
-        "synonyms": [
-          "acquire",
-          "obtain",
-          "secure"
-        ],
-        "example": "The U.S. has tightened economic sanctions against Iran and other individuals and entities that it says are helping it procure weapons.",
-        "source": "The Hindu",
-        "headline": "West Asia war highlights: Bessent says U.S. to apply measures never seen on Iran"
-      },
-      {
-        "word": "Annexation",
-        "pos": "noun",
-        "meaning": "The action of annexing something, especially territory.",
-        "synonyms": [
-          "seizure",
-          "occupation",
-          "incorporation"
-        ],
-        "example": "The measure, if implemented, would be a step towards Israeli annexation of the occupied Palestinian territory.",
-        "source": "The Hindu",
-        "headline": "Israel’s Katz calls for police to replace military in handling West Bank settlers"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "label": "14 August 2026",
-    "words": [
-      {
-        "word": "Siltation",
-        "pos": "noun",
-        "meaning": "The accumulation of silt or other fine sediment.",
-        "synonyms": [
-          "sedimentation",
-          "clogging",
-          "deposition"
-        ],
-        "example": "The choking of tanks due to siltation crippled irrigation sources.",
-        "source": "The Hindu",
-        "headline": "Rejuvenating shrinking tanks in Andhra"
-      },
-      {
-        "word": "Bereft",
-        "pos": "adjective",
-        "meaning": "Deprived of or lacking something.",
-        "synonyms": [
-          "devoid",
-          "lacking",
-          "wanting"
-        ],
-        "example": "On Haridwar’s holy but littered ghats, people arrived barefoot and bereft.",
-        "source": "The Hindu",
-        "headline": "Gen Z’s kanwariyas: barefoot and bereft"
-      },
-      {
-        "word": "Demarcation",
-        "pos": "noun",
-        "meaning": "The action of fixing the boundary or limits of something.",
-        "synonyms": [
-          "delineation",
-          "boundary",
-          "separation"
-        ],
-        "example": "Under Section 24, related to demarcation/measurement, 28,556 cases were pending.",
-        "source": "The Hindu",
-        "headline": "Uttar Pradesh government accelerates disposal of revenue cases"
-      },
-      {
-        "word": "Conferred",
-        "pos": "verb",
-        "meaning": "Grant or bestow (a title, degree, benefit, or right).",
-        "synonyms": [
-          "bestowed",
-          "granted",
-          "awarded"
-        ],
-        "example": "Nagendra Roy was conferred the award in February this year by the Trinamool Congress government.",
-        "source": "The Hindu",
-        "headline": "Bengal government withdraws Banga Bibhusan to BJP MP Nagendra Roy"
-      },
-      {
-        "word": "Succumbed",
-        "pos": "verb",
-        "meaning": "Fail to resist pressure, temptation, or some other negative force.",
-        "synonyms": [
-          "yielded",
-          "submitted",
-          "capitulated"
-        ],
-        "example": "The cancellation has stoked a controversy over whether the Nepal government has succumbed to pressure from Beijing.",
-        "source": "The Hindu",
-        "headline": "Analysis: Nepal cancels conference on Tibetan studies amid China pressure debate"
-      },
-      {
-        "word": "Conflagration",
-        "pos": "noun",
-        "meaning": "An extensive fire which destroys a great deal of land or property.",
-        "synonyms": [
-          "inferno",
-          "blaze",
-          "firestorm"
-        ],
-        "example": "The three Sunni Muslim U.S. allies were alarmed by a regional conflagration.",
-        "source": "The Hindu",
-        "headline": "Turkiye lays out plans for defence pact with Pakistan, Saudi Arabia"
-      },
-      {
-        "word": "Incursion",
-        "pos": "noun",
-        "meaning": "An unwelcome intrusion into a place or sphere of activity.",
-        "synonyms": [
-          "raid",
-          "invasion",
-          "foray"
-        ],
-        "example": "Chinese incursion: Arunachal students’ body plans to hoist national flag at frontier village.",
-        "source": "The Hindu",
-        "headline": "Chinese incursion: Arunachal students’ body plans to hoist national flag at frontier village on I-Day"
-      },
-      {
-        "word": "Swelters",
-        "pos": "verb",
-        "meaning": "Suffer from oppressive heat.",
-        "synonyms": [
-          "suffers",
-          "perspires",
-          "broils"
-        ],
-        "example": "Britain poised for record hot summer as western Europe swelters under another heat wave.",
-        "source": "The Hindu",
-        "headline": "Britain poised for record hot summer as western Europe swelters under another heat wave"
-      },
-      {
-        "word": "Denounces",
-        "pos": "verb",
-        "meaning": "Publicly declare to be wrong or evil.",
-        "synonyms": [
-          "condemns",
-          "criticizes",
-          "reprimands"
-        ],
-        "example": "U.S. ambassador to Israel denounces settler siege on Palestinians as ‘terror’.",
-        "source": "The Hindu",
-        "headline": "U.S. ambassador to Israel denounces settler siege on Palestinians as ‘terror’"
-      },
-      {
-        "word": "Retracts",
-        "pos": "verb",
-        "meaning": "Draw back or in; withdraw (a statement or accusation) as untrue or unjustified.",
-        "synonyms": [
-          "withdraws",
-          "recants",
-          "revokes"
-        ],
-        "example": "BCI bars Nalsar students over CJI Surya Kant protest, retracts.",
-        "source": "Times of India",
-        "headline": "BCI bars Nalsar students over CJI Surya Kant protest, retracts"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "label": "13 August 2026",
-    "words": [
-      {
-        "word": "Stance",
-        "pos": "noun",
-        "meaning": "A way of thinking about something, especially expressed in a publicly stated opinion",
-        "synonyms": [
-          "viewpoint",
-          "position",
-          "attitude"
-        ],
-        "example": "The Centre softened its stance on the FCRA Bill following appeals.",
-        "source": "The Hindu",
-        "headline": "Centre softens stance on FCRA Bill following appeals by minority groups"
-      },
-      {
-        "word": "Adjourn",
-        "pos": "verb",
-        "meaning": "To suspend a meeting or session to another time or permanently",
-        "synonyms": [
-          "postpone",
-          "recess",
-          "suspend"
-        ],
-        "example": "Rajya Sabha adjourned amid a row over a remark made against an MP.",
-        "source": "The Hindu",
-        "headline": "Rajya Sabha adjourned amid row over ‘lungiwala’ remark against CPI(M) MP John Brittas"
-      },
-      {
-        "word": "Defiance",
-        "pos": "noun",
-        "meaning": "Open resistance; bold disobedience",
-        "synonyms": [
-          "insubordination",
-          "rebellion",
-          "contumacy"
-        ],
-        "example": "J&K Minister flagged the issue of 'defiance, disrespect' of a bureaucrat.",
-        "source": "The Hindu",
-        "headline": "J&K Minister Satish Sharma flags issue of ‘defiance, disrespect’ of bureaucrat with CM Omar Abdullah"
-      },
-      {
-        "word": "Embodiment",
-        "pos": "noun",
-        "meaning": "A tangible or visible form of an idea, quality, or feeling",
-        "synonyms": [
-          "incarnation",
-          "manifestation",
-          "personification"
-        ],
-        "example": "The Tiranga is the living embodiment of India’s consciousness and pride.",
-        "source": "The Hindu",
-        "headline": "Hundreds attended Tiranga Yatra in Kashmir; LG says ‘sends a clear message’"
-      },
-      {
-        "word": "Parole",
-        "pos": "noun",
-        "meaning": "The release of a prisoner temporarily or permanently before the completion of a sentence, on the promise of good behaviour",
-        "synonyms": [
-          "probation",
-          "release",
-          "leniency"
-        ],
-        "example": "Punjab CM seeks parole for an ex-CM assassination convict.",
-        "source": "The Hindu",
-        "headline": "Punjab CM Mann meets Governor, seeks parole for ex-CM Beant Singh assassination convict Hawara"
-      },
-      {
-        "word": "Uproar",
-        "pos": "noun",
-        "meaning": "A loud and impassioned noise or disturbance",
-        "synonyms": [
-          "commotion",
-          "turmoil",
-          "disorder"
-        ],
-        "example": "Uproar erupted as Ambedkar statues were vandalised in Uttar Pradesh.",
-        "source": "The Hindu",
-        "headline": "Uproar erupts as Ambedkar statues vandalised in Uttar Pradesh’s Unnao, Etawah"
-      },
-      {
-        "word": "Derogatory",
-        "pos": "adjective",
-        "meaning": "Showing a critical or disrespectful attitude",
-        "synonyms": [
-          "disparaging",
-          "insulting",
-          "demeaning"
-        ],
-        "example": "Bengal CM directs police to arrest those making derogatory remarks against Netaji.",
-        "source": "The Hindu",
-        "headline": "Bengal CM directs police to arrest those making derogatory remarks against Netaji"
-      },
-      {
-        "word": "Lenient",
-        "pos": "adjective",
-        "meaning": "More merciful or tolerant than expected",
-        "synonyms": [
-          "permissive",
-          "indulgent",
-          "forbearing"
-        ],
-        "example": "CM cautions police against being lenient towards criminals.",
-        "source": "The Hindu",
-        "headline": "CM cautions police against being lenient towards criminals"
-      },
-      {
-        "word": "Blitz",
-        "pos": "noun",
-        "meaning": "An intensive or sudden military attack",
-        "synonyms": [
-          "assault",
-          "onslaught",
-          "barrage"
-        ],
-        "example": "Overnight Ukrainian blitz damages Russia's Black Sea naval stronghold.",
-        "source": "The Hindu",
-        "headline": "Overnight Ukrainian blitz damages Russia's Black Sea naval stronghold, Zelenskyy says"
-      },
-      {
-        "word": "Evasive",
-        "pos": "adjective",
-        "meaning": "Tending to avoid commitment or self-revelation, especially by responding indirectly",
-        "synonyms": [
-          "elusive",
-          "ambiguous",
-          "indirect"
-        ],
-        "example": "A parliamentary panel found Justice Varma's testimony 'evasive' and 'misleading'.",
-        "source": "Times of India",
-        "headline": "‘Evasive, misleading’: Parliamentary panel on Justice Varma’s testimony"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "label": "12 August 2026",
-    "words": [
-      {
-        "word": "Fraudulent",
-        "pos": "adjective",
-        "meaning": "Intending to deceive; dishonest.",
-        "synonyms": [
-          "Deceptive",
-          "Dishonest",
-          "Crooked"
-        ],
-        "example": "Mr. Bijnoriya has been accused of carrying out fraudulent operations.",
-        "source": "The Hindu",
-        "headline": "ED arrests Bijnoriya in Nexa Evergreen money laundering case"
-      },
-      {
-        "word": "Heritage",
-        "pos": "noun",
-        "meaning": "Property that is or may be inherited; something that is passed down from preceding generations.",
-        "synonyms": [
-          "Legacy",
-          "Inheritance",
-          "Tradition"
-        ],
-        "example": "Chandigarh body seeks Vice-Presidents’ help to halt auction of Panjab University heritage furniture in U.S.",
-        "source": "The Hindu",
-        "headline": "Chandigarh body seeks Vice-Presidents’ help to halt auction of Panjab University heritage furniture in U.S."
-      },
-      {
-        "word": "Assent",
-        "pos": "noun",
-        "meaning": "Official agreement or approval.",
-        "synonyms": [
-          "Consent",
-          "Approval",
-          "Sanction"
-        ],
-        "example": "President Murmu gives assent to Bill criminalising insult to Vande Mataram.",
-        "source": "The Hindu",
-        "headline": "President Murmu gives assent to Bill criminalising insult to Vande Mataram"
-      },
-      {
-        "word": "Parasite",
-        "pos": "noun",
-        "meaning": "An organism that lives in or on another organism (its host) and benefits by deriving nutrients at the host's expense. Figuratively, one who lives off others.",
-        "synonyms": [
-          "Leech",
-          "Freeloader",
-          "Dependent"
-        ],
-        "example": "Hemant Soren calls BJP a ‘parasite’ as Jharkhand bandh hits normal life.",
-        "source": "The Hindu",
-        "headline": "Hemant Soren calls BJP a ‘parasite’ as Jharkhand bandh hits normal life"
-      },
-      {
-        "word": "Grave",
-        "pos": "adjective",
-        "meaning": "Very serious or important.",
-        "synonyms": [
-          "Serious",
-          "Solemn",
-          "Critical"
-        ],
-        "example": "Judge expresses grave dissatisfaction over report on progress of investigation.",
-        "source": "The Hindu",
-        "headline": "Microfinance scam probe: HC orders appearance of SIT head"
-      },
-      {
-        "word": "Detonated",
-        "pos": "verb",
-        "meaning": "Explode or cause to explode.",
-        "synonyms": [
-          "Exploded",
-          "Ignited",
-          "Blasted"
-        ],
-        "example": "Fawzi al-Mansouri was assassinated when an explosive stuck to his car detonated.",
-        "source": "The Hindu",
-        "headline": "Car bomb kills Haftar intel chief in eastern Libya"
-      },
-      {
-        "word": "Incursions",
-        "pos": "noun",
-        "meaning": "An invasion or attack, especially a sudden or brief one.",
-        "synonyms": [
-          "Raids",
-          "Forays",
-          "Intrusions"
-        ],
-        "example": "Peace in border areas of ‘utmost importance’, says MEA after reports of Chinese incursions.",
-        "source": "The Hindu",
-        "headline": "Peace in border areas of ‘utmost importance’, says MEA after reports of Chinese incursions"
-      },
-      {
-        "word": "Precarious",
-        "pos": "adjective",
-        "meaning": "Not securely held or in position; dangerously likely to fall or collapse.",
-        "synonyms": [
-          "Unstable",
-          "Uncertain",
-          "Risky"
-        ],
-        "example": "The situation in the region remains precarious due to ongoing clashes.",
-        "source": "The Hindu",
-        "headline": "Attackers kill 60 people in South Sudan cattle raid: local official"
-      },
-      {
-        "word": "Dwindled",
-        "pos": "verb",
-        "meaning": "Diminish gradually in size, amount, or strength.",
-        "synonyms": [
-          "Decreased",
-          "Shrunk",
-          "Lessen"
-        ],
-        "example": "U.S. stockpiles of key weapons have dwindled.",
-        "source": "The Hindu",
-        "headline": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle"
-      },
-      {
-        "word": "Extradition",
-        "pos": "noun",
-        "meaning": "The action of handing over a person accused or convicted of a crime to the jurisdiction of the foreign state in which the crime was committed.",
-        "synonyms": [
-          "Deportation",
-          "Rendition",
-          "Expulsion"
-        ],
-        "example": "Prosecutors want Tate brothers to remain in custody as they fight extradition to the U.K.",
-        "source": "The Hindu",
-        "headline": "U.S. prosecutors want Tate brothers to remain in custody as they fight extradition to the U.K."
       }
     ]
   }
