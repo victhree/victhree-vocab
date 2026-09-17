@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-17",
+    "label": "17 September 2026",
+    "words": [
+      {
+        "word": "Inalienable",
+        "pos": "adjective",
+        "meaning": "not subject to being taken away from or given away by the possessor",
+        "synonyms": [
+          "absolute",
+          "inherent",
+          "sacrosanct"
+        ],
+        "example": "The ministry asserted that Ladakh and Jammu and Kashmir remain inalienable parts of the nation.",
+        "source": "The Hindu",
+        "headline": "India rejects Pakistan-China Boundary Joint Commission ‘which is without any legal basis’"
+      },
+      {
+        "word": "Chagrin",
+        "pos": "noun",
+        "meaning": "annoyance or distress at having failed or been humiliated",
+        "synonyms": [
+          "vexation",
+          "displeasure",
+          "irritation"
+        ],
+        "example": "The court expressed deep chagrin that the petitioners had begun criticizing the committee before its work even started.",
+        "source": "The Hindu",
+        "headline": "NEET-UG protests: Supreme Court refuses change in High-Powered Enquiry Committee, says inquiry on pellet guns, excesses must…"
+      },
+      {
+        "word": "Disparagement",
+        "pos": "noun",
+        "meaning": "the act of speaking about someone or something in a hurtful or belittling way",
+        "synonyms": [
+          "deprecation",
+          "derogation",
+          "denigration"
+        ],
+        "example": "The relentless disparagement of the judicial panel by the petitioners was criticized by the bench.",
+        "source": "The Hindu",
+        "headline": "NEET-UG protests: Supreme Court refuses change in High-Powered Enquiry Committee, says inquiry on pellet guns, excesses must…"
+      },
+      {
+        "word": "Impute",
+        "pos": "verb",
+        "meaning": "to represent something, especially something undesirable, as being done or possessed by someone",
+        "synonyms": [
+          "attribute",
+          "ascribe",
+          "assign"
+        ],
+        "example": "The court ruled that falsely imputing statements to lawyers during oral submissions is a serious offense.",
+        "source": "The Hindu",
+        "headline": "Falsely quoting judges in barred online court clips is criminal conduct, says Supreme Court"
+      },
+      {
+        "word": "Secede",
+        "pos": "verb",
+        "meaning": "to withdraw formally from membership of a federal union, an alliance, or a political organization",
+        "synonyms": [
+          "breakaway",
+          "withdraw",
+          "split"
+        ],
+        "example": "The small village voted to secede from the kingdom in a symbolic protest over the new policy.",
+        "source": "The Hindu",
+        "headline": "English village votes to 'secede' from U.K. over asylum centre plan"
+      },
+      {
+        "word": "Graft",
+        "pos": "noun",
+        "meaning": "practices, especially bribery, used to secure illicit gains in politics or business",
+        "synonyms": [
+          "corruption",
+          "peculation",
+          "venality"
+        ],
+        "example": "The newly elected government revived long-dormant graft investigations against former political figures.",
+        "source": "The Hindu",
+        "headline": "Sri Lanka summons ex-first lady in charity graft probe"
+      },
+      {
+        "word": "Curtail",
+        "pos": "verb",
+        "meaning": "to reduce in extent or quantity; to impose a restriction on",
+        "synonyms": [
+          "restrict",
+          "diminish",
+          "truncate"
+        ],
+        "example": "The High Court observed that personal choices regarding relationships cannot be curtailed by external pressures.",
+        "source": "The Hindu",
+        "headline": "Allahabad HC frees man confined after conversion, relationship with Muslim woman; cites Articles 21, 25"
+      },
+      {
+        "word": "Compassionate",
+        "pos": "adjective",
+        "meaning": "feeling or showing sympathy and concern for others",
+        "synonyms": [
+          "empathetic",
+          "benevolent",
+          "merciful"
+        ],
+        "example": "The state government decided to adopt a compassionate approach to help young citizens recover from addiction.",
+        "source": "The Hindu",
+        "headline": "Himachal’s policy uncompromising toward those involved in illegal drug trade: CM Sukhu"
+      },
+      {
+        "word": "Prowess",
+        "pos": "noun",
+        "meaning": "skill or expertise in a particular activity or field",
+        "synonyms": [
+          "dexterity",
+          "mastery",
+          "adeptness"
+        ],
+        "example": "The upcoming athletic events will highlight the physical prowess of the participating competitors.",
+        "source": "Times of India",
+        "headline": "Football on table, wrestling without groundwork: Unusual sports India will play at Asiad"
+      },
+      {
+        "word": "Contradictory",
+        "pos": "adjective",
+        "meaning": "mutually opposed or inconsistent",
+        "synonyms": [
+          "discrepant",
+          "antithetical",
+          "incompatible"
+        ],
+        "example": "The authorities sought clarification regarding the contradictory statements issued by the protest organizers.",
+        "source": "The Hindu",
+        "headline": "Mumbai Police seek clarification from Manoj Jarange over 'contradictory' statements on proposed protest"
+      }
+    ]
+  },
+  {
     "date": "2026-09-16",
     "label": "16 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "Hakainde Hichilema was re-elected for a second term following contentious polls.",
         "source": "The Hindu",
         "headline": "Zambia President Hichilema re-elected for second term following contentious polls"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-18",
-    "label": "18 August 2026",
-    "words": [
-      {
-        "word": "Tainted",
-        "pos": "adjective",
-        "meaning": "Contaminated or morally corrupted.",
-        "synonyms": [
-          "Corrupt",
-          "Defiled",
-          "Sullied"
-        ],
-        "example": "The Jharkhand government cancelled exams conducted by the tainted firm.",
-        "source": "The Hindu",
-        "headline": "Jharkhand government cancels JSSC-CGL exam, all exams conducted by tainted firm"
-      },
-      {
-        "word": "Abetment",
-        "pos": "noun",
-        "meaning": "The act of encouraging or assisting someone to commit an offense.",
-        "synonyms": [
-          "Incitement",
-          "Complicity",
-          "Aid"
-        ],
-        "example": "The CBI accuses Giribala and Samarth of abetment of suicide.",
-        "source": "The Hindu",
-        "headline": "Twisha Sharma case: CBI accuses Giribala, Samarth of abetment of suicide"
-      },
-      {
-        "word": "Null",
-        "pos": "adjective",
-        "meaning": "Having no legal or binding force; invalid.",
-        "synonyms": [
-          "Void",
-          "Invalid",
-          "Ineffective"
-        ],
-        "example": "Advocate Mehmood Pracha sought to have the Supreme Court’s 2019 Ayodhya verdict declared null and void.",
-        "source": "The Hindu",
-        "headline": "Delhi Court orders property attachment of Advocate Mehmood Pracha over unpaid fine"
-      },
-      {
-        "word": "Overhaul",
-        "pos": "noun",
-        "meaning": "A thorough examination and renovation of something.",
-        "synonyms": [
-          "Renovation",
-          "Restoration",
-          "Reconstruction"
-        ],
-        "example": "Left parties demand an overhaul of the education policy and testing mechanism.",
-        "source": "The Hindu",
-        "headline": "Left parties renew call to scrap NTA, NEP after UGC-NET paper errors"
-      },
-      {
-        "word": "Impede",
-        "pos": "verb",
-        "meaning": "To hinder or obstruct the progress of.",
-        "synonyms": [
-          "Obstruct",
-          "Hinder",
-          "Hamper"
-        ],
-        "example": "Impeding elephant corridors is not a solution to human-animal conflicts.",
-        "source": "The Hindu",
-        "headline": "No State can block traditional routes of elephants: Supreme Court"
-      },
-      {
-        "word": "Formidable",
-        "pos": "adjective",
-        "meaning": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
-        "synonyms": [
-          "Intimidating",
-          "Daunting",
-          "Redoubtable"
-        ],
-        "example": "A bigger profile comes with a formidable challenge for Deepak Mhaskey.",
-        "source": "The Hindu",
-        "headline": "Bigger profile comes with a formidable challenge for Deepak Mhaskey"
-      },
-      {
-        "word": "Repatriation",
-        "pos": "noun",
-        "meaning": "The return of someone to their own country.",
-        "synonyms": [
-          "Deportation",
-          "Expatriation",
-          "Resettlement"
-        ],
-        "example": "Myanmar says security issues are delaying the repatriation of Rohingya.",
-        "source": "The Hindu",
-        "headline": "Myanmar confirms nearly 3,09,000 Rohingya in Bangladesh, says security issues delaying repatriation"
-      },
-      {
-        "word": "Escalate",
-        "pos": "verb",
-        "meaning": "To increase rapidly in intensity or magnitude.",
-        "synonyms": [
-          "Intensify",
-          "Worsen",
-          "Mount"
-        ],
-        "example": "Iran says it will escalate if the U.S. does not honour the deal within weeks.",
-        "source": "The Hindu",
-        "headline": "Iran says it will escalate if U.S. does not honour deal within weeks"
-      },
-      {
-        "word": "Hounding",
-        "pos": "noun",
-        "meaning": "The act of persistently harassing or pursuing someone.",
-        "synonyms": [
-          "Persecution",
-          "Harassment",
-          "Badgering"
-        ],
-        "example": "There are calls for a U.K. inquiry into the hounding of an ex-Cambridge academic.",
-        "source": "The Hindu",
-        "headline": "Calls for U.K. inquiry into ‘hounding’ of ex-Cambridge academic"
-      },
-      {
-        "word": "Capsize",
-        "pos": "verb",
-        "meaning": "(Of a boat) to overturn in the water.",
-        "synonyms": [
-          "Overturn",
-          "Flip",
-          "Upset"
-        ],
-        "example": "The death toll in the Zimbabwe ferry capsizing rises to 68.",
-        "source": "The Hindu",
-        "headline": "Death toll in Zimbabwe ferry capsizing rises to 68: police"
       }
     ]
   }
