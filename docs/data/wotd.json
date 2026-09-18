@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-18",
+    "label": "18 September 2026",
+    "words": [
+      {
+        "word": "Conscientious",
+        "pos": "adjective",
+        "meaning": "wishing to do one's work or duty well and thoroughly",
+        "synonyms": [
+          "diligent",
+          "industrious",
+          "scrupulous"
+        ],
+        "example": "She is a conscientious citizen of the country who cares about public interest.",
+        "source": "The Hindu",
+        "headline": "Satya Niketan building collapse case: Kiran Bedi moves Delhi HC seeking to intervene; Centre opposes"
+      },
+      {
+        "word": "Hegemony",
+        "pos": "noun",
+        "meaning": "leadership or dominance, especially by one state or social group over others",
+        "synonyms": [
+          "dominance",
+          "supremacy",
+          "ascendancy"
+        ],
+        "example": "The crucial Uttar Pradesh test of the BJP’s hegemony raises questions about political dominance.",
+        "source": "The Hindu",
+        "headline": "The crucial Uttar Pradesh test of the BJP’s hegemony"
+      },
+      {
+        "word": "Defiance",
+        "pos": "noun",
+        "meaning": "open resistance or bold disobedience",
+        "synonyms": [
+          "resistance",
+          "opposition",
+          "rebelliousness"
+        ],
+        "example": "He traveled to Ukraine in what can be seen as an act of defiance against Russia.",
+        "source": "The Hindu",
+        "headline": "Poland warns Russia planning drone or rocket strikes on NATO territory, says attacks will be called ‘accidental’"
+      },
+      {
+        "word": "Decentralisation",
+        "pos": "noun",
+        "meaning": "the transfer of control of an activity or organization to several local areas rather than one single centre",
+        "synonyms": [
+          "devolution",
+          "fragmentation",
+          "dispersion"
+        ],
+        "example": "If we could achieve this decentralisation, local bodies would gain greater fiscal autonomy.",
+        "source": "The Hindu",
+        "headline": "State Finance Commission chairman calls for authority, greater fiscal autonomy for local bodies"
+      },
+      {
+        "word": "Discontent",
+        "pos": "noun",
+        "meaning": "dissatisfaction with one's circumstances",
+        "synonyms": [
+          "dissatisfaction",
+          "grievance",
+          "resentment"
+        ],
+        "example": "The survey proposing a charge for access to free learning modules created widespread discontent.",
+        "source": "The Hindu",
+        "headline": "NPTEL survey proposing ‘charge’ for access to free learning modules creates discontent"
+      },
+      {
+        "word": "Austerity",
+        "pos": "noun",
+        "meaning": "conditions characterized by severe austerity, especially economic ones",
+        "synonyms": [
+          "stringency",
+          "rigidity",
+          "sobriety"
+        ],
+        "example": "Pakistan announced austerity measures amid rising fuel prices and economic crisis.",
+        "source": "The Hindu",
+        "headline": "Pakistan announces austerity measures amid rising fuel prices"
+      },
+      {
+        "word": "Allegation",
+        "pos": "noun",
+        "meaning": "a claim or assertion that someone has done something illegal or wrong, typically one made without proof",
+        "synonyms": [
+          "charge",
+          "accusation",
+          "claim"
+        ],
+        "example": "A Buckingham Palace spokesperson responded to Charles Spencer’s allegations regarding Princess Diana.",
+        "source": "The Hindu",
+        "headline": "What King Charles said in response to Charles Spencer’s claims about Princess Diana in his memoir"
+      },
+      {
+        "word": "Compromised",
+        "pos": "adjective",
+        "meaning": "made vulnerable or exposed to danger or security breaches",
+        "synonyms": [
+          "impaired",
+          "vulnerable",
+          "weakened"
+        ],
+        "example": "Two US-bound vessels were apparently compromised by hackers.",
+        "source": "The Hindu",
+        "headline": "Two U.S.-bound vessels apparently compromised by hackers: officials"
+      },
+      {
+        "word": "Jurisdiction",
+        "pos": "noun",
+        "meaning": "the official power to make legal decisions and judgements",
+        "synonyms": [
+          "authority",
+          "control",
+          "dominion"
+        ],
+        "example": "China opposes the U.S. sanctions bill, stating it will not accept long-arm jurisdiction.",
+        "source": "The Hindu",
+        "headline": "China opposes U.S. sanctions bill, says will not accept 'long-arm jurisdiction'"
+      },
+      {
+        "word": "Inaugural",
+        "pos": "adjective",
+        "meaning": "marking the beginning of an institution, activity, or period of office",
+        "synonyms": [
+          "opening",
+          "initial",
+          "first"
+        ],
+        "example": "The inaugural meeting of the Commission was held at the Ministry of Foreign Affairs in Islamabad.",
+        "source": "The Hindu",
+        "headline": "Pakistan, China activate boundary joint commission in Islamabad"
+      }
+    ]
+  },
+  {
     "date": "2026-09-17",
     "label": "17 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "Harmanpreet rues India’s lapses despite Pakistan win, stating they cannot afford any mistake.",
         "source": "Times of India",
         "headline": "‘Cannot afford any mistake’: Harmanpreet rues India’s lapses despite Pakistan win"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-19",
-    "label": "19 August 2026",
-    "words": [
-      {
-        "word": "Dividend",
-        "pos": "noun",
-        "meaning": "A benefit or advantage from an action or policy.",
-        "synonyms": [
-          "bonus",
-          "gain",
-          "return"
-        ],
-        "example": "The Congress party has recently reaped rich electoral dividends in the state.",
-        "source": "The Hindu",
-        "headline": "Factors at play in choosing the next Keralam Congress chief"
-      },
-      {
-        "word": "Reiterate",
-        "pos": "verb",
-        "meaning": "To say something again or a number of times, typically for emphasis or clarity.",
-        "synonyms": [
-          "repeat",
-          "restate",
-          "stress"
-        ],
-        "example": "India reiterates its support for a negotiated two-state solution in Palestine.",
-        "source": "The Hindu",
-        "headline": "India reiterates support for negotiated two-state solution in Palestine: MEA Secretary Ranganathan"
-      },
-      {
-        "word": "Convey",
-        "pos": "verb",
-        "meaning": "To make an idea, impression, or feeling known or understandable to someone.",
-        "synonyms": [
-          "communicate",
-          "express",
-          "impart"
-        ],
-        "example": "Ms. Ranganathan also conveyed India’s concern over the grave humanitarian situation in Gaza.",
-        "source": "The Hindu",
-        "headline": "India reiterates support for negotiated two-state solution in Palestine: MEA Secretary Ranganathan"
-      },
-      {
-        "word": "Slap",
-        "pos": "verb",
-        "meaning": "To impose a penalty or punishment.",
-        "synonyms": [
-          "impose",
-          "levy",
-          "inflict"
-        ],
-        "example": "The MVD cracks down on illegal taxis, slapping a penalty of ₹1.47 lakh in Kochi.",
-        "source": "The Hindu",
-        "headline": "MVD cracks down on illegal taxis, slaps penalty of ₹1.47 lakh in Keralam’s Kochi"
-      },
-      {
-        "word": "Limbo",
-        "pos": "noun",
-        "meaning": "An uncertain period of awaiting a decision or resolution; an intermediate state or condition.",
-        "synonyms": [
-          "suspension",
-          "purgatory",
-          "uncertainty"
-        ],
-        "example": "The employment guarantee has slipped into limbo.",
-        "source": "The Hindu",
-        "headline": "Employment guarantee has slipped into limbo"
-      },
-      {
-        "word": "Irregularity",
-        "pos": "noun",
-        "meaning": "A deviation from what is normal, customary, or regular.",
-        "synonyms": [
-          "anomaly",
-          "abnormality",
-          "deviation"
-        ],
-        "example": "The Jharkhand Government releases a list of 44 recruitment exams cancelled due to irregularities.",
-        "source": "The Hindu",
-        "headline": "Jharkhand Government releases list of 44 recruitment exams cancelled due to irregularities"
-      },
-      {
-        "word": "Embolden",
-        "pos": "verb",
-        "meaning": "To give (someone) the courage or confidence to do something or to behave in a certain way.",
-        "synonyms": [
-          "encourage",
-          "inspire",
-          "hearten"
-        ],
-        "example": "The U.S. has been emboldened to make increasing demands on India.",
-        "source": "The Hindu",
-        "headline": "Time to push back: On India and the continuing U.S. pressure"
-      },
-      {
-        "word": "Tribulation",
-        "pos": "noun",
-        "meaning": "A cause of great trouble or suffering.",
-        "synonyms": [
-          "adversity",
-          "hardship",
-          "affliction"
-        ],
-        "example": "Deputy Chairperson Umashree recalls a life of triumphs and tribulations.",
-        "source": "The Hindu",
-        "headline": "Karnataka: Deputy Chairperson Umashree recalls life of triumphs and tribulations"
-      },
-      {
-        "word": "Vet",
-        "pos": "verb",
-        "meaning": "To make a careful and critical examination of (something).",
-        "synonyms": [
-          "scrutinize",
-          "examine",
-          "appraise"
-        ],
-        "example": "Karnataka forms a sub-committee to vet revised minimum wages.",
-        "source": "The Hindu",
-        "headline": "Karnataka forms sub-committee to vet revised minimum wages"
-      },
-      {
-        "word": "Contention",
-        "pos": "noun",
-        "meaning": "Heated disagreement.",
-        "synonyms": [
-          "dispute",
-          "argument",
-          "strife"
-        ],
-        "example": "Hakainde Hichilema was re-elected for a second term following contentious polls.",
-        "source": "The Hindu",
-        "headline": "Zambia President Hichilema re-elected for second term following contentious polls"
       }
     ]
   }
