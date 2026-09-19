@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-19",
+    "label": "19 September 2026",
+    "words": [
+      {
+        "word": "Adherence",
+        "pos": "noun",
+        "meaning": "steadfast attachment, obedience, or devotion to a rule, principle, or belief",
+        "synonyms": [
+          "compliance",
+          "fidelity",
+          "allegiance"
+        ],
+        "example": "Rigid adherence to safety protocols is mandatory during naval operations.",
+        "source": "The Hindu",
+        "headline": "Modern ‘secularism’ is a Western concept, does not fit India: Mohan Bhagwat"
+      },
+      {
+        "word": "Reiterate",
+        "pos": "verb",
+        "meaning": "to state or do repeatedly, often for emphasis or clarity",
+        "synonyms": [
+          "restate",
+          "reaffirm",
+          "recapitulate"
+        ],
+        "example": "The general reiterated the critical necessity of defending the strategic corridor.",
+        "source": "The Hindu",
+        "headline": "Udhayanidhi welcomes T.N.’s decision on Navodaya schools, seeks special Assembly session to reiterate State’s stand"
+      },
+      {
+        "word": "Rebuke",
+        "pos": "noun",
+        "meaning": "an expression of sharp, stern disapproval or criticism",
+        "synonyms": [
+          "reprimand",
+          "reproach",
+          "censure"
+        ],
+        "example": "The diplomat faced a severe rebuke after violating official protocol.",
+        "source": "The Hindu",
+        "headline": "North Korea says nuclear status 'irreversible' after UN atomic agency rebuke"
+      },
+      {
+        "word": "Irreversible",
+        "pos": "adjective",
+        "meaning": "incapable of being undone, altered, or returned to a previous condition",
+        "synonyms": [
+          "irrevocable",
+          "unalterable",
+          "permanent"
+        ],
+        "example": "The sudden air strike inflicted irreversible damage on enemy communications.",
+        "source": "The Hindu",
+        "headline": "North Korea says nuclear status 'irreversible' after UN atomic agency rebuke"
+      },
+      {
+        "word": "Oust",
+        "pos": "verb",
+        "meaning": "to forcefully drive out or remove someone from a position or place",
+        "synonyms": [
+          "expel",
+          "depose",
+          "dislodge"
+        ],
+        "example": "Rebel forces orchestrated an assault intended to oust the regime leaders.",
+        "source": "The Hindu",
+        "headline": "Trump to meet with Venezuela's interim President Rodriguez in New York on Sept. 22"
+      },
+      {
+        "word": "Rectification",
+        "pos": "noun",
+        "meaning": "the action of correcting, remedying, or setting something right",
+        "synonyms": [
+          "redress",
+          "remediation",
+          "amendment"
+        ],
+        "example": "Immediate rectification of navigation equipment is essential before open-sea deployment.",
+        "source": "The Hindu",
+        "headline": "Kerala HC directs Kochi Corporation to complete rectification work on S.A. Road within four months"
+      },
+      {
+        "word": "Commend",
+        "pos": "verb",
+        "meaning": "to praise formally or present as worthy of high regard",
+        "synonyms": [
+          "laud",
+          "applaud",
+          "extol"
+        ],
+        "example": "The chief commended the paratroopers for their valor during the counterinsurgency mission.",
+        "source": "The Hindu",
+        "headline": "India, Bhutan commend progress in bilateral development cooperation"
+      },
+      {
+        "word": "Quash",
+        "pos": "verb",
+        "meaning": "to suppress completely or subdue forcibly; to nullify or declare void",
+        "synonyms": [
+          "quell",
+          "extinguish",
+          "suppress"
+        ],
+        "example": "Special forces acted swiftly to quash the brewing insurgency in the valley.",
+        "source": "The Hindu",
+        "headline": "Hundreds of thousands attend Iran’s biggest government-organised rally since the war began"
+      },
+      {
+        "word": "Infringe",
+        "pos": "verb",
+        "meaning": "to encroach on, violate, or trespass upon a law, boundary, or agreement",
+        "synonyms": [
+          "transgress",
+          "encroach",
+          "violate"
+        ],
+        "example": "Naval patrols were deployed to ensure no foreign vessels infringe upon territorial waters.",
+        "source": "Times of India",
+        "headline": "US reaches deal with Denmark for ‘permanent security control’ over Greenland"
+      },
+      {
+        "word": "Desert",
+        "pos": "verb",
+        "meaning": "to abandon, forsake, or illegally leave a post or allegiance",
+        "synonyms": [
+          "forsake",
+          "abandon",
+          "relinquish"
+        ],
+        "example": "Soldiers who desert their posts during hostile engagements face harsh court-martial proceedings.",
+        "source": "Times of India",
+        "headline": "Mamata’s Nandigram nominee deserts, Congress’ pick arrested"
+      }
+    ]
+  },
+  {
     "date": "2026-09-18",
     "label": "18 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "The emails undermine Mr. Trump's assertions that the U.S. is at war with Iran.",
         "source": "The Hindu",
         "headline": "Quiet channel between ICE and Iran shaped deportation flights, newly released emails show"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "label": "20 August 2026",
-    "words": [
-      {
-        "word": "Authoritarian",
-        "pos": "adjective",
-        "meaning": "Enforcing strict obedience to authority at the expense of personal freedom.",
-        "synonyms": [
-          "autocratic",
-          "despotic",
-          "dictatorial"
-        ],
-        "example": "Ajay Rai dubbed the move an “authoritarian trend” amid the upcoming election.",
-        "source": "The Hindu",
-        "headline": "U.P. Congress president’s WhatsApp blocked, blames BJP for trying to silence Opposition voice"
-      },
-      {
-        "word": "Disrupt",
-        "pos": "verb",
-        "meaning": "Interrupt or impede the normal course of an activity or process.",
-        "synonyms": [
-          "disturb",
-          "obstruct",
-          "hinder"
-        ],
-        "example": "The move was aimed to cut off his communication with party workers and disrupted daily party work.",
-        "source": "The Hindu",
-        "headline": "U.P. Congress president’s WhatsApp blocked, blames BJP for trying to silence Opposition voice"
-      },
-      {
-        "word": "Alleging",
-        "pos": "verb",
-        "meaning": "Claiming that someone has done something illegal or wrong, typically without proof.",
-        "synonyms": [
-          "asserting",
-          "claiming",
-          "contending"
-        ],
-        "example": "General secretary Jairam Ramesh raises concerns over the Census questionnaire, alleging that the methodology adopted for collecting caste data is “deliberately flawed”.",
-        "source": "The Hindu",
-        "headline": "Census 2027 has a nefarious purpose, says Congress"
-      },
-      {
-        "word": "Nefarious",
-        "pos": "adjective",
-        "meaning": "Wicked or criminal.",
-        "synonyms": [
-          "evil",
-          "sinister",
-          "villainous"
-        ],
-        "example": "The Congress stated that the Census 2027 has a nefarious purpose.",
-        "source": "The Hindu",
-        "headline": "Census 2027 has a nefarious purpose, says Congress"
-      },
-      {
-        "word": "Probe",
-        "pos": "noun",
-        "meaning": "A thorough inquiry into a crime or other matter.",
-        "synonyms": [
-          "investigation",
-          "inquiry",
-          "examination"
-        ],
-        "example": "The Karnataka State Human Rights Commission team visits Hanur to probe death of three suspected poachers.",
-        "source": "The Hindu",
-        "headline": "Karnataka State Human Rights Commission team visits Hanur to probe death of three suspected poachers"
-      },
-      {
-        "word": "Irregularities",
-        "pos": "noun",
-        "meaning": "Violations of a rule or principle; something that is not regular.",
-        "synonyms": [
-          "anomalies",
-          "deviations",
-          "malpractices"
-        ],
-        "example": "ACB finds irregularities in Karimnagar civic body town planning section.",
-        "source": "The Hindu",
-        "headline": "ACB finds irregularities in Karimnagar civic body town planning section"
-      },
-      {
-        "word": "Belligerent",
-        "pos": "adjective",
-        "meaning": "Hostile and aggressive.",
-        "synonyms": [
-          "aggressive",
-          "combative",
-          "warlike"
-        ],
-        "example": "The international community is concerned about the increasingly belligerent rhetoric from some nations.",
-        "source": "The Hindu",
-        "headline": "Trump threatens economic punishment on ‘any country’ helping Iran"
-      },
-      {
-        "word": "Flagrant",
-        "pos": "adjective",
-        "meaning": "Conspicuously or obviously offensive.",
-        "synonyms": [
-          "blatant",
-          "glaring",
-          "egregious"
-        ],
-        "example": "The ICC says U.S. sanctions constitute a 'flagrant attack' on court independence.",
-        "source": "The Hindu",
-        "headline": "ICC says U.S. sanctions 'flagrant attack' on court independence"
-      },
-      {
-        "word": "Untenable",
-        "pos": "adjective",
-        "meaning": "Not able to be maintained or defended against attack or objection.",
-        "synonyms": [
-          "indefensible",
-          "unsustainable",
-          "unjustifiable"
-        ],
-        "example": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base.",
-        "source": "The Hindu",
-        "headline": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base"
-      },
-      {
-        "word": "Lapses",
-        "pos": "noun",
-        "meaning": "Temporary failures of concentration, memory, or judgment.",
-        "synonyms": [
-          "errors",
-          "mistakes",
-          "oversights"
-        ],
-        "example": "Harmanpreet rues India’s lapses despite Pakistan win, stating they cannot afford any mistake.",
-        "source": "Times of India",
-        "headline": "‘Cannot afford any mistake’: Harmanpreet rues India’s lapses despite Pakistan win"
       }
     ]
   }
