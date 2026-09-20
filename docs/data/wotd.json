@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-20",
+    "label": "20 September 2026",
+    "words": [
+      {
+        "word": "Clamour",
+        "pos": "noun",
+        "meaning": "A loud, continuous noise or a vehement expression of desire or dissatisfaction.",
+        "synonyms": [
+          "din",
+          "uproar",
+          "hue and cry"
+        ],
+        "example": "There was a loud clamour among the citizens for better public transport.",
+        "source": "The Hindu",
+        "headline": "Clamour grows in Keralam to augment coaches, introduce more MEMU trains"
+      },
+      {
+        "word": "Augment",
+        "pos": "verb",
+        "meaning": "To make something greater by adding to it; increase.",
+        "synonyms": [
+          "supplement",
+          "amplify",
+          "enlarge"
+        ],
+        "example": "The government plans to augment the existing defence budget for modernization.",
+        "source": "The Hindu",
+        "headline": "Clamour grows in Keralam to augment coaches, introduce more MEMU trains"
+      },
+      {
+        "word": "Superannuation",
+        "pos": "noun",
+        "meaning": "Regular payment made into a fund by an employee to be accumulated for a pension upon retirement.",
+        "synonyms": [
+          "retirement",
+          "pension fund",
+          "retirement scheme"
+        ],
+        "example": "He received all his terminal benefits upon reaching the age of superannuation.",
+        "source": "The Hindu",
+        "headline": "Caste Hindu candidate claims reservation through bogus community certificate, Madras High Court refuses to order release of…"
+      },
+      {
+        "word": "Disburse",
+        "pos": "verb",
+        "meaning": "To pay out money from a fund.",
+        "synonyms": [
+          "distribute",
+          "allocate",
+          "expend"
+        ],
+        "example": "The committee will disburse funds for flood relief operations next week.",
+        "source": "The Hindu",
+        "headline": "Caste Hindu candidate claims reservation through bogus community certificate, Madras High Court refuses to order release of…"
+      },
+      {
+        "word": "Introspection",
+        "pos": "noun",
+        "meaning": "The examination or observation of one's own mental and emotional processes.",
+        "synonyms": [
+          "self-analysis",
+          "contemplation",
+          "reflection"
+        ],
+        "example": "Judicial introspection is necessary to maintain public trust in the legal system.",
+        "source": "The Hindu",
+        "headline": "Judiciary at a crossroads, introspection necessary to restore neutrality: Justice Anand Venkatesh"
+      },
+      {
+        "word": "Blasphemy",
+        "pos": "noun",
+        "meaning": "The act or offense of speaking sacrilegiously about God or sacred things.",
+        "synonyms": [
+          "sacrilege",
+          "irreverence",
+          "profanity"
+        ],
+        "example": "He was arrested under strict laws concerning alleged blasphemy on social media.",
+        "source": "The Hindu",
+        "headline": "Sri Lankan lawmaker seeks Modi’s intervention in Saudi case involving Tamil youth"
+      },
+      {
+        "word": "Unwarranted",
+        "pos": "adjective",
+        "meaning": "Not justified or authorized.",
+        "synonyms": [
+          "unjustified",
+          "gratuitous",
+          "baseless"
+        ],
+        "example": "The minister dismissed the international sanctions as completely unwarranted.",
+        "source": "The Hindu",
+        "headline": "U.S. lifts sanctions targeting Eritrea's ruling party and the military"
+      },
+      {
+        "word": "Abject",
+        "pos": "adjective",
+        "meaning": "Extremely bad, unpleasant, and degrading.",
+        "synonyms": [
+          "wretched",
+          "miserable",
+          "deplorable"
+        ],
+        "example": "The abject failure of the administrative machinery caused widespread outrage.",
+        "source": "The Hindu",
+        "headline": "California Governor signs order to explore AI 'kill switch'"
+      },
+      {
+        "word": "Rebuke",
+        "pos": "noun",
+        "meaning": "An expression of sharp disapproval or criticism.",
+        "synonyms": [
+          "reprimand",
+          "reproof",
+          "admonition"
+        ],
+        "example": "The country dismissed the international rebuke regarding its nuclear status.",
+        "source": "The Hindu",
+        "headline": "North Korea says nuclear status 'irreversible' after UN atomic agency rebuke"
+      },
+      {
+        "word": "Coerce",
+        "pos": "verb",
+        "meaning": "To persuade an unwilling person to do something by using force or threats.",
+        "synonyms": [
+          "compel",
+          "pressurize",
+          "intimidate"
+        ],
+        "example": "Voters were allegedly coerced to participate in the disputed regional election.",
+        "source": "The Hindu",
+        "headline": "Russia holds parliamentary vote in areas it seized from Ukraine in the war"
+      }
+    ]
+  },
+  {
     "date": "2026-09-19",
     "label": "19 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "The elimination of invasive mongooses was the culmination of a long-standing ecological dilemma.",
         "source": "Times of India",
         "headline": "Japan eradicated 10,000 mongooses in 2024, 30 were released in 1979 to kill snakes"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-21",
-    "label": "21 August 2026",
-    "words": [
-      {
-        "word": "Discrimination",
-        "pos": "noun",
-        "meaning": "Unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, age, or sex.",
-        "synonyms": [
-          "Prejudice",
-          "Bias",
-          "Bigotry"
-        ],
-        "example": "The MLA alleged caste discrimination at the Uttar Pradesh temple event.",
-        "source": "The Hindu",
-        "headline": "BJP MLA Jai Devi Kaushal alleges caste discrimination at Uttar Pradesh temple event"
-      },
-      {
-        "word": "Soulless",
-        "pos": "adjective",
-        "meaning": "Lacking human qualities or character; uninspired.",
-        "synonyms": [
-          "Lifeless",
-          "Impersonal",
-          "Dull"
-        ],
-        "example": "Tharoor calls the new Parliament building 'soulless conference centre', lacking in intimacy.",
-        "source": "The Hindu",
-        "headline": "Tharoor calls new Parliament building 'soulless conference centre', lacking in intimacy"
-      },
-      {
-        "word": "Acquitted",
-        "pos": "verb",
-        "meaning": "Free (someone) from a criminal charge by a verdict of not guilty.",
-        "synonyms": [
-          "Exonerate",
-          "Absolve",
-          "Clear"
-        ],
-        "example": "Sajjan Kumar was convicted twice but acquitted in another case.",
-        "source": "The Hindu",
-        "headline": "Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case, is dead"
-      },
-      {
-        "word": "Tenure",
-        "pos": "noun",
-        "meaning": "The period for which an office or position is held.",
-        "synonyms": [
-          "Term",
-          "Incumbency",
-          "Stint"
-        ],
-        "example": "Protesters questioned Manan Kumar Mishra’s 14-year tenure as chairman.",
-        "source": "The Hindu",
-        "headline": "Lawyers stage protest outside BCI office, seek chairman’s resignation amid NALSAR row"
-      },
-      {
-        "word": "Enhancement",
-        "pos": "noun",
-        "meaning": "An increase or improvement in quality, value, or extent.",
-        "synonyms": [
-          "Augmentation",
-          "Improvement",
-          "Boost"
-        ],
-        "example": "The State of Goa petitioned for enhancement of his punishment to life imprisonment.",
-        "source": "The Hindu",
-        "headline": "Tejpal moves Supreme Court against sentence in rape case"
-      },
-      {
-        "word": "Perpetuate",
-        "pos": "verb",
-        "meaning": "Make (something undesirable) continue indefinitely.",
-        "synonyms": [
-          "Maintain",
-          "Sustain",
-          "Preserve"
-        ],
-        "example": "Jadavpur BJP MLA said that “naxals, maoists and anti-nationals” will not be allowed to perpetuate inside the university.",
-        "source": "The Hindu",
-        "headline": "Jadavpur University on the boil as supporters of ABVP and SFI clash"
-      },
-      {
-        "word": "Recourse",
-        "pos": "noun",
-        "meaning": "A source of help in a difficult situation.",
-        "synonyms": [
-          "Option",
-          "Remedy",
-          "Resort"
-        ],
-        "example": "The 1978 verdict had enabled workers to have a legal recourse.",
-        "source": "The Hindu",
-        "headline": "Supreme Court scraps worker-friendly 1978 ‘industry’ precedent for new labour code"
-      },
-      {
-        "word": "Evoke",
-        "pos": "verb",
-        "meaning": "Bring or recall to the conscious mind.",
-        "synonyms": [
-          "Elicit",
-          "Provoke",
-          "Conjure"
-        ],
-        "example": "U.S. envoy Sergio Gor’s J&K remarks evoke mixed reactions.",
-        "source": "The Hindu",
-        "headline": "U.S. envoy Sergio Gor’s J&K remarks evoke mixed reactions"
-      },
-      {
-        "word": "Regulated",
-        "pos": "verb",
-        "meaning": "Control or maintain the rate or speed of (a machine or process) so that it operates properly.",
-        "synonyms": [
-          "Control",
-          "Govern",
-          "Manage"
-        ],
-        "example": "Construction activities around Pallikaranai marshland can be regulated, not banned.",
-        "source": "The Hindu",
-        "headline": "Construction activities around Pallikaranai marshland can be regulated, not banned: TNSWA tells Madras High Court"
-      },
-      {
-        "word": "Undermine",
-        "pos": "verb",
-        "meaning": "Lessen the effectiveness, power, or ability of, especially gradually or insidiously.",
-        "synonyms": [
-          "Weaken",
-          "Erode",
-          "Sabotage"
-        ],
-        "example": "The emails undermine Mr. Trump's assertions that the U.S. is at war with Iran.",
-        "source": "The Hindu",
-        "headline": "Quiet channel between ICE and Iran shaped deportation flights, newly released emails show"
       }
     ]
   }
