@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-21",
+    "label": "21 September 2026",
+    "words": [
+      {
+        "word": "Squally",
+        "pos": "adjective",
+        "meaning": "characterized by sudden, violent gusts of wind or brief storms",
+        "synonyms": [
+          "gusty",
+          "blustery",
+          "tempestuous"
+        ],
+        "example": "The coastal patrol cautioned fishermen against sailing during squally weather.",
+        "source": "The Hindu",
+        "headline": "Heavy rains, squally wind likely in West Bengal from September 22"
+      },
+      {
+        "word": "Levy",
+        "pos": "verb",
+        "meaning": "to impose or collect a tax, fee, or fine by authority",
+        "synonyms": [
+          "impose",
+          "exact",
+          "charge"
+        ],
+        "example": "The central government retains the authority to levy excise duties on specific goods.",
+        "source": "The Hindu",
+        "headline": "BJD mounts pressure on BJP government over MMDR amendment act seeking special session of assembly"
+      },
+      {
+        "word": "Abstention",
+        "pos": "noun",
+        "meaning": "the formal act of refraining from voting or taking part in an action",
+        "synonyms": [
+          "forbearance",
+          "noninvolvement",
+          "refusal"
+        ],
+        "example": "The country's abstention during the security council resolution preserved its neutral standing.",
+        "source": "The Hindu",
+        "headline": "Madurantakam bypolls: PMK’s abstention adds to changing electoral equations"
+      },
+      {
+        "word": "Robust",
+        "pos": "adjective",
+        "meaning": "strong, resilient, and capable of withstanding adverse conditions",
+        "synonyms": [
+          "sturdy",
+          "vigorous",
+          "hardy"
+        ],
+        "example": "The army deployed a robust defense network along the volatile border region.",
+        "source": "The Hindu",
+        "headline": "Keralam Chief Minister to launch ₹93.22-crore coastal protection project for Pozhiyoor"
+      },
+      {
+        "word": "Apportion",
+        "pos": "verb",
+        "meaning": "to allocate, divide, and assign shares of something according to a plan",
+        "synonyms": [
+          "allocate",
+          "allot",
+          "distribute"
+        ],
+        "example": "Parliament decided to apportion defence funds equally between naval and infantry modernisation.",
+        "source": "The Hindu",
+        "headline": "Early returns in Russia’s parliamentary election show main Kremlin party leading"
+      },
+      {
+        "word": "Guise",
+        "pos": "noun",
+        "meaning": "an external appearance, cover, or pretense concealing the true nature",
+        "synonyms": [
+          "facade",
+          "semblance",
+          "cloak"
+        ],
+        "example": "Insurgents infiltrated the compound under the guise of local aid workers.",
+        "source": "The Hindu",
+        "headline": "Iran shuts language centre linked to French embassy"
+      },
+      {
+        "word": "Concur",
+        "pos": "verb",
+        "meaning": "to be of the same opinion or to agree formally",
+        "synonyms": [
+          "agree",
+          "coincide",
+          "assent"
+        ],
+        "example": "Military strategists concur that air superiority is vital for the upcoming mission.",
+        "source": "The Hindu",
+        "headline": "New party emerges as a frontrunner as Israel goes to polls amid Netanyahu’s waning appeal"
+      },
+      {
+        "word": "Jingoism",
+        "pos": "noun",
+        "meaning": "extreme, belligerent, and aggressive patriotism or foreign policy",
+        "synonyms": [
+          "chauvinism",
+          "bellicosity",
+          "warmongering"
+        ],
+        "example": "The statesman warned that unbridled jingoism would lead the nation into reckless war.",
+        "source": "The Hindu",
+        "headline": "Old era of jingoism, equating Nepali nationalism with anti-Indianism, is over: Nepal Finance Minister"
+      },
+      {
+        "word": "Fractious",
+        "pos": "adjective",
+        "meaning": "irritable, unruly, and quarrelsome; difficult to control",
+        "synonyms": [
+          "contentious",
+          "irascible",
+          "truculent"
+        ],
+        "example": "Diplomats worked tirelessly to mend fractious relations between the neighboring states.",
+        "source": "The Hindu",
+        "headline": "Old era of jingoism, equating Nepali nationalism with anti-Indianism, is over: Nepal Finance Minister"
+      },
+      {
+        "word": "Discrepancy",
+        "pos": "noun",
+        "meaning": "a lack of compatibility or difference between two or more facts",
+        "synonyms": [
+          "inconsistency",
+          "disparity",
+          "divergence"
+        ],
+        "example": "The audit revealed a serious discrepancy between reported munitions and actual stock.",
+        "source": "Times of India",
+        "headline": "Delhi SIRprises: Jaishankar, Dhankhar, Advani & more issued notices for ‘discrepancies’"
+      }
+    ]
+  },
+  {
     "date": "2026-09-20",
     "label": "20 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "Kuldeep Yadav's absence has intensified the selection intrigue ahead of the Colombo Test.",
         "source": "Times of India",
         "headline": "Kuldeep or Saransh? The subplot thickens as Colombo braces for a different script"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-22",
-    "label": "22 August 2026",
-    "words": [
-      {
-        "word": "Evoke",
-        "pos": "verb",
-        "meaning": "Bring or recall to the conscious mind.",
-        "synonyms": [
-          "arouse",
-          "elicit",
-          "induce"
-        ],
-        "example": "The Punjab bandh over the release of Sikh prisoners evoked a mixed response.",
-        "source": "The Hindu",
-        "headline": "Punjab bandh over release of Sikh prisoners evokes mixed response"
-      },
-      {
-        "word": "Ploy",
-        "pos": "noun",
-        "meaning": "A cunning plan or action designed to turn a situation to one's own advantage.",
-        "synonyms": [
-          "tactic",
-          "stratagem",
-          "ruse"
-        ],
-        "example": "Congress called the move of the checklist a ploy to divert attention from issues of school closures.",
-        "source": "The Hindu",
-        "headline": "U.P. Gen Alpha protests: Opposition demands education reforms, calls checklist ‘eyewash’"
-      },
-      {
-        "word": "Dwindle",
-        "pos": "verb",
-        "meaning": "Diminish gradually in size, amount, or strength.",
-        "synonyms": [
-          "decrease",
-          "shrink",
-          "lessen"
-        ],
-        "example": "Farmers are struggling with dwindling water supplies due to a weak monsoon.",
-        "source": "The Hindu",
-        "headline": "A dry spell along the Cauvery"
-      },
-      {
-        "word": "Mandate",
-        "pos": "verb",
-        "meaning": "Require (something) to be done; make something mandatory.",
-        "synonyms": [
-          "order",
-          "decree",
-          "enjoin"
-        ],
-        "example": "The Legislature and Judiciary failed to protect the rights of workers mandated by the Constitution.",
-        "source": "The Hindu",
-        "headline": "Trade unions sound alarm over Supreme Court judgment on definition of industry"
-      },
-      {
-        "word": "Applaud",
-        "pos": "verb",
-        "meaning": "Show approval or praise by clapping.",
-        "synonyms": [
-          "commend",
-          "laud",
-          "acclaim"
-        ],
-        "example": "The Supreme Court applauded the scrapped MGNREGA as a 'good, effective scheme'.",
-        "source": "The Hindu",
-        "headline": "Supreme Court lauds scrapped MGNREGA as a ‘good, effective scheme’"
-      },
-      {
-        "word": "Barrage",
-        "pos": "noun",
-        "meaning": "A concentrated artillery bombardment over a wide area.",
-        "synonyms": [
-          "volley",
-          "fusillade",
-          "cannonade"
-        ],
-        "example": "The militaries wrapped up drills early, a day after North's missile barrage.",
-        "source": "The Hindu",
-        "headline": "U.S., South Korean militaries wrap up drills early, day after North's missile barrage"
-      },
-      {
-        "word": "Mar",
-        "pos": "verb",
-        "meaning": "Impair the quality or appearance of; spoil.",
-        "synonyms": [
-          "blemish",
-          "damage",
-          "taint"
-        ],
-        "example": "Life in Afghanistan is marred by many struggles five years after the Taliban takeover.",
-        "source": "The Hindu",
-        "headline": "Five years after Taliban takeover, life in Afghanistan marred by many struggles"
-      },
-      {
-        "word": "Retract",
-        "pos": "verb",
-        "meaning": "Draw back or in.",
-        "synonyms": [
-          "withdraw",
-          "recant",
-          "revoke"
-        ],
-        "example": "Rashtrapati Bhavan hinted at a visit but then retracted the announcement.",
-        "source": "Times of India",
-        "headline": "Rashtrapati Bhavan hints at Bangladesh PM Tarique Rahman's visit, retracts"
-      },
-      {
-        "word": "Exploit",
-        "pos": "verb",
-        "meaning": "Make full use of and derive benefit from (a resource).",
-        "synonyms": [
-          "utilize",
-          "leverage",
-          "capitalize"
-        ],
-        "example": "These accounts were exploited by criminals for banking scams and malware.",
-        "source": "Times of India",
-        "headline": "Govt orders Google to shut down hundreds of Firebase accounts over scam misuse"
-      },
-      {
-        "word": "Culmination",
-        "pos": "noun",
-        "meaning": "The highest or climatic point of something, especially as attained after a long time.",
-        "synonyms": [
-          "climax",
-          "pinnacle",
-          "apex"
-        ],
-        "example": "The elimination of invasive mongooses was the culmination of a long-standing ecological dilemma.",
-        "source": "Times of India",
-        "headline": "Japan eradicated 10,000 mongooses in 2024, 30 were released in 1979 to kill snakes"
       }
     ]
   }
