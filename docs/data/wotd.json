@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-23",
+    "label": "23 September 2026",
+    "words": [
+      {
+        "word": "Disenfranchised",
+        "pos": "adjective",
+        "meaning": "deprived of the right to vote",
+        "synonyms": [
+          "marginalized",
+          "deprived",
+          "excluded"
+        ],
+        "example": "Many voters fear they will be disenfranchised by the new administrative rules.",
+        "source": "The Hindu",
+        "headline": "Maharashtra SIR: 30% electorate likely to be disenfranchised, says Congress"
+      },
+      {
+        "word": "Ruckus",
+        "pos": "noun",
+        "meaning": "a disturbance or commotion",
+        "synonyms": [
+          "uproar",
+          "tumult",
+          "commotion"
+        ],
+        "example": "The opposition created a massive ruckus in parliament over the contentious bill.",
+        "source": "The Hindu",
+        "headline": "Monsoon Session of Odisha House witnesses ruckus over textbook errors, mines Act"
+      },
+      {
+        "word": "Asylum",
+        "pos": "noun",
+        "meaning": "protection granted by a nation to someone who has left their native country as a political refugee",
+        "synonyms": [
+          "refuge",
+          "sanctuary",
+          "protection"
+        ],
+        "example": "The athlete decided to seek political asylum in a neighboring country.",
+        "source": "The Hindu",
+        "headline": "Two North Korea members of Asian Games seek asylum in Japan, report says"
+      },
+      {
+        "word": "Wallops",
+        "pos": "verb",
+        "meaning": "to strike or defeat heavily",
+        "synonyms": [
+          "battering",
+          "devastating",
+          "pummeling"
+        ],
+        "example": "The fierce hurricane wallops the coastal villages, destroying numerous homes.",
+        "source": "The Hindu",
+        "headline": "Flights scrapped, evacuations urged as Typhoon Dujuan wallops Japan"
+      },
+      {
+        "word": "Exorbitant",
+        "pos": "adjective",
+        "meaning": "exceeding customary or appropriate limits in intensity, quality, amount, or size",
+        "synonyms": [
+          "excessive",
+          "extortionate",
+          "unreasonable"
+        ],
+        "example": "The supreme court criticized the exorbitant pricing of essential life-saving drugs.",
+        "source": "Times of India",
+        "headline": "Exorbitant pricing of drugs is ‘extortion': Supreme Court"
+      },
+      {
+        "word": "Corrosion",
+        "pos": "noun",
+        "meaning": "the gradual destruction of materials by chemical or electrochemical reaction with their environment",
+        "synonyms": [
+          "oxidation",
+          "rusting",
+          "decay"
+        ],
+        "example": "Engineers are concerned about severe corrosion affecting the railway coach bogies.",
+        "source": "Times of India",
+        "headline": "Heavy LHB bogie corrosion worries Railways; toilet leaks, saline air blamed"
+      },
+      {
+        "word": "Standoff",
+        "pos": "noun",
+        "meaning": "a deadlock between two equally matched opponents",
+        "synonyms": [
+          "stalemate",
+          "deadlock",
+          "impasse"
+        ],
+        "example": "The armed standoff between the security forces and the suspect lasted for several hours.",
+        "source": "Times of India",
+        "headline": "UP man accused of killing wife, 2 priests shot dead after 7-hour standoff"
+      },
+      {
+        "word": "Induction",
+        "pos": "noun",
+        "meaning": "the action or process of formally admitting someone to office or a position",
+        "synonyms": [
+          "initiation",
+          "admission",
+          "installation"
+        ],
+        "example": "The defense minister announced the scheduled induction of new fighter jets into the squadron.",
+        "source": "Times of India",
+        "headline": "In a first, US F-35 fighters to take part in IAF exercise"
+      },
+      {
+        "word": "Translocation",
+        "pos": "noun",
+        "meaning": "the action of moving something or someone from one place to another",
+        "synonyms": [
+          "relocation",
+          "transfer",
+          "displacement"
+        ],
+        "example": "Wildlife officials executed a successful translocation project to save the endangered rhinos.",
+        "source": "The Hindu",
+        "headline": "World Rhino Day focus on India-Bhutan joint conservation"
+      },
+      {
+        "word": "Blockaded",
+        "pos": "verb",
+        "meaning": "sealed off a place to prevent goods or people from entering or leaving",
+        "synonyms": [
+          "besieged",
+          "barricaded",
+          "surrounded"
+        ],
+        "example": "Naval forces blockaded the vital shipping strait to halt enemy supply routes.",
+        "source": "The Hindu",
+        "headline": "Macron says talks with Trump on Red Sea, Ukraine ‘constructive’"
+      }
+    ]
+  },
+  {
     "date": "2026-09-22",
     "label": "22 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "Sreejesh's scathing attack came after India's WC exit.",
         "source": "Times of India",
         "headline": "'Does anyone actually care?' Sreejesh's scathing attack after India’s WC exit"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "label": "24 August 2026",
-    "words": [
-      {
-        "word": "Apprehend",
-        "pos": "verb",
-        "meaning": "To arrest or seize someone.",
-        "synonyms": [
-          "capture",
-          "detain",
-          "seize"
-        ],
-        "example": "The police urged the public to share any information that could help apprehend the two men.",
-        "source": "The Hindu",
-        "headline": "Two inmates arrested under POCSO Act escape from Srinagar Central Jail; search launched"
-      },
-      {
-        "word": "Decongest",
-        "pos": "verb",
-        "meaning": "To relieve congestion in an area.",
-        "synonyms": [
-          "unclog",
-          "clear",
-          "ease"
-        ],
-        "example": "The new road is expected to decongest traffic in Katpadi and the surrounding villages.",
-        "source": "The Hindu",
-        "headline": "Sathuvachari-VIT High Road in Vellore opened to public, expected to decongest traffic in Katpadi"
-      },
-      {
-        "word": "Deficiencies",
-        "pos": "noun",
-        "meaning": "Shortcomings or imperfections.",
-        "synonyms": [
-          "flaws",
-          "faults",
-          "lacks"
-        ],
-        "example": "Periodic inspections by national authorities had uncovered several deficiencies in the ship.",
-        "source": "The Hindu",
-        "headline": "Search continues for 22 from vessel that sunk off Odisha"
-      },
-      {
-        "word": "Satraps",
-        "pos": "noun",
-        "meaning": "Local rulers or powerful subordinates.",
-        "synonyms": [
-          "viceroys",
-          "governors",
-          "chieftains"
-        ],
-        "example": "DMK's regional satraps are among the 22 who will lose district secretary posts.",
-        "source": "The Hindu",
-        "headline": "DMK’s regional satraps among 22 who will lose district secretary posts"
-      },
-      {
-        "word": "Precarious",
-        "pos": "adjective",
-        "meaning": "Not securely held or in position; dangerously likely to fall or collapse.",
-        "synonyms": [
-          "unstable",
-          "risky",
-          "hazardous"
-        ],
-        "example": "The landslide was large enough to bury an apartment building along with more precarious dwellings.",
-        "source": "The Hindu",
-        "headline": "Landslide at Guinea landfill kills 30, government says"
-      },
-      {
-        "word": "Waver",
-        "pos": "verb",
-        "meaning": "To lose strength, momentum, or determination.",
-        "synonyms": [
-          "falter",
-          "hesitate",
-          "vacillate"
-        ],
-        "example": "Our resolve to unite in defending national sovereignty must never waver.",
-        "source": "The Hindu",
-        "headline": "Peace through strength, Taiwan president says on China battle anniversary"
-      },
-      {
-        "word": "Coincide",
-        "pos": "verb",
-        "meaning": "To occur at the same time.",
-        "synonyms": [
-          "concur",
-          "accompany",
-          "synchronize"
-        ],
-        "example": "His visit will coincide with a Monday announcement on details related to the planned sanctions.",
-        "source": "The Hindu",
-        "headline": "Pakistan Army chief Asim Munir to visit Tehran on August 24: Iran"
-      },
-      {
-        "word": "Retaliatory",
-        "pos": "adjective",
-        "meaning": "Characterized by returning an injury or wrong.",
-        "synonyms": [
-          "punitive",
-          "vengeful",
-          "reciprocal"
-        ],
-        "example": "Trump hits back at Canada over retaliatory tariffs on U.S.",
-        "source": "The Hindu",
-        "headline": "‘Wants benefits of a State, without being one’: Trump hits back at Canada over retaliatory tariffs on U.S."
-      },
-      {
-        "word": "Overhauls",
-        "pos": "verb",
-        "meaning": "To completely change a system in order to improve it.",
-        "synonyms": [
-          "renovates",
-          "reforms",
-          "restructures"
-        ],
-        "example": "A federal court is scheduled to review arguments concerning a newly proposed rule that overhauls the current policy.",
-        "source": "Times of India",
-        "headline": "What makes September 3 important for international students in the US on F and J visas"
-      },
-      {
-        "word": "Capitalised",
-        "pos": "verb",
-        "meaning": "To take the opportunity to gain an advantage from.",
-        "synonyms": [
-          "exploited",
-          "leveraged",
-          "profited"
-        ],
-        "example": "Lando Norris capitalised on the chaos, securing a crucial victory.",
-        "source": "Times of India",
-        "headline": "Watch: Max Verstappen’s horrific Dutch GP crash as Lando Norris wins chaotic race"
       }
     ]
   }
