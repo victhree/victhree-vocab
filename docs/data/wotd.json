@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-24",
+    "label": "24 September 2026",
+    "words": [
+      {
+        "word": "Flak",
+        "pos": "noun",
+        "meaning": "Strong criticism or opposition",
+        "synonyms": [
+          "criticism",
+          "censure",
+          "condemnation"
+        ],
+        "example": "The senior official faced severe flak from the opposition parties over the controversial administrative reforms.",
+        "source": "The Hindu",
+        "headline": "CJP to take up issue of ECI reforms as CEC Gyanesh Kumar faces flak"
+      },
+      {
+        "word": "Dissent",
+        "pos": "noun",
+        "meaning": "The expression or holding of opinions divergent from those commonly, officially, or expertly held",
+        "synonyms": [
+          "disagreement",
+          "objection",
+          "protest"
+        ],
+        "example": "Several members recorded formal dissent regarding the sudden changes in the official voter database.",
+        "source": "The Hindu",
+        "headline": "Opposition calls for CEC Gyanesh Kumar’s removal after report on Election Commissioners’ dissent"
+      },
+      {
+        "word": "Superannuation",
+        "pos": "noun",
+        "meaning": "The action of retiring and receiving a pension",
+        "synonyms": [
+          "retirement",
+          "pensioning",
+          "discharge"
+        ],
+        "example": "The employee filed a petition in the High Court claiming delayed benefits following his superannuation.",
+        "source": "The Hindu",
+        "headline": "Tripura tribal council stops officers’ salaries for ex-employee’s pension delay"
+      },
+      {
+        "word": "Impede",
+        "pos": "verb",
+        "meaning": "To delay or prevent someone or something by obstructing them",
+        "synonyms": [
+          "hinder",
+          "hamper",
+          "obstruct"
+        ],
+        "example": "World leaders urged continuous efforts to choke enemy revenues and impede active military operations.",
+        "source": "The Hindu",
+        "headline": "Zelenskyy, at UN, urges leaders to keep choking Russia’s revenues and impede its war efforts"
+      },
+      {
+        "word": "Stalemate",
+        "pos": "noun",
+        "meaning": "A position in which further action or progress by opposing parties seems impossible",
+        "synonyms": [
+          "impasse",
+          "deadlock",
+          "gridlock"
+        ],
+        "example": "Diplomatic talks reached a complete stalemate as neither side was willing to compromise on core terms.",
+        "source": "The Hindu",
+        "headline": "Yemen's Houthis to target U.S. interests if it supports Saudi-led strikes: Houthi military adviser"
+      },
+      {
+        "word": "Acquitted",
+        "pos": "adjective",
+        "meaning": "Free someone from a criminal charge by a verdict of not guilty",
+        "synonyms": [
+          "absolved",
+          "exonerated",
+          "vindicated"
+        ],
+        "example": "While several defendants were sentenced to lengthy prison terms, multiple other individuals were eventually acquitted.",
+        "source": "The Hindu",
+        "headline": "Easter Sunday blasts case: Sri Lankan court sentences each convict to 220 years in prison; all 15 to appeal against verdict"
+      },
+      {
+        "word": "Denounce",
+        "pos": "verb",
+        "meaning": "To publicly declare to be wrong or evil",
+        "synonyms": [
+          "condemn",
+          "criticize",
+          "attack"
+        ],
+        "example": "International leaders routinely denounce any acts of aggression directed at civilian infrastructure.",
+        "source": "The Hindu",
+        "headline": "Israel denounces ‘grotesque absurdity’ of Macron’s UN remarks on West Bank"
+      },
+      {
+        "word": "Comprehend",
+        "pos": "verb",
+        "meaning": "To grasp mentally; understand",
+        "synonyms": [
+          "understand",
+          "grasp",
+          "perceive"
+        ],
+        "example": "The investigating team tried to comprehend the complex financial discrepancies behind the missing memorial funds.",
+        "source": "Times of India",
+        "headline": "George Floyd’s siblings seek accounting of $14.7m memorial GoFundMe"
+      },
+      {
+        "word": "Mobilize",
+        "pos": "verb",
+        "meaning": "To bring together resources or forces for a particular purpose",
+        "synonyms": [
+          "marshal",
+          "deploy",
+          "rally"
+        ],
+        "example": "The local administration struggled to mobilize adequate resources for rural welfare schemes under a heavy debt burden.",
+        "source": "The Hindu",
+        "headline": "Bihar BJP MLA criticises own government for distributing ₹10,000 crore to JEEVIKA didis"
+      },
+      {
+        "word": "Pretext",
+        "pos": "noun",
+        "meaning": "A reason given in justification of a course of action that is not the real reason",
+        "synonyms": [
+          "pretense",
+          "ruse",
+          "excuse"
+        ],
+        "example": "Security forces remained highly vigilant against any cross-border incursions launched under a false pretext.",
+        "source": "The Hindu",
+        "headline": "Pakistan shoots down eight drones ‘launched from Afghanistan’ amid fresh border clashes"
+      }
+    ]
+  },
+  {
     "date": "2026-09-23",
     "label": "23 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "The peace in the region remains precarious despite diplomatic efforts.",
         "source": "The Hindu",
         "headline": "Pakistan, Iran explore reopening Strait of Hormuz, easing West Asia tensions"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "label": "25 August 2026",
-    "words": [
-      {
-        "word": "Institutionalise",
-        "pos": "verb",
-        "meaning": "To establish something as a convention or norm in an organization or culture.",
-        "synonyms": [
-          "formalize",
-          "codify",
-          "entrench"
-        ],
-        "example": "On the border, the immediate focus is on institutionalising stability rather than a dramatic settlement.",
-        "source": "The Hindu",
-        "headline": "India-China talks: ‘Structural differences have not disappeared,’ says Hu Shisheng"
-      },
-      {
-        "word": "Critical",
-        "pos": "adjective",
-        "meaning": "Expressing adverse or disapproving comments or judgments.",
-        "synonyms": [
-          "disapproving",
-          "censorious",
-          "fault-finding"
-        ],
-        "example": "Youth Morcha storms DM office highlighting critical gaps in schools.",
-        "source": "The Hindu",
-        "headline": "Youth Morcha storms DM office highlighting critical gaps in schools, questions FIR on activist"
-      },
-      {
-        "word": "Reel",
-        "pos": "verb",
-        "meaning": "To be in a state of confusion or disorientation, often due to a shock or blow; to suffer from a disaster.",
-        "synonyms": [
-          "stagger",
-          "falter",
-          "suffer"
-        ],
-        "example": "North Indian cities reel under heavy rain, causing flight diversions and traffic jams.",
-        "source": "The Hindu",
-        "headline": "Flight diversions in Delhi-NCR, traffic jams in Jaipur as north Indian cities reel under heavy rain"
-      },
-      {
-        "word": "Ravaging",
-        "pos": "verb",
-        "meaning": "To cause severe and extensive damage to; devastate.",
-        "synonyms": [
-          "devastating",
-          "destroying",
-          "ruining"
-        ],
-        "example": "Congress targets Modi government on price rise, 'ravaging' the pathway from education to employment.",
-        "source": "The Hindu",
-        "headline": "Congress targets Modi government on price rise, 'ravaging’ the pathway from education to employment"
-      },
-      {
-        "word": "Uproar",
-        "pos": "noun",
-        "meaning": "A loud and emotional expression of public discontent or protest.",
-        "synonyms": [
-          "commotion",
-          "turmoil",
-          "agitation"
-        ],
-        "example": "There was an uproar after the Allahabad High Court referred the Divisional Commissioner's conduct for criminal contempt.",
-        "source": "The Hindu",
-        "headline": "Uproar after Allahabad High Court refer Divisional Commissioner's conduct for criminal contempt"
-      },
-      {
-        "word": "Ambush",
-        "pos": "verb",
-        "meaning": "To make a surprise attack on (someone or something) from a concealed position.",
-        "synonyms": [
-          "waylay",
-          "trap",
-          "surprise"
-        ],
-        "example": "Armed men ambush a patrol in South Sudan, killing two UN peacekeepers.",
-        "source": "The Hindu",
-        "headline": "Armed men ambush patrol in South Sudan, kill two UN peacekeepers"
-      },
-      {
-        "word": "Retaliatory",
-        "pos": "adjective",
-        "meaning": "Characterized by returning an injury or wrong.",
-        "synonyms": [
-          "vindictive",
-          "punitive",
-          "reciprocal"
-        ],
-        "example": "Canada will announce retaliatory tariffs against the U.S. on August 25.",
-        "source": "The Hindu",
-        "headline": "Canada will announce retaliatory tariffs against U.S. on August 25, official say"
-      },
-      {
-        "word": "Stalemate",
-        "pos": "noun",
-        "meaning": "A situation in which further action or progress by opposing or competing parties seems impossible.",
-        "synonyms": [
-          "deadlock",
-          "impasse",
-          "standoff"
-        ],
-        "example": "The war on Tehran has ground to a stalemate, with stalled peace talks.",
-        "source": "The Hindu",
-        "headline": "U.S. Treasury chief vows to cut every ‘economic lifeline’ of Iran"
-      },
-      {
-        "word": "Fallout",
-        "pos": "noun",
-        "meaning": "The adverse effects of a situation or action.",
-        "synonyms": [
-          "repercussions",
-          "consequences",
-          "aftermath"
-        ],
-        "example": "Communities in Mannar fear environmental fallout amid Sri Lanka’s green energy push.",
-        "source": "The Hindu",
-        "headline": "Amid Sri Lanka’s green energy push, communities in Mannar fear environmental fallout"
-      },
-      {
-        "word": "Scathing",
-        "pos": "adjective",
-        "meaning": "Witheringly scornful; severely critical.",
-        "synonyms": [
-          "harsh",
-          "cutting",
-          "searing"
-        ],
-        "example": "Sreejesh's scathing attack came after India's WC exit.",
-        "source": "Times of India",
-        "headline": "'Does anyone actually care?' Sreejesh's scathing attack after India’s WC exit"
       }
     ]
   }
