@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-25",
+    "label": "25 September 2026",
+    "words": [
+      {
+        "word": "Deception",
+        "pos": "noun",
+        "meaning": "The act of deceiving or misleading someone",
+        "synonyms": [
+          "duplicity",
+          "fraud",
+          "trickery"
+        ],
+        "example": "Rahul Gandhi a master of deception, allegations of vote theft lack evidence: BJP",
+        "source": "The Hindu",
+        "headline": "Rahul Gandhi a master of deception, allegations of vote theft lack evidence: BJP"
+      },
+      {
+        "word": "Adjudication",
+        "pos": "noun",
+        "meaning": "A formal judgment or decision about a problem or disputed matter",
+        "synonyms": [
+          "arbitration",
+          "judgement",
+          "decision"
+        ],
+        "example": "Trinamool symbol freeze row: Supreme Court asks EC adjudication timeline",
+        "source": "The Hindu",
+        "headline": "Trinamool symbol freeze row: Supreme Court asks EC adjudication timeline"
+      },
+      {
+        "word": "Extortion",
+        "pos": "noun",
+        "meaning": "The practice of obtaining something, especially money, through force or threats",
+        "synonyms": [
+          "blackmail",
+          "coercion",
+          "shakedown"
+        ],
+        "example": "Bengaluru police issues guidelines to curb harassment, extortion by transgender persons",
+        "source": "The Hindu",
+        "headline": "Bengaluru police issues guidelines to curb harassment, extortion by transgender persons"
+      },
+      {
+        "word": "Paralyse",
+        "pos": "verb",
+        "meaning": "To stop something from functioning or operating normally",
+        "synonyms": [
+          "cripple",
+          "immobilize",
+          "disable"
+        ],
+        "example": "Shutdown over poor school infra paralyses Arunachal capital",
+        "source": "The Hindu",
+        "headline": "Shutdown over poor school infra paralyses Arunachal capital"
+      },
+      {
+        "word": "Scrutinise",
+        "pos": "verb",
+        "meaning": "To examine or inspect closely and thoroughly",
+        "synonyms": [
+          "inspect",
+          "analyze",
+          "peruse"
+        ],
+        "example": "The murky world of political party finance and why authorities must scrutinise accounts carefully.",
+        "source": "The Hindu",
+        "headline": "The murky world of political party finance"
+      },
+      {
+        "word": "Impede",
+        "pos": "verb",
+        "meaning": "To delay or prevent someone or something by obstructing them",
+        "synonyms": [
+          "hinder",
+          "hamper",
+          "obstruct"
+        ],
+        "example": "Zelenskyy, at UN, urges leaders to keep choking Russia’s revenues and impede its war efforts",
+        "source": "The Hindu",
+        "headline": "Zelenskyy, at UN, urges leaders to keep choking Russia’s revenues and impede its war efforts"
+      },
+      {
+        "word": "Consensus",
+        "pos": "noun",
+        "meaning": "A general agreement among a group of people",
+        "synonyms": [
+          "accord",
+          "harmony",
+          "unanimity"
+        ],
+        "example": "China, U.S. reach consensus on multiple economic and trade issues: Chinese Commerce Ministry",
+        "source": "The Hindu",
+        "headline": "China, U.S. reach consensus on multiple economic and trade issues: Chinese Commerce Ministry"
+      },
+      {
+        "word": "Demolish",
+        "pos": "verb",
+        "meaning": "To pull or knock down a building or structure completely",
+        "synonyms": [
+          "destroy",
+          "flatten",
+          "wreck"
+        ],
+        "example": "Akhilesh visits Raebareli under 'PDA Yatra' eyeing broader public outreach",
+        "source": "The Hindu",
+        "headline": "Akhilesh visits Raebareli under ‘PDA Yatra’ eyeing broader public outreach"
+      },
+      {
+        "word": "Confrontation",
+        "pos": "noun",
+        "meaning": "A hostile or argumentative situation or meeting between opposing parties",
+        "synonyms": [
+          "conflict",
+          "clash",
+          "hostility"
+        ],
+        "example": "U.S., China must steer clear of conflict and confrontation: Xi at White House",
+        "source": "The Hindu",
+        "headline": "U.S., China must steer clear of conflict and confrontation: Xi at White House"
+      },
+      {
+        "word": "Exemption",
+        "pos": "noun",
+        "meaning": "The action of freeing or state of being free from an obligation or liability",
+        "synonyms": [
+          "immunity",
+          "exception",
+          "dispensation"
+        ],
+        "example": "Wife sold shares, bought husband’s property and claimed tax exemption.",
+        "source": "Times of India",
+        "headline": "Wife sold shares, bought husband’s Rs 7.5 crore property; taxman send notice"
+      }
+    ]
+  },
+  {
     "date": "2026-09-24",
     "label": "24 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "The U.S. Treasury Secretary laid out plans for the “economic asphyxiation” of Iran.",
         "source": "The Hindu",
         "headline": "Iranian President says new U.S. sanctions will achieve nothing"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-26",
-    "label": "26 August 2026",
-    "words": [
-      {
-        "word": "Accountability",
-        "pos": "noun",
-        "meaning": "The fact or condition of being accountable; responsibility.",
-        "synonyms": [
-          "responsibility",
-          "liability",
-          "answerability"
-        ],
-        "example": "The committee calls on India to ensure accountability for these violations.",
-        "source": "The Hindu",
-        "headline": "UN committee calls for addressing ‘hate speech’ and ‘hate crimes’ in India"
-      },
-      {
-        "word": "Hinged",
-        "pos": "verb",
-        "meaning": "Depend entirely on.",
-        "synonyms": [
-          "depended",
-          "revolved",
-          "pivoted"
-        ],
-        "example": "The politics in West Bengal has hinged on the electoral contest between the two leaders.",
-        "source": "The Hindu",
-        "headline": "Suvendu vows to keep Mamata off the streets, TMC chairperson says not taking political sanyas"
-      },
-      {
-        "word": "Culprits",
-        "pos": "noun",
-        "meaning": "A person who is responsible for a crime or other misdeed.",
-        "synonyms": [
-          "offenders",
-          "perpetrators",
-          "guilty parties"
-        ],
-        "example": "The police assured the villagers of swift identification of the culprits.",
-        "source": "The Hindu",
-        "headline": "Village in Raebareli tense after mud smeared on Ambedkar’s statue"
-      },
-      {
-        "word": "Entity",
-        "pos": "noun",
-        "meaning": "A thing with distinct and independent existence.",
-        "synonyms": [
-          "organization",
-          "body",
-          "unit"
-        ],
-        "example": "BJD criticises proposal to lease out Bhubaneswar airport to private entity.",
-        "source": "The Hindu",
-        "headline": "BJD criticises proposal to lease out Bhubaneswar airport to private entity"
-      },
-      {
-        "word": "Amended",
-        "pos": "verb",
-        "meaning": "Make minor changes to (a text, piece of legislation, etc.) in order to make it fairer, more accurate, or more up-to-date.",
-        "synonyms": [
-          "revised",
-          "modified",
-          "altered"
-        ],
-        "example": "The petition challenges the notification which amended the Maharashtra Motor Vehicles Rules.",
-        "source": "The Hindu",
-        "headline": "Bombay High Court to hear PIL against Marathi rule for drivers"
-      },
-      {
-        "word": "Loitering",
-        "pos": "adjective",
-        "meaning": "Standing or waiting around idly or without apparent purpose.",
-        "synonyms": [
-          "lingering",
-          "dawdling",
-          "sauntering"
-        ],
-        "example": "A loitering munition may have hit Kirana Hills during Operation Sindoor.",
-        "source": "The Hindu",
-        "headline": "Loitering munition may have hit Kirana Hills during Operation Sindoor: former CDS Anil Chauhan"
-      },
-      {
-        "word": "Pluralistic",
-        "pos": "adjective",
-        "meaning": "Relating to or upholding a state of society in which members of diverse ethnic, racial, religious, or social groups maintain and develop their traditional culture or special interests within a common civilization.",
-        "synonyms": [
-          "diverse",
-          "multicultural",
-          "heterogeneous"
-        ],
-        "example": "His family taught him a vision of India as a pluralistic society.",
-        "source": "The Hindu",
-        "headline": "NYC Mayor Mamdani opposes RSS chief Bhagwat's Madison Square event"
-      },
-      {
-        "word": "Abruptly",
-        "pos": "adverb",
-        "meaning": "Suddenly and unexpectedly.",
-        "synonyms": [
-          "suddenly",
-          "unexpectedly",
-          "hastily"
-        ],
-        "example": "The Monsoon Session of the State legislature was adjourned abruptly.",
-        "source": "The Hindu",
-        "headline": "BJP to take out a 10-day padayatra from Raichur to Ballari from September 1"
-      },
-      {
-        "word": "Disenfranchisement",
-        "pos": "noun",
-        "meaning": "The state of being deprived of a right or privilege, especially the right to vote.",
-        "synonyms": [
-          "disenfranchisement",
-          "deprivation",
-          "disqualification"
-        ],
-        "example": "Mobility should not translate into disenfranchisement, Shivakumar said.",
-        "source": "The Hindu",
-        "headline": "SIR in Karnataka: Chief Minister seeks more time for SIR claims, verification"
-      },
-      {
-        "word": "Precarious",
-        "pos": "adjective",
-        "meaning": "Not securely held or in position; dangerously likely to fall or collapse.",
-        "synonyms": [
-          "unstable",
-          "risky",
-          "hazardous"
-        ],
-        "example": "The peace in the region remains precarious despite diplomatic efforts.",
-        "source": "The Hindu",
-        "headline": "Pakistan, Iran explore reopening Strait of Hormuz, easing West Asia tensions"
       }
     ]
   }
