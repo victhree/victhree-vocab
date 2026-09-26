@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-26",
+    "label": "26 September 2026",
+    "words": [
+      {
+        "word": "Grievous",
+        "pos": "adjective",
+        "meaning": "causing very severe pain, suffering, or damage",
+        "synonyms": [
+          "severe",
+          "grave",
+          "dreadful"
+        ],
+        "example": "The faulty design of the road led to a grievous injury for the pedestrian.",
+        "source": "The Hindu",
+        "headline": "Odisha Pedestrian Safety Rules, 2026 proposes pedestrian path mandatory"
+      },
+      {
+        "word": "Defer",
+        "pos": "verb",
+        "meaning": "to postpone or delay an action or event to a future time",
+        "synonyms": [
+          "postpone",
+          "delay",
+          "adjourn"
+        ],
+        "example": "The students requested to defer the competitive examination until the panel report was released.",
+        "source": "The Hindu",
+        "headline": "Aaditya Thackeray seeks postponement of MPSC State Service Mains pending reform panel report"
+      },
+      {
+        "word": "Hegemony",
+        "pos": "noun",
+        "meaning": "leadership or dominance, especially by one state or social group over others",
+        "synonyms": [
+          "dominance",
+          "supremacy",
+          "ascendancy"
+        ],
+        "example": "The committee debated how to reform the international body to reduce superpower hegemony.",
+        "source": "The Hindu",
+        "headline": "Overweight and weak: On the UN, the 81st session of the UN General Assembly"
+      },
+      {
+        "word": "Unwieldy",
+        "pos": "adjective",
+        "meaning": "difficult to move or manage because of its size, shape, or weight",
+        "synonyms": [
+          "cumbersome",
+          "unmanageable",
+          "clumsy"
+        ],
+        "example": "The administrative structure of the global organisation had become too unwieldy to function effectively.",
+        "source": "The Hindu",
+        "headline": "Overweight and weak: On the UN, the 81st session of the UN General Assembly"
+      },
+      {
+        "word": "Indefensible",
+        "pos": "adjective",
+        "meaning": "not able to be protected, justified, or defended against criticism or attack",
+        "synonyms": [
+          "unjustifiable",
+          "unforgivable",
+          "untenable"
+        ],
+        "example": "The attacks on peaceful commercial vessels in international waters were declared completely indefensible.",
+        "source": "The Hindu",
+        "headline": "Attacks on commercial shipping in Gulf, Red Sea simply indefensible: Jaishankar as India and Liberia announce ‘group of friends’"
+      },
+      {
+        "word": "Moratorium",
+        "pos": "noun",
+        "meaning": "a temporary prohibition or suspension of an activity",
+        "synonyms": [
+          "suspension",
+          "embargo",
+          "halt"
+        ],
+        "example": "The school district decided to impose a one-year moratorium on the use of generative artificial intelligence.",
+        "source": "The Hindu",
+        "headline": "Why is New York City pausing some AI tools in schools? | Explained"
+      },
+      {
+        "word": "Escalate",
+        "pos": "verb",
+        "meaning": "to increase rapidly in intensity, scale, or severity",
+        "synonyms": [
+          "intensify",
+          "heighten",
+          "mount"
+        ],
+        "example": "Tensions began to escalate rapidly along the mountainous border after the cross-border shelling.",
+        "source": "The Hindu",
+        "headline": "Pakistani forces kill several Afghan Taliban fighters in border clash amid escalating tensions"
+      },
+      {
+        "word": "Retreat",
+        "pos": "verb",
+        "meaning": "to withdraw or pull back from a difficult, dangerous, or disagreeable situation",
+        "synonyms": [
+          "withdraw",
+          "recede",
+          "back down"
+        ],
+        "example": "The administration was forced to retreat from its hardline stance on trade tariffs.",
+        "source": "The Hindu",
+        "headline": "A chance to retreat: On Donald Trump, the Greenland agreement"
+      },
+      {
+        "word": "Objectionable",
+        "pos": "adjective",
+        "meaning": "arousing distaste or opposition; unpleasant or offensive",
+        "synonyms": [
+          "offensive",
+          "unacceptable",
+          "disagreeable"
+        ],
+        "example": "The political party strongly condemned the sharing of highly objectionable media online.",
+        "source": "The Hindu",
+        "headline": "Bihar Minister accuses RJD of making objectionable videos viral on social media"
+      },
+      {
+        "word": "Leverage",
+        "pos": "verb",
+        "meaning": "to use something to maximum advantage",
+        "synonyms": [
+          "exploit",
+          "utilize",
+          "capitalize on"
+        ],
+        "example": "The party tried to leverage regional alliances to strengthen its hold over the state assembly.",
+        "source": "The Hindu",
+        "headline": "After cousin Uddhav, Raj Thackeray seeks scrapping of SIR"
+      }
+    ]
+  },
+  {
     "date": "2026-09-25",
     "label": "25 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "Parliament may be reconvened, hints Rijiju, brings delimitation bill in focus.",
         "source": "Times of India",
         "headline": "Parliament may be reconvened, hints Rijiju, brings delimitation bill in focus"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "label": "27 August 2026",
-    "words": [
-      {
-        "word": "Tranche",
-        "pos": "Noun",
-        "meaning": "A portion of something, especially money",
-        "synonyms": [
-          "Segment",
-          "Installment",
-          "Slice"
-        ],
-        "example": "India sent the first tranche of relief materials to Nepal.",
-        "source": "The Hindu",
-        "headline": "Nepal flash floods LIVE: At least 157 dead, hundreds missing; India sends first tranche of relief materials"
-      },
-      {
-        "word": "Stranded",
-        "pos": "Adjective",
-        "meaning": "Left without the means to move from somewhere",
-        "synonyms": [
-          "Marooned",
-          "Beached",
-          "Stuck"
-        ],
-        "example": "T.N. pilgrims were stranded in Nepal due to flash floods.",
-        "source": "The Hindu",
-        "headline": "Nepal flash flood: T.N. pilgrims stranded in Nepal; officials coordinating steps to rescue them"
-      },
-      {
-        "word": "Asymmetry",
-        "pos": "Noun",
-        "meaning": "Lack of equality or equivalence between parts or aspects of something; imbalance",
-        "synonyms": [
-          "Disparity",
-          "Imbalance",
-          "Inequality"
-        ],
-        "example": "The paper on Dooars & Terai Tea Industry points out a market asymmetry between small and large players.",
-        "source": "The Hindu",
-        "headline": "Indian Tea Association issues white paper on Darjeeling & Dooars Tea Industry seeks revival packages"
-      },
-      {
-        "word": "Maladministration",
-        "pos": "Noun",
-        "meaning": "Inefficient or dishonest administration; mismanagement",
-        "synonyms": [
-          "Mismanagement",
-          "Corruption",
-          "Inefficiency"
-        ],
-        "example": "Justice Mehta alleged there was maladministration and malpractice on both judicial and administrative sides of the High Court.",
-        "source": "Times of India",
-        "headline": "SC judge complains against Rajasthan acting CJ; CJI Surya Kant seeks response"
-      },
-      {
-        "word": "Ire",
-        "pos": "Noun",
-        "meaning": "Anger; wrath",
-        "synonyms": [
-          "Wrath",
-          "Rage",
-          "Fury"
-        ],
-        "example": "The Minister’s remarks on sugar price surge drew Congress’ ire.",
-        "source": "The Hindu",
-        "headline": "M.P. Minister’s remarks on sugar price surge draw Congress’ ire"
-      },
-      {
-        "word": "Delimitation",
-        "pos": "Noun",
-        "meaning": "The action of fixing the boundaries or limits of something",
-        "synonyms": [
-          "Demarcation",
-          "Boundary-setting",
-          "Delineation"
-        ],
-        "example": "India and China will push for an early and substantial harvest of border delimitation.",
-        "source": "The Hindu",
-        "headline": "India, China to push for ‘early and substantial harvest’ of border delimitation"
-      },
-      {
-        "word": "Vociferous",
-        "pos": "Adjective",
-        "meaning": "Crying out noisily; expressing feelings or opinions in a loud and forceful way",
-        "synonyms": [
-          "Vehement",
-          "Clamorous",
-          "Blatant"
-        ],
-        "example": "The opposition became vociferous in their demands for accountability.",
-        "source": "The Hindu",
-        "headline": "M.P. Minister’s remarks on sugar price surge draw Congress’ ire"
-      },
-      {
-        "word": "Precipitous",
-        "pos": "Adjective",
-        "meaning": "Dangerously high or steep; done suddenly and without careful consideration",
-        "synonyms": [
-          "Abrupt",
-          "Sheer",
-          "Hasty"
-        ],
-        "example": "The flash floods resulted from a precipitous surge of water in the river.",
-        "source": "The Hindu",
-        "headline": "Nepal flash flood: What triggered the deadly Himalayan disaster?"
-      },
-      {
-        "word": "Devastating",
-        "pos": "Adjective",
-        "meaning": "Highly destructive or damaging",
-        "synonyms": [
-          "Catastrophic",
-          "Ruinous",
-          "Calamitous"
-        ],
-        "example": "A devastating flash flood has struck Nepal’s Rasuwa district.",
-        "source": "The Hindu",
-        "headline": "Nepal flash flood: What triggered the deadly Himalayan disaster?"
-      },
-      {
-        "word": "Asphyxiation",
-        "pos": "Noun",
-        "meaning": "The state or process of being deprived of oxygen, which can result in unconsciousness or death; a severe reduction of something vital",
-        "synonyms": [
-          "Suffocation",
-          "Strangulation",
-          "Choking"
-        ],
-        "example": "The U.S. Treasury Secretary laid out plans for the “economic asphyxiation” of Iran.",
-        "source": "The Hindu",
-        "headline": "Iranian President says new U.S. sanctions will achieve nothing"
       }
     ]
   }
