@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-27",
+    "label": "27 September 2026",
+    "words": [
+      {
+        "word": "Rejig",
+        "pos": "noun",
+        "meaning": "An organizational restructuring or rearrangement.",
+        "synonyms": [
+          "overhaul",
+          "reshuffle",
+          "reorganization"
+        ],
+        "example": "The latest rejig in the state police involved transferring several senior officers.",
+        "source": "The Hindu",
+        "headline": "23 IPS transferred in a latest rejig in West Bengal police"
+      },
+      {
+        "word": "Acquittal",
+        "pos": "noun",
+        "meaning": "A judgment that a person is not guilty of the crime with which they have been charged.",
+        "synonyms": [
+          "absolution",
+          "exoneration",
+          "clearance"
+        ],
+        "example": "The state government decided to appeal against the high-profile acquittal in the corruption case.",
+        "source": "The Hindu",
+        "headline": "T.N. government to appeal against Ponmudy’s acquittal in ₹28.37-crore red sand quarrying case, ED tells Madras HC"
+      },
+      {
+        "word": "Cognisance",
+        "pos": "noun",
+        "meaning": "Judicial notice or attention taken of an offense or case by a court.",
+        "synonyms": [
+          "notice",
+          "attention",
+          "consideration"
+        ],
+        "example": "The High Court quashed the order taking cognisance of the complaint against the accused.",
+        "source": "The Hindu",
+        "headline": "Madras HC quashes order taking cognisance of ED complaint against drug smuggling accused Jaffer Sadiq"
+      },
+      {
+        "word": "Illicit",
+        "pos": "adjective",
+        "meaning": "Forbidden by law, rules, or custom.",
+        "synonyms": [
+          "unlawful",
+          "illegal",
+          "prohibited"
+        ],
+        "example": "Two passengers were detained for carrying illicit arrack during a routine check.",
+        "source": "The Hindu",
+        "headline": "Two bus passengers held for possession of illicit arrack near Katpadi"
+      },
+      {
+        "word": "Bonhomie",
+        "pos": "noun",
+        "meaning": "Cheerful friendliness; geniality.",
+        "synonyms": [
+          "camaraderie",
+          "fellowship",
+          "cordiality"
+        ],
+        "example": "The visible bonhomie between the leaders during the state dinner stood in sharp contrast to their later disputes.",
+        "source": "The Hindu",
+        "headline": "China pushes back against U.S. on Iran and Cuba in UN speech"
+      },
+      {
+        "word": "Deceit",
+        "pos": "noun",
+        "meaning": "The act of misleading someone through dishonest statements or actions.",
+        "synonyms": [
+          "deception",
+          "trickery",
+          "duplicity"
+        ],
+        "example": "India strongly criticized Pakistan's persistent deceit and support for cross-border terrorism at the UN.",
+        "source": "The Hindu",
+        "headline": "India criticises Pakistan’s ‘falsehoods’ and ‘deceit’ at UN; warns terrorism will have consequences"
+      },
+      {
+        "word": "Resolute",
+        "pos": "adjective",
+        "meaning": "Admirably purposeful, determined, and unwavering.",
+        "synonyms": [
+          "steadfast",
+          "determined",
+          "unyielding"
+        ],
+        "example": "The leader was praised for his resolute and visionary handling of the diplomatic crisis.",
+        "source": "The Hindu",
+        "headline": "Shehbaz Sharif raises Kashmir issue at UNGA, credits Trump for ‘timely intervention’ in 2025 India-Pakistan conflict"
+      },
+      {
+        "word": "Sovereignty",
+        "pos": "noun",
+        "meaning": "The authority of a state to govern itself or another state.",
+        "synonyms": [
+          "autonomy",
+          "supremacy",
+          "independence"
+        ],
+        "example": "The allied nations reaffirmed their commitment to defending the security and territorial sovereignty of the kingdom.",
+        "source": "The Hindu",
+        "headline": "Saudi Arabia, Pakistan, Turkiye defence officials resolve to assist Riyadh in wake of Houthi attacks"
+      },
+      {
+        "word": "Reaffirm",
+        "pos": "verb",
+        "meaning": "State again as true; assert strongly.",
+        "synonyms": [
+          "reassert",
+          "confirm",
+          "reiterate"
+        ],
+        "example": "The foreign minister used the global summit to reaffirm his country's support for a permanent seat on the security council.",
+        "source": "Times of India",
+        "headline": "Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan"
+      },
+      {
+        "word": "Undermine",
+        "pos": "verb",
+        "meaning": "Erode the base or foundation of; damage or weaken gradually.",
+        "synonyms": [
+          "sabotage",
+          "subvert",
+          "impair"
+        ],
+        "example": "Ruling coalition members argued that relentless opposition attacks serve only to undermine democratic institutions.",
+        "source": "Times of India",
+        "headline": "BJP allies back EC, say opposition attacks undermine democracy"
+      }
+    ]
+  },
+  {
     "date": "2026-09-26",
     "label": "26 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "India, Canada reiterate commitment to complete trade deal by end of 2026.",
         "source": "The Hindu",
         "headline": "India, Canada reiterate commitment to complete trade deal by end of 2026"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-28",
-    "label": "28 August 2026",
-    "words": [
-      {
-        "word": "Uncontactable",
-        "pos": "adjective",
-        "meaning": "Unable to be reached or communicated with.",
-        "synonyms": [
-          "Incommunicado",
-          "Unreachable",
-          "Isolated"
-        ],
-        "example": "At least 290 Indians remain ‘uncontactable’ after Nepal flash flood, says MEA.",
-        "source": "The Hindu",
-        "headline": "At least 290 Indians remain ‘uncontactable’ after Nepal flash flood, says MEA"
-      },
-      {
-        "word": "Consignment",
-        "pos": "noun",
-        "meaning": "A batch of goods destined for or delivered to someone.",
-        "synonyms": [
-          "Shipment",
-          "Delivery",
-          "Cargo"
-        ],
-        "example": "A second consignment of 37.5 tonnes of relief material has been handed over to Nepal.",
-        "source": "The Hindu",
-        "headline": "At least 290 Indians remain ‘uncontactable’ after Nepal flash flood, says MEA"
-      },
-      {
-        "word": "Incentives",
-        "pos": "noun",
-        "meaning": "A thing that motivates or encourages one to do something.",
-        "synonyms": [
-          "Stimulus",
-          "Motivation",
-          "Impetus"
-        ],
-        "example": "He distributed more than ₹3.42 crore in incentives to 107 startups.",
-        "source": "The Hindu",
-        "headline": "U.P.’s population is not a challenge, but a great possibility, says CM Adityanath"
-      },
-      {
-        "word": "Intimidate",
-        "pos": "verb",
-        "meaning": "To frighten or overawe (someone), especially in order to make them do what one wants.",
-        "synonyms": [
-          "Coerce",
-          "Threaten",
-          "Bully"
-        ],
-        "example": "Biometric identity-based attendance for college students is an attempt intimidate students in the name of discipline, alleges principal Opposition party.",
-        "source": "The Hindu",
-        "headline": "BJD opposes Odisha government’s proposal for biometric attendance for college students"
-      },
-      {
-        "word": "Authentic",
-        "pos": "adjective",
-        "meaning": "Of undisputed origin; genuine.",
-        "synonyms": [
-          "Genuine",
-          "Veritable",
-          "True"
-        ],
-        "example": "Ajay Rai challenged the Chief Minister to make a public, authentic picture or video of him eating fish.",
-        "source": "The Hindu",
-        "headline": "Stop making false statements, focus on the real problems of U.P., wrote State Congress chief Ajay Rai to CM"
-      },
-      {
-        "word": "Capitulate",
-        "pos": "verb",
-        "meaning": "Cease to resist an opponent or an unwelcome demand; surrender.",
-        "synonyms": [
-          "Surrender",
-          "Yield",
-          "Concede"
-        ],
-        "example": "Is Modi government trying to capitulate to China, asks Congress leader.",
-        "source": "The Hindu",
-        "headline": "Jairam Ramesh questions conflicting remarks on Pakistan-China cooperation during Operation Sindoor"
-      },
-      {
-        "word": "Ritual",
-        "pos": "noun",
-        "meaning": "A religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.",
-        "synonyms": [
-          "Ceremony",
-          "Rite",
-          "Custom"
-        ],
-        "example": "BJP’s ‘casteist nature’ exposed by Haldwani ritual defence, says Congress.",
-        "source": "The Hindu",
-        "headline": "BJP’s ‘casteist nature’ exposed by Haldwani ritual defence, says Congress"
-      },
-      {
-        "word": "Obscure",
-        "pos": "adjective",
-        "meaning": "Not discovered or known about; uncertain.",
-        "synonyms": [
-          "Unclear",
-          "Vague",
-          "Enigmatic"
-        ],
-        "example": "The immediate mechanism behind the sudden release of water remains under obscure.",
-        "source": "The Hindu",
-        "headline": "Western disturbance linked to Nepal floods"
-      },
-      {
-        "word": "Tenacity",
-        "pos": "noun",
-        "meaning": "The quality or fact of being able to grip something firmly; grip.",
-        "synonyms": [
-          "Persistence",
-          "Determination",
-          "Perseverance"
-        ],
-        "example": "In a remarkable display of skill and tenacity, R Praggnanandhaa clinched victory at the Grand Chess Tour Finals.",
-        "source": "Times of India",
-        "headline": "Praggnanandhaa scripts history, becomes first Indian to win Grand Chess Tour"
-      },
-      {
-        "word": "Reconvened",
-        "pos": "verb",
-        "meaning": "To call or come together again.",
-        "synonyms": [
-          "Reassemble",
-          "Resume",
-          "Recall"
-        ],
-        "example": "Parliament may be reconvened, hints Rijiju, brings delimitation bill in focus.",
-        "source": "Times of India",
-        "headline": "Parliament may be reconvened, hints Rijiju, brings delimitation bill in focus"
       }
     ]
   }
