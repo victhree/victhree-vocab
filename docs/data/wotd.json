@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-29",
+    "label": "29 September 2026",
+    "words": [
+      {
+        "word": "Volte-face",
+        "pos": "noun",
+        "meaning": "An abrupt and complete reversal of attitude, opinion, or position",
+        "synonyms": [
+          "about-face",
+          "u-turn",
+          "turnabout"
+        ],
+        "example": "The politician's sudden volte-face on the tax policy surprised both his supporters and opponents.",
+        "source": "The Hindu",
+        "headline": "P&T apartment residents demand unconditional apology from Maxy over ‘volte-face’ remark"
+      },
+      {
+        "word": "Exempt",
+        "pos": "verb",
+        "meaning": "To free from an obligation or liability imposed on others",
+        "synonyms": [
+          "excuse",
+          "release",
+          "spare"
+        ],
+        "example": "The court asked the board to consider exempting young students from the rigid language policy.",
+        "source": "The Hindu",
+        "headline": "Supreme Court asks Centre to consider exempting Class 6 students from CBSE three-language policy this year"
+      },
+      {
+        "word": "Unearth",
+        "pos": "verb",
+        "meaning": "To discover or bring to light by searching or investigation",
+        "synonyms": [
+          "uncover",
+          "reveal",
+          "expose"
+        ],
+        "example": "An audit unearthed significant financial discrepancies in the allocation of public funds.",
+        "source": "The Hindu",
+        "headline": "Indirectly mining affected people in Odisha get substantial DMF fund, CAG unearths"
+      },
+      {
+        "word": "Slugfest",
+        "pos": "noun",
+        "meaning": "A tough and lively conflict, fight, or heated argument",
+        "synonyms": [
+          "brawl",
+          "melee",
+          "clash"
+        ],
+        "example": "The campus incident triggered a political slugfest between the ruling party and the opposition.",
+        "source": "The Hindu",
+        "headline": "Punjab campus violence triggers political slugfest; university blames outsiders"
+      },
+      {
+        "word": "Encroachment",
+        "pos": "noun",
+        "meaning": "Intrusion on a person's territory, rights, or public spaces",
+        "synonyms": [
+          "intrusion",
+          "trespass",
+          "infringement"
+        ],
+        "example": "The municipal corporation launched a drive to clear illegal encroachments from the footpaths.",
+        "source": "The Hindu",
+        "headline": "Bengaluru tree branch fall tragedy prompts Karnataka HC to script tech driven public safety framework across State"
+      },
+      {
+        "word": "Quash",
+        "pos": "verb",
+        "meaning": "To reject or void by legal authority; to put an end to",
+        "synonyms": [
+          "nullify",
+          "invalidate",
+          "suppress"
+        ],
+        "example": "The High Court refused to quash the police investigation against the accused official.",
+        "source": "The Hindu",
+        "headline": "Only Governor, not government can grant sanction to conduct investigation against me in ₹100-crore fraud case, Anbil Mahesh…"
+      },
+      {
+        "word": "Envisage",
+        "pos": "verb",
+        "meaning": "To contemplate or conceive of as a possibility or a desirable future event",
+        "synonyms": [
+          "visualize",
+          "imagine",
+          "foresee"
+        ],
+        "example": "The new peace plan envisages a complete cessation of hostilities across the borders.",
+        "source": "The Hindu",
+        "headline": "U.S., Iran separately talk with mediators in latest bid to end war"
+      },
+      {
+        "word": "Lenient",
+        "pos": "adjective",
+        "meaning": "Merciful, tolerant, or mild in discipline or judgment",
+        "synonyms": [
+          "indulgent",
+          "forgiving",
+          "lax"
+        ],
+        "example": "Critics argued that the university administration was far too lenient on the offenders.",
+        "source": "The Hindu",
+        "headline": "U.S. prosecutors reopen Cornell gang rape case after outcry"
+      },
+      {
+        "word": "Consummate",
+        "pos": "verb",
+        "meaning": "To complete, finalize, or bring to perfection",
+        "synonyms": [
+          "conclude",
+          "accomplish",
+          "finalize"
+        ],
+        "example": "If the trade deal is consummated, it will significantly alter the economic dynamics of both nations.",
+        "source": "The Hindu",
+        "headline": "Trump asked China’s President if he wants to buy U.S. arms, Ambassador says"
+      },
+      {
+        "word": "Rogue",
+        "pos": "adjective",
+        "meaning": "Behaving in ways that are not expected or approved; out of control",
+        "synonyms": [
+          "renegade",
+          "uncontrolled",
+          "erratic"
+        ],
+        "example": "The software update was designed to prevent autonomous systems from going rogue.",
+        "source": "Times of India",
+        "headline": "Nvidia unveils security system that 'sets boundaries' for AI agents going rogue"
+      }
+    ]
+  },
+  {
     "date": "2026-09-28",
     "label": "28 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "The village, once home to 150 families, was obliterated by the Himalayan floods.",
         "source": "The Hindu",
         "headline": "Nepal flood survivors return to ruins to salvage memories"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "label": "30 August 2026",
-    "words": [
-      {
-        "word": "Scrapping",
-        "pos": "noun",
-        "meaning": "The act of discarding or getting rid of something.",
-        "synonyms": [
-          "discarding",
-          "abolishing",
-          "canceling"
-        ],
-        "example": "The scrapping of the airport project faced farmers' opposition.",
-        "source": "The Hindu",
-        "headline": "The scrapping of Parandur airport project: a compilation"
-      },
-      {
-        "word": "Viable",
-        "pos": "adjective",
-        "meaning": "Capable of working successfully; feasible.",
-        "synonyms": [
-          "feasible",
-          "workable",
-          "achievable"
-        ],
-        "example": "Tamil Nadu has to press ahead with another alternative, viable site for Chennai’s second airport.",
-        "source": "The Hindu",
-        "headline": "Chennai’s second airport: grounded until take-off"
-      },
-      {
-        "word": "Proactively",
-        "pos": "adverb",
-        "meaning": "By taking action to anticipate future problems, needs, or changes.",
-        "synonyms": [
-          "anticipatorily",
-          "preventively",
-          "forward-looking"
-        ],
-        "example": "The Indian Judiciary proactively responds to emerging fraudulent schemes.",
-        "source": "The Hindu",
-        "headline": "Judiciary proactively responded to emerging fraudulent schemes like digital arrest: CJI"
-      },
-      {
-        "word": "Wayalaying",
-        "pos": "noun",
-        "meaning": "The act of putting someone at ease or dispelling their fears.",
-        "synonyms": [
-          "assuaging",
-          "calming",
-          "reassuring"
-        ],
-        "example": "The wayalaying of the Keralam CM caused a political stir.",
-        "source": "The Hindu",
-        "headline": "Wayalaying of Keralam CM: K.V. Thomas flays action against Cong. leader"
-      },
-      {
-        "word": "Verbatim",
-        "pos": "adverb",
-        "meaning": "In exactly the same words as were originally used.",
-        "synonyms": [
-          "word for word",
-          "exactly",
-          "literally"
-        ],
-        "example": "The witness recounted the events verbatim.",
-        "source": "The Hindu",
-        "headline": "Can an accused be denied a copy of the FIR? | Explained"
-      },
-      {
-        "word": "Devastating",
-        "pos": "adjective",
-        "meaning": "Highly destructive or damaging.",
-        "synonyms": [
-          "ruinous",
-          "catastrophic",
-          "calamitous"
-        ],
-        "example": "A devastating glacier collapse and avalanche occurred in Nepal.",
-        "source": "The Hindu",
-        "headline": "Nepal flood miracle: Mother reunites with 8-year-old who climbed trees to survive"
-      },
-      {
-        "word": "Slush",
-        "pos": "noun",
-        "meaning": "Partially melted snow or ice, often mixed with mud or dirt.",
-        "synonyms": [
-          "mire",
-          "mud",
-          "goo"
-        ],
-        "example": "Bodies were buried in slush after the floods.",
-        "source": "The Hindu",
-        "headline": "Nepal floods: ‘Bodies buried in slush, families refusing food’, Khalsa Aid volunteers witness devastation"
-      },
-      {
-        "word": "Wanes",
-        "pos": "verb",
-        "meaning": "To decrease in vigor, power, or extent; to dwindle.",
-        "synonyms": [
-          "diminish",
-          "decline",
-          "fade"
-        ],
-        "example": "The risk of the lake burst near the disaster site wanes.",
-        "source": "The Hindu",
-        "headline": "Risk of lake burst near China-Nepal disaster site wanes"
-      },
-      {
-        "word": "Underwhelming",
-        "pos": "adjective",
-        "meaning": "Not impressive or exciting; disappointing.",
-        "synonyms": [
-          "disappointing",
-          "mediocre",
-          "unimpressive"
-        ],
-        "example": "Suryakumar Yadav openly takes responsibility for his underwhelming ODI career.",
-        "source": "Times of India",
-        "headline": "‘ I take the blame myself’: Suryakumar Yadav’s big regret over failed ODI career"
-      },
-      {
-        "word": "Embroiled",
-        "pos": "adjective",
-        "meaning": "Involved in a difficult or complicated situation.",
-        "synonyms": [
-          "entangled",
-          "involved",
-          "caught up"
-        ],
-        "example": "Sally Kellerman’s adopted daughter Claire Kellerman is embroiled in a legal dispute.",
-        "source": "Times of India",
-        "headline": "Sally Kellerman's daughter refuses to leave Scottish island in assistance dog row"
       }
     ]
   }
