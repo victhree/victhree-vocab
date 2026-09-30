@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-09-30",
+    "label": "30 September 2026",
+    "words": [
+      {
+        "word": "Fjord",
+        "pos": "noun",
+        "meaning": "a long, narrow, deep inlet of the sea between high cliffs",
+        "synonyms": [
+          "inlet",
+          "cove",
+          "bight"
+        ],
+        "example": "The scientist collected meltwater from a remote Arctic fjord.",
+        "source": "The Hindu",
+        "headline": "From Kannur to Ny-Alesund, researcher tracks pollutants into the Arctic"
+      },
+      {
+        "word": "Repeal",
+        "pos": "noun",
+        "meaning": "the action of revoking or annulling a law or act of parliament",
+        "synonyms": [
+          "revocation",
+          "abrogation",
+          "annulment"
+        ],
+        "example": "Protesters staged a demonstration demanding the immediate repeal of the controversial statute.",
+        "source": "The Hindu",
+        "headline": "INDIA bloc announces Odisha bandh on October 8 over new mining law, other issues"
+      },
+      {
+        "word": "Spearhead",
+        "pos": "verb",
+        "meaning": "to lead or initiate an attack, movement, or course of action",
+        "synonyms": [
+          "pioneer",
+          "lead",
+          "champion"
+        ],
+        "example": "The local activist was chosen to spearhead the protest against the coastal development.",
+        "source": "The Hindu",
+        "headline": "Hundreds of fishermen protest against Secretariat proposal at Foreshore Estate"
+      },
+      {
+        "word": "Burgle",
+        "pos": "verb",
+        "meaning": "to enter a building illegally and steal things",
+        "synonyms": [
+          "plunder",
+          "rob",
+          "ransack"
+        ],
+        "example": "Thieves managed to burgle the historic shrine under the cover of darkness.",
+        "source": "The Hindu",
+        "headline": "Temple burgled near Katpadi"
+      },
+      {
+        "word": "Dissent",
+        "pos": "noun",
+        "meaning": "disagreement with or opposition to official views or policies",
+        "synonyms": [
+          "discord",
+          "disaffection",
+          "opposition"
+        ],
+        "example": "Authoritarian measures were enacted to suppress political dissent among the public.",
+        "source": "The Hindu",
+        "headline": "Democracy without choice: how unopposed Maharashtra rural polls silence dissent"
+      },
+      {
+        "word": "Mammoth",
+        "pos": "adjective",
+        "meaning": "huge, enormous, or of exceptionally great size",
+        "synonyms": [
+          "colossal",
+          "gigantic",
+          "gargantuan"
+        ],
+        "example": "A mammoth crowd assembled at the city square to demand remunerative crop prices.",
+        "source": "The Hindu",
+        "headline": "Mammoth protest at Kittur Chennamma Circle by Sugarcane farmers; Farmers agree for talk at Delhi with Joshi after intervention…"
+      },
+      {
+        "word": "Indict",
+        "pos": "verb",
+        "meaning": "to formally accuse of or charge with a serious crime",
+        "synonyms": [
+          "arraign",
+          "charge",
+          "impeach"
+        ],
+        "example": "Federal authorities moved to indict several foreign nationals in a counterfeit drug scheme.",
+        "source": "The Hindu",
+        "headline": "U.S. says two Indian nationals indicted in counterfeit Ozempic smuggling scheme"
+      },
+      {
+        "word": "Unwarranted",
+        "pos": "adjective",
+        "meaning": "not justified, authorized, or called for",
+        "synonyms": [
+          "unjustified",
+          "baseless",
+          "gratuitous"
+        ],
+        "example": "The diplomat rejected the critical statements as completely unwarranted and unacceptable.",
+        "source": "The Hindu",
+        "headline": "India rejects Kashmir references in Turkish President’s UNGA address as ‘unwarranted’"
+      },
+      {
+        "word": "Incessant",
+        "pos": "adjective",
+        "meaning": "continuing without pause or interruption, especially of something unpleasant",
+        "synonyms": [
+          "unceasing",
+          "relentless",
+          "perpetual"
+        ],
+        "example": "The mountainous region witnessed severe landslides triggered by incessant rainfall.",
+        "source": "The Hindu",
+        "headline": "27 killed across Nepal due to incessant rainfall since September 24: Authorities"
+      },
+      {
+        "word": "Rebuttal",
+        "pos": "noun",
+        "meaning": "a statement or evidence that refutes or disproves an accusation or argument",
+        "synonyms": [
+          "refutation",
+          "counterargument",
+          "disproof"
+        ],
+        "example": "The party president offered a sharp rebuttal to the misleading claims made by his colleague.",
+        "source": "Times of India",
+        "headline": "‘Nitish wouldn’t have gone to BJP’: Digvijaya’s CWC claim draws sharp Kharge rebuttal"
+      }
+    ]
+  },
+  {
     "date": "2026-09-29",
     "label": "29 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "September rainfall across India is predicted to be below normal, concluding the monsoon season deficiently.",
         "source": "Times of India",
         "headline": "IMD predicts below-normal rainfall over India in September"
-      }
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "label": "31 August 2026",
-    "words": [
-      {
-        "word": "Imprint",
-        "pos": "noun",
-        "meaning": "A lasting effect or impression.",
-        "synonyms": [
-          "mark",
-          "effect",
-          "influence"
-        ],
-        "example": "Revanth’s government leaves its lasting imprint after 1,000 days in office.",
-        "source": "The Hindu",
-        "headline": "Revanth’s govt. leaves its imprint after 1,000 days in office"
-      },
-      {
-        "word": "Confrontation",
-        "pos": "noun",
-        "meaning": "A hostile or argumentative meeting or situation between opposing parties.",
-        "synonyms": [
-          "clash",
-          "conflict",
-          "dispute"
-        ],
-        "example": "Two police personnel sustained injuries during the confrontation along the Son River.",
-        "source": "The Hindu",
-        "headline": "Three, including two police officials, injured in Patna encounter"
-      },
-      {
-        "word": "Oppressive",
-        "pos": "adjective",
-        "meaning": "Unjustly inflicting hardship and constraint, especially on a minority or other subordinate group.",
-        "synonyms": [
-          "tyrannical",
-          "harsh",
-          "authoritarian"
-        ],
-        "example": "IISER students demand an end to 'oppressive gender-based hostel curbs'.",
-        "source": "The Hindu",
-        "headline": "IISER students’ protest continues in Pune"
-      },
-      {
-        "word": "Deteriorated",
-        "pos": "verb",
-        "meaning": "To become progressively worse.",
-        "synonyms": [
-          "worsen",
-          "decline",
-          "degenerate"
-        ],
-        "example": "Haryana water quality has deteriorated in 93 blocks since 2022.",
-        "source": "The Hindu",
-        "headline": "Haryana water quality has deteriorated in 93 blocks since 2022: Congress MLA"
-      },
-      {
-        "word": "Irregularities",
-        "pos": "noun",
-        "meaning": "The state of being contrary to the rules or to that which is established or customary.",
-        "synonyms": [
-          "anomalies",
-          "deviations",
-          "violations"
-        ],
-        "example": "The students protested against alleged irregularities in recruitment exams for government jobs.",
-        "source": "The Hindu",
-        "headline": "Taking reforms to the road: From Ranchi protest to a Statewide yatra"
-      },
-      {
-        "word": "Congregation",
-        "pos": "noun",
-        "meaning": "A gathering or collection of people, animals, or things.",
-        "synonyms": [
-          "assembly",
-          "gathering",
-          "multitude"
-        ],
-        "example": "A sizeable share of priests and laity members had been demanding congregation-facing Mass.",
-        "source": "The Hindu",
-        "headline": "Congregation-facing Mass resumes at St. Mary’s Cathedral Basilica in Kochi"
-      },
-      {
-        "word": "Capsizes",
-        "pos": "verb",
-        "meaning": "(Of a boat or ship) overturn in the water.",
-        "synonyms": [
-          "overturn",
-          "keel over",
-          "flip"
-        ],
-        "example": "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern Cyprus.",
-        "source": "The Hindu",
-        "headline": "At least seven dead after ferry carrying nearly 270 passengers, crew capsizes off northern Cyprus"
-      },
-      {
-        "word": "Mutiny",
-        "pos": "noun",
-        "meaning": "An open rebellion against the proper authorities, especially by soldiers or sailors against their officers.",
-        "synonyms": [
-          "rebellion",
-          "insurrection",
-          "revolt"
-        ],
-        "example": "Niger says it regains control of airbase after soldiers mutiny.",
-        "source": "The Hindu",
-        "headline": "Niger says it regains control of airbase after soldiers mutiny"
-      },
-      {
-        "word": "Devastation",
-        "pos": "noun",
-        "meaning": "Severe and widespread destruction or misery.",
-        "synonyms": [
-          "ruin",
-          "destruction",
-          "havoc"
-        ],
-        "example": "Nepal warns of more possible floods as communities grapple with devastation.",
-        "source": "The Hindu",
-        "headline": "Nepal warns of more possible floods as communities grapple with devastation"
-      },
-      {
-        "word": "Obliterated",
-        "pos": "verb",
-        "meaning": "To destroy utterly; wipe out.",
-        "synonyms": [
-          "annihilate",
-          "eradicate",
-          "demolish"
-        ],
-        "example": "The village, once home to 150 families, was obliterated by the Himalayan floods.",
-        "source": "The Hindu",
-        "headline": "Nepal flood survivors return to ruins to salvage memories"
       }
     ]
   }
