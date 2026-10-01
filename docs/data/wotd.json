@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-10-01",
+    "label": "1 October 2026",
+    "words": [
+      {
+        "word": "Altercation",
+        "pos": "noun",
+        "meaning": "a noisy, heated argument or confrontation",
+        "synonyms": [
+          "quarrel",
+          "wrangle",
+          "fracas"
+        ],
+        "example": "A violent altercation inside the cockpit forced the flight to divert immediately.",
+        "source": "The Hindu",
+        "headline": "Pilot attacked in flydubai altercation Indian"
+      },
+      {
+        "word": "Expedite",
+        "pos": "verb",
+        "meaning": "to accelerate the progress of or hasten an action",
+        "synonyms": [
+          "quicken",
+          "hasten",
+          "accelerate"
+        ],
+        "example": "The high court directed authorities to expedite the disposal of long-pending legal matters.",
+        "source": "The Hindu",
+        "headline": "Kerala High Court directs State govt. to expedite disposal of pending cases against MPs and MLAs based on District Judiciary…"
+      },
+      {
+        "word": "Embodiment",
+        "pos": "noun",
+        "meaning": "a tangible or visible representation of an idea or quality",
+        "synonyms": [
+          "personification",
+          "epitome",
+          "quintessence"
+        ],
+        "example": "The border operation was hailed as an embodiment of valor and selfless service.",
+        "source": "The Hindu",
+        "headline": "Army’s ‘Operation Drishti’ in Kashmir’s border areas a milestone: J&K L-G Manoj Sinha"
+      },
+      {
+        "word": "Discrepancy",
+        "pos": "noun",
+        "meaning": "an illogical or unexpected difference between two things that should be identical",
+        "synonyms": [
+          "inconsistency",
+          "divergence",
+          "disparity"
+        ],
+        "example": "The investigative audit exposed severe discrepancies between the official rolls and ground realities.",
+        "source": "The Hindu",
+        "headline": "Karnataka SIR: Civil society report flags large-scale voter deletions, ground-level discrepancies"
+      },
+      {
+        "word": "Stave",
+        "pos": "verb",
+        "meaning": "to avert, ward off, or defer something undesirable",
+        "synonyms": [
+          "repel",
+          "fend",
+          "parry"
+        ],
+        "example": "Quick reactions by the flight crew helped stave off a catastrophic mid-air disaster.",
+        "source": "The Hindu",
+        "headline": "Trump says flydubai pilot 'a hero', plumber steadied plunging aircraft"
+      },
+      {
+        "word": "Overhaul",
+        "pos": "noun",
+        "meaning": "a thorough examination and repair or comprehensive revision",
+        "synonyms": [
+          "revamp",
+          "reconstruction",
+          "renovation"
+        ],
+        "example": "Critics demanded a comprehensive overhaul of the national intelligence framework.",
+        "source": "The Hindu",
+        "headline": "Japan forms first national intelligence agency, eyes its own CIA"
+      },
+      {
+        "word": "Spar",
+        "pos": "verb",
+        "meaning": "to argue or dispute, especially in a verbal skirmish",
+        "synonyms": [
+          "bicker",
+          "wrangle",
+          "contend"
+        ],
+        "example": "Delegates continued to spar vigorously over diplomatic protocols at the summit.",
+        "source": "The Hindu",
+        "headline": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet"
+      },
+      {
+        "word": "Divisive",
+        "pos": "adjective",
+        "meaning": "tending to cause disagreement or hostility between people",
+        "synonyms": [
+          "polarising",
+          "contentious",
+          "discordant"
+        ],
+        "example": "The controversial referendum proved to be an acutely divisive issue across the electorate.",
+        "source": "The Hindu",
+        "headline": "Full re-entry into EU is an option for U.K., says PM Burnham"
+      },
+      {
+        "word": "Flashpoint",
+        "pos": "noun",
+        "meaning": "a place, event, or time at which trouble or violence flares up",
+        "synonyms": [
+          "hotspot",
+          "powder keg",
+          "tinderbox"
+        ],
+        "example": "The ongoing student demonstrations rapidly transformed into a fierce political flashpoint.",
+        "source": "The Hindu",
+        "headline": "Dozens injured in French student protests over school resources"
+      },
+      {
+        "word": "Arsenal",
+        "pos": "noun",
+        "meaning": "a collection or stock of weapons and military equipment",
+        "synonyms": [
+          "armory",
+          "cache",
+          "stockpile"
+        ],
+        "example": "The military announced it was willing to deploy its entire strategic arsenal to preserve territorial sovereignty.",
+        "source": "The Hindu",
+        "headline": "Russia issues nuclear warning to NATO as tensions rise in the Baltic"
+      }
+    ]
+  },
+  {
     "date": "2026-09-30",
     "label": "30 September 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "A vice president of Bank of America was violently stabbed in an unprovoked attack.",
         "source": "Times of India",
         "headline": "'Just returned from maternity leave': Bank of America VP killed in Times Square stabbing"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "label": "1 September 2026",
-    "words": [
-      {
-        "word": "Collegium",
-        "pos": "noun",
-        "meaning": "A body of colleagues, especially one that recommends appointments.",
-        "synonyms": [
-          "council",
-          "committee",
-          "panel"
-        ],
-        "example": "Resolution by the Collegium came a weekend after letters written by serving top court judge.",
-        "source": "The Hindu",
-        "headline": "After Supreme Court judge’s letters, Collegium recommends new Chief Justice for Rajasthan HC"
-      },
-      {
-        "word": "Insolvency",
-        "pos": "noun",
-        "meaning": "The state of being unable to pay debts.",
-        "synonyms": [
-          "bankruptcy",
-          "indebtedness",
-          "ruin"
-        ],
-        "example": "A Division Bench had failed to reach a majority verdict in a personal insolvency case.",
-        "source": "The Hindu",
-        "headline": "NCLT's first-ever 5-member Bench to decide on Subhash Chandra repayment plan"
-      },
-      {
-        "word": "Retreat",
-        "pos": "noun",
-        "meaning": "A period of withdrawal for prayer, meditation, study, or instruction.",
-        "synonyms": [
-          "withdrawal",
-          "seclusion",
-          "sanctuary"
-        ],
-        "example": "The Chief Minister and Cabinet colleagues will attend a leadership retreat at IIMK.",
-        "source": "The Hindu",
-        "headline": "Chief Minister, Cabinet colleagues to attend leadership retreat at IIMK"
-      },
-      {
-        "word": "Impartially",
-        "pos": "adverb",
-        "meaning": "In a way that treats all rivals or disputants equally.",
-        "synonyms": [
-          "fairly",
-          "neutrally",
-          "objectively"
-        ],
-        "example": "The CPI(M) leadership is destroying the party and not impartially examining the reasons for its decline.",
-        "source": "The Hindu",
-        "headline": "Pinarayi accuses Taliparamba MLA of ‘betrayal’"
-      },
-      {
-        "word": "Consolidating",
-        "pos": "verb",
-        "meaning": "To combine (a number of things) into a single more effective or coherent whole.",
-        "synonyms": [
-          "strengthening",
-          "merging",
-          "unifying"
-        ],
-        "example": "Suvendu Adhikari is consolidating power by absorbing the very same system and networks.",
-        "source": "The Hindu",
-        "headline": "The battle within the BJP in Bengal"
-      },
-      {
-        "word": "Abstain",
-        "pos": "verb",
-        "meaning": "To choose not to do something, especially something that you would enjoy.",
-        "synonyms": [
-          "refrain",
-          "desist",
-          "forbear"
-        ],
-        "example": "Rajasthan High Court lawyers will abstain from work till September 6 in Jodhpur.",
-        "source": "The Hindu",
-        "headline": "Rajasthan High Court lawyers to abstain from work till September 6 in Jodhpur"
-      },
-      {
-        "word": "Combative",
-        "pos": "adjective",
-        "meaning": "Ready or eager to fight; aggressive.",
-        "synonyms": [
-          "aggressive",
-          "belligerent",
-          "pugnacious"
-        ],
-        "example": "The local government was criticized for not being combative enough.",
-        "source": "The Hindu",
-        "headline": "The need for political unity in Kashmir"
-      },
-      {
-        "word": "Disseminating",
-        "pos": "verb",
-        "meaning": "To spread or disperse (something, especially information) widely.",
-        "synonyms": [
-          "circulating",
-          "propagating",
-          "distributing"
-        ],
-        "example": "Articles that criminalized insulting the government and disseminating such insults were struck down.",
-        "source": "The Hindu",
-        "headline": "Indonesian activists hail ruling to strike down ban on insulting government, but question impact"
-      },
-      {
-        "word": "Fragility",
-        "pos": "noun",
-        "meaning": "The quality of being easily broken or damaged.",
-        "synonyms": [
-          "delicacy",
-          "vulnerability",
-          "brittleness"
-        ],
-        "example": "The Nepal-China flash flood disaster exposes the fragility of the Hindu Kush Himalayas.",
-        "source": "The Hindu",
-        "headline": "Nepal-China flash flood disaster exposes fragility of Hindu Kush Himalayas: U.N. climate chief"
-      },
-      {
-        "word": "Deficiently",
-        "pos": "adverb",
-        "meaning": "In an incomplete or insufficient way.",
-        "synonyms": [
-          "inadequately",
-          "poorly",
-          "insufficiently"
-        ],
-        "example": "September rainfall across India is predicted to be below normal, concluding the monsoon season deficiently.",
-        "source": "Times of India",
-        "headline": "IMD predicts below-normal rainfall over India in September"
       }
     ]
   }
