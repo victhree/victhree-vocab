@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-10-03",
+    "label": "3 October 2026",
+    "words": [
+      {
+        "word": "Limbo",
+        "pos": "noun",
+        "meaning": "An uncertain period of awaiting a decision or resolution; an intermediate state.",
+        "synonyms": [
+          "abeyance",
+          "suspension",
+          "purgatory"
+        ],
+        "example": "The deletion of their names from the electoral rolls left thousands of voters in limbo.",
+        "source": "The Hindu",
+        "headline": "Deleted, and left in limbo"
+      },
+      {
+        "word": "Valour",
+        "pos": "noun",
+        "meaning": "Great courage in the face of danger, especially in battle.",
+        "synonyms": [
+          "bravery",
+          "gallantry",
+          "intrepidity"
+        ],
+        "example": "The pilot was honored for showing exceptional valour during the mid-air emergency.",
+        "source": "The Hindu",
+        "headline": "Israel honours Captain Smit Machchhar’s valour with billboards in Mumbai"
+      },
+      {
+        "word": "Botched",
+        "pos": "adjective",
+        "meaning": "Carried out badly, carelessly, or unsuccessfully.",
+        "synonyms": [
+          "bungled",
+          "mishandled",
+          "spoiled"
+        ],
+        "example": "The execution was halted after a botched attempt to administer the lethal injection.",
+        "source": "The Hindu",
+        "headline": "Questions over botched lethal injection protocol after Tennessee’s failed execution of Christa Pike"
+      },
+      {
+        "word": "Snarl",
+        "pos": "verb",
+        "meaning": "To entangle or restrict the movement of something; to cause a traffic jam.",
+        "synonyms": [
+          "congest",
+          "obstruct",
+          "impede"
+        ],
+        "example": "Heavy snowfall and road closures threatened to snarl traffic across the capital city.",
+        "source": "The Hindu",
+        "headline": "Russian aerial strikes snarl traffic on three Kyiv bridges in a new disruption tactic"
+      },
+      {
+        "word": "Détente",
+        "pos": "noun",
+        "meaning": "The easing of hostility or strained relations, especially between countries.",
+        "synonyms": [
+          "reconciliation",
+          "rapprochement",
+          "pacification"
+        ],
+        "example": "Diplomats are working hard to achieve a lasting détente between the two nuclear-armed neighbors.",
+        "source": "The Hindu",
+        "headline": "U.S.-China: A new superpower détente? | In Focus podcast"
+      },
+      {
+        "word": "Defuse",
+        "pos": "verb",
+        "meaning": "To make a situation less tense, hostile, or dangerous.",
+        "synonyms": [
+          "alleviate",
+          "mitigate",
+          "assuage"
+        ],
+        "example": "The government held urgent talks to defuse the escalating political tension.",
+        "source": "The Hindu",
+        "headline": "Pakistan government holds talks with Imran Khan's party to defuse tensions ahead of long march to Islamabad"
+      },
+      {
+        "word": "Brutality",
+        "pos": "noun",
+        "meaning": "Great cruelty or physical violence.",
+        "synonyms": [
+          "savagery",
+          "atrocity",
+          "ruthlessness"
+        ],
+        "example": "The international community strongly condemned the police brutality during the peaceful march.",
+        "source": "The Hindu",
+        "headline": "CJP announces Jantar Mantar protest on October 10 if CEC Gyanesh Kumar does not resign"
+      },
+      {
+        "word": "Monumental",
+        "pos": "adjective",
+        "meaning": "Great in importance, size, or significance.",
+        "synonyms": [
+          "historic",
+          "colossal",
+          "epochal"
+        ],
+        "example": "The athlete achieved a monumental victory by breaking a decade-old world record.",
+        "source": "The Hindu",
+        "headline": "Taiwan gender-row boxer Lin Yu-ting wins 'monumental' Asian Games gold"
+      },
+      {
+        "word": "Meticulously",
+        "pos": "adverb",
+        "meaning": "In a way that shows great attention to detail; very thoroughly.",
+        "synonyms": [
+          "scrupulously",
+          "painstakingly",
+          "dilgently"
+        ],
+        "example": "The scientists meticulously documented every stage of the clinical trial.",
+        "source": "Times of India",
+        "headline": "Mississippi couple wins $41,920 after loggers cut 1,299 trees on their land"
+      },
+      {
+        "word": "Abruptly",
+        "pos": "adverb",
+        "meaning": "Suddenly and unexpectedly, often in an unpleasant way.",
+        "synonyms": [
+          "precipitately",
+          "unanticipatedly",
+          "swiftly"
+        ],
+        "example": "The high-level meeting was abruptly called off due to an unforeseen national emergency.",
+        "source": "Times of India",
+        "headline": "Congress abruptly replaces Ajay Rai as state chief in poll-bound UP"
+      }
+    ]
+  },
+  {
     "date": "2026-10-02",
     "label": "2 October 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "Abhishek Sharma has reached unprecedented heights in the ICC T20I realm.",
         "source": "Times of India",
         "headline": "How Abhishek Sharma conquered the fastest format to reach a record T20I rating"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-03",
-    "label": "3 September 2026",
-    "words": [
-      {
-        "word": "Interfering",
-        "pos": "verb",
-        "meaning": "To meddle in another's affairs without invitation or necessity.",
-        "synonyms": [
-          "meddle",
-          "intrude",
-          "intervene"
-        ],
-        "example": "Sunni Mahallu Federation urges Kanthapuram critics to stop interfering in religious matters.",
-        "source": "The Hindu",
-        "headline": "Sunni Mahallu Federation urges Kanthapuram critics to stop interfering in religious matters"
-      },
-      {
-        "word": "Quashes",
-        "pos": "verb",
-        "meaning": "To reject or void, especially by legal procedure.",
-        "synonyms": [
-          "annul",
-          "invalidate",
-          "overturn"
-        ],
-        "example": "Allahabad HC quashes NSA detention of student, calls case 'concocted story'.",
-        "source": "The Hindu",
-        "headline": "Allahabad HC quashes NSA detention of student, calls case 'concocted story'"
-      },
-      {
-        "word": "Muddled",
-        "pos": "adjective",
-        "meaning": "Confused or perplexed.",
-        "synonyms": [
-          "confused",
-          "bewildered",
-          "disoriented"
-        ],
-        "example": "TVK-Cong relationship muddled after persistent 'Vijay as PM' pitch.",
-        "source": "The Hindu",
-        "headline": "TVK-Cong relationship muddled after persistent 'Vijay as PM' pitch"
-      },
-      {
-        "word": "Solatium",
-        "pos": "noun",
-        "meaning": "Money or compensation given to someone for suffering, loss, or injury.",
-        "synonyms": [
-          "compensation",
-          "reparation",
-          "indemnity"
-        ],
-        "example": "Solatium will be given for fishing boats held captive in SL: Minister.",
-        "source": "The Hindu",
-        "headline": "Solatium will be given for fishing boats held captive in SL: Minister"
-      },
-      {
-        "word": "Blacklists",
-        "pos": "verb",
-        "meaning": "To put on a list of people or organizations to be avoided or punished.",
-        "synonyms": [
-          "boycott",
-          "ostracize",
-          "proscribe"
-        ],
-        "example": "Iran blacklists more ships trying to sail through Hormuz, govt. website shows.",
-        "source": "The Hindu",
-        "headline": "West Asia conflict updates: Iran blacklists more ships trying to sail through Hormuz, govt. website shows"
-      },
-      {
-        "word": "Tranche",
-        "pos": "noun",
-        "meaning": "A portion of something, especially money.",
-        "synonyms": [
-          "segment",
-          "portion",
-          "installment"
-        ],
-        "example": "India delivered a fifth tranche of over five tonnes of essential medicines to Nepal.",
-        "source": "The Hindu",
-        "headline": "Nepal flash floods aftermath LIVE: Nepal-Tibet flood death toll rises to 1,243 as PM Shah flags climate change link"
-      },
-      {
-        "word": "Heightened",
-        "pos": "adjective",
-        "meaning": "Made more intense or acute.",
-        "synonyms": [
-          "intensified",
-          "amplified",
-          "elevated"
-        ],
-        "example": "'Positive' economic outlook facing heightened uncertainty.",
-        "source": "The Hindu",
-        "headline": "U.S. Fed says 'positive' economic outlook facing heightened uncertainty"
-      },
-      {
-        "word": "Ruthless",
-        "pos": "adjective",
-        "meaning": "Having or showing no pity or compassion for others.",
-        "synonyms": [
-          "merciless",
-          "unsparing",
-          "cruel"
-        ],
-        "example": "Human Rights Watch slammed the ban as 'another step in the Taliban's ruthless effort to suppress all dissent'.",
-        "source": "The Hindu",
-        "headline": "Taliban govt. defends ban on protest, citing Islamic law"
-      },
-      {
-        "word": "Replenish",
-        "pos": "verb",
-        "meaning": "To fill up again.",
-        "synonyms": [
-          "refill",
-          "restock",
-          "resupply"
-        ],
-        "example": "A tactical pause could also give the U.S. military some breathing room to replenish its heavily depleted munitions stockpiles.",
-        "source": "The Hindu",
-        "headline": "Trump aides seek 'quiet' in Iran war, but say attacks may intensify after November midterm elections: report"
-      },
-      {
-        "word": "Proliferate",
-        "pos": "verb",
-        "meaning": "To increase rapidly in numbers; multiply.",
-        "synonyms": [
-          "multiply",
-          "propagate",
-          "reproduce"
-        ],
-        "example": "As cheap, mass-produced unmanned systems proliferate, military power is increasingly shaped by industrial scale.",
-        "source": "The Hindu",
-        "headline": "Drone revolution and modern warfare | Explained"
       }
     ]
   }
