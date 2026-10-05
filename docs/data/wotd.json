@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-10-05",
+    "label": "5 October 2026",
+    "words": [
+      {
+        "word": "Spurious",
+        "pos": "adjective",
+        "meaning": "not being what it purports to be; false, fake, or counterfeit",
+        "synonyms": [
+          "counterfeit",
+          "bogus",
+          "fraudulent"
+        ],
+        "example": "The police busted an international racket involved in manufacturing spurious drugs.",
+        "source": "The Hindu",
+        "headline": "Spurious drugs case: Kingpin’s travel to turkiye throws light on racket’s international links"
+      },
+      {
+        "word": "Extinct",
+        "pos": "adjective",
+        "meaning": "having no living members; no longer in existence",
+        "synonyms": [
+          "vanished",
+          "defunct",
+          "lost"
+        ],
+        "example": "A rare plant species once thought extinct has become the star attraction of Wildlife Week.",
+        "source": "The Hindu",
+        "headline": "Once thought extinct, a plant becomes star of Wildlife Week at Keralam’s Parambikulam"
+      },
+      {
+        "word": "Inaugurate",
+        "pos": "verb",
+        "meaning": "to introduce, open, or initiate a system, project, or period formally",
+        "synonyms": [
+          "launch",
+          "instate",
+          "unveil"
+        ],
+        "example": "The Prime Minister is scheduled to virtually inaugurate the restored heritage railway station.",
+        "source": "The Hindu",
+        "headline": "Prime Minister Narendra Modi to virtually inaugurate restored British-era Vellore Cantonment railway station on October 11"
+      },
+      {
+        "word": "Eradication",
+        "pos": "noun",
+        "meaning": "the complete destruction or removal of something undesirable",
+        "synonyms": [
+          "elimination",
+          "extermination",
+          "annihilation"
+        ],
+        "example": "Dedicated workers have been deployed across the city to assist in mosquito eradication.",
+        "source": "The Hindu",
+        "headline": "Dengue testing stepped up in Chennai, over 4,500 cases recorded this year"
+      },
+      {
+        "word": "Precursor",
+        "pos": "noun",
+        "meaning": "a person or thing that comes before another of the same kind; a forerunner",
+        "synonyms": [
+          "harbinger",
+          "antecedent",
+          "predecessor"
+        ],
+        "example": "The regional talks in Nadi served as a precursor to the larger global climate summit.",
+        "source": "The Hindu",
+        "headline": "UN ‘pre-COP’ climate summit kicks off in Fiji"
+      },
+      {
+        "word": "Dilapidated",
+        "pos": "adjective",
+        "meaning": "in a state of ruin or decay as a result of age or neglect",
+        "synonyms": [
+          "decrepit",
+          "run-down",
+          "ramshackle"
+        ],
+        "example": "Students protested against the dilapidated school facilities and long hours.",
+        "source": "The Hindu",
+        "headline": "Hundreds of schools to shut on October 5 as student protests rock France"
+      },
+      {
+        "word": "Divergent",
+        "pos": "adjective",
+        "meaning": "tending to be different or develop in different directions",
+        "synonyms": [
+          "conflicting",
+          "disparate",
+          "deviant"
+        ],
+        "example": "Negotiations stalled because member nations held highly divergent opinions on the economic draft.",
+        "source": "The Hindu",
+        "headline": "China says 'divergent opinions' contributed to lack of G20 consensus"
+      },
+      {
+        "word": "Incarcerate",
+        "pos": "verb",
+        "meaning": "to imprison or confine someone",
+        "synonyms": [
+          "detain",
+          "jail",
+          "intern"
+        ],
+        "example": "The political leader has been incarcerated for over a year facing multiple charges.",
+        "source": "The Hindu",
+        "headline": "Pakistan braces for protest by ex-PM Imran Khan supporters after talks with government fail"
+      },
+      {
+        "word": "Extradite",
+        "pos": "verb",
+        "meaning": "to hand over a person accused or convicted of a crime to the jurisdiction of another state",
+        "synonyms": [
+          "deport",
+          "repatriate",
+          "banish"
+        ],
+        "example": "The host nation is working on legal processes to extradite the fugitive leader.",
+        "source": "Times of India",
+        "headline": "India's political will needed to extradite Sheikh Hasina: Bangladesh"
+      },
+      {
+        "word": "Archipelago",
+        "pos": "noun",
+        "meaning": "an extensive group of islands",
+        "synonyms": [
+          "island chain",
+          "cluster",
+          "enclave"
+        ],
+        "example": "Rising sea levels threaten to make the entire low-lying archipelago unliveable.",
+        "source": "The Hindu",
+        "headline": "Tuvalu: Barely above water"
+      }
+    ]
+  },
+  {
     "date": "2026-10-04",
     "label": "4 October 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "This distortion contributes to minimising the perceived sizes of certain regions.",
         "source": "The Hindu",
         "headline": "India votes in favour of UNGA resolution endorsing new world map"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-05",
-    "label": "5 September 2026",
-    "words": [
-      {
-        "word": "Fracas",
-        "pos": "noun",
-        "meaning": "A noisy disturbance or quarrel.",
-        "synonyms": [
-          "Brawl",
-          "Melee",
-          "Altercation"
-        ],
-        "example": "Congress MLA Ramya Haridas was hospitalised after a late-night fracas at a party colleague’s house.",
-        "source": "The Hindu",
-        "headline": "Congress MLA Ramya Haridas hospitalised after late-night fracas at party colleague’s house"
-      },
-      {
-        "word": "Reiterate",
-        "pos": "verb",
-        "meaning": "To say something again or a number of times, typically for emphasis or clarity.",
-        "synonyms": [
-          "Restate",
-          "Repeat",
-          "Emphasise"
-        ],
-        "example": "Bihar reiterates that parents’ salaries and agricultural income cannot be counted for the OBC creamy layer.",
-        "source": "The Hindu",
-        "headline": "Bihar reiterates parents’ salaries, agricultural income cannot be counted for OBC creamy layer"
-      },
-      {
-        "word": "Conservancy",
-        "pos": "noun",
-        "meaning": "An organization or body concerned with the preservation of wildlife, natural resources, or historical sites.",
-        "synonyms": [
-          "Preservation",
-          "Protection",
-          "Custodianship"
-        ],
-        "example": "GCC conservancy workers call off protest temporarily after the state government agrees to several demands.",
-        "source": "The Hindu",
-        "headline": "GCC conservancy workers call off protest temporarily"
-      },
-      {
-        "word": "Solatium",
-        "pos": "noun",
-        "meaning": "Money paid as compensation for pain or loss.",
-        "synonyms": [
-          "Compensation",
-          "Recompense",
-          "Indemnity"
-        ],
-        "example": "CM Vijay condoles deaths of four girls in a road accident and sanctions solatium to their families.",
-        "source": "The Hindu",
-        "headline": "CM Vijay condoles deaths of four girls in Namakkal road accident, sanctions solatium"
-      },
-      {
-        "word": "Ostensible",
-        "pos": "adjective",
-        "meaning": "Stated or appearing to be true, but not necessarily so.",
-        "synonyms": [
-          "Apparent",
-          "Seeming",
-          "Plausible"
-        ],
-        "example": "The ostensible reason for his visit was business, but he was actually there for a vacation.",
-        "source": "The Hindu",
-        "headline": "Trump calls Iran conflict 'small potatoes', says he agrees with Vance that it's not 'war'"
-      },
-      {
-        "word": "Diminish",
-        "pos": "verb",
-        "meaning": "To make or become less.",
-        "synonyms": [
-          "Decrease",
-          "Lessen",
-          "Reduce"
-        ],
-        "example": "The 16th-century Mercator map diminishes the true size of Africa.",
-        "source": "The Hindu",
-        "headline": "U.N. approves resolution in support of map that shows Africa’s true size"
-      },
-      {
-        "word": "Impunity",
-        "pos": "noun",
-        "meaning": "Exemption from punishment or freedom from the injurious consequences of an action.",
-        "synonyms": [
-          "Exemption",
-          "Immunity",
-          "License"
-        ],
-        "example": "The UN rights chief calls for greater action to end Sri Lanka’s ‘long legacy of impunity’.",
-        "source": "The Hindu",
-        "headline": "UN rights chief calls for greater action to end Sri Lanka’s ‘long legacy of impunity’"
-      },
-      {
-        "word": "Incubated",
-        "pos": "verb",
-        "meaning": "(Of a disease or an idea or plan) develop.",
-        "synonyms": [
-          "Nurtured",
-          "Fostered",
-          "Developed"
-        ],
-        "example": "IIT Madras incubated centre launches AI models in Indian languages, showcasing its commitment to innovation.",
-        "source": "The Hindu",
-        "headline": "IIT Madras incubated centre launches AI models in Indian languages"
-      },
-      {
-        "word": "Channelled",
-        "pos": "verb",
-        "meaning": "Direct toward a particular end or object.",
-        "synonyms": [
-          "Directed",
-          "Guided",
-          "Funnelled"
-        ],
-        "example": "The anti-graft probe centres on claims that the European manufacturer channelled part of the money from the purchase to senior Sri Lankan officials.",
-        "source": "The Hindu",
-        "headline": "Namal, former Sri Lankan President Rajapaksa’s son, arrested over Airbus deal"
-      },
-      {
-        "word": "Catastrophic",
-        "pos": "adjective",
-        "meaning": "Involving or causing sudden great damage or suffering.",
-        "synonyms": [
-          "Disastrous",
-          "Ruinous",
-          "Calamitous"
-        ],
-        "example": "Following the catastrophic glacial collapse and flash flood, Nepal is demanding climate compensation.",
-        "source": "The Hindu",
-        "headline": "Nepal wants climate compensation, putting major emitters on the hook"
       }
     ]
   }
