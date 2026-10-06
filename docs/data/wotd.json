@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-10-06",
+    "label": "6 October 2026",
+    "words": [
+      {
+        "word": "Ouster",
+        "pos": "noun",
+        "meaning": "dismissal or expulsion from a position or place",
+        "synonyms": [
+          "expulsion",
+          "removal",
+          "ejection"
+        ],
+        "example": "The sudden ouster of the party leader from his post shocked the political circle.",
+        "source": "The Hindu",
+        "headline": "Mayawati reappoints Akash Anand as national convener in BSP"
+      },
+      {
+        "word": "Quash",
+        "pos": "verb",
+        "meaning": "to reject or void by legal procedure",
+        "synonyms": [
+          "nullify",
+          "invalidate",
+          "annul"
+        ],
+        "example": "The high court decided to quash the lower court's decision regarding the compensation.",
+        "source": "The Hindu",
+        "headline": "Supreme Court quashes Bombay HC order directing Maharashtra FDA to pay ₹5 lakh compensation"
+      },
+      {
+        "word": "Pristine",
+        "pos": "adjective",
+        "meaning": "in its original condition; unspoiled or clean",
+        "synonyms": [
+          "immaculate",
+          "untouched",
+          "unblemished"
+        ],
+        "example": "The construction of the highway threatens to destroy the pristine tropical forests of the island.",
+        "source": "The Hindu",
+        "headline": "Supreme Court refuses to stay proceedings against Nicobar project"
+      },
+      {
+        "word": "Abetment",
+        "pos": "noun",
+        "meaning": "the act of encouraging, assisting, or facilitating an offense",
+        "synonyms": [
+          "instigation",
+          "collusion",
+          "complicity"
+        ],
+        "example": "He was arrested on charges of abetment for helping the suspect escape from the country.",
+        "source": "The Hindu",
+        "headline": "Veeramani’s drivers held on charges of abetment"
+      },
+      {
+        "word": "Confer",
+        "pos": "verb",
+        "meaning": "to grant, bestow, or present a title, degree, benefit, or right",
+        "synonyms": [
+          "bestow",
+          "accord",
+          "grant"
+        ],
+        "example": "The department decided to confer additional responsibilities upon the senior officer.",
+        "source": "The Hindu",
+        "headline": "Delhi Govt withholds current duty charge of Additional DCP given to officer accused of sexually harassing journalist"
+      },
+      {
+        "word": "Quell",
+        "pos": "verb",
+        "meaning": "to put an end to a rebellion or other disorder, typically by force",
+        "synonyms": [
+          "suppress",
+          "subdue",
+          "extinguish"
+        ],
+        "example": "Extra security forces were deployed to quell the violent protests on the university campus.",
+        "source": "The Hindu",
+        "headline": "Students protest Cornell’s response to gang rape complaint"
+      },
+      {
+        "word": "Exclave",
+        "pos": "noun",
+        "meaning": "a portion of territory of one state completely surrounded by territory of another or others",
+        "synonyms": [
+          "outpost",
+          "enclave",
+          "detached territory"
+        ],
+        "example": "The strategic exclave of Kaliningrad remains a major flashpoint between Russia and NATO.",
+        "source": "The Hindu",
+        "headline": "Kaliningrad: Why Russia’s Baltic exclave is a new flashpoint"
+      },
+      {
+        "word": "Lurch",
+        "pos": "verb",
+        "meaning": "to make an abrupt, unsteady, or uncontrolled movement",
+        "synonyms": [
+          "stagger",
+          "sway",
+          "careen"
+        ],
+        "example": "The political landscape of the country began to lurch to the right after the first round of elections.",
+        "source": "The Hindu",
+        "headline": "Brazil lurches to the right as Lula falters in the first round of presidential election"
+      },
+      {
+        "word": "Annul",
+        "pos": "verb",
+        "meaning": "to declare invalid, especially a law, decision, or marriage",
+        "synonyms": [
+          "nullify",
+          "invalidate",
+          "rescind"
+        ],
+        "example": "The Supreme Court warned that it would annul any election commission orders not keeping with the law.",
+        "source": "Times of India",
+        "headline": "SIR row: Will annul EC orders not in keeping with law, says Supreme Court"
+      },
+      {
+        "word": "Plateau",
+        "pos": "noun",
+        "meaning": "a state of little or no change following a period of activity or progress",
+        "synonyms": [
+          "stagnation",
+          "leveling-off",
+          "standstill"
+        ],
+        "example": "The bilateral trade negotiations have reached a plateau with neither side willing to make concessions.",
+        "source": "Times of India",
+        "headline": "India-US trade talks have reached plateau: Finance minister Nirmala Sitharaman"
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "label": "5 October 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "Gloria Steinem, a potent voice of U.S. feminism, has died.",
         "source": "The Hindu",
         "headline": "Gloria Steinem, a potent voice of U.S. feminism and co-founder of Ms. Magazine, has died"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-06",
-    "label": "6 September 2026",
-    "words": [
-      {
-        "word": "Evolved",
-        "pos": "verb",
-        "meaning": "Develop gradually, especially from a simple to a more complex form.",
-        "synonyms": [
-          "Develop",
-          "Progress",
-          "Transform"
-        ],
-        "example": "The slogan raised by the leader had evolved into a movement.",
-        "source": "The Hindu",
-        "headline": "Congress will launch 100-day OBC rights campaign: Koppula Raju"
-      },
-      {
-        "word": "Redressal",
-        "pos": "noun",
-        "meaning": "The act of setting right an undesirable situation.",
-        "synonyms": [
-          "Rectification",
-          "Remedy",
-          "Compensation"
-        ],
-        "example": "The colleges have been asked to dedicate time slots for student interaction and grievance redressal.",
-        "source": "The Hindu",
-        "headline": "VTU asks principals of engineering colleges to dedicate time slots for student interaction and grievance redressal"
-      },
-      {
-        "word": "Sloth",
-        "pos": "noun",
-        "meaning": "Reluctance to work or make an effort; laziness.",
-        "synonyms": [
-          "Idleness",
-          "Lethargy",
-          "Indolence"
-        ],
-        "example": "The tribe body resents the sloth in the probe and says the lack of publicly known arrests has raised concerns.",
-        "source": "The Hindu",
-        "headline": "Manipur tribe body seeks ‘impartial’ NIA probe in killing of three church leaders"
-      },
-      {
-        "word": "Disrupted",
-        "pos": "verb",
-        "meaning": "Interrupt (an event, activity, or process) by causing a disturbance or problem.",
-        "synonyms": [
-          "Disturbed",
-          "Interrupted",
-          "Disordered"
-        ],
-        "example": "Drinking water supply in the areas has been significantly disrupted for nearly a month.",
-        "source": "The Hindu",
-        "headline": "MLA seeks steps to address water shortage in Chittoor, Vaduthala areas"
-      },
-      {
-        "word": "Abject",
-        "pos": "adjective",
-        "meaning": "(of a situation or condition) extremely bad, unpleasant, and degrading.",
-        "synonyms": [
-          "Miserable",
-          "Wretched",
-          "Deplorable"
-        ],
-        "example": "The abject failure of the Animal Birth Control programme in the State is apparent on the streets.",
-        "source": "The Hindu",
-        "headline": "Tamil Nadu failing at animal birth control"
-      },
-      {
-        "word": "Envoys",
-        "pos": "noun",
-        "meaning": "A messenger or representative, especially one on a diplomatic mission.",
-        "synonyms": [
-          "Delegates",
-          "Ambassadors",
-          "Emissaries"
-        ],
-        "example": "U.S. envoys outlined ‘number of ideas’ on ending Ukraine war to Putin.",
-        "source": "The Hindu",
-        "headline": "U.S. envoys outlined ‘number of ideas’ on ending Ukraine war to Putin: Kremlin"
-      },
-      {
-        "word": "Condemned",
-        "pos": "verb",
-        "meaning": "Express complete disapproval of, typically in public; censure.",
-        "synonyms": [
-          "Censured",
-          "Denounced",
-          "Deplored"
-        ],
-        "example": "Member countries have condemned the military strikes on Iran.",
-        "source": "The Hindu",
-        "headline": "Shanghai Cooperation Organisation | The house of multilaterals"
-      },
-      {
-        "word": "Catastrophic",
-        "pos": "adjective",
-        "meaning": "Involving or causing sudden great damage or suffering.",
-        "synonyms": [
-          "Disastrous",
-          "Ruinous",
-          "Calamitous"
-        ],
-        "example": "Following the catastrophic glacial collapse, Nepal is demanding climate compensation.",
-        "source": "The Hindu",
-        "headline": "Nepal wants climate compensation, putting major emitters on the hook"
-      },
-      {
-        "word": "Integral",
-        "pos": "adjective",
-        "meaning": "Necessary to make a whole complete; essential or fundamental.",
-        "synonyms": [
-          "Essential",
-          "Fundamental",
-          "Indispensable"
-        ],
-        "example": "Brought in for civilian use, Starlink is now integral to Ukraine’s war effort.",
-        "source": "The Hindu",
-        "headline": "Brought in for civilian use, Starlink is now integral to Ukraine’s war effort"
-      },
-      {
-        "word": "Distortion",
-        "pos": "noun",
-        "meaning": "The action of distorting or the state of being distorted.",
-        "synonyms": [
-          "Misrepresentation",
-          "Perversion",
-          "Twisting"
-        ],
-        "example": "This distortion contributes to minimising the perceived sizes of certain regions.",
-        "source": "The Hindu",
-        "headline": "India votes in favour of UNGA resolution endorsing new world map"
       }
     ]
   }
