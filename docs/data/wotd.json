@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-10-07",
+    "label": "7 October 2026",
+    "words": [
+      {
+        "word": "Postponed",
+        "pos": "verb",
+        "meaning": "Caused or arranged for something to take place at a time later than that first scheduled.",
+        "synonyms": [
+          "deferred",
+          "adjourned",
+          "delayed"
+        ],
+        "example": "The high-level committee meeting was postponed indefinitely due to unforeseen administrative hurdles.",
+        "source": "The Hindu",
+        "headline": "CEC Gyanesh Kumar’s Chhattisgarh visit postponed"
+      },
+      {
+        "word": "Infiltration",
+        "pos": "noun",
+        "meaning": "The action of entering or gaining access to an organization or place surreptitiously.",
+        "synonyms": [
+          "intrusion",
+          "penetration",
+          "encroachment"
+        ],
+        "example": "Security forces intensified patrolling along the international border to check cross-border infiltration.",
+        "source": "The Hindu",
+        "headline": "Gajendra Singh Patel accuses Hemant Soren government of encouraging infiltration in Jharkhand"
+      },
+      {
+        "word": "Encroachment",
+        "pos": "noun",
+        "meaning": "Intrusion on a person's territory, rights, or a physical boundary.",
+        "synonyms": [
+          "trespass",
+          "infringement",
+          "invasion"
+        ],
+        "example": "The municipal corporation launched a massive drive to clear illegal encroachments along the service lanes.",
+        "source": "The Hindu",
+        "headline": "Residents of western suburbs call for regulation of spaces beneath flyovers"
+      },
+      {
+        "word": "Dilapidated",
+        "pos": "adjective",
+        "meaning": "In a state of disrepair or ruin as a result of age or neglect.",
+        "synonyms": [
+          "run-down",
+          "ramshackle",
+          "decrepit"
+        ],
+        "example": "Several old government schools in the rural district remain in a highly dilapidated condition.",
+        "source": "The Hindu",
+        "headline": "Students, teachers march in France on biggest day of school protests"
+      },
+      {
+        "word": "Espionage",
+        "pos": "noun",
+        "meaning": "The practice of spying or of using spies, typically by governments to obtain political and military information.",
+        "synonyms": [
+          "spying",
+          "intelligence",
+          "surveillance"
+        ],
+        "example": "The former intelligence official was arrested on grave charges of military espionage and treason.",
+        "source": "The Hindu",
+        "headline": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets, treason"
+      },
+      {
+        "word": "Interception",
+        "pos": "noun",
+        "meaning": "The action or fact of preventing someone or something from continuing to a destination.",
+        "synonyms": [
+          "interception",
+          "obstruction",
+          "stopping"
+        ],
+        "example": "The successful interception of hostile drones by air defence systems prevented major damage to the depot.",
+        "source": "The Hindu",
+        "headline": "Russia says nearly 900 Ukrainian drones downed, Moscow region fuel depot reportedly burns"
+      },
+      {
+        "word": "Rehabilitation",
+        "pos": "noun",
+        "meaning": "The action of restoring someone to health or normal life through training and therapy after imprisonment, addiction, or illness.",
+        "synonyms": [
+          "restoration",
+          "reintegration",
+          "recovery"
+        ],
+        "example": "The district administration formulated a comprehensive plan for the rehabilitation of flood-affected villagers.",
+        "source": "The Hindu",
+        "headline": "CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar"
+      },
+      {
+        "word": "Rapprochement",
+        "pos": "noun",
+        "meaning": "An establishment or resumption of harmonious relations.",
+        "synonyms": [
+          "reconciliation",
+          "detente",
+          "accord"
+        ],
+        "example": "Diplomats are closely watching the emerging political rapprochement between the two rival superpowers.",
+        "source": "The Hindu",
+        "headline": "The China-U.S. rapprochement"
+      },
+      {
+        "word": "Projectile",
+        "pos": "noun",
+        "meaning": "A missile or object propelled through the air, especially by an explosion or force.",
+        "synonyms": [
+          "missile",
+          "rocket",
+          "shell"
+        ],
+        "example": "The cargo vessel suffered severe structural damage after being struck by an unidentified projectile.",
+        "source": "The Hindu",
+        "headline": "11 Indian crew injured after ship hit by projectile in Strait of Hormuz; India condemns attack"
+      },
+      {
+        "word": "Punishment",
+        "pos": "noun",
+        "meaning": "The infliction or imposition of a penalty as retribution for an offense.",
+        "synonyms": [
+          "penalty",
+          "discipline",
+          "retribution"
+        ],
+        "example": "The local authorities took strict cognizance of the unlawful public punishment meted out by the villagers.",
+        "source": "Times of India",
+        "headline": "Gujarat: Married woman, lover forced into public sex as ‘punishment’"
+      }
+    ]
+  },
+  {
     "date": "2026-10-06",
     "label": "6 October 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "The partially decomposed body was recovered from an apartment.",
         "source": "The Hindu",
         "headline": "Assam woman’s severed head found in fridge"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-07",
-    "label": "7 September 2026",
-    "words": [
-      {
-        "word": "Constitute",
-        "pos": "verb",
-        "meaning": "To form or make up something.",
-        "synonyms": [
-          "comprise",
-          "compose",
-          "form"
-        ],
-        "example": "The building, which constitutes a basement plus five more floors, is at least 50 years old.",
-        "source": "The Hindu",
-        "headline": "Delhi building collapse updates: At least five dead; FIR registered against alleged owner"
-      },
-      {
-        "word": "Incitement",
-        "pos": "noun",
-        "meaning": "The action of provoking unlawful behavior or urging someone to behave in a violent or unlawful way.",
-        "synonyms": [
-          "provocation",
-          "agitation",
-          "instigation"
-        ],
-        "example": "Mr. Thackeray urged citizens to remain alert and avoid falling into traps designed to incite religious conflict.",
-        "source": "The Hindu",
-        "headline": "Raj Thackeray warns cadres against communalism distracting economic problems"
-      },
-      {
-        "word": "Holistic",
-        "pos": "adjective",
-        "meaning": "Characterized by comprehension of the parts of something as intimately interconnected and explicable only by reference to the whole.",
-        "synonyms": [
-          "comprehensive",
-          "integrated",
-          "all-encompassing"
-        ],
-        "example": "‘Need to provide holistic education’",
-        "source": "The Hindu",
-        "headline": "‘Need to provide holistic education’"
-      },
-      {
-        "word": "Spate",
-        "pos": "noun",
-        "meaning": "A large number of similar things or events appearing or occurring in quick succession.",
-        "synonyms": [
-          "series",
-          "rush",
-          "flood"
-        ],
-        "example": "A spate of thefts triggers security concerns in Ernakulam district.",
-        "source": "The Hindu",
-        "headline": "Spate of thefts triggers security concerns in Ernakulam district"
-      },
-      {
-        "word": "Verbatim",
-        "pos": "adverb",
-        "meaning": "In exactly the same words as were originally used.",
-        "synonyms": [
-          "exactly",
-          "precisely",
-          "word for word"
-        ],
-        "example": "The prosecutor asked the witness to repeat the statement verbatim.",
-        "source": "The Hindu",
-        "headline": "India-France relations have reached new heights: PM Modi"
-      },
-      {
-        "word": "Purview",
-        "pos": "noun",
-        "meaning": "The scope of the influence or concerns of something.",
-        "synonyms": [
-          "scope",
-          "domain",
-          "ambit"
-        ],
-        "example": "Matters related to the requirement of ‘100% gram sabha consent’ do not fall under its purview.",
-        "source": "The Hindu",
-        "headline": "No provision in Forest Rights Act to obtain gram sabha consent for projects, Tribal Affairs Ministry says"
-      },
-      {
-        "word": "Assailant",
-        "pos": "noun",
-        "meaning": "A person who attacks another.",
-        "synonyms": [
-          "attacker",
-          "mugger",
-          "aggressor"
-        ],
-        "example": "An assailant lunged at the Democratic candidate for Ohio governor at a fair in the U.S.",
-        "source": "The Hindu",
-        "headline": "Assailant lunged at Democratic candidate for Ohio governor at fair in U.S., campaign officials say"
-      },
-      {
-        "word": "Barreled",
-        "pos": "verb",
-        "meaning": "To move in a headlong, uncontrolled way.",
-        "synonyms": [
-          "rushed",
-          "hurtled",
-          "charged"
-        ],
-        "example": "At least five dead after Amazon cargo plane barreled off runway at Miami airport.",
-        "source": "The Hindu",
-        "headline": "At least five dead after Amazon cargo plane barreled off runway at Miami airport"
-      },
-      {
-        "word": "Grisly",
-        "pos": "adjective",
-        "meaning": "Causing horror or disgust.",
-        "synonyms": [
-          "gruesome",
-          "ghastly",
-          "frightful"
-        ],
-        "example": "The border crossing became a grisly emblem of the devastation that followed the collapse of a glacier.",
-        "source": "The Hindu",
-        "headline": "At flood-destroyed border, China teams scour ruins of once-busy port"
-      },
-      {
-        "word": "Potent",
-        "pos": "adjective",
-        "meaning": "Having great power, influence, or effect.",
-        "synonyms": [
-          "powerful",
-          "effective",
-          "strong"
-        ],
-        "example": "Gloria Steinem, a potent voice of U.S. feminism, has died.",
-        "source": "The Hindu",
-        "headline": "Gloria Steinem, a potent voice of U.S. feminism and co-founder of Ms. Magazine, has died"
       }
     ]
   }
