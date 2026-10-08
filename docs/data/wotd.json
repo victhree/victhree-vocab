@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-10-08",
+    "label": "8 October 2026",
+    "words": [
+      {
+        "word": "Disproportionate",
+        "pos": "adjective",
+        "meaning": "too large or too small in comparison with something else",
+        "synonyms": [
+          "inordinate",
+          "excessive",
+          "unbalanced"
+        ],
+        "example": "The investigation established that he had allegedly accumulated worth of disproportionate assets.",
+        "source": "The Hindu",
+        "headline": "Lokayukta court sentences ACF to 3 years for possessing disproportionate assets"
+      },
+      {
+        "word": "Vigilant",
+        "pos": "adjective",
+        "meaning": "keeping careful watch for possible danger or difficulties",
+        "synonyms": [
+          "watchful",
+          "observant",
+          "alert"
+        ],
+        "example": "He warned his colleagues to remain vigilant against possible sting operations.",
+        "source": "The Hindu",
+        "headline": "Karnataka Chief Minister D.K. Shivakumar cautions Ministers against possible ‘sting operations’"
+      },
+      {
+        "word": "Contempt",
+        "pos": "noun",
+        "meaning": "the offense of being disobedient to or disrespectful of a court of law and its officers",
+        "synonyms": [
+          "disrespect",
+          "defiance",
+          "disregard"
+        ],
+        "example": "The Solicitor General urged that the contempt plea be listed for hearing immediately.",
+        "source": "The Hindu",
+        "headline": "SC to hear Centre’s plea against Jharkhand DGP appointments"
+      },
+      {
+        "word": "Domicile",
+        "pos": "noun",
+        "meaning": "the country or state that a person treats as their permanent home",
+        "synonyms": [
+          "residence",
+          "dwelling",
+          "abode"
+        ],
+        "example": "The state government decided to relax the domicile clause for the gold ring scheme.",
+        "source": "The Hindu",
+        "headline": "State govt. relaxes domicile clause for gold ring scheme"
+      },
+      {
+        "word": "Prospect",
+        "pos": "noun",
+        "meaning": "the possibility or likelihood of some future event occurring",
+        "synonyms": [
+          "likelihood",
+          "anticipation",
+          "probability"
+        ],
+        "example": "Students marched against the prospect of another controversial presidency.",
+        "source": "The Hindu",
+        "headline": "Brazilian students in Rio de Janeiro march against the prospect of another Bolsonaro presidency"
+      },
+      {
+        "word": "Octogenarian",
+        "pos": "noun",
+        "meaning": "a person who is between 80 and 89 years old",
+        "synonyms": [
+          "senior",
+          "pensioner",
+          "elderly"
+        ],
+        "example": "The evicted Spanish octogenarian, who became the heart of housing protests, has died.",
+        "source": "The Hindu",
+        "headline": "Evicted Spanish octogenarian Maricarmen Abascal, heart of Spain's housing protests, has died"
+      },
+      {
+        "word": "Perpetrator",
+        "pos": "noun",
+        "meaning": "a person who carries out a harmful, illegal, or immoral act",
+        "synonyms": [
+          "culprit",
+          "offender",
+          "criminal"
+        ],
+        "example": "The country slammed remarks that failed to distinguish between the victim and the perpetrator.",
+        "source": "The Hindu",
+        "headline": "Unable to distinguish between victim and perpetrator: India slams OIC remarks at UN"
+      },
+      {
+        "word": "Oligarch",
+        "pos": "noun",
+        "meaning": "a very rich business leader with a great deal of political influence",
+        "synonyms": [
+          "magnate",
+          "tycoon",
+          "baron"
+        ],
+        "example": "The entrepreneur claimed that certain oligarchs are blocking the entry of his firm.",
+        "source": "Times of India",
+        "headline": "Some oligarchs blocking entry of Starlink in India: Elon Musk"
+      },
+      {
+        "word": "Misconduct",
+        "pos": "noun",
+        "meaning": "unacceptable or improper behavior, especially by a professional or student",
+        "synonyms": [
+          "malpractice",
+          "wrongdoing",
+          "misbehavior"
+        ],
+        "example": "The senate has temporarily halted new penalties for academic misconduct.",
+        "source": "Times of India",
+        "headline": "IIT-B puts on hold 2026 rules on tough penalties for cheating"
+      },
+      {
+        "word": "Afflict",
+        "pos": "verb",
+        "meaning": "to cause pain or suffering to; affect or trouble",
+        "synonyms": [
+          "trouble",
+          "burden",
+          "distress"
+        ],
+        "example": "The housing crisis is currently afflicting many citizens across the nation.",
+        "source": "Times of India",
+        "headline": "'Fight goes on’: 87-yr-old woman dies after becoming symbol of Spain housing crisis"
+      }
+    ]
+  },
+  {
     "date": "2026-10-07",
     "label": "7 October 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "Dilip Gavit's journey has been shaped by resilience, from a tribal hamlet to Commonwealth Games record.",
         "source": "Times of India",
         "headline": "Dilip Gavit's journey: From losing right arm to raising the tricolour on podiums"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-08",
-    "label": "8 September 2026",
-    "words": [
-      {
-        "word": "Civilisational",
-        "pos": "adjective",
-        "meaning": "Relating to the process of developing or being a part of a civilization.",
-        "synonyms": [
-          "cultural",
-          "societal",
-          "historical"
-        ],
-        "example": "Iran values its long-standing, civilisational ties with India.",
-        "source": "The Hindu",
-        "headline": "Iran values long-standing, civilisational ties with India: Foreign Ministry"
-      },
-      {
-        "word": "Escalates",
-        "pos": "verb",
-        "meaning": "To increase rapidly in intensity or magnitude.",
-        "synonyms": [
-          "intensify",
-          "worsen",
-          "mount"
-        ],
-        "example": "The row over the mosque demolition escalates, leading to detentions.",
-        "source": "The Hindu",
-        "headline": "Uttar Pradesh Congress president Ajay Rai, others detained as row over Saharanpur mosque demolition escalates"
-      },
-      {
-        "word": "Mitigation",
-        "pos": "noun",
-        "meaning": "The action of reducing the severity, seriousness, or painfulness of something.",
-        "synonyms": [
-          "alleviation",
-          "reduction",
-          "amelioration"
-        ],
-        "example": "The situation is a consequence of persistent failure in disaster mitigation strategies.",
-        "source": "The Hindu",
-        "headline": "Tejashwi writes to PM Modi, urges him to grant ₹5,000 crore for Bihar floods"
-      },
-      {
-        "word": "Leniency",
-        "pos": "noun",
-        "meaning": "The quality or state of being lenient; mercifulness.",
-        "synonyms": [
-          "clemency",
-          "mercy",
-          "forbearance"
-        ],
-        "example": "Authorities must show leniency while asking SC/ST members to prove caste.",
-        "source": "The Hindu",
-        "headline": "Authorities must show leniency while asking members of SC/ST communities to prove their caste status: Kerala High Court"
-      },
-      {
-        "word": "Derision",
-        "pos": "noun",
-        "meaning": "Contemptuous ridicule or mockery.",
-        "synonyms": [
-          "scorn",
-          "mockery",
-          "disdain"
-        ],
-        "example": "The court observed that the District Magistrate's conduct was worthy of derision.",
-        "source": "The Hindu",
-        "headline": "‘Conduct worthy of derision’: Allahabad HC pulls up District Magistrate over NSA detention of law student"
-      },
-      {
-        "word": "Vulnerable",
-        "pos": "adjective",
-        "meaning": "Exposed to the possibility of being attacked or harmed, either physically or emotionally.",
-        "synonyms": [
-          "susceptible",
-          "exposed",
-          "defenseless"
-        ],
-        "example": "Iran warns U.S. energy assets in the Gulf are vulnerable after clashes.",
-        "source": "The Hindu",
-        "headline": "Iran warns U.S. energy assets in Gulf are vulnerable after latest clashes"
-      },
-      {
-        "word": "Thuggish",
-        "pos": "adjective",
-        "meaning": "Characterized by violence or brutality; like a thug.",
-        "synonyms": [
-          "violent",
-          "brutal",
-          "rowdy"
-        ],
-        "example": "The Home Office spokesperson slammed the 'intimidating and thuggish behaviour' of protesters.",
-        "source": "The Hindu",
-        "headline": "U.K. government condemns protests against small boat arrivals"
-      },
-      {
-        "word": "Rattled",
-        "pos": "adjective",
-        "meaning": "Annoyed, worried, or frightened by something.",
-        "synonyms": [
-          "disturbed",
-          "unnerved",
-          "agitated"
-        ],
-        "example": "EU seeks to reassure a Trump-rattled Greenland with a new partnership.",
-        "source": "The Hindu",
-        "headline": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment"
-      },
-      {
-        "word": "Vociferous",
-        "pos": "adjective",
-        "meaning": "(Especially of a person or speech) vehement or clamorous.",
-        "synonyms": [
-          "outspoken",
-          "loud",
-          "vehement"
-        ],
-        "example": "The protestors were vociferous in their demands for job regularisation.",
-        "source": "The Hindu",
-        "headline": "77 days and counting: Haryana guest teachers intensify agitation seeking job regularisation"
-      },
-      {
-        "word": "Decomposed",
-        "pos": "adjective",
-        "meaning": "(Of organic matter) having rotted or decayed.",
-        "synonyms": [
-          "decayed",
-          "putrefied",
-          "rotten"
-        ],
-        "example": "The partially decomposed body was recovered from an apartment.",
-        "source": "The Hindu",
-        "headline": "Assam woman’s severed head found in fridge"
       }
     ]
   }
