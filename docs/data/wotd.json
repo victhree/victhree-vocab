@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-10-09",
+    "label": "9 October 2026",
+    "words": [
+      {
+        "word": "Arduous",
+        "pos": "adjective",
+        "meaning": "involving or requiring strenuous effort; difficult and tiring",
+        "synonyms": [
+          "onerous",
+          "laborious",
+          "grueling"
+        ],
+        "example": "The children had to endure an arduous commute to school every day due to the broken infrastructure.",
+        "source": "The Hindu",
+        "headline": "Crawl, stop, repeat: The rough road to school in Bengaluru"
+      },
+      {
+        "word": "Evoke",
+        "pos": "verb",
+        "meaning": "to bring or recall a feeling, memory, or image to the conscious mind",
+        "synonyms": [
+          "elicit",
+          "induce",
+          "provoke"
+        ],
+        "example": "The political strike evoked a mixed response from the local business community.",
+        "source": "The Hindu",
+        "headline": "Odisha bandh by INDIA Bloc evokes mixed response"
+      },
+      {
+        "word": "Bust",
+        "pos": "verb",
+        "meaning": "to break, smash, or successfully shut down an illegal operation",
+        "synonyms": [
+          "dismantle",
+          "intercept",
+          "raid"
+        ],
+        "example": "The federal agency managed to bust a major recruitment racket operating in the banking sector.",
+        "source": "The Hindu",
+        "headline": "CBI busts banking recruitment racket, arrests four accused"
+      },
+      {
+        "word": "Rampant",
+        "pos": "adjective",
+        "meaning": "flourishing or spreading unchecked, especially something unwelcome or unpleasant",
+        "synonyms": [
+          "uncontrolled",
+          "rife",
+          "widespread"
+        ],
+        "example": "The opposition leader criticized the administration for rampant demolitions in the historic city.",
+        "source": "The Hindu",
+        "headline": "Akhilesh dares CM Yogi to contest from Ayodhya in assembly election"
+      },
+      {
+        "word": "Succumb",
+        "pos": "verb",
+        "meaning": "to die from the effect of a disease or injury, or to fail to resist pressure",
+        "synonyms": [
+          "yield",
+          "surrender",
+          "expire"
+        ],
+        "example": "The legendary actor succumbed to cardiac arrest at his residence.",
+        "source": "Times of India",
+        "headline": "Nana Patekar cremated with full state honours, fans bid tearful farewell"
+      },
+      {
+        "word": "Eclipse",
+        "pos": "verb",
+        "meaning": "to surpass, outshine, or obscure the achievements of another",
+        "synonyms": [
+          "overshadow",
+          "outstrip",
+          "transcend"
+        ],
+        "example": "The young batsman is on the verge of a milestone that could eclipse the previous record.",
+        "source": "Times of India",
+        "headline": "Abhishek Sharma on the cusp of breaking Suryakumar Yadav’s unique T20I record"
+      },
+      {
+        "word": "Forge",
+        "pos": "verb",
+        "meaning": "to produce a copy or imitation of a document, signature, or work of art for the purpose of deception",
+        "synonyms": [
+          "counterfeit",
+          "falsify",
+          "fabricate"
+        ],
+        "example": "A police complaint was lodged against suspects who attempted to forge official court proceedings.",
+        "source": "The Hindu",
+        "headline": "Madras High Court Registry lodges police complaint for forging its proceedings to get Bangladesh nationals deported"
+      },
+      {
+        "word": "Anxiety",
+        "pos": "noun",
+        "meaning": "a feeling of worry, nervousness, or unease about something with an uncertain outcome",
+        "synonyms": [
+          "apprehension",
+          "unease",
+          "consternation"
+        ],
+        "example": "Rising industrial exports from rival nations have caused economic anxiety across the trading bloc.",
+        "source": "The Hindu",
+        "headline": "EU sends envoy to Beijing as rising exports from China raise economic anxiety"
+      },
+      {
+        "word": "Anchored",
+        "pos": "adjective",
+        "meaning": "firmly secured, based, or established",
+        "synonyms": [
+          "grounded",
+          "rooted",
+          "moored"
+        ],
+        "example": "The bilateral partnership remains anchored in mutual respect and shared democratic values.",
+        "source": "The Hindu",
+        "headline": "India-Cote d’Ivoire partnership anchored in mutual respect: Jaishankar"
+      },
+      {
+        "word": "Detain",
+        "pos": "verb",
+        "meaning": "to keep someone in official custody, especially for questioning or as a preventive measure",
+        "synonyms": [
+          "apprehend",
+          "confine",
+          "intern"
+        ],
+        "example": "The local authorities decided to detain several activists ahead of the scheduled protest.",
+        "source": "The Hindu",
+        "headline": "CJP, Left groups allege supporters detained from across the country, ahead of October 10 protest"
+      }
+    ]
+  },
+  {
     "date": "2026-10-08",
     "label": "8 October 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "The attack was linked to Al-Qaeda affiliates, indicating serious terrorist intentions.",
         "source": "Hindustan Times",
         "headline": "Red Fort bomber Umar Un Nabi used shoe-triggered IED: NIA probe rules out accidental explosion"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-09",
-    "label": "9 September 2026",
-    "words": [
-      {
-        "word": "Conclave",
-        "pos": "noun",
-        "meaning": "A private meeting or assembly, especially one of cardinals for the election of a pope.",
-        "synonyms": [
-          "gathering",
-          "assembly",
-          "conference"
-        ],
-        "example": "VIT Chennai, The Hindu will hold a conclave on the future of biotechnology on Sept. 11.",
-        "source": "The Hindu",
-        "headline": "VIT Chennai, The Hindu to hold conclave on the future of biotechnology on Sept. 11"
-      },
-      {
-        "word": "Sustainable",
-        "pos": "adjective",
-        "meaning": "Able to be maintained at a certain rate or level; able to be upheld or defended.",
-        "synonyms": [
-          "viable",
-          "tenable",
-          "enduring"
-        ],
-        "example": "A sustainable political process cannot be built by excluding genuine voices.",
-        "source": "The Hindu",
-        "headline": "Revisit policy of banning social, political groups in J&K: Mirwaiz Umar Farooq"
-      },
-      {
-        "word": "Archival",
-        "pos": "adjective",
-        "meaning": "Relating to or constituting archives; preserved in archives.",
-        "synonyms": [
-          "historic",
-          "documentary",
-          "record-keeping"
-        ],
-        "example": "NC reclaims Sheikh Abdullah’s political legacy through archival videos.",
-        "source": "The Hindu",
-        "headline": "On Sheikh Abdullah’s 44th death anniversary, NC reclaims his political legacy through archival videos"
-      },
-      {
-        "word": "Adequate",
-        "pos": "adjective",
-        "meaning": "Satisfactory or acceptable in quality or quantity.",
-        "synonyms": [
-          "sufficient",
-          "ample",
-          "suitable"
-        ],
-        "example": "Odisha’s rural work does not have adequate photographic evidence.",
-        "source": "The Hindu",
-        "headline": "Odisha’s rural work does not have adequate photographic evidence, says a draft audit report"
-      },
-      {
-        "word": "Deficit",
-        "pos": "noun",
-        "meaning": "The amount by which something, especially a sum of money, is too small.",
-        "synonyms": [
-          "shortage",
-          "shortfall",
-          "lack"
-        ],
-        "example": "Andhra Pradesh is 59% short of normal rain this year, with every district in deficit.",
-        "source": "The Hindu",
-        "headline": "Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit"
-      },
-      {
-        "word": "Enormous",
-        "pos": "adjective",
-        "meaning": "Very large in size, quantity, or extent.",
-        "synonyms": [
-          "immense",
-          "gigantic",
-          "colossal"
-        ],
-        "example": "Mineral-rich States stand to lose enormous revenues with Centre preventing the recovery of uncollected taxes.",
-        "source": "The Hindu",
-        "headline": "INDIA bloc parties announce Odisha Assembly ‘gherao’ on Sept. 29 over new mining law"
-      },
-      {
-        "word": "Verbatim",
-        "pos": "adverb",
-        "meaning": "In exactly the same words as were originally used.",
-        "synonyms": [
-          "word-for-word",
-          "exactly",
-          "literally"
-        ],
-        "example": "The report quoted the minister verbatim.",
-        "source": "The Hindu",
-        "headline": "Monthly assistance for ex-servicemen, widows to be raised to ₹6,000, says Minister"
-      },
-      {
-        "word": "Torrential",
-        "pos": "adjective",
-        "meaning": "Falling rapidly and in copious quantities (of rain).",
-        "synonyms": [
-          "heavy",
-          "downpouring",
-          "driving"
-        ],
-        "example": "The landslides followed days of torrential rains brought by Saudel.",
-        "source": "The Hindu",
-        "headline": "Landslides in China kill 13, with three missing: state media"
-      },
-      {
-        "word": "Culminated",
-        "pos": "verb",
-        "meaning": "Reach a climax or point of highest development.",
-        "synonyms": [
-          "climaxed",
-          "peaked",
-          "concluded"
-        ],
-        "example": "Coming from a botched AI launch that culminated in a $250 million class-action settlement.",
-        "source": "The Hindu",
-        "headline": "How John Ternus’s era will shape Apple"
-      },
-      {
-        "word": "Resilience",
-        "pos": "noun",
-        "meaning": "The capacity to recover quickly from difficulties; toughness.",
-        "synonyms": [
-          "fortitude",
-          "stamina",
-          "adaptability"
-        ],
-        "example": "Dilip Gavit's journey has been shaped by resilience, from a tribal hamlet to Commonwealth Games record.",
-        "source": "Times of India",
-        "headline": "Dilip Gavit's journey: From losing right arm to raising the tricolour on podiums"
       }
     ]
   }
