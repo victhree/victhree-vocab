@@ -1,5 +1,141 @@
 [
   {
+    "date": "2026-10-10",
+    "label": "10 October 2026",
+    "words": [
+      {
+        "word": "Defection",
+        "pos": "noun",
+        "meaning": "The desertion of one's country, party, or cause in favor of an opposing one",
+        "synonyms": [
+          "desertion",
+          "apostasy",
+          "alienation"
+        ],
+        "example": "The defection of key legislators significantly weakened the opposition coalition.",
+        "source": "The Hindu",
+        "headline": "DMK retains much of its vote bank, reinforces position as the principal rival of TVK"
+      },
+      {
+        "word": "Erstwhile",
+        "pos": "adjective",
+        "meaning": "Former or belonging to an earlier time",
+        "synonyms": [
+          "quondam",
+          "bygone",
+          "previous"
+        ],
+        "example": "The political party had to navigate the shift of its erstwhile allies to the ruling bloc.",
+        "source": "The Hindu",
+        "headline": "DMK retains much of its vote bank, reinforces position as the principal rival of TVK"
+      },
+      {
+        "word": "Abstain",
+        "pos": "verb",
+        "meaning": "To choose deliberately not to do or participate in something",
+        "synonyms": [
+          "forbear",
+          "refrain",
+          "eschew"
+        ],
+        "example": "The lawyers resolved to abstain from judicial proceedings until their demands were met.",
+        "source": "The Hindu",
+        "headline": "Court boycott invites contempt notices for 26 lawyers in Meghalaya"
+      },
+      {
+        "word": "Acquit",
+        "pos": "verb",
+        "meaning": "To free someone from a criminal charge by a verdict of not guilty",
+        "synonyms": [
+          "exonerate",
+          "absolve",
+          "vindicate"
+        ],
+        "example": "The higher court raised serious questions after the suspect was acquitted of all charges.",
+        "source": "The Hindu",
+        "headline": "SC criticises Patna HC ruling that removing salwar does not constitute rape attempt"
+      },
+      {
+        "word": "Impasse",
+        "pos": "noun",
+        "meaning": "A situation in which no progress seems possible, especially because of a disagreement",
+        "synonyms": [
+          "stalemate",
+          "deadlock",
+          "standstill"
+        ],
+        "example": "Diplomatic negotiations reached a prolonged impasse over territorial boundaries.",
+        "source": "The Hindu",
+        "headline": "Talks with Iran can only succeed without threats, President says"
+      },
+      {
+        "word": "Extradition",
+        "pos": "noun",
+        "meaning": "The formal surrender of an alleged criminal to another state or nation for trial",
+        "synonyms": [
+          "surrender",
+          "deportation",
+          "banishment"
+        ],
+        "example": "The government condemned the unlawful extradition request directed at international judges.",
+        "source": "The Hindu",
+        "headline": "Japan protests Russia’s extradition requests for ICC president Tomoko Akane and eight other court staff"
+      },
+      {
+        "word": "Indentured",
+        "pos": "adjective",
+        "meaning": "Bound by a legal contract to work for another person for a specific period",
+        "synonyms": [
+          "bonded",
+          "apprenticed",
+          "contracted"
+        ],
+        "example": "Critics denounced labor arrangements that effectively reduced workers to indentured status.",
+        "source": "The Hindu",
+        "headline": "Government slams Vance’s remarks on Indian IT professionals as ‘deeply offensive’"
+      },
+      {
+        "word": "Depleting",
+        "pos": "verb",
+        "meaning": "Diminishing or exhausting the supply or resources of something",
+        "synonyms": [
+          "draining",
+          "exhausting",
+          "sapping"
+        ],
+        "example": "Stranded vessels faced severe distress due to rapidly depleting fuel reserves.",
+        "source": "The Hindu",
+        "headline": "Sri Lanka says no immediate plan to help Iranian ships near its waters with depleting food, fuel"
+      },
+      {
+        "word": "Dilapidated",
+        "pos": "adjective",
+        "meaning": "In a state of disrepair or ruin as a result of age or neglect",
+        "synonyms": [
+          "ramshackle",
+          "decrepit",
+          "run-down"
+        ],
+        "example": "Students took to the streets to protest against poorly maintained, dilapidated classrooms.",
+        "source": "The Hindu",
+        "headline": "France students plan fresh protests as UN flags concern over violence"
+      },
+      {
+        "word": "Illustrious",
+        "pos": "adjective",
+        "meaning": "Well known, respected, and admired for past achievements",
+        "synonyms": [
+          "distinguished",
+          "renowned",
+          "eminent"
+        ],
+        "example": "The jurist had an illustrious career spanning several decades in international law.",
+        "source": "The Hindu",
+        "headline": "Navi Pillay | Enabler of justice"
+      }
+    ]
+  },
+  {
     "date": "2026-10-09",
     "label": "9 October 2026",
     "words": [
@@ -3939,142 +4075,6 @@
         "example": "UN chief to stress multipolarity and UNSC reforms at BRICS Summit in India.",
         "source": "The Hindu",
         "headline": "UN chief to stress multipolarity, UNSC reforms at BRICS Summit in India"
-      }
-    ]
-  },
-  {
-    "date": "2026-09-10",
-    "label": "10 September 2026",
-    "words": [
-      {
-        "word": "Delineate",
-        "pos": "verb",
-        "meaning": "To describe or portray something precisely.",
-        "synonyms": [
-          "portray",
-          "depict",
-          "sketch"
-        ],
-        "example": "The philosopher's work aimed at delineating the impact of trauma on subsequent generations.",
-        "source": "The Hindu",
-        "headline": "Postmemory: delineating the impact of trauma on the generation-after"
-      },
-      {
-        "word": "Perfunctory",
-        "pos": "adjective",
-        "meaning": "(Of an action or gesture) carried out with a minimum of effort or reflection.",
-        "synonyms": [
-          "cursory",
-          "hasty",
-          "superficial"
-        ],
-        "example": "Unless reforms are meaningful, they will be regarded as marginal or perfunctory.",
-        "source": "The Hindu",
-        "headline": "UN reforms must be 'meaningful' to make it 'fit for future': UNGA President Khalilur Rahman"
-      },
-      {
-        "word": "Vociferous",
-        "pos": "adjective",
-        "meaning": "(Especially of a person or speech) vehement or clamorous.",
-        "synonyms": [
-          "vehement",
-          "strident",
-          "noisy"
-        ],
-        "example": "A vociferous protest erupted outside the embassy regarding the new policy.",
-        "source": "The Hindu",
-        "headline": "Britain must ‘stand against injustice’ over West Bank settlements, PM Burnham says"
-      },
-      {
-        "word": "Remand",
-        "pos": "verb",
-        "meaning": "To send an accused person back into custody to await trial.",
-        "synonyms": [
-          "detain",
-          "imprison",
-          "intern"
-        ],
-        "example": "The victim from Kerala had been remanded in Negombo prison.",
-        "source": "The Hindu",
-        "headline": "Indian killed in Sri Lanka prison riot buried under police protection"
-      },
-      {
-        "word": "Abyss",
-        "pos": "noun",
-        "meaning": "A deep or seemingly bottomless chasm.",
-        "synonyms": [
-          "chasm",
-          "gulf",
-          "void"
-        ],
-        "example": "The Iran war is plunging the region into an economic and security abyss.",
-        "source": "The Hindu",
-        "headline": "Dangerous phase: On the crisis in West Asia"
-      },
-      {
-        "word": "Ignite",
-        "pos": "verb",
-        "meaning": "To catch fire or cause to catch fire.",
-        "synonyms": [
-          "kindle",
-          "inflame",
-          "spark"
-        ],
-        "example": "Attacks by an Iranian-backed rebel group ignited fires at oil facilities.",
-        "source": "The Hindu",
-        "headline": "West Asia conflict highlights: Oil rises past $100 a barrel after the latest wave of West Asia attacks"
-      },
-      {
-        "word": "Scrutiny",
-        "pos": "noun",
-        "meaning": "Critical observation or examination.",
-        "synonyms": [
-          "inspection",
-          "analysis",
-          "surveillance"
-        ],
-        "example": "Technology companies could face greater scrutiny of visa sponsorship and recruitment.",
-        "source": "The Hindu",
-        "headline": "U.S. suspends Cognizant’s green-card filings; IT industry may face tougher scrutiny"
-      },
-      {
-        "word": "Precaroius",
-        "pos": "adjective",
-        "meaning": "Not securely held or in position; dangerously likely to fall or collapse.",
-        "synonyms": [
-          "unstable",
-          "insecure",
-          "hazardous"
-        ],
-        "example": "The building's foundation was in a precarious state after the earthquake.",
-        "source": "Hindustan Times",
-        "headline": "MCD surveys 1,252 PG buildings after Satya Niketan tragedy; 3 found 'dangerous', 9 need major repairs"
-      },
-      {
-        "word": "Gutted",
-        "pos": "adjective",
-        "meaning": "(Of a building) having had its interior completely destroyed by fire or removed.",
-        "synonyms": [
-          "destroyed",
-          "ruined",
-          "burnt-out"
-        ],
-        "example": "An £8.28 million Cotswolds mansion was gutted by fire months after sale.",
-        "source": "Times of India",
-        "headline": "£8.28M Cotswolds mansion gutted by fire months after sale"
-      },
-      {
-        "word": "Affiliate",
-        "pos": "noun",
-        "meaning": "A person or organization officially attached to a larger body.",
-        "synonyms": [
-          "associate",
-          "branch",
-          "subsidiary"
-        ],
-        "example": "The attack was linked to Al-Qaeda affiliates, indicating serious terrorist intentions.",
-        "source": "Hindustan Times",
-        "headline": "Red Fort bomber Umar Un Nabi used shoe-triggered IED: NIA probe rules out accidental explosion"
       }
     ]
   }
